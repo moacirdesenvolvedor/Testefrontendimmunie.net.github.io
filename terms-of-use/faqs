@@ -1,0 +1,1441 @@
+<!DOCTYPE html><html lang="en">
+<!-- Mirrored from immunie.net/terms-of-use/faqs by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Sep 2021 19:29:51 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head><meta charSet="utf-8"/><link rel="shortcut icon" href="../assets/favicon.svg"/><meta name="theme-color" content="#ffffff"/><meta name="description" content="International Vaccination Records authenticated using Blockchain Technology. Keep your record safe anytime, anywhere. Immunie is a privacy by design application, built to comply with the highest data privacy standards"/><meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/><meta property="og:locale" content="en_US"/><meta property="og:type" content="website"/><meta property="og:title" content="Immunie | Digital Vaccination Card"/><meta property="og:description" content="International Vaccination Records authenticated using Blockchain Technology. Keep your record safe anytime, anywhere. Immunie is a privacy by design application, built to comply with the highest data privacy standards"/><meta property="og:url" content="https://immunie.org/"/><link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&amp;display=swap" rel="stylesheet"/><script src="../../kit.fontawesome.com/4c273e6d43.js" crossorigin="anonymous"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-J1J5FK05T4"></script><script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+  
+              gtag('config', 'G-J1J5FK05T4');
+          </script><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><title>Immunie Digital Vaccination Card</title><meta name="next-head-count" content="3"/><link rel="preload" href="../_next/static/css/c6fd4f563a3cf2b1449e.css" as="style"/><link rel="stylesheet" href="../_next/static/css/c6fd4f563a3cf2b1449e.css" data-n-g=""/><noscript data-n-css=""></noscript><link rel="preload" href="../_next/static/chunks/main-005c099ebc6d73bffa35.js" as="script"/><link rel="preload" href="../_next/static/chunks/webpack-245f049e565ebf942e09.js" as="script"/><link rel="preload" href="../_next/static/chunks/framework.64c08973ae123710aa81.js" as="script"/><link rel="preload" href="../_next/static/chunks/commons.ddec478f82113778b077.js" as="script"/><link rel="preload" href="../_next/static/chunks/pages/_app-8f3a4cdfd6b03ceeb0b9.js" as="script"/><link rel="preload" href="../_next/static/chunks/a4c92b5b.014bebfe28d7f652e7fb.js" as="script"/><link rel="preload" href="../_next/static/chunks/11b04806d3909ce7987efbbeab9b411580946ab6.05063bfe093fef78d737.js" as="script"/><link rel="preload" href="../_next/static/chunks/b0787e176b509ab8a5b092dbcd4c2bdafe937fdc.42fe8430b9ca6fad0654.js" as="script"/><link rel="preload" href="../_next/static/chunks/f21c5035378776e5664e82d348c0227acd3df0b3.76b2b439016ecfd9a02a.js" as="script"/><link rel="preload" href="../_next/static/chunks/pages/terms-of-use/faqs-8ad8e66d281b4a21d43b.js" as="script"/><style id="jss-server-side">.MuiSvgIcon-root {
+  fill: currentColor;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  font-size: 1.5rem;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  flex-shrink: 0;
+  user-select: none;
+}
+.MuiSvgIcon-colorPrimary {
+  color: #3f51b5;
+}
+.MuiSvgIcon-colorSecondary {
+  color: #f9b934;
+}
+.MuiSvgIcon-colorAction {
+  color: rgba(0, 0, 0, 0.54);
+}
+.MuiSvgIcon-colorError {
+  color: #f44336;
+}
+.MuiSvgIcon-colorDisabled {
+  color: rgba(0, 0, 0, 0.26);
+}
+.MuiSvgIcon-fontSizeInherit {
+  font-size: inherit;
+}
+.MuiSvgIcon-fontSizeSmall {
+  font-size: 1.25rem;
+}
+.MuiSvgIcon-fontSizeLarge {
+  font-size: 2.1875rem;
+}
+.MuiPaper-root {
+  color: #2d3748;
+  transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  background-color: #fff;
+}
+.MuiPaper-rounded {
+  border-radius: 4px;
+}
+.MuiPaper-outlined {
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+.MuiPaper-elevation0 {
+  box-shadow: none;
+}
+.MuiPaper-elevation1 {
+  box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 1px 3px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation2 {
+  box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation3 {
+  box-shadow: 0px 3px 3px -2px rgba(0,0,0,0.2),0px 3px 4px 0px rgba(0,0,0,0.14),0px 1px 8px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation4 {
+  box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation5 {
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 5px 8px 0px rgba(0,0,0,0.14),0px 1px 14px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation6 {
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation7 {
+  box-shadow: 0px 4px 5px -2px rgba(0,0,0,0.2),0px 7px 10px 1px rgba(0,0,0,0.14),0px 2px 16px 1px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation8 {
+  box-shadow: 0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation9 {
+  box-shadow: 0px 5px 6px -3px rgba(0,0,0,0.2),0px 9px 12px 1px rgba(0,0,0,0.14),0px 3px 16px 2px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation10 {
+  box-shadow: 0px 6px 6px -3px rgba(0,0,0,0.2),0px 10px 14px 1px rgba(0,0,0,0.14),0px 4px 18px 3px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation11 {
+  box-shadow: 0px 6px 7px -4px rgba(0,0,0,0.2),0px 11px 15px 1px rgba(0,0,0,0.14),0px 4px 20px 3px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation12 {
+  box-shadow: 0px 7px 8px -4px rgba(0,0,0,0.2),0px 12px 17px 2px rgba(0,0,0,0.14),0px 5px 22px 4px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation13 {
+  box-shadow: 0px 7px 8px -4px rgba(0,0,0,0.2),0px 13px 19px 2px rgba(0,0,0,0.14),0px 5px 24px 4px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation14 {
+  box-shadow: 0px 7px 9px -4px rgba(0,0,0,0.2),0px 14px 21px 2px rgba(0,0,0,0.14),0px 5px 26px 4px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation15 {
+  box-shadow: 0px 8px 9px -5px rgba(0,0,0,0.2),0px 15px 22px 2px rgba(0,0,0,0.14),0px 6px 28px 5px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation16 {
+  box-shadow: 0px 8px 10px -5px rgba(0,0,0,0.2),0px 16px 24px 2px rgba(0,0,0,0.14),0px 6px 30px 5px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation17 {
+  box-shadow: 0px 8px 11px -5px rgba(0,0,0,0.2),0px 17px 26px 2px rgba(0,0,0,0.14),0px 6px 32px 5px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation18 {
+  box-shadow: 0px 9px 11px -5px rgba(0,0,0,0.2),0px 18px 28px 2px rgba(0,0,0,0.14),0px 7px 34px 6px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation19 {
+  box-shadow: 0px 9px 12px -6px rgba(0,0,0,0.2),0px 19px 29px 2px rgba(0,0,0,0.14),0px 7px 36px 6px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation20 {
+  box-shadow: 0px 10px 13px -6px rgba(0,0,0,0.2),0px 20px 31px 3px rgba(0,0,0,0.14),0px 8px 38px 7px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation21 {
+  box-shadow: 0px 10px 13px -6px rgba(0,0,0,0.2),0px 21px 33px 3px rgba(0,0,0,0.14),0px 8px 40px 7px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation22 {
+  box-shadow: 0px 10px 14px -6px rgba(0,0,0,0.2),0px 22px 35px 3px rgba(0,0,0,0.14),0px 8px 42px 7px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation23 {
+  box-shadow: 0px 11px 14px -7px rgba(0,0,0,0.2),0px 23px 36px 3px rgba(0,0,0,0.14),0px 9px 44px 8px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation24 {
+  box-shadow: 0px 11px 15px -7px rgba(0,0,0,0.2),0px 24px 38px 3px rgba(0,0,0,0.14),0px 9px 46px 8px rgba(0,0,0,0.12);
+}
+.MuiButtonBase-root {
+  color: inherit;
+  border: 0;
+  cursor: pointer;
+  margin: 0;
+  display: inline-flex;
+  outline: 0;
+  padding: 0;
+  position: relative;
+  align-items: center;
+  user-select: none;
+  border-radius: 0;
+  vertical-align: middle;
+  -moz-appearance: none;
+  justify-content: center;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-appearance: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.MuiButtonBase-root::-moz-focus-inner {
+  border-style: none;
+}
+.MuiButtonBase-root.Mui-disabled {
+  cursor: default;
+  pointer-events: none;
+}
+@media print {
+  .MuiButtonBase-root {
+    color-adjust: exact;
+  }
+}
+  .MuiIconButton-root {
+    flex: 0 0 auto;
+    color: rgba(0, 0, 0, 0.54);
+    padding: 12px;
+    overflow: visible;
+    font-size: 1.5rem;
+    text-align: center;
+    transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    border-radius: 50%;
+  }
+  .MuiIconButton-root:hover {
+    background-color: rgba(0, 0, 0, 0.04);
+  }
+  .MuiIconButton-root.Mui-disabled {
+    color: rgba(0, 0, 0, 0.26);
+    background-color: transparent;
+  }
+@media (hover: none) {
+  .MuiIconButton-root:hover {
+    background-color: transparent;
+  }
+}
+  .MuiIconButton-edgeStart {
+    margin-left: -12px;
+  }
+  .MuiIconButton-sizeSmall.MuiIconButton-edgeStart {
+    margin-left: -3px;
+  }
+  .MuiIconButton-edgeEnd {
+    margin-right: -12px;
+  }
+  .MuiIconButton-sizeSmall.MuiIconButton-edgeEnd {
+    margin-right: -3px;
+  }
+  .MuiIconButton-colorInherit {
+    color: inherit;
+  }
+  .MuiIconButton-colorPrimary {
+    color: #3f51b5;
+  }
+  .MuiIconButton-colorPrimary:hover {
+    background-color: rgba(63, 81, 181, 0.04);
+  }
+@media (hover: none) {
+  .MuiIconButton-colorPrimary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiIconButton-colorSecondary {
+    color: #f9b934;
+  }
+  .MuiIconButton-colorSecondary:hover {
+    background-color: rgba(249, 185, 52, 0.04);
+  }
+@media (hover: none) {
+  .MuiIconButton-colorSecondary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiIconButton-sizeSmall {
+    padding: 3px;
+    font-size: 1.125rem;
+  }
+  .MuiIconButton-label {
+    width: 100%;
+    display: flex;
+    align-items: inherit;
+    justify-content: inherit;
+  }
+  .MuiTypography-root {
+    margin: 0;
+  }
+  .MuiTypography-body2 {
+    font-size: 0.875rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.43;
+  }
+  .MuiTypography-body1 {
+    font-size: 1rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.5;
+  }
+  .MuiTypography-caption {
+    font-size: 0.75rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.66;
+  }
+  .MuiTypography-button {
+    font-size: 0.875rem;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: 1.75;
+    text-transform: uppercase;
+  }
+  .MuiTypography-h1 {
+    font-size: 3.5rem;
+    font-family: Lato;
+    font-weight: 300;
+    line-height: 1.167;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h1 {
+    font-size: 4.7129rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h1 {
+    font-size: 5.3556rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h1 {
+    font-size: 5.9983rem;
+  }
+}
+  .MuiTypography-h2 {
+    font-size: 2.375rem;
+    font-family: Lato;
+    font-weight: 300;
+    line-height: 1.2;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h2 {
+    font-size: 2.9167rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h2 {
+    font-size: 3.3333rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h2 {
+    font-size: 3.75rem;
+  }
+}
+  .MuiTypography-h3 {
+    font-size: 2rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.167;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h3 {
+    font-size: 2.5707rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h3 {
+    font-size: 2.7849rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h3 {
+    font-size: 2.9991rem;
+  }
+}
+  .MuiTypography-h4 {
+    font-size: 1.5625rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.235;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h4 {
+    font-size: 1.8219rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h4 {
+    font-size: 2.0243rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h4 {
+    font-size: 2.0243rem;
+  }
+}
+  .MuiTypography-h5 {
+    font-size: 1.25rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.334;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h5 {
+    font-size: 1.3118rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h5 {
+    font-size: 1.4993rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h5 {
+    font-size: 1.4993rem;
+  }
+}
+  .MuiTypography-h6 {
+    font-size: 1.125rem;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: 1.6;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h6 {
+    font-size: 1.25rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h6 {
+    font-size: 1.25rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h6 {
+    font-size: 1.25rem;
+  }
+}
+  .MuiTypography-subtitle1 {
+    font-size: 1rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.75;
+  }
+  .MuiTypography-subtitle2 {
+    font-size: 0.875rem;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: 1.57;
+  }
+  .MuiTypography-overline {
+    font-size: 0.75rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 2.66;
+    text-transform: uppercase;
+  }
+  .MuiTypography-srOnly {
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+  }
+  .MuiTypography-alignLeft {
+    text-align: left;
+  }
+  .MuiTypography-alignCenter {
+    text-align: center;
+  }
+  .MuiTypography-alignRight {
+    text-align: right;
+  }
+  .MuiTypography-alignJustify {
+    text-align: justify;
+  }
+  .MuiTypography-noWrap {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+  .MuiTypography-gutterBottom {
+    margin-bottom: 0.35em;
+  }
+  .MuiTypography-paragraph {
+    margin-bottom: 16px;
+  }
+  .MuiTypography-colorInherit {
+    color: inherit;
+  }
+  .MuiTypography-colorPrimary {
+    color: #3f51b5;
+  }
+  .MuiTypography-colorSecondary {
+    color: #f9b934;
+  }
+  .MuiTypography-colorTextPrimary {
+    color: #2d3748;
+  }
+  .MuiTypography-colorTextSecondary {
+    color: #718096;
+  }
+  .MuiTypography-colorError {
+    color: #f44336;
+  }
+  .MuiTypography-displayInline {
+    display: inline;
+  }
+  .MuiTypography-displayBlock {
+    display: block;
+  }
+html {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+strong, b {
+  font-weight: 700;
+}
+body {
+  color: #2d3748;
+  margin: 0;
+  font-size: 0.875rem;
+  font-family: Lato;
+  font-weight: 400;
+  line-height: 1.43;
+  background-color: #fff;
+}
+@media print {
+  body {
+    background-color: #fff;
+  }
+}
+body::backdrop {
+  background-color: #fff;
+}
+  .MuiDivider-root {
+    border: none;
+    height: 1px;
+    margin: 0;
+    flex-shrink: 0;
+    background-color: rgba(0, 0, 0, 0.12);
+  }
+  .MuiDivider-absolute {
+    left: 0;
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+  }
+  .MuiDivider-inset {
+    margin-left: 72px;
+  }
+  .MuiDivider-light {
+    background-color: rgba(0, 0, 0, 0.08);
+  }
+  .MuiDivider-middle {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+  .MuiDivider-vertical {
+    width: 1px;
+    height: 100%;
+  }
+  .MuiDivider-flexItem {
+    height: auto;
+    align-self: stretch;
+  }
+  .MuiDrawer-docked {
+    flex: 0 0 auto;
+  }
+  .MuiDrawer-paper {
+    top: 0;
+    flex: 1 0 auto;
+    height: 100%;
+    display: flex;
+    outline: 0;
+    z-index: 1100;
+    position: fixed;
+    overflow-y: auto;
+    flex-direction: column;
+    -webkit-overflow-scrolling: touch;
+  }
+  .MuiDrawer-paperAnchorLeft {
+    left: 0;
+    right: auto;
+  }
+  .MuiDrawer-paperAnchorRight {
+    left: auto;
+    right: 0;
+  }
+  .MuiDrawer-paperAnchorTop {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: auto;
+    height: auto;
+    max-height: 100%;
+  }
+  .MuiDrawer-paperAnchorBottom {
+    top: auto;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: auto;
+    max-height: 100%;
+  }
+  .MuiDrawer-paperAnchorDockedLeft {
+    border-right: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .MuiDrawer-paperAnchorDockedTop {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .MuiDrawer-paperAnchorDockedRight {
+    border-left: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .MuiDrawer-paperAnchorDockedBottom {
+    border-top: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .MuiGrid-container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+  }
+  .MuiGrid-item {
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .MuiGrid-zeroMinWidth {
+    min-width: 0;
+  }
+  .MuiGrid-direction-xs-column {
+    flex-direction: column;
+  }
+  .MuiGrid-direction-xs-column-reverse {
+    flex-direction: column-reverse;
+  }
+  .MuiGrid-direction-xs-row-reverse {
+    flex-direction: row-reverse;
+  }
+  .MuiGrid-wrap-xs-nowrap {
+    flex-wrap: nowrap;
+  }
+  .MuiGrid-wrap-xs-wrap-reverse {
+    flex-wrap: wrap-reverse;
+  }
+  .MuiGrid-align-items-xs-center {
+    align-items: center;
+  }
+  .MuiGrid-align-items-xs-flex-start {
+    align-items: flex-start;
+  }
+  .MuiGrid-align-items-xs-flex-end {
+    align-items: flex-end;
+  }
+  .MuiGrid-align-items-xs-baseline {
+    align-items: baseline;
+  }
+  .MuiGrid-align-content-xs-center {
+    align-content: center;
+  }
+  .MuiGrid-align-content-xs-flex-start {
+    align-content: flex-start;
+  }
+  .MuiGrid-align-content-xs-flex-end {
+    align-content: flex-end;
+  }
+  .MuiGrid-align-content-xs-space-between {
+    align-content: space-between;
+  }
+  .MuiGrid-align-content-xs-space-around {
+    align-content: space-around;
+  }
+  .MuiGrid-justify-xs-center {
+    justify-content: center;
+  }
+  .MuiGrid-justify-xs-flex-end {
+    justify-content: flex-end;
+  }
+  .MuiGrid-justify-xs-space-between {
+    justify-content: space-between;
+  }
+  .MuiGrid-justify-xs-space-around {
+    justify-content: space-around;
+  }
+  .MuiGrid-justify-xs-space-evenly {
+    justify-content: space-evenly;
+  }
+  .MuiGrid-spacing-xs-1 {
+    width: calc(100% + 8px);
+    margin: -4px;
+  }
+  .MuiGrid-spacing-xs-1 > .MuiGrid-item {
+    padding: 4px;
+  }
+  .MuiGrid-spacing-xs-2 {
+    width: calc(100% + 16px);
+    margin: -8px;
+  }
+  .MuiGrid-spacing-xs-2 > .MuiGrid-item {
+    padding: 8px;
+  }
+  .MuiGrid-spacing-xs-3 {
+    width: calc(100% + 24px);
+    margin: -12px;
+  }
+  .MuiGrid-spacing-xs-3 > .MuiGrid-item {
+    padding: 12px;
+  }
+  .MuiGrid-spacing-xs-4 {
+    width: calc(100% + 32px);
+    margin: -16px;
+  }
+  .MuiGrid-spacing-xs-4 > .MuiGrid-item {
+    padding: 16px;
+  }
+  .MuiGrid-spacing-xs-5 {
+    width: calc(100% + 40px);
+    margin: -20px;
+  }
+  .MuiGrid-spacing-xs-5 > .MuiGrid-item {
+    padding: 20px;
+  }
+  .MuiGrid-spacing-xs-6 {
+    width: calc(100% + 48px);
+    margin: -24px;
+  }
+  .MuiGrid-spacing-xs-6 > .MuiGrid-item {
+    padding: 24px;
+  }
+  .MuiGrid-spacing-xs-7 {
+    width: calc(100% + 56px);
+    margin: -28px;
+  }
+  .MuiGrid-spacing-xs-7 > .MuiGrid-item {
+    padding: 28px;
+  }
+  .MuiGrid-spacing-xs-8 {
+    width: calc(100% + 64px);
+    margin: -32px;
+  }
+  .MuiGrid-spacing-xs-8 > .MuiGrid-item {
+    padding: 32px;
+  }
+  .MuiGrid-spacing-xs-9 {
+    width: calc(100% + 72px);
+    margin: -36px;
+  }
+  .MuiGrid-spacing-xs-9 > .MuiGrid-item {
+    padding: 36px;
+  }
+  .MuiGrid-spacing-xs-10 {
+    width: calc(100% + 80px);
+    margin: -40px;
+  }
+  .MuiGrid-spacing-xs-10 > .MuiGrid-item {
+    padding: 40px;
+  }
+  .MuiGrid-grid-xs-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-xs-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-xs-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-xs-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-xs-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-xs-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-xs-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-xs-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-xs-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-xs-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-xs-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-xs-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-xs-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-xs-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+@media (min-width:600px) {
+  .MuiGrid-grid-sm-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-sm-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-sm-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-sm-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-sm-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-sm-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-sm-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-sm-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-sm-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-sm-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-sm-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-sm-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-sm-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-sm-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:960px) {
+  .MuiGrid-grid-md-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-md-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-md-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-md-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-md-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-md-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-md-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-md-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-md-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-md-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-md-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-md-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-md-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-md-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:1280px) {
+  .MuiGrid-grid-lg-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-lg-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-lg-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-lg-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-lg-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-lg-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-lg-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-lg-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-lg-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-lg-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-lg-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-lg-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-lg-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-lg-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:1920px) {
+  .MuiGrid-grid-xl-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-xl-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-xl-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-xl-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-xl-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-xl-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-xl-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-xl-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-xl-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-xl-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-xl-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-xl-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-xl-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-xl-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+  .MuiList-root {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    list-style: none;
+  }
+  .MuiList-padding {
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+  .MuiList-subheader {
+    padding-top: 0;
+  }
+  .MuiListItem-root {
+    width: 100%;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    text-align: left;
+    align-items: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    justify-content: flex-start;
+    text-decoration: none;
+  }
+  .MuiListItem-root.Mui-focusVisible {
+    background-color: rgba(0, 0, 0, 0.08);
+  }
+  .MuiListItem-root.Mui-selected, .MuiListItem-root.Mui-selected:hover {
+    background-color: rgba(0, 0, 0, 0.08);
+  }
+  .MuiListItem-root.Mui-disabled {
+    opacity: 0.5;
+  }
+  .MuiListItem-container {
+    position: relative;
+  }
+  .MuiListItem-dense {
+    padding-top: 4px;
+    padding-bottom: 4px;
+  }
+  .MuiListItem-alignItemsFlexStart {
+    align-items: flex-start;
+  }
+  .MuiListItem-divider {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+    background-clip: padding-box;
+  }
+  .MuiListItem-gutters {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .MuiListItem-button {
+    transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  }
+  .MuiListItem-button:hover {
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.04);
+  }
+@media (hover: none) {
+  .MuiListItem-button:hover {
+    background-color: transparent;
+  }
+}
+  .MuiListItem-secondaryAction {
+    padding-right: 48px;
+  }
+  .MuiToolbar-root {
+    display: flex;
+    position: relative;
+    align-items: center;
+  }
+  .MuiToolbar-gutters {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+@media (min-width:600px) {
+  .MuiToolbar-gutters {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+  .MuiToolbar-regular {
+    min-height: 56px;
+  }
+@media (min-width:0px) and (orientation: landscape) {
+  .MuiToolbar-regular {
+    min-height: 48px;
+  }
+}
+@media (min-width:600px) {
+  .MuiToolbar-regular {
+    min-height: 64px;
+  }
+}
+  .MuiToolbar-dense {
+    min-height: 48px;
+  }
+  .jss37 {
+    padding: 48px 0px;
+    background: #1b1642;
+  }
+@media (min-width:960px) {
+  .jss37 {
+    padding: 96px 0px;
+  }
+}
+  .jss38 {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0px 16px;
+    max-width: 1236px;
+  }
+@media (min-width:600px) {
+  .jss38 {
+    padding: 0px 64px;
+  }
+}
+  .jss39 {
+    width: fit-content;
+    margin: 0 auto;
+    padding: 12px;
+  }
+  .jss40 {
+    padding-top: 0;
+  }
+  .jss41 {
+    color: rgb(17, 82, 147);
+    margin-bottom: 8px;
+    text-transform: uppercase;
+  }
+  .jss42 {
+    color: rgba(255,255,255,.6);
+    padding: 0;
+    margin-right: 8px;
+  }
+  .jss42:hover {
+    background: transparent;
+  }
+  .jss42:last-child {
+    margin-right: 0;
+  }
+  .jss43 {
+    font-size: 24px;
+  }
+  .jss44 {
+    padding: 0 !important;
+  }
+  .jss45 {
+    display: flex;
+    margin-left: auto;
+    justify-content: space-evenly !important;
+  }
+  .jss46 {
+    margin: 16px;
+  }
+  .jss46:last-child {
+    margin-bottom: 0;
+  }
+  .jss47 {
+    padding-top: 0;
+    padding-bottom: 4px;
+  }
+  .jss47:last-child {
+    padding-bottom: 0;
+  }
+  .jss48 {
+    color: white;
+    text-transform: uppercase;
+  }
+  .jss49 {
+    color: white;
+  }
+  .jss50 {
+    width: 100%;
+  }
+  .jss51 {
+    color: rgba(255,255,255,.6);
+  }
+  .jss33 {
+    margin-bottom: 24px;
+  }
+@media (min-width:960px) {
+  .jss33 {
+    margin-bottom: 32px;
+  }
+}
+  .jss34 {
+    margin-bottom: 0;
+  }
+  .jss35 {
+    font-weight: bold;
+  }
+  .jss36 {
+    margin-left: 8px;
+  }
+  .jss36:first-child {
+    margin-left: 0;
+  }
+  .jss2 {
+    font-size: 1.8rem;
+    margin-top: -8px;
+    font-weight: bold;
+  }
+  .jss3 {
+    flex-grow: 1;
+  }
+  .jss4 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .jss5 {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0px 16px;
+    max-width: 1400px;
+  }
+  .jss6 {
+    padding: 0.4em;
+    text-transform: none;
+  }
+  .jss7 {
+    cursor: pointer;
+    font-weight: 300;
+  }
+  .jss7:hover {
+    color: rgb(17, 82, 147);
+  }
+  .jss8 {
+    color: #546e7a;
+    font-weight: 300;
+  }
+  .jss8:hover {
+    color: rgb(17, 82, 147);
+  }
+  .jss8:visited {
+    text-decoration: none;
+  }
+  .jss9 {
+    cursor: pointer;
+  }
+  .jss9:hover > .menu-item, .jss9:hover {
+    color: rgb(17, 82, 147);
+  }
+  .jss10> .menu-item {
+    color: rgb(17, 82, 147);
+  }
+  .jss11 {
+    flex: 0 0 auto;
+    white-space: nowrap;
+    margin-right: 16px;
+  }
+  .jss12 {
+    min-width: auto;
+  }
+  .jss13 {
+    border: 16px;
+    padding: 32px;
+    min-width: 350px;
+    box-shadow: 0 0.5rem 2rem 2px rgba(116, 123, 144, 0.09);
+    margin-top: 16px;
+  }
+  .jss14 {
+    padding: 0;
+  }
+  .jss14:hover {
+    background: transparent;
+  }
+  .jss15 {
+    color: rgb(17, 82, 147);
+    transform: rotate(180deg);
+  }
+  .jss16 {
+    width: 180px;
+    cursor: pointer;
+    height: 60px;
+    display: flex;
+    object-fit: cover;
+    align-items: center;
+    background-size: contain;
+    background-image: url('../static/images/logos/brand_with_name.svg');
+    background-repeat: no-repeat;
+  }
+@media (min-width:960px) {
+  .jss16 {
+    width: 180px;
+    height: 60px;
+  }
+}
+  .jss17 {
+    display: flex;
+    justify-content: space-between;
+  }
+  .jss18 {
+    margin-right: 40px;
+  }
+  .jss18:last-child {
+    margin-right: 0;
+  }
+  .jss19 {
+    padding-top: 0;
+  }
+  .jss20 {
+    text-transform: uppercase;
+  }
+  .jss21 {
+    display: flex;
+    align-items: center;
+  }
+  .jss22 {
+    width: 100%;
+    max-width: 325px;
+  }
+  .jss23 {
+    height: 100%;
+    padding: 8px;
+  }
+  .jss24 {
+    margin-bottom: 8px;
+  }
+  .jss1 {
+    height: 100%;
+  }
+  .jss29 {
+    width: 100%;
+    margin: 0 auto;
+    padding: 48px 16px;
+    max-width: 1236px;
+  }
+@media (min-width:600px) {
+  .jss29 {
+    padding: 64px 64px;
+  }
+}
+@media (min-width:960px) {
+  .jss29 {
+    padding: 96px 64px;
+  }
+}
+  .jss30 {
+    max-width: 100%;
+  }
+  .jss31 {
+    padding: 0;
+  }
+  .jss32 {
+    max-width: 800px;
+  }
+  .jss25 {
+    width: 100%;
+    height: 100%;
+  }
+  .jss25 .description-cta__button-group {
+    flex-wrap: nowrap;
+  }
+  .jss26 {
+    padding-top: 24px;
+  }
+@media (min-width:960px) {
+  .jss26 {
+    padding-top: 40px;
+  }
+}
+  .jss27 {
+    font-weight: bold;
+  }
+  .jss28 {
+    margin: 24px 0px;
+  }
+@media (min-width:960px) {
+  .jss28 {
+    margin: 40px 0px;
+  }
+}</style></head><body><div id="__next"><div class="MuiPaper-root MuiPaper-elevation0 MuiPaper-rounded"><div class="container"><div class="jss1"><div class="MuiToolbar-root MuiToolbar-regular jss5" i18n="[object Object]"><div class="jss16"></div><div class="jss3"></div></div><main><hr class="MuiDivider-root"/><div class="jss25"><section class="section jss29 jss26"><div class="MuiGrid-root description-cta MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"><div class="MuiGrid-root description-cta__wrapper MuiGrid-item"><h5 class="MuiTypography-root jss27 MuiTypography-h5 MuiTypography-colorTextPrimary MuiTypography-gutterBottom MuiTypography-alignLeft">Dúvidas Frequentes</h5><h6 class="MuiTypography-root description-cta__subtitle MuiTypography-subtitle1 MuiTypography-colorTextSecondary MuiTypography-alignLeft">PRIVACY_POLICY_PAGE_TXT_1</h6></div><div class="MuiGrid-root MuiGrid-item"><div class="MuiGrid-root description-cta__button-group MuiGrid-container MuiGrid-spacing-xs-1 MuiGrid-justify-xs-flex-end"><div class="MuiGrid-root description-cta__primary-button-wrapper MuiGrid-item"></div></div></div></div><hr class="MuiDivider-root jss28"/><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><div class="MuiGrid-root section-header jss33 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Quais os tipos de laudos de exame podem ser enviados para emissão do Passe Verde ?</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">De acordo com o Protocolo de Entrada em Noronha os viajantes podem enviar os seguintes laudos de exame para emissão de seu Passe Verde e acesso à Ilha: Para viajantes que não contraíram Covid deve ser apresentado o laudo de exame RT-PCR Negativo colhido 48 horas antes da viagem. Para os viajantes que já tiveram recuperação clínica de Covid podem ser apresentados exame RT-PCR positivo com mais de 20 dias e menos de 90 dias de realização, ou Sorologia quantitativa de IgG com menos de 90 dias de realização. Em todos os casos, os laudos devem ser arquivos digitais originais,recebidos do laboratório emissor, no formato pdf.</p></div></div><div class="MuiGrid-root section-header jss33 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">O que acontece após o upload dos documentos?</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Após o upload dos arquivos e recebimento dos mesmos pela nossa equipe o processo de análise se inicia. A qualidade dos arquivos enviados é verificada inicialmente, no caso de arquivos ilegíveis o usuário é contactado prontamente para que realize o reenvio das mesmas. De posse de arquivos legíveis nossa equipe de análise iniciará o processo de verificação que deve ser concluído num prazo médio de 6 a 24 horas. Se necessário o usuário pode ser contactado por email para outros esclarecimentos.</p></div></div><div class="MuiGrid-root section-header jss33 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Em quais situações pode ser necessário refazer o upload de documentos?</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">O reenvio pode ser necessário nos casos de arquivos pdf que não podem ser abertos, fotos selfie de baixa qualidade (ex: mal iluminadas) e engano na seleção de laudos de exame ou foto que não conferem com nome do usuário (por exemplo: enviado o exame ou foto de outro familiar).Também será necessário reenviar os arquivos caso o laudo em pdf não seja o arquivo original emitido pelo laboratório, não serão aceitos arquivos digitalizados (scaneados) ou fotografias de exames. Nestes casos o usuário será contactado para refazer o upload com urgência, para que o processo de análise possa ser concluído em tempo hábil.</p></div></div><div class="MuiGrid-root section-header jss33 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Como faço para refazer o upload dos documentos?</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Para refazer o upload das imagens o usuário deve acessar sua conta Passe Verde com as credenciais fornecidas no momento de criação de conta e realizar o processo de upload novamente. Em caso de dúvidas você pode seguir o passo a passo inicial ou contar com nosso suporte.</p></div></div><div class="MuiGrid-root section-header jss33 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Quais são os prazos de análise Passe Verde?</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Os prazos mínimos para conclusão da análise pela nossa equipe são; 6 horas para os laudos PCR negativo e 24 horas para Laudos de recuperação clínica  ( RT-PCR positivo ou Sorologia IgG ).</p></div></div><div class="MuiGrid-root section-header jss33 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">O que devo fazer no momento do embarque?</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft"> Para o embarque no dia de sua viagem basta apresentar o seu Passe Verde,  acessando sua conta em seu celular. Não é necessário levar laudos impressos. Você receberá um email informativo confirmando a emissão do seu passe verde, no mesmo, constarão todas as informações que você precisa para embarcar.</p></div></div><div class="MuiGrid-root section-header jss33 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">O que devo fazer se não houver conexão à internet no momento do embarque / check in?</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Recomendamos que o usuário salve a mensagem recebida quando da emissão com sucesso do Passe Verde. Este email contem o QR Code de seu Passe Verde que pode ser verificado mesmo se não houver conexão à internet. É importante que você se certifique que o seu programa de gerenciamento de emails baixe as imagens desta mensagem. Uma alternativa simples é fazer um printscreen da tela do Passe Verde emitido no seu smartphone, ele ficará salvo em fotos e nossa tecnologia permite a verificação offline ;)</p></div></div><div class="MuiGrid-root section-header jss33 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Em quais situações o Passe Verde não pode ser emitido?</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">O Passe Verde não poderá ser emitido quando as informações fornecidas pelo usuário não forem suficientes para a verificação do atendimento ao protocolo Covid de Noronha. Isso pode ocorrer em caso de inconsistências de informações que não forem devidamente esclarecidas pelo usuário tais como data de validade dos laudos incompatível com a data de embarque, ou clínicas que não podem ser verificadas por nenhum meio (telefone, email, internet…), ou até mesmo em caso de evidência de adulteração de documentos.</p></div></div><div class="MuiGrid-root section-header jss33 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">O que devo fazer se o Passe verde não puder ser emitido? Posso viajar se meu Passe verde não for emitido?</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Isso não deve ocorrer sem que você tenha sido contactado por email durante o processo de verificação, por esta razão pedimos para que fique atento à sua caixa de entrada e spam durante a análise. Caso, mesmo assim, não venha a ser possível emitir o seu Passe Verde, você será informado previamente. Nestes casos para prosseguir com sua viagem, você deve apresentar seus laudos impressos no momento do check-in no aeroporto para que a verificação seja feita presencialmente uma vez que a decisão sobre o ingresso à Ilha cabe às autoridades locais e equipes de operação em solo.</p></div></div><div class="MuiGrid-root section-header jss33 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Posso solicitar  reembolso se meu Passe Verde não puder ser emitido?</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">O valor pago pelo serviço Passe Verde é cobrado para o processamento da análise prévia dos laudos apresentados pelo usuário. Desta maneira você tem a comodidade da realização antecipada deste procedimento, ao invés da conferência no balcão do check-in. Os casos onde o Passe Verde não pode ser emitido (Certificado Não Emitido) só chegarão a este resultado após a realização de todo o processo de análise e verificação, durante o qual todos os procedimentos foram cumpridos e todos os esforços de esclarecimento e correções  para emissão terem sido realizadas. Portanto, uma vez que os serviços foram prestados, não caberá reembolso se o Passe Verde não puder ser emitido nesta situação.</p></div></div><div class="MuiGrid-root section-header jss33 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Como devo proceder se tiver adquirido o serviço Passe Verde para mais de um passageiro?</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Todos os dependentes relacionados durante o preenchimento do formulário de pagamento da TPA Online terão contas individuais do Passe Verde, ou seja: Se, por exemplo, um responsável efetuar o pagamento da TPA Online indicando o seu filho como dependente, será criada uma conta para cada um, porém todos os emails de comunicação serão encaminhados para o responsável. As credenciais de acesso para cada uma das contas é enviada no seu email de boas vindas. O responsável deve fazer o upload dos documentos na conta Passe verde de cada viajante e será emitido um Passe Verde para cada viajante individualmente. A foto selfie do viajante é solicitada exclusivamente para fins de identificação no momento do check-in, caso o usuário não deseje realizar o upload de foto de seu dependente menor de idade, pode simplesmente fazer o upload da sua própria fotografia como responsável no campo de upload de selfie para estes casos específicos. Isso não acarretará em prejuízos para análise deste Passe Verde ou na hora do embarque.</p></div></div><div class="MuiGrid-root section-header jss33 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Como posso entrar em contato em caso de dúvidas?</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft"> Nossa equipe de suporte pode ser contactada via Live Chat na aplicação Passe Verde | Immunie app.immunie.net de segunda a sexta das 6:00 as 18:00 hs, ou pelo telefone 0800 009 0033, das 07:00 às 17:00h, de segunda à sexta. Para casos urgentes, fora do horário de atendimento envie email para: passeverde.urgente@immunie.net</p></div></div><div class="MuiGrid-root section-header jss33 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Onde posso utilizar me Cartão Digital de Vacinação Immunie?</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Seu cartão de vacinaçao digital Immunie pode ser utilizado em qualquer lugar do mundo, da mesma maneira que você utiliza seu cartão de papel, agora com mais segurança e com a possibilidade de tradução automática para 12 idiomas.Seu cartão digital Immunie apresenta informações completas, com os dados de profissionais de saúde licenciados, incluindo o nome completo, número de registro e do lote da vacina.</p></div></div><div class="MuiGrid-root section-header jss33 jss34 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Qual a diferença do Cartão Digital de Vacinação para um cartão de papel?</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">O Cartão Digital de Vacinação apresenta informações mais completas e precisas do que as que você encontra normalmente um cartão de papel. Seu cartão de vacinaçao digital Immunie traz todas as informações e credenciais do profissional de saúde e da clínica onde você recebeu a vacina e também a data e hora automáticamente registradas via timestamp, um registro imutável da informação fornecida. Além disso, as informações são claras e padrônizadas, enquanto em cartões de papel é muito comum os registros serem feitos à mão, com caligrafia de difícil compreensão e carimbos pouco legíveis.</p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">E se eu decidir não continuar, o que acontece com meus dados?</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Se você decidir não continuar utilizando os serviços, Immunie vai guardar seus dados por um período de 1 ano após o final do seu último plano. Neste período, você pode continuar consultando seus registros e, ao final deste prazo, será enviado um email para você com todos os seus dados em pdf.</p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Vocês tem uma verão Android ou IOS?</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Trabalhamos com a tecnologia PWA (Progressive Web App) que permite que o seu aplicativo seja acessível em qualquer dispositivo, Android, IOS ou qualquer outro sistema operacional, com um browser e acesso à internet. Esta tecnologia é indicada para aplicações que são utilizadas menos de duas vezes por mês, como é o caso de cartões de vacinação. Desta maneira não ocupamos espaço na memória do seu telefone e seu sistema operacional não vai ficar sugerindo que apague o Immunie a cada limpeza ). No momento que você utilizar o Immunie pela primeira vez, o Google Chrome deve lhe sugerir automáticamente para salvar um atalho na tela do seu smartphone, basta aceitar para ter ele sempre à mão, em um toque, como qualquer outro App, sem ocupar memória ;)</p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Aonde é obrigatória a apresentação da Carteira de Vacinação no Ato da Matrícula?</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">O controle de vacinas, verificação de pendências e comunicação ao Conselho Tutelar e/ou Ministério Público é obrigação das escolas nos Estados da Bahia (Port. 01 SESAB/SEC 30/08/18), Ceará (Lei 16.929/19), Espirito Santo (Lei 10.913/18), Paraná (Lei 19.534/18), Pernambuco (Lei 13.770/09), Rio Grande do Sul (Lei 15.709/19), Santa Catarina (Lei 17.821/19), , São Paulo (Lei 17.252/20); e no Município do Rio de Janeiro (Lei 5.612/13). Na maior parte destes locais, esta obrigação se extende desde a creche até o final do Segundo Grau para alunos até os 18 anos de idade.</p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Quais Estados e Municípios tem Leis sobre Carteira Eletrônica de Vacinação?</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft"> A Carteira Eletrônica de Vacinação é lei nos Municípios de São Paulo, Osasco, Taubaté, São José dose Franco da Rocha/SP, Rio de Janeiro/RJ Goiânia/GO, Campo Grande/MS, Boa Vista/RR, Curitiba e Matinhos/PR, Manaus/AM, Porto Velho/RO, Bagé, Caxias e Passo Fundo/RS e Estado do Rio de Janeiro (Lei 8.487/19).</p></div></div></div></div></section></div></main><div i18n="[object Object]" class="jss37"><div class="jss38"><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-2"><ul class="MuiList-root jss39"><li class="MuiListItem-root jss40"><p class="MuiTypography-root jss49 MuiTypography-body1">Redes Sociais</p></li><li class="MuiListItem-root"><button class="MuiButtonBase-root MuiIconButton-root jss42" tabindex="0" type="button" aria-label="Facebook"><span class="MuiIconButton-label"><svg class="MuiSvgIcon-root jss43" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2m13 2h-2.5A3.5 3.5 0 0 0 12 8.5V11h-2v3h2v7h3v-7h3v-3h-3V9a1 1 0 0 1 1-1h2V5z"></path></svg></span></button><button class="MuiButtonBase-root MuiIconButton-root jss42" tabindex="0" type="button" aria-label="Instagram"><span class="MuiIconButton-label"><svg class="MuiSvgIcon-root jss43" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M7.8 2h8.4C19.4 2 22 4.6 22 7.8v8.4a5.8 5.8 0 0 1-5.8 5.8H7.8C4.6 22 2 19.4 2 16.2V7.8A5.8 5.8 0 0 1 7.8 2m-.2 2A3.6 3.6 0 0 0 4 7.6v8.8C4 18.39 5.61 20 7.6 20h8.8a3.6 3.6 0 0 0 3.6-3.6V7.6C20 5.61 18.39 4 16.4 4H7.6m9.65 1.5a1.25 1.25 0 0 1 1.25 1.25A1.25 1.25 0 0 1 17.25 8 1.25 1.25 0 0 1 16 6.75a1.25 1.25 0 0 1 1.25-1.25M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3z"></path></svg></span></button><button class="MuiButtonBase-root MuiIconButton-root jss42" tabindex="0" type="button" aria-label="Twitter"><span class="MuiIconButton-label"><svg class="MuiSvgIcon-root jss43" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M22.46 6c-.77.35-1.6.58-2.46.69.88-.53 1.56-1.37 1.88-2.38-.83.5-1.75.85-2.72 1.05C18.37 4.5 17.26 4 16 4c-2.35 0-4.27 1.92-4.27 4.29 0 .34.04.67.11.98C8.28 9.09 5.11 7.38 3 4.79c-.37.63-.58 1.37-.58 2.15 0 1.49.75 2.81 1.91 3.56-.71 0-1.37-.2-1.95-.5v.03c0 2.08 1.48 3.82 3.44 4.21a4.22 4.22 0 0 1-1.93.07 4.28 4.28 0 0 0 4 2.98 8.521 8.521 0 0 1-5.33 1.84c-.34 0-.68-.02-1.02-.06C3.44 20.29 5.7 21 8.12 21 16 21 20.33 14.46 20.33 8.79c0-.19 0-.37-.01-.56.84-.6 1.56-1.36 2.14-2.23z"></path></svg></span></button><button class="MuiButtonBase-root MuiIconButton-root jss42" tabindex="0" type="button" aria-label="Pinterest"><span class="MuiIconButton-label"><svg class="MuiSvgIcon-root jss43" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9.04 21.54c.96.29 1.93.46 2.96.46a10 10 0 0 0 10-10A10 10 0 0 0 12 2 10 10 0 0 0 2 12c0 4.25 2.67 7.9 6.44 9.34-.09-.78-.18-2.07 0-2.96l1.15-4.94s-.29-.58-.29-1.5c0-1.38.86-2.41 1.84-2.41.86 0 1.26.63 1.26 1.44 0 .86-.57 2.09-.86 3.27-.17.98.52 1.84 1.52 1.84 1.78 0 3.16-1.9 3.16-4.58 0-2.4-1.72-4.04-4.19-4.04-2.82 0-4.48 2.1-4.48 4.31 0 .86.28 1.73.74 2.3.09.06.09.14.06.29l-.29 1.09c0 .17-.11.23-.28.11-1.28-.56-2.02-2.38-2.02-3.85 0-3.16 2.24-6.03 6.56-6.03 3.44 0 6.12 2.47 6.12 5.75 0 3.44-2.13 6.2-5.18 6.2-.97 0-1.92-.52-2.26-1.13l-.67 2.37c-.23.86-.86 2.01-1.29 2.7v-.03z"></path></svg></span></button></li></ul></div><div class="MuiGrid-root jss44 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-10"><div class="MuiGrid-root MuiGrid-item"><div class="jss45"><div class="jss46"><ul class="MuiList-root jss46"><li class="MuiListItem-root jss47"><p class="MuiTypography-root jss48 MuiTypography-body2">Nossa empresa</p></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="../company/about">Sobre</a></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="../company/media-assets">Mídias</a></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="../company/contact">Contato</a></li></ul><ul class="MuiList-root jss46"><li class="MuiListItem-root jss47"><p class="MuiTypography-root jss48 MuiTypography-body2">Checkpoint</p></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="https://www.checkpoint.immunie.net/">Autenticação Blockchain </a></li></ul></div><div class="jss46"><ul class="MuiList-root jss46"><li class="MuiListItem-root jss47"><p class="MuiTypography-root jss48 MuiTypography-body2">Termos de Uso</p></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="privacy-policy">Política de Privacidade</a></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="terms-and-conditions">Termos e Condições</a></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="faqs">FAQs</a></li></ul></div><div class="jss46"><ul class="MuiList-root jss46"><li class="MuiListItem-root jss47"><p class="MuiTypography-root jss48 MuiTypography-body2">Produtos</p></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="../products/people">Pessoas</a></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="../products/health-care">Setor de Saúde</a></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="../products/labs">Laboratórios de Exames</a></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="../products/travel">Companhias Aéreas</a></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="../products/schools">Escolas</a></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="../products/managers">Governos e Grandes Eventos</a></li></ul></div></div></div></div></div></div></div></div></div></div></div><script id="__NEXT_DATA__" type="application/json">{"props":{"initialI18nStore":{"pt":{"faqsPage":{"USER_FAQ_TITLE":"Dúvidas Frequentes","PASSE_VERDE_FAQS_QUESTION_1":"Quais os tipos de laudos de exame podem ser enviados para emissão do Passe Verde ?","PASSE_VERDE_FAQS_ANSWER_1":"De acordo com o Protocolo de Entrada em Noronha os viajantes podem enviar os seguintes laudos de exame para emissão de seu Passe Verde e acesso à Ilha: Para viajantes que não contraíram Covid deve ser apresentado o laudo de exame RT-PCR Negativo colhido 48 horas antes da viagem. Para os viajantes que já tiveram recuperação clínica de Covid podem ser apresentados exame RT-PCR positivo com mais de 20 dias e menos de 90 dias de realização, ou Sorologia quantitativa de IgG com menos de 90 dias de realização. Em todos os casos, os laudos devem ser arquivos digitais originais,recebidos do laboratório emissor, no formato pdf.","PASSE_VERDE_FAQS_QUESTION_2":"O que acontece após o upload dos documentos?","PASSE_VERDE_FAQS_ANSWER_2":"Após o upload dos arquivos e recebimento dos mesmos pela nossa equipe o processo de análise se inicia. A qualidade dos arquivos enviados é verificada inicialmente, no caso de arquivos ilegíveis o usuário é contactado prontamente para que realize o reenvio das mesmas. De posse de arquivos legíveis nossa equipe de análise iniciará o processo de verificação que deve ser concluído num prazo médio de 6 a 24 horas. Se necessário o usuário pode ser contactado por email para outros esclarecimentos.","PASSE_VERDE_FAQS_QUESTION_3":"Em quais situações pode ser necessário refazer o upload de documentos?","PASSE_VERDE_FAQS_ANSWER_3":"O reenvio pode ser necessário nos casos de arquivos pdf que não podem ser abertos, fotos selfie de baixa qualidade (ex: mal iluminadas) e engano na seleção de laudos de exame ou foto que não conferem com nome do usuário (por exemplo: enviado o exame ou foto de outro familiar).Também será necessário reenviar os arquivos caso o laudo em pdf não seja o arquivo original emitido pelo laboratório, não serão aceitos arquivos digitalizados (scaneados) ou fotografias de exames. Nestes casos o usuário será contactado para refazer o upload com urgência, para que o processo de análise possa ser concluído em tempo hábil.","PASSE_VERDE_FAQS_QUESTION_4":"Como faço para refazer o upload dos documentos?","PASSE_VERDE_FAQS_ANSWER_4":"Para refazer o upload das imagens o usuário deve acessar sua conta Passe Verde com as credenciais fornecidas no momento de criação de conta e realizar o processo de upload novamente. Em caso de dúvidas você pode seguir o passo a passo inicial ou contar com nosso suporte.","PASSE_VERDE_FAQS_QUESTION_5":"Quais são os prazos de análise Passe Verde?","PASSE_VERDE_FAQS_ANSWER_5":"Os prazos mínimos para conclusão da análise pela nossa equipe são; 6 horas para os laudos PCR negativo e 24 horas para Laudos de recuperação clínica  ( RT-PCR positivo ou Sorologia IgG ).","PASSE_VERDE_FAQS_QUESTION_6":"O que devo fazer no momento do embarque?","PASSE_VERDE_FAQS_ANSWER_6":" Para o embarque no dia de sua viagem basta apresentar o seu Passe Verde,  acessando sua conta em seu celular. Não é necessário levar laudos impressos. Você receberá um email informativo confirmando a emissão do seu passe verde, no mesmo, constarão todas as informações que você precisa para embarcar.","PASSE_VERDE_FAQS_QUESTION_7":"O que devo fazer se não houver conexão à internet no momento do embarque / check in?","PASSE_VERDE_FAQS_ANSWER_7":"Recomendamos que o usuário salve a mensagem recebida quando da emissão com sucesso do Passe Verde. Este email contem o QR Code de seu Passe Verde que pode ser verificado mesmo se não houver conexão à internet. É importante que você se certifique que o seu programa de gerenciamento de emails baixe as imagens desta mensagem. Uma alternativa simples é fazer um printscreen da tela do Passe Verde emitido no seu smartphone, ele ficará salvo em fotos e nossa tecnologia permite a verificação offline ;)","PASSE_VERDE_FAQS_QUESTION_8":"Em quais situações o Passe Verde não pode ser emitido?","PASSE_VERDE_FAQS_ANSWER_8":"O Passe Verde não poderá ser emitido quando as informações fornecidas pelo usuário não forem suficientes para a verificação do atendimento ao protocolo Covid de Noronha. Isso pode ocorrer em caso de inconsistências de informações que não forem devidamente esclarecidas pelo usuário tais como data de validade dos laudos incompatível com a data de embarque, ou clínicas que não podem ser verificadas por nenhum meio (telefone, email, internet…), ou até mesmo em caso de evidência de adulteração de documentos.","PASSE_VERDE_FAQS_QUESTION_9":"O que devo fazer se o Passe verde não puder ser emitido? Posso viajar se meu Passe verde não for emitido?","PASSE_VERDE_FAQS_ANSWER_9":"Isso não deve ocorrer sem que você tenha sido contactado por email durante o processo de verificação, por esta razão pedimos para que fique atento à sua caixa de entrada e spam durante a análise. Caso, mesmo assim, não venha a ser possível emitir o seu Passe Verde, você será informado previamente. Nestes casos para prosseguir com sua viagem, você deve apresentar seus laudos impressos no momento do check-in no aeroporto para que a verificação seja feita presencialmente uma vez que a decisão sobre o ingresso à Ilha cabe às autoridades locais e equipes de operação em solo.","PASSE_VERDE_FAQS_QUESTION_10":"Posso solicitar  reembolso se meu Passe Verde não puder ser emitido?","PASSE_VERDE_FAQS_ANSWER_10":"O valor pago pelo serviço Passe Verde é cobrado para o processamento da análise prévia dos laudos apresentados pelo usuário. Desta maneira você tem a comodidade da realização antecipada deste procedimento, ao invés da conferência no balcão do check-in. Os casos onde o Passe Verde não pode ser emitido (Certificado Não Emitido) só chegarão a este resultado após a realização de todo o processo de análise e verificação, durante o qual todos os procedimentos foram cumpridos e todos os esforços de esclarecimento e correções  para emissão terem sido realizadas. Portanto, uma vez que os serviços foram prestados, não caberá reembolso se o Passe Verde não puder ser emitido nesta situação.","PASSE_VERDE_FAQS_QUESTION_11":"Como devo proceder se tiver adquirido o serviço Passe Verde para mais de um passageiro?","PASSE_VERDE_FAQS_ANSWER_11":"Todos os dependentes relacionados durante o preenchimento do formulário de pagamento da TPA Online terão contas individuais do Passe Verde, ou seja: Se, por exemplo, um responsável efetuar o pagamento da TPA Online indicando o seu filho como dependente, será criada uma conta para cada um, porém todos os emails de comunicação serão encaminhados para o responsável. As credenciais de acesso para cada uma das contas é enviada no seu email de boas vindas. O responsável deve fazer o upload dos documentos na conta Passe verde de cada viajante e será emitido um Passe Verde para cada viajante individualmente. A foto selfie do viajante é solicitada exclusivamente para fins de identificação no momento do check-in, caso o usuário não deseje realizar o upload de foto de seu dependente menor de idade, pode simplesmente fazer o upload da sua própria fotografia como responsável no campo de upload de selfie para estes casos específicos. Isso não acarretará em prejuízos para análise deste Passe Verde ou na hora do embarque.","PASSE_VERDE_FAQS_QUESTION_12":"Como posso entrar em contato em caso de dúvidas?","PASSE_VERDE_FAQS_ANSWER_12":" Nossa equipe de suporte pode ser contactada via Live Chat na aplicação Passe Verde | Immunie app.immunie.net de segunda a sexta das 6:00 as 18:00 hs, ou pelo telefone 0800 009 0033, das 07:00 às 17:00h, de segunda à sexta. Para casos urgentes, fora do horário de atendimento envie email para: passeverde.urgente@immunie.net","USER_FAQ_QUESTION_1":"Onde posso utilizar me Cartão Digital de Vacinação Immunie?","USER_FAQ_ANSWER_1":"Seu cartão de vacinaçao digital Immunie pode ser utilizado em qualquer lugar do mundo, da mesma maneira que você utiliza seu cartão de papel, agora com mais segurança e com a possibilidade de tradução automática para 12 idiomas.Seu cartão digital Immunie apresenta informações completas, com os dados de profissionais de saúde licenciados, incluindo o nome completo, número de registro e do lote da vacina.","USER_FAQ_QUESTION_2":"Qual a diferença do Cartão Digital de Vacinação para um cartão de papel?","USER_FAQ_ANSWER_2":"O Cartão Digital de Vacinação apresenta informações mais completas e precisas do que as que você encontra normalmente um cartão de papel. Seu cartão de vacinaçao digital Immunie traz todas as informações e credenciais do profissional de saúde e da clínica onde você recebeu a vacina e também a data e hora automáticamente registradas via timestamp, um registro imutável da informação fornecida. Além disso, as informações são claras e padrônizadas, enquanto em cartões de papel é muito comum os registros serem feitos à mão, com caligrafia de difícil compreensão e carimbos pouco legíveis.","USER_FAQ_QUESTION_3":"E se eu decidir não continuar, o que acontece com meus dados?","USER_FAQ_ANSWER_3":"Se você decidir não continuar utilizando os serviços, Immunie vai guardar seus dados por um período de 1 ano após o final do seu último plano. Neste período, você pode continuar consultando seus registros e, ao final deste prazo, será enviado um email para você com todos os seus dados em pdf.","USER_FAQ_QUESTION_4":"Vocês tem uma verão Android ou IOS?","USER_FAQ_ANSWER_4":"Trabalhamos com a tecnologia PWA (Progressive Web App) que permite que o seu aplicativo seja acessível em qualquer dispositivo, Android, IOS ou qualquer outro sistema operacional, com um browser e acesso à internet. Esta tecnologia é indicada para aplicações que são utilizadas menos de duas vezes por mês, como é o caso de cartões de vacinação. Desta maneira não ocupamos espaço na memória do seu telefone e seu sistema operacional não vai ficar sugerindo que apague o Immunie a cada limpeza ). No momento que você utilizar o Immunie pela primeira vez, o Google Chrome deve lhe sugerir automáticamente para salvar um atalho na tela do seu smartphone, basta aceitar para ter ele sempre à mão, em um toque, como qualquer outro App, sem ocupar memória ;)","USER_FAQ_QUESTION_5":"Aonde é obrigatória a apresentação da Carteira de Vacinação no Ato da Matrícula?","USER_FAQ_ANSWER_5":"O controle de vacinas, verificação de pendências e comunicação ao Conselho Tutelar e/ou Ministério Público é obrigação das escolas nos Estados da Bahia (Port. 01 SESAB/SEC 30/08/18), Ceará (Lei 16.929/19), Espirito Santo (Lei 10.913/18), Paraná (Lei 19.534/18), Pernambuco (Lei 13.770/09), Rio Grande do Sul (Lei 15.709/19), Santa Catarina (Lei 17.821/19), , São Paulo (Lei 17.252/20); e no Município do Rio de Janeiro (Lei 5.612/13). Na maior parte destes locais, esta obrigação se extende desde a creche até o final do Segundo Grau para alunos até os 18 anos de idade.","USER_FAQ_QUESTION_6":"Quais Estados e Municípios tem Leis sobre Carteira Eletrônica de Vacinação?","USER_FAQ_ANSWER_6":" A Carteira Eletrônica de Vacinação é lei nos Municípios de São Paulo, Osasco, Taubaté, São José dose Franco da Rocha/SP, Rio de Janeiro/RJ Goiânia/GO, Campo Grande/MS, Boa Vista/RR, Curitiba e Matinhos/PR, Manaus/AM, Porto Velho/RO, Bagé, Caxias e Passo Fundo/RS e Estado do Rio de Janeiro (Lei 8.487/19)."},"common":{"SERVICES":"Serviços","SERVICES_GROUP_COMPANY":"Nossa empresa","SERVICES_SUBGROUP_ABOUT":"Sobre","SERVICES_SUBGROUP_MEDIA_ASSETS":"Mídias","SERVICES_SUBGROUP_CONTACT":"Contato","SERVICES_GROUP_CHECKPOINT":"Checkpoint","SERVICES_SUBGROUP_BLOCKCHAIN":"Autenticação Blockchain ","SERVICES_GROUP_TERMS_OF_USE":"Termos de Uso","SERVICES_SUBGROUP_PRIVACY_POLICY":"Política de Privacidade","SERVICES_SUBGROUP_TERMS_AND_CONDITIONS":"Termos e Condições","SERVICES_SUBGROUP_FAQ":"FAQs","PRODUCTS":"Produtos","PRODUCT_GROUP_SUBPAGES":"Produtos","PRODUCT_SUBGROUP_PEOPLE_PAGE":"Pessoas","PRODUCT_HEALTH_CARE_PAGE":"Setor de Saúde","PRODUCT_EXAM_LABS_PAGE":"Laboratórios de Exames","PRODUCT_TRAVEL_PAGE":"Companhias Aéreas","PRODUCT_SCHOOLS_PAGE":"Escolas","PRODUCT_MANAGERS_PAGE":"Governos e Grandes Eventos","CONTACT_FORM_TITLE":"Fale Conosco","CONTACT_FORM_SUBTITLE":"Seu contato é muito importante para nós. Todas as mensagens recebidas são lidas com atenção","CONTACT_FORM_FIELD_FULL_NAME":"Nome Completo","CONTACT_FORM_FIELD_MESSAGE":"Mensagem","CONTACT_FORM_REQUIRED_FIELDS":"Campos marcados com * são obrigatórios.","CONTACT_FORM_SEND_BTN_TEXT":"ENVIAR"}}},"initialLanguage":"pt","i18nServerInstance":null,"pageProps":{"namespacesRequired":["faqsPage","common"]}},"page":"/terms-of-use/faqs","query":{},"buildId":"nDZD4foxkD8xipOua1Ujd","runtimeConfig":{"localeSubpaths":{}},"nextExport":true,"isFallback":false,"gip":true,"appGip":true}</script><script nomodule="" src="../_next/static/chunks/polyfills-10a8cf8ec0fcff4a7700.js"></script><script src="../_next/static/chunks/main-005c099ebc6d73bffa35.js" async=""></script><script src="../_next/static/chunks/webpack-245f049e565ebf942e09.js" async=""></script><script src="../_next/static/chunks/framework.64c08973ae123710aa81.js" async=""></script><script src="../_next/static/chunks/commons.ddec478f82113778b077.js" async=""></script><script src="../_next/static/chunks/pages/_app-8f3a4cdfd6b03ceeb0b9.js" async=""></script><script src="../_next/static/chunks/a4c92b5b.014bebfe28d7f652e7fb.js" async=""></script><script src="../_next/static/chunks/11b04806d3909ce7987efbbeab9b411580946ab6.05063bfe093fef78d737.js" async=""></script><script src="../_next/static/chunks/b0787e176b509ab8a5b092dbcd4c2bdafe937fdc.42fe8430b9ca6fad0654.js" async=""></script><script src="../_next/static/chunks/f21c5035378776e5664e82d348c0227acd3df0b3.76b2b439016ecfd9a02a.js" async=""></script><script src="../_next/static/chunks/pages/terms-of-use/faqs-8ad8e66d281b4a21d43b.js" async=""></script><script src="../_next/static/nDZD4foxkD8xipOua1Ujd/_buildManifest.js" async=""></script><script src="../_next/static/nDZD4foxkD8xipOua1Ujd/_ssgManifest.js" async=""></script></body>
+<!-- Mirrored from immunie.net/terms-of-use/faqs by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Sep 2021 19:29:52 GMT -->
+</html>

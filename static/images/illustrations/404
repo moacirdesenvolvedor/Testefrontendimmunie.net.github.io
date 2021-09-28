@@ -1,0 +1,1443 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><link rel="shortcut icon" href="/assets/favicon.svg"/><meta name="theme-color" content="#ffffff"/><meta name="description" content="International Vaccination Records authenticated using Blockchain Technology. Keep your record safe anytime, anywhere. Immunie is a privacy by design application, built to comply with the highest data privacy standards"/><meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/><meta property="og:locale" content="en_US"/><meta property="og:type" content="website"/><meta property="og:title" content="Immunie | Digital Vaccination Card"/><meta property="og:description" content="International Vaccination Records authenticated using Blockchain Technology. Keep your record safe anytime, anywhere. Immunie is a privacy by design application, built to comply with the highest data privacy standards"/><meta property="og:url" content="https://immunie.org/"/><link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&amp;display=swap" rel="stylesheet"/><script src="https://kit.fontawesome.com/4c273e6d43.js" crossorigin="anonymous"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-J1J5FK05T4"></script><script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+  
+              gtag('config', 'G-J1J5FK05T4');
+          </script><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><title>Immunie Digital Vaccination Card</title><meta name="next-head-count" content="3"/><link rel="preload" href="/_next/static/css/c6fd4f563a3cf2b1449e.css" as="style"/><link rel="stylesheet" href="/_next/static/css/c6fd4f563a3cf2b1449e.css" data-n-g=""/><noscript data-n-css=""></noscript><link rel="preload" href="/_next/static/chunks/main-005c099ebc6d73bffa35.js" as="script"/><link rel="preload" href="/_next/static/chunks/webpack-245f049e565ebf942e09.js" as="script"/><link rel="preload" href="/_next/static/chunks/framework.64c08973ae123710aa81.js" as="script"/><link rel="preload" href="/_next/static/chunks/commons.ddec478f82113778b077.js" as="script"/><link rel="preload" href="/_next/static/chunks/pages/_app-8f3a4cdfd6b03ceeb0b9.js" as="script"/><link rel="preload" href="/_next/static/chunks/a4c92b5b.014bebfe28d7f652e7fb.js" as="script"/><link rel="preload" href="/_next/static/chunks/11b04806d3909ce7987efbbeab9b411580946ab6.05063bfe093fef78d737.js" as="script"/><link rel="preload" href="/_next/static/chunks/b0787e176b509ab8a5b092dbcd4c2bdafe937fdc.42fe8430b9ca6fad0654.js" as="script"/><link rel="preload" href="/_next/static/chunks/pages/404-81c43578768cb0c107f5.js" as="script"/><style id="jss-server-side">.MuiSvgIcon-root {
+  fill: currentColor;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  font-size: 1.5rem;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  flex-shrink: 0;
+  user-select: none;
+}
+.MuiSvgIcon-colorPrimary {
+  color: #3f51b5;
+}
+.MuiSvgIcon-colorSecondary {
+  color: #f9b934;
+}
+.MuiSvgIcon-colorAction {
+  color: rgba(0, 0, 0, 0.54);
+}
+.MuiSvgIcon-colorError {
+  color: #f44336;
+}
+.MuiSvgIcon-colorDisabled {
+  color: rgba(0, 0, 0, 0.26);
+}
+.MuiSvgIcon-fontSizeInherit {
+  font-size: inherit;
+}
+.MuiSvgIcon-fontSizeSmall {
+  font-size: 1.25rem;
+}
+.MuiSvgIcon-fontSizeLarge {
+  font-size: 2.1875rem;
+}
+.MuiPaper-root {
+  color: #2d3748;
+  transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  background-color: #fff;
+}
+.MuiPaper-rounded {
+  border-radius: 4px;
+}
+.MuiPaper-outlined {
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+.MuiPaper-elevation0 {
+  box-shadow: none;
+}
+.MuiPaper-elevation1 {
+  box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 1px 3px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation2 {
+  box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation3 {
+  box-shadow: 0px 3px 3px -2px rgba(0,0,0,0.2),0px 3px 4px 0px rgba(0,0,0,0.14),0px 1px 8px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation4 {
+  box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation5 {
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 5px 8px 0px rgba(0,0,0,0.14),0px 1px 14px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation6 {
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation7 {
+  box-shadow: 0px 4px 5px -2px rgba(0,0,0,0.2),0px 7px 10px 1px rgba(0,0,0,0.14),0px 2px 16px 1px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation8 {
+  box-shadow: 0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation9 {
+  box-shadow: 0px 5px 6px -3px rgba(0,0,0,0.2),0px 9px 12px 1px rgba(0,0,0,0.14),0px 3px 16px 2px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation10 {
+  box-shadow: 0px 6px 6px -3px rgba(0,0,0,0.2),0px 10px 14px 1px rgba(0,0,0,0.14),0px 4px 18px 3px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation11 {
+  box-shadow: 0px 6px 7px -4px rgba(0,0,0,0.2),0px 11px 15px 1px rgba(0,0,0,0.14),0px 4px 20px 3px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation12 {
+  box-shadow: 0px 7px 8px -4px rgba(0,0,0,0.2),0px 12px 17px 2px rgba(0,0,0,0.14),0px 5px 22px 4px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation13 {
+  box-shadow: 0px 7px 8px -4px rgba(0,0,0,0.2),0px 13px 19px 2px rgba(0,0,0,0.14),0px 5px 24px 4px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation14 {
+  box-shadow: 0px 7px 9px -4px rgba(0,0,0,0.2),0px 14px 21px 2px rgba(0,0,0,0.14),0px 5px 26px 4px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation15 {
+  box-shadow: 0px 8px 9px -5px rgba(0,0,0,0.2),0px 15px 22px 2px rgba(0,0,0,0.14),0px 6px 28px 5px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation16 {
+  box-shadow: 0px 8px 10px -5px rgba(0,0,0,0.2),0px 16px 24px 2px rgba(0,0,0,0.14),0px 6px 30px 5px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation17 {
+  box-shadow: 0px 8px 11px -5px rgba(0,0,0,0.2),0px 17px 26px 2px rgba(0,0,0,0.14),0px 6px 32px 5px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation18 {
+  box-shadow: 0px 9px 11px -5px rgba(0,0,0,0.2),0px 18px 28px 2px rgba(0,0,0,0.14),0px 7px 34px 6px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation19 {
+  box-shadow: 0px 9px 12px -6px rgba(0,0,0,0.2),0px 19px 29px 2px rgba(0,0,0,0.14),0px 7px 36px 6px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation20 {
+  box-shadow: 0px 10px 13px -6px rgba(0,0,0,0.2),0px 20px 31px 3px rgba(0,0,0,0.14),0px 8px 38px 7px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation21 {
+  box-shadow: 0px 10px 13px -6px rgba(0,0,0,0.2),0px 21px 33px 3px rgba(0,0,0,0.14),0px 8px 40px 7px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation22 {
+  box-shadow: 0px 10px 14px -6px rgba(0,0,0,0.2),0px 22px 35px 3px rgba(0,0,0,0.14),0px 8px 42px 7px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation23 {
+  box-shadow: 0px 11px 14px -7px rgba(0,0,0,0.2),0px 23px 36px 3px rgba(0,0,0,0.14),0px 9px 44px 8px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation24 {
+  box-shadow: 0px 11px 15px -7px rgba(0,0,0,0.2),0px 24px 38px 3px rgba(0,0,0,0.14),0px 9px 46px 8px rgba(0,0,0,0.12);
+}
+.MuiButtonBase-root {
+  color: inherit;
+  border: 0;
+  cursor: pointer;
+  margin: 0;
+  display: inline-flex;
+  outline: 0;
+  padding: 0;
+  position: relative;
+  align-items: center;
+  user-select: none;
+  border-radius: 0;
+  vertical-align: middle;
+  -moz-appearance: none;
+  justify-content: center;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-appearance: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.MuiButtonBase-root::-moz-focus-inner {
+  border-style: none;
+}
+.MuiButtonBase-root.Mui-disabled {
+  cursor: default;
+  pointer-events: none;
+}
+@media print {
+  .MuiButtonBase-root {
+    color-adjust: exact;
+  }
+}
+  .MuiIconButton-root {
+    flex: 0 0 auto;
+    color: rgba(0, 0, 0, 0.54);
+    padding: 12px;
+    overflow: visible;
+    font-size: 1.5rem;
+    text-align: center;
+    transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    border-radius: 50%;
+  }
+  .MuiIconButton-root:hover {
+    background-color: rgba(0, 0, 0, 0.04);
+  }
+  .MuiIconButton-root.Mui-disabled {
+    color: rgba(0, 0, 0, 0.26);
+    background-color: transparent;
+  }
+@media (hover: none) {
+  .MuiIconButton-root:hover {
+    background-color: transparent;
+  }
+}
+  .MuiIconButton-edgeStart {
+    margin-left: -12px;
+  }
+  .MuiIconButton-sizeSmall.MuiIconButton-edgeStart {
+    margin-left: -3px;
+  }
+  .MuiIconButton-edgeEnd {
+    margin-right: -12px;
+  }
+  .MuiIconButton-sizeSmall.MuiIconButton-edgeEnd {
+    margin-right: -3px;
+  }
+  .MuiIconButton-colorInherit {
+    color: inherit;
+  }
+  .MuiIconButton-colorPrimary {
+    color: #3f51b5;
+  }
+  .MuiIconButton-colorPrimary:hover {
+    background-color: rgba(63, 81, 181, 0.04);
+  }
+@media (hover: none) {
+  .MuiIconButton-colorPrimary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiIconButton-colorSecondary {
+    color: #f9b934;
+  }
+  .MuiIconButton-colorSecondary:hover {
+    background-color: rgba(249, 185, 52, 0.04);
+  }
+@media (hover: none) {
+  .MuiIconButton-colorSecondary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiIconButton-sizeSmall {
+    padding: 3px;
+    font-size: 1.125rem;
+  }
+  .MuiIconButton-label {
+    width: 100%;
+    display: flex;
+    align-items: inherit;
+    justify-content: inherit;
+  }
+  .MuiTypography-root {
+    margin: 0;
+  }
+  .MuiTypography-body2 {
+    font-size: 0.875rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.43;
+  }
+  .MuiTypography-body1 {
+    font-size: 1rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.5;
+  }
+  .MuiTypography-caption {
+    font-size: 0.75rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.66;
+  }
+  .MuiTypography-button {
+    font-size: 0.875rem;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: 1.75;
+    text-transform: uppercase;
+  }
+  .MuiTypography-h1 {
+    font-size: 3.5rem;
+    font-family: Lato;
+    font-weight: 300;
+    line-height: 1.167;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h1 {
+    font-size: 4.7129rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h1 {
+    font-size: 5.3556rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h1 {
+    font-size: 5.9983rem;
+  }
+}
+  .MuiTypography-h2 {
+    font-size: 2.375rem;
+    font-family: Lato;
+    font-weight: 300;
+    line-height: 1.2;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h2 {
+    font-size: 2.9167rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h2 {
+    font-size: 3.3333rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h2 {
+    font-size: 3.75rem;
+  }
+}
+  .MuiTypography-h3 {
+    font-size: 2rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.167;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h3 {
+    font-size: 2.5707rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h3 {
+    font-size: 2.7849rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h3 {
+    font-size: 2.9991rem;
+  }
+}
+  .MuiTypography-h4 {
+    font-size: 1.5625rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.235;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h4 {
+    font-size: 1.8219rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h4 {
+    font-size: 2.0243rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h4 {
+    font-size: 2.0243rem;
+  }
+}
+  .MuiTypography-h5 {
+    font-size: 1.25rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.334;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h5 {
+    font-size: 1.3118rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h5 {
+    font-size: 1.4993rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h5 {
+    font-size: 1.4993rem;
+  }
+}
+  .MuiTypography-h6 {
+    font-size: 1.125rem;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: 1.6;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h6 {
+    font-size: 1.25rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h6 {
+    font-size: 1.25rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h6 {
+    font-size: 1.25rem;
+  }
+}
+  .MuiTypography-subtitle1 {
+    font-size: 1rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.75;
+  }
+  .MuiTypography-subtitle2 {
+    font-size: 0.875rem;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: 1.57;
+  }
+  .MuiTypography-overline {
+    font-size: 0.75rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 2.66;
+    text-transform: uppercase;
+  }
+  .MuiTypography-srOnly {
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+  }
+  .MuiTypography-alignLeft {
+    text-align: left;
+  }
+  .MuiTypography-alignCenter {
+    text-align: center;
+  }
+  .MuiTypography-alignRight {
+    text-align: right;
+  }
+  .MuiTypography-alignJustify {
+    text-align: justify;
+  }
+  .MuiTypography-noWrap {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+  .MuiTypography-gutterBottom {
+    margin-bottom: 0.35em;
+  }
+  .MuiTypography-paragraph {
+    margin-bottom: 16px;
+  }
+  .MuiTypography-colorInherit {
+    color: inherit;
+  }
+  .MuiTypography-colorPrimary {
+    color: #3f51b5;
+  }
+  .MuiTypography-colorSecondary {
+    color: #f9b934;
+  }
+  .MuiTypography-colorTextPrimary {
+    color: #2d3748;
+  }
+  .MuiTypography-colorTextSecondary {
+    color: #718096;
+  }
+  .MuiTypography-colorError {
+    color: #f44336;
+  }
+  .MuiTypography-displayInline {
+    display: inline;
+  }
+  .MuiTypography-displayBlock {
+    display: block;
+  }
+  .MuiButton-root {
+    color: #2d3748;
+    padding: 6px 16px;
+    font-size: 0.875rem;
+    min-width: 64px;
+    box-sizing: border-box;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: 1.75;
+    border-radius: 4px;
+    text-transform: uppercase;
+  }
+  .MuiButton-root:hover {
+    text-decoration: none;
+    background-color: rgba(45, 55, 72, 0.04);
+  }
+  .MuiButton-root.Mui-disabled {
+    color: rgba(0, 0, 0, 0.26);
+  }
+@media (hover: none) {
+  .MuiButton-root:hover {
+    background-color: transparent;
+  }
+}
+  .MuiButton-root:hover.Mui-disabled {
+    background-color: transparent;
+  }
+  .MuiButton-label {
+    width: 100%;
+    display: inherit;
+    align-items: inherit;
+    justify-content: inherit;
+  }
+  .MuiButton-text {
+    padding: 6px 8px;
+  }
+  .MuiButton-textPrimary {
+    color: #3f51b5;
+  }
+  .MuiButton-textPrimary:hover {
+    background-color: rgba(63, 81, 181, 0.04);
+  }
+@media (hover: none) {
+  .MuiButton-textPrimary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiButton-textSecondary {
+    color: #f9b934;
+  }
+  .MuiButton-textSecondary:hover {
+    background-color: rgba(249, 185, 52, 0.04);
+  }
+@media (hover: none) {
+  .MuiButton-textSecondary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiButton-outlined {
+    border: 1px solid rgba(0, 0, 0, 0.23);
+    padding: 5px 15px;
+  }
+  .MuiButton-outlined.Mui-disabled {
+    border: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .MuiButton-outlinedPrimary {
+    color: #3f51b5;
+    border: 1px solid rgba(63, 81, 181, 0.5);
+  }
+  .MuiButton-outlinedPrimary:hover {
+    border: 1px solid #3f51b5;
+    background-color: rgba(63, 81, 181, 0.04);
+  }
+@media (hover: none) {
+  .MuiButton-outlinedPrimary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiButton-outlinedSecondary {
+    color: #f9b934;
+    border: 1px solid rgba(249, 185, 52, 0.5);
+  }
+  .MuiButton-outlinedSecondary:hover {
+    border: 1px solid #f9b934;
+    background-color: rgba(249, 185, 52, 0.04);
+  }
+  .MuiButton-outlinedSecondary.Mui-disabled {
+    border: 1px solid rgba(0, 0, 0, 0.26);
+  }
+@media (hover: none) {
+  .MuiButton-outlinedSecondary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiButton-contained {
+    color: rgba(0, 0, 0, 0.87);
+    box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+    background-color: #e0e0e0;
+  }
+  .MuiButton-contained:hover {
+    box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+    background-color: #d5d5d5;
+  }
+  .MuiButton-contained.Mui-focusVisible {
+    box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);
+  }
+  .MuiButton-contained:active {
+    box-shadow: 0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);
+  }
+  .MuiButton-contained.Mui-disabled {
+    color: rgba(0, 0, 0, 0.26);
+    box-shadow: none;
+    background-color: rgba(0, 0, 0, 0.12);
+  }
+@media (hover: none) {
+  .MuiButton-contained:hover {
+    box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+    background-color: #e0e0e0;
+  }
+}
+  .MuiButton-contained:hover.Mui-disabled {
+    background-color: rgba(0, 0, 0, 0.12);
+  }
+  .MuiButton-containedPrimary {
+    color: #fff;
+    background-color: #3f51b5;
+  }
+  .MuiButton-containedPrimary:hover {
+    background-color: rgb(17, 82, 147);
+  }
+@media (hover: none) {
+  .MuiButton-containedPrimary:hover {
+    background-color: #3f51b5;
+  }
+}
+  .MuiButton-containedSecondary {
+    color: white;
+    background-color: #f9b934;
+  }
+  .MuiButton-containedSecondary:hover {
+    background-color: #f57c00;
+  }
+@media (hover: none) {
+  .MuiButton-containedSecondary:hover {
+    background-color: #f9b934;
+  }
+}
+  .MuiButton-disableElevation {
+    box-shadow: none;
+  }
+  .MuiButton-disableElevation:hover {
+    box-shadow: none;
+  }
+  .MuiButton-disableElevation.Mui-focusVisible {
+    box-shadow: none;
+  }
+  .MuiButton-disableElevation:active {
+    box-shadow: none;
+  }
+  .MuiButton-disableElevation.Mui-disabled {
+    box-shadow: none;
+  }
+  .MuiButton-colorInherit {
+    color: inherit;
+    border-color: currentColor;
+  }
+  .MuiButton-textSizeSmall {
+    padding: 4px 5px;
+    font-size: 0.8125rem;
+  }
+  .MuiButton-textSizeLarge {
+    padding: 8px 11px;
+    font-size: 0.9375rem;
+  }
+  .MuiButton-outlinedSizeSmall {
+    padding: 3px 9px;
+    font-size: 0.8125rem;
+  }
+  .MuiButton-outlinedSizeLarge {
+    padding: 7px 21px;
+    font-size: 0.9375rem;
+  }
+  .MuiButton-containedSizeSmall {
+    padding: 4px 10px;
+    font-size: 0.8125rem;
+  }
+  .MuiButton-containedSizeLarge {
+    padding: 8px 22px;
+    font-size: 0.9375rem;
+  }
+  .MuiButton-fullWidth {
+    width: 100%;
+  }
+  .MuiButton-startIcon {
+    display: inherit;
+    margin-left: -4px;
+    margin-right: 8px;
+  }
+  .MuiButton-startIcon.MuiButton-iconSizeSmall {
+    margin-left: -2px;
+  }
+  .MuiButton-endIcon {
+    display: inherit;
+    margin-left: 8px;
+    margin-right: -4px;
+  }
+  .MuiButton-endIcon.MuiButton-iconSizeSmall {
+    margin-right: -2px;
+  }
+  .MuiButton-iconSizeSmall > *:first-child {
+    font-size: 18px;
+  }
+  .MuiButton-iconSizeMedium > *:first-child {
+    font-size: 20px;
+  }
+  .MuiButton-iconSizeLarge > *:first-child {
+    font-size: 22px;
+  }
+html {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+strong, b {
+  font-weight: 700;
+}
+body {
+  color: #2d3748;
+  margin: 0;
+  font-size: 0.875rem;
+  font-family: Lato;
+  font-weight: 400;
+  line-height: 1.43;
+  background-color: #fff;
+}
+@media print {
+  body {
+    background-color: #fff;
+  }
+}
+body::backdrop {
+  background-color: #fff;
+}
+  .MuiDivider-root {
+    border: none;
+    height: 1px;
+    margin: 0;
+    flex-shrink: 0;
+    background-color: rgba(0, 0, 0, 0.12);
+  }
+  .MuiDivider-absolute {
+    left: 0;
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+  }
+  .MuiDivider-inset {
+    margin-left: 72px;
+  }
+  .MuiDivider-light {
+    background-color: rgba(0, 0, 0, 0.08);
+  }
+  .MuiDivider-middle {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+  .MuiDivider-vertical {
+    width: 1px;
+    height: 100%;
+  }
+  .MuiDivider-flexItem {
+    height: auto;
+    align-self: stretch;
+  }
+  .MuiGrid-container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+  }
+  .MuiGrid-item {
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .MuiGrid-zeroMinWidth {
+    min-width: 0;
+  }
+  .MuiGrid-direction-xs-column {
+    flex-direction: column;
+  }
+  .MuiGrid-direction-xs-column-reverse {
+    flex-direction: column-reverse;
+  }
+  .MuiGrid-direction-xs-row-reverse {
+    flex-direction: row-reverse;
+  }
+  .MuiGrid-wrap-xs-nowrap {
+    flex-wrap: nowrap;
+  }
+  .MuiGrid-wrap-xs-wrap-reverse {
+    flex-wrap: wrap-reverse;
+  }
+  .MuiGrid-align-items-xs-center {
+    align-items: center;
+  }
+  .MuiGrid-align-items-xs-flex-start {
+    align-items: flex-start;
+  }
+  .MuiGrid-align-items-xs-flex-end {
+    align-items: flex-end;
+  }
+  .MuiGrid-align-items-xs-baseline {
+    align-items: baseline;
+  }
+  .MuiGrid-align-content-xs-center {
+    align-content: center;
+  }
+  .MuiGrid-align-content-xs-flex-start {
+    align-content: flex-start;
+  }
+  .MuiGrid-align-content-xs-flex-end {
+    align-content: flex-end;
+  }
+  .MuiGrid-align-content-xs-space-between {
+    align-content: space-between;
+  }
+  .MuiGrid-align-content-xs-space-around {
+    align-content: space-around;
+  }
+  .MuiGrid-justify-xs-center {
+    justify-content: center;
+  }
+  .MuiGrid-justify-xs-flex-end {
+    justify-content: flex-end;
+  }
+  .MuiGrid-justify-xs-space-between {
+    justify-content: space-between;
+  }
+  .MuiGrid-justify-xs-space-around {
+    justify-content: space-around;
+  }
+  .MuiGrid-justify-xs-space-evenly {
+    justify-content: space-evenly;
+  }
+  .MuiGrid-spacing-xs-1 {
+    width: calc(100% + 8px);
+    margin: -4px;
+  }
+  .MuiGrid-spacing-xs-1 > .MuiGrid-item {
+    padding: 4px;
+  }
+  .MuiGrid-spacing-xs-2 {
+    width: calc(100% + 16px);
+    margin: -8px;
+  }
+  .MuiGrid-spacing-xs-2 > .MuiGrid-item {
+    padding: 8px;
+  }
+  .MuiGrid-spacing-xs-3 {
+    width: calc(100% + 24px);
+    margin: -12px;
+  }
+  .MuiGrid-spacing-xs-3 > .MuiGrid-item {
+    padding: 12px;
+  }
+  .MuiGrid-spacing-xs-4 {
+    width: calc(100% + 32px);
+    margin: -16px;
+  }
+  .MuiGrid-spacing-xs-4 > .MuiGrid-item {
+    padding: 16px;
+  }
+  .MuiGrid-spacing-xs-5 {
+    width: calc(100% + 40px);
+    margin: -20px;
+  }
+  .MuiGrid-spacing-xs-5 > .MuiGrid-item {
+    padding: 20px;
+  }
+  .MuiGrid-spacing-xs-6 {
+    width: calc(100% + 48px);
+    margin: -24px;
+  }
+  .MuiGrid-spacing-xs-6 > .MuiGrid-item {
+    padding: 24px;
+  }
+  .MuiGrid-spacing-xs-7 {
+    width: calc(100% + 56px);
+    margin: -28px;
+  }
+  .MuiGrid-spacing-xs-7 > .MuiGrid-item {
+    padding: 28px;
+  }
+  .MuiGrid-spacing-xs-8 {
+    width: calc(100% + 64px);
+    margin: -32px;
+  }
+  .MuiGrid-spacing-xs-8 > .MuiGrid-item {
+    padding: 32px;
+  }
+  .MuiGrid-spacing-xs-9 {
+    width: calc(100% + 72px);
+    margin: -36px;
+  }
+  .MuiGrid-spacing-xs-9 > .MuiGrid-item {
+    padding: 36px;
+  }
+  .MuiGrid-spacing-xs-10 {
+    width: calc(100% + 80px);
+    margin: -40px;
+  }
+  .MuiGrid-spacing-xs-10 > .MuiGrid-item {
+    padding: 40px;
+  }
+  .MuiGrid-grid-xs-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-xs-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-xs-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-xs-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-xs-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-xs-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-xs-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-xs-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-xs-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-xs-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-xs-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-xs-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-xs-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-xs-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+@media (min-width:600px) {
+  .MuiGrid-grid-sm-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-sm-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-sm-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-sm-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-sm-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-sm-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-sm-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-sm-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-sm-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-sm-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-sm-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-sm-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-sm-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-sm-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:960px) {
+  .MuiGrid-grid-md-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-md-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-md-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-md-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-md-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-md-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-md-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-md-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-md-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-md-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-md-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-md-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-md-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-md-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:1280px) {
+  .MuiGrid-grid-lg-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-lg-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-lg-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-lg-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-lg-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-lg-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-lg-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-lg-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-lg-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-lg-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-lg-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-lg-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-lg-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-lg-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:1920px) {
+  .MuiGrid-grid-xl-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-xl-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-xl-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-xl-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-xl-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-xl-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-xl-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-xl-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-xl-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-xl-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-xl-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-xl-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-xl-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-xl-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+  .MuiToolbar-root {
+    display: flex;
+    position: relative;
+    align-items: center;
+  }
+  .MuiToolbar-gutters {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+@media (min-width:600px) {
+  .MuiToolbar-gutters {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+  .MuiToolbar-regular {
+    min-height: 56px;
+  }
+@media (min-width:0px) and (orientation: landscape) {
+  .MuiToolbar-regular {
+    min-height: 48px;
+  }
+}
+@media (min-width:600px) {
+  .MuiToolbar-regular {
+    min-height: 64px;
+  }
+}
+  .MuiToolbar-dense {
+    min-height: 48px;
+  }
+  .jss6 {
+    width: 100%;
+    height: 100%;
+  }
+  .jss7 {
+    display: block;
+  }
+  .jss27 {
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+  }
+  .jss28 {
+    font-weight: bold;
+  }
+  .jss29 {
+    padding: 0;
+    margin-left: 8px;
+  }
+  .jss29:hover {
+    background: transparent;
+  }
+  .jss23 {
+    margin-bottom: 24px;
+  }
+@media (min-width:960px) {
+  .jss23 {
+    margin-bottom: 32px;
+  }
+}
+  .jss24 {
+    margin-bottom: 0;
+  }
+  .jss25 {
+    font-weight: bold;
+  }
+  .jss26 {
+    margin-left: 8px;
+  }
+  .jss26:first-child {
+    margin-left: 0;
+  }
+  .jss19 {
+    width: 100%;
+    margin: 0 auto;
+    padding: 48px 16px;
+    max-width: 1236px;
+  }
+@media (min-width:600px) {
+  .jss19 {
+    padding: 64px 64px;
+  }
+}
+@media (min-width:960px) {
+  .jss19 {
+    padding: 96px 64px;
+  }
+}
+  .jss20 {
+    max-width: 100%;
+  }
+  .jss21 {
+    padding: 0;
+  }
+  .jss22 {
+    max-width: 800px;
+  }
+  .jss12 {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+  .jss13 {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    position: relative;
+    max-width: 1236px;
+  }
+@media (max-width:959.95px) {
+  .jss13 {
+    flex-direction: column-reverse;
+  }
+}
+@media (max-width:959.95px) {
+  .jss14 {
+    padding: 24px 64px;
+  }
+}
+@media (max-width:599.95px) {
+  .jss14 {
+    padding: 24px 16px;
+  }
+}
+  .jss15 {
+    flex: 0 0 50%;
+    position: relative;
+    max-width: 50%;
+  }
+@media (max-width:959.95px) {
+  .jss15 {
+    flex: 0 0 100%;
+    height: 300px;
+    max-width: 100%;
+  }
+}
+  .jss16 {
+    width: 50vw;
+    height: 100%;
+    position: relative;
+  }
+@media (max-width:959.95px) {
+  .jss16 {
+    width: 100%;
+  }
+}
+  .jss17 {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+  .jss18 {
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+  }
+@media (min-width:960px) {
+  .jss18 {
+    clip-path: polygon(10% 0%, 100% 0, 100% 100%, 0% 100%);
+    shape-outside: polygon(10% 0%, 100% 0, 100% 100%, 0% 100%);
+  }
+}
+  .jss8 .hero-shaped {
+    border-bottom: 0;
+  }
+@media (min-width:960px) {
+  .jss8 .hero-shaped__wrapper {
+    min-height: calc(100vh - 64px);
+  }
+}
+  .jss9 {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+@media (max-width:959.95px) {
+  .jss9 {
+    margin: 0 auto;
+    max-width: 500px;
+  }
+}
+  .jss10 {
+    object-fit: cover;
+  }
+  .jss11 {
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  .jss3 {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0px 16px;
+    max-width: 1236px;
+  }
+@media (min-width:600px) {
+  .jss3 {
+    padding: 0px 64px;
+  }
+}
+  .jss4 {
+    width: 200px;
+  }
+  .jss5 {
+    width: 100%;
+    height: 100%;
+  }
+  .jss2 {
+    height: 100%;
+  }</style></head><body><div id="__next"><div class="MuiPaper-root MuiPaper-elevation0 MuiPaper-rounded"><div class="container"><div class="jss1"><div class="MuiToolbar-root MuiToolbar-regular jss3 MuiToolbar-gutters"><div class="jss4"><a href="/" title="Immunie"><img class="image jss6 jss5" alt="Immunie" src="/static/images/logos/brand_with_name.svg"/></a></div></div><hr class="MuiDivider-root"/><main class="jss2"><div class="jss8"><div class="jss12 hero-shaped"><div class="hero-shaped__wrapper jss13"><section class="section jss19 hero-shaped__left-side jss14"><div class="jss9"><div class="MuiGrid-root section-header jss23 jss24 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__label-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root jss11 MuiTypography-h5 MuiTypography-colorSecondary MuiTypography-alignCenter">404</p></div><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h3 class="MuiTypography-root section-header__title jss25 MuiTypography-h3 MuiTypography-colorTextPrimary MuiTypography-alignCenter">Uh oh.</h3></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root section-header__subtitle MuiTypography-h6 MuiTypography-colorTextSecondary MuiTypography-alignCenter"><span>There’s nothing here, but if you feel this is an error please<!-- --> <a href="#" class="learn-more-link jss27"><span class="MuiTypography-root learn-more-link__typography jss28 MuiTypography-h6 MuiTypography-colorPrimary">let us know</span><button class="MuiButtonBase-root MuiIconButton-root learn-more-link__icon-button jss29 MuiIconButton-colorPrimary" tabindex="0" type="button" aria-label="Learn More"><span class="MuiIconButton-label"><svg class="MuiSvgIcon-root learn-more-link__arrow" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M16.01 11H4v2h12.01v3L20 12l-3.99-4z"></path></svg></span></button></a></span></h6></div><div class="MuiGrid-root section-header__cta-wrapper MuiGrid-item MuiGrid-grid-xs-12"><div class="MuiGrid-root section-header__cta-container MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center MuiGrid-justify-xs-center"><div class="section-header__cta-item-wrapper jss26"><button class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge" tabindex="0" type="button"><span class="MuiButton-label">Go Back</span></button></div></div></div></div></div></section><div class="hero-shaped__right-side jss15"><div class="hero-shaped__cover jss16"><div class="hero-shaped__image-container jss17"><div class="hero-shaped__image jss18"><img class="image jss6 jss10" alt="..." src="https://assets.maccarianagency.com/the-front/photos/account/cover-3.png"/></div></div></div></div></div><hr class="MuiDivider-root"/></div></div></main></div></div></div></div><script id="__NEXT_DATA__" type="application/json">{"props":{"initialI18nStore":{"pt":{"aboutPage":{"HERO_TITLE":"Sobre o Immunie","HERO_SUBTITLE":"Somos uma startup fundada por brasileiros em Londres, temos orgulho de fazer parte da Edição 2020-2021 da Incubadora da London Business School, uma das melhores escolas de negócios do mundo.","STORY_TITLE":"Nossa Visão","STORY_SUBTITLE":"Acreditamos que nossos dados de vitais não podem mais ser armazenados em um cartão de papel durante toda nossa vida no mundo de hoje. Acreditamos que a tecnologia pode nos ajudar a manter nossas vacinas em dia, a viajar ou morar no exterior de forma mais fácil e segura.","WHO_WE_ARE_TITLE_1":"Nossa Missão","WHO_WE_ARE_SUBTITLE_1":"Nossa missão é salvar vidas ajudando as pessoas a se proteger contra doenças para as quais há vacinas, utilizando a tecnologia blockchain para guardar e organizar os dados de imunização de forma segura, sob controle de cada usuário.","WHO_WE_ARE_TITLE_2":"Nossos Valores","WHO_WE_ARE_SUBTITLE_2":"Acreditamos no respeito a privacidade e na transparência todos as partes interessadas. Acreditamos no trabalho de equipe, na diversidade e sustentabilidade.","PRIVACY_TITLE":"Compromisso","PRIVACY_SUBTITLE":"Trabalhamos por um mundo melhor, para nós e para as próximas gerações, para isso assumimos compromissos.","PRIVACY_ITEM_1_TITLE":" Privacidade ","PRIVACY_ITEM_1_SUBTITLE":"100% de acordo com a LGPDP ","PRIVACY_ITEM_2_TITLE":"Sustentabilidade","PRIVACY_ITEM_2_SUBTITLE":" Menos papel, menos energia ","PRIVACY_ITEM_3_TITLE":" Comunidade ","PRIVACY_ITEM_3_SUBTITLE":" Ajudar que mais precisa ","PARTNERS_TITLE":"A melhor tecnologia ","PARTNERS_SUBTITLE":" Trabalhamos os melhores provedores de serviço no mercado global."},"assetsPage":{},"common":{"SERVICES":"Serviços","SERVICES_GROUP_COMPANY":"Nossa empresa","SERVICES_SUBGROUP_ABOUT":"Sobre","SERVICES_SUBGROUP_MEDIA_ASSETS":"Mídias","SERVICES_SUBGROUP_CONTACT":"Contato","SERVICES_GROUP_CHECKPOINT":"Checkpoint","SERVICES_SUBGROUP_BLOCKCHAIN":"Autenticação Blockchain ","SERVICES_GROUP_TERMS_OF_USE":"Termos de Uso","SERVICES_SUBGROUP_PRIVACY_POLICY":"Política de Privacidade","SERVICES_SUBGROUP_TERMS_AND_CONDITIONS":"Termos e Condições","SERVICES_SUBGROUP_FAQ":"FAQs","PRODUCTS":"Produtos","PRODUCT_GROUP_SUBPAGES":"Produtos","PRODUCT_SUBGROUP_PEOPLE_PAGE":"Pessoas","PRODUCT_HEALTH_CARE_PAGE":"Setor de Saúde","PRODUCT_EXAM_LABS_PAGE":"Laboratórios de Exames","PRODUCT_TRAVEL_PAGE":"Companhias Aéreas","PRODUCT_SCHOOLS_PAGE":"Escolas","PRODUCT_MANAGERS_PAGE":"Governos e Grandes Eventos","CONTACT_FORM_TITLE":"Fale Conosco","CONTACT_FORM_SUBTITLE":"Seu contato é muito importante para nós. Todas as mensagens recebidas são lidas com atenção","CONTACT_FORM_FIELD_FULL_NAME":"Nome Completo","CONTACT_FORM_FIELD_MESSAGE":"Mensagem","CONTACT_FORM_REQUIRED_FIELDS":"Campos marcados com * são obrigatórios.","CONTACT_FORM_SEND_BTN_TEXT":"ENVIAR"},"contactPage":{"TITLE":"Fale Conosco","SUBTITLE":"Seu contato é muito bem vindo!","FULL_NAME_LABEL":"Nome ","FULL_NAME_PLACEHOLDER":"Seu Nome Completo","E_MAIL_LABEL":"E-mail","E_MAIL_PLACEHOLDER":"E-mail","MESSAGE_LABEL":"Mensagem","MESSAGE_PLACEHOLDER":"Sua Mensagem","BTN_TEXT":"Enviar","CONFIRMATION_MESSAGE":"Mensagem enviada!","ERROR_MESSAGE":"Erro no servidor, tente mais tarde."},"faqsPage":{"USER_FAQ_TITLE":"Dúvidas Frequentes","PASSE_VERDE_FAQS_QUESTION_1":"Quais os tipos de laudos de exame podem ser enviados para emissão do Passe Verde ?","PASSE_VERDE_FAQS_ANSWER_1":"De acordo com o Protocolo de Entrada em Noronha os viajantes podem enviar os seguintes laudos de exame para emissão de seu Passe Verde e acesso à Ilha: Para viajantes que não contraíram Covid deve ser apresentado o laudo de exame RT-PCR Negativo colhido 48 horas antes da viagem. Para os viajantes que já tiveram recuperação clínica de Covid podem ser apresentados exame RT-PCR positivo com mais de 20 dias e menos de 90 dias de realização, ou Sorologia quantitativa de IgG com menos de 90 dias de realização. Em todos os casos, os laudos devem ser arquivos digitais originais,recebidos do laboratório emissor, no formato pdf.","PASSE_VERDE_FAQS_QUESTION_2":"O que acontece após o upload dos documentos?","PASSE_VERDE_FAQS_ANSWER_2":"Após o upload dos arquivos e recebimento dos mesmos pela nossa equipe o processo de análise se inicia. A qualidade dos arquivos enviados é verificada inicialmente, no caso de arquivos ilegíveis o usuário é contactado prontamente para que realize o reenvio das mesmas. De posse de arquivos legíveis nossa equipe de análise iniciará o processo de verificação que deve ser concluído num prazo médio de 6 a 24 horas. Se necessário o usuário pode ser contactado por email para outros esclarecimentos.","PASSE_VERDE_FAQS_QUESTION_3":"Em quais situações pode ser necessário refazer o upload de documentos?","PASSE_VERDE_FAQS_ANSWER_3":"O reenvio pode ser necessário nos casos de arquivos pdf que não podem ser abertos, fotos selfie de baixa qualidade (ex: mal iluminadas) e engano na seleção de laudos de exame ou foto que não conferem com nome do usuário (por exemplo: enviado o exame ou foto de outro familiar).Também será necessário reenviar os arquivos caso o laudo em pdf não seja o arquivo original emitido pelo laboratório, não serão aceitos arquivos digitalizados (scaneados) ou fotografias de exames. Nestes casos o usuário será contactado para refazer o upload com urgência, para que o processo de análise possa ser concluído em tempo hábil.","PASSE_VERDE_FAQS_QUESTION_4":"Como faço para refazer o upload dos documentos?","PASSE_VERDE_FAQS_ANSWER_4":"Para refazer o upload das imagens o usuário deve acessar sua conta Passe Verde com as credenciais fornecidas no momento de criação de conta e realizar o processo de upload novamente. Em caso de dúvidas você pode seguir o passo a passo inicial ou contar com nosso suporte.","PASSE_VERDE_FAQS_QUESTION_5":"Quais são os prazos de análise Passe Verde?","PASSE_VERDE_FAQS_ANSWER_5":"Os prazos mínimos para conclusão da análise pela nossa equipe são; 6 horas para os laudos PCR negativo e 24 horas para Laudos de recuperação clínica  ( RT-PCR positivo ou Sorologia IgG ).","PASSE_VERDE_FAQS_QUESTION_6":"O que devo fazer no momento do embarque?","PASSE_VERDE_FAQS_ANSWER_6":" Para o embarque no dia de sua viagem basta apresentar o seu Passe Verde,  acessando sua conta em seu celular. Não é necessário levar laudos impressos. Você receberá um email informativo confirmando a emissão do seu passe verde, no mesmo, constarão todas as informações que você precisa para embarcar.","PASSE_VERDE_FAQS_QUESTION_7":"O que devo fazer se não houver conexão à internet no momento do embarque / check in?","PASSE_VERDE_FAQS_ANSWER_7":"Recomendamos que o usuário salve a mensagem recebida quando da emissão com sucesso do Passe Verde. Este email contem o QR Code de seu Passe Verde que pode ser verificado mesmo se não houver conexão à internet. É importante que você se certifique que o seu programa de gerenciamento de emails baixe as imagens desta mensagem. Uma alternativa simples é fazer um printscreen da tela do Passe Verde emitido no seu smartphone, ele ficará salvo em fotos e nossa tecnologia permite a verificação offline ;)","PASSE_VERDE_FAQS_QUESTION_8":"Em quais situações o Passe Verde não pode ser emitido?","PASSE_VERDE_FAQS_ANSWER_8":"O Passe Verde não poderá ser emitido quando as informações fornecidas pelo usuário não forem suficientes para a verificação do atendimento ao protocolo Covid de Noronha. Isso pode ocorrer em caso de inconsistências de informações que não forem devidamente esclarecidas pelo usuário tais como data de validade dos laudos incompatível com a data de embarque, ou clínicas que não podem ser verificadas por nenhum meio (telefone, email, internet…), ou até mesmo em caso de evidência de adulteração de documentos.","PASSE_VERDE_FAQS_QUESTION_9":"O que devo fazer se o Passe verde não puder ser emitido? Posso viajar se meu Passe verde não for emitido?","PASSE_VERDE_FAQS_ANSWER_9":"Isso não deve ocorrer sem que você tenha sido contactado por email durante o processo de verificação, por esta razão pedimos para que fique atento à sua caixa de entrada e spam durante a análise. Caso, mesmo assim, não venha a ser possível emitir o seu Passe Verde, você será informado previamente. Nestes casos para prosseguir com sua viagem, você deve apresentar seus laudos impressos no momento do check-in no aeroporto para que a verificação seja feita presencialmente uma vez que a decisão sobre o ingresso à Ilha cabe às autoridades locais e equipes de operação em solo.","PASSE_VERDE_FAQS_QUESTION_10":"Posso solicitar  reembolso se meu Passe Verde não puder ser emitido?","PASSE_VERDE_FAQS_ANSWER_10":"O valor pago pelo serviço Passe Verde é cobrado para o processamento da análise prévia dos laudos apresentados pelo usuário. Desta maneira você tem a comodidade da realização antecipada deste procedimento, ao invés da conferência no balcão do check-in. Os casos onde o Passe Verde não pode ser emitido (Certificado Não Emitido) só chegarão a este resultado após a realização de todo o processo de análise e verificação, durante o qual todos os procedimentos foram cumpridos e todos os esforços de esclarecimento e correções  para emissão terem sido realizadas. Portanto, uma vez que os serviços foram prestados, não caberá reembolso se o Passe Verde não puder ser emitido nesta situação.","PASSE_VERDE_FAQS_QUESTION_11":"Como devo proceder se tiver adquirido o serviço Passe Verde para mais de um passageiro?","PASSE_VERDE_FAQS_ANSWER_11":"Todos os dependentes relacionados durante o preenchimento do formulário de pagamento da TPA Online terão contas individuais do Passe Verde, ou seja: Se, por exemplo, um responsável efetuar o pagamento da TPA Online indicando o seu filho como dependente, será criada uma conta para cada um, porém todos os emails de comunicação serão encaminhados para o responsável. As credenciais de acesso para cada uma das contas é enviada no seu email de boas vindas. O responsável deve fazer o upload dos documentos na conta Passe verde de cada viajante e será emitido um Passe Verde para cada viajante individualmente. A foto selfie do viajante é solicitada exclusivamente para fins de identificação no momento do check-in, caso o usuário não deseje realizar o upload de foto de seu dependente menor de idade, pode simplesmente fazer o upload da sua própria fotografia como responsável no campo de upload de selfie para estes casos específicos. Isso não acarretará em prejuízos para análise deste Passe Verde ou na hora do embarque.","PASSE_VERDE_FAQS_QUESTION_12":"Como posso entrar em contato em caso de dúvidas?","PASSE_VERDE_FAQS_ANSWER_12":" Nossa equipe de suporte pode ser contactada via Live Chat na aplicação Passe Verde | Immunie app.immunie.net de segunda a sexta das 6:00 as 18:00 hs, ou pelo telefone 0800 009 0033, das 07:00 às 17:00h, de segunda à sexta. Para casos urgentes, fora do horário de atendimento envie email para: passeverde.urgente@immunie.net","USER_FAQ_QUESTION_1":"Onde posso utilizar me Cartão Digital de Vacinação Immunie?","USER_FAQ_ANSWER_1":"Seu cartão de vacinaçao digital Immunie pode ser utilizado em qualquer lugar do mundo, da mesma maneira que você utiliza seu cartão de papel, agora com mais segurança e com a possibilidade de tradução automática para 12 idiomas.Seu cartão digital Immunie apresenta informações completas, com os dados de profissionais de saúde licenciados, incluindo o nome completo, número de registro e do lote da vacina.","USER_FAQ_QUESTION_2":"Qual a diferença do Cartão Digital de Vacinação para um cartão de papel?","USER_FAQ_ANSWER_2":"O Cartão Digital de Vacinação apresenta informações mais completas e precisas do que as que você encontra normalmente um cartão de papel. Seu cartão de vacinaçao digital Immunie traz todas as informações e credenciais do profissional de saúde e da clínica onde você recebeu a vacina e também a data e hora automáticamente registradas via timestamp, um registro imutável da informação fornecida. Além disso, as informações são claras e padrônizadas, enquanto em cartões de papel é muito comum os registros serem feitos à mão, com caligrafia de difícil compreensão e carimbos pouco legíveis.","USER_FAQ_QUESTION_3":"E se eu decidir não continuar, o que acontece com meus dados?","USER_FAQ_ANSWER_3":"Se você decidir não continuar utilizando os serviços, Immunie vai guardar seus dados por um período de 1 ano após o final do seu último plano. Neste período, você pode continuar consultando seus registros e, ao final deste prazo, será enviado um email para você com todos os seus dados em pdf.","USER_FAQ_QUESTION_4":"Vocês tem uma verão Android ou IOS?","USER_FAQ_ANSWER_4":"Trabalhamos com a tecnologia PWA (Progressive Web App) que permite que o seu aplicativo seja acessível em qualquer dispositivo, Android, IOS ou qualquer outro sistema operacional, com um browser e acesso à internet. Esta tecnologia é indicada para aplicações que são utilizadas menos de duas vezes por mês, como é o caso de cartões de vacinação. Desta maneira não ocupamos espaço na memória do seu telefone e seu sistema operacional não vai ficar sugerindo que apague o Immunie a cada limpeza ). No momento que você utilizar o Immunie pela primeira vez, o Google Chrome deve lhe sugerir automáticamente para salvar um atalho na tela do seu smartphone, basta aceitar para ter ele sempre à mão, em um toque, como qualquer outro App, sem ocupar memória ;)","USER_FAQ_QUESTION_5":"Aonde é obrigatória a apresentação da Carteira de Vacinação no Ato da Matrícula?","USER_FAQ_ANSWER_5":"O controle de vacinas, verificação de pendências e comunicação ao Conselho Tutelar e/ou Ministério Público é obrigação das escolas nos Estados da Bahia (Port. 01 SESAB/SEC 30/08/18), Ceará (Lei 16.929/19), Espirito Santo (Lei 10.913/18), Paraná (Lei 19.534/18), Pernambuco (Lei 13.770/09), Rio Grande do Sul (Lei 15.709/19), Santa Catarina (Lei 17.821/19), , São Paulo (Lei 17.252/20); e no Município do Rio de Janeiro (Lei 5.612/13). Na maior parte destes locais, esta obrigação se extende desde a creche até o final do Segundo Grau para alunos até os 18 anos de idade.","USER_FAQ_QUESTION_6":"Quais Estados e Municípios tem Leis sobre Carteira Eletrônica de Vacinação?","USER_FAQ_ANSWER_6":" A Carteira Eletrônica de Vacinação é lei nos Municípios de São Paulo, Osasco, Taubaté, São José dose Franco da Rocha/SP, Rio de Janeiro/RJ Goiânia/GO, Campo Grande/MS, Boa Vista/RR, Curitiba e Matinhos/PR, Manaus/AM, Porto Velho/RO, Bagé, Caxias e Passo Fundo/RS e Estado do Rio de Janeiro (Lei 8.487/19)."},"footer":{"SOCIAL_MEDIA_TEXT":"Redes Sociais"},"header":{"HCB_AREA_BTN_TEXT":"Clínicas","USER_AREA_BTN_TEXT":"Usuários"},"healthCarePage":{"HERO_LABEL":"SETOR DE SAÚDE","HERO_TITLE_1":"Sua clínica sempre","HERO_TITLE_2":"na mão do seu paciente","HERO_SUBTITLE":"Integre seu negócio de saúde com pacientes, escolas, companhias aéreas e laboratórios.","HERO_BTN_TEXT":"AGENDAR VISITA","FEATURES_CARD_1_TITLE":"Segurança","FEATURES_CARD_1_SUBTITLE":"Autenticação de dados com encriptação forte, servidores de padrão global e a segurança da tecnologia Blockchain. 100% de acordo com a LGPDP.","FEATURES_CARD_2_TITLE":"Sua Marca","FEATURES_CARD_2_SUBTITLE":"O logotipo da sua clínica sempre à mão do paciente no cartão digital de vacinas","FEATURES_CARD_3_TITLE":"É Lei","FEATURES_CARD_3_SUBTITLE":"Na maior parte do Brasil há obrigação legal de controle das vacinas pelas escolas públicas e/ou implantação de Carteira Digital de Vacinação.","FEATURES_CARD_4_TITLE":"Mais clientes","FEATURES_CARD_4_SUBTITLE":"Melhore sua taxa de retorno com lembretes automáticos no vencimento de novas vacinas.","FEATURES_LABEL":"NEGÓCIOS INTEGRADOS","FEATURES_TITLE":"Importância vital no mundo pós Covid-19.","FEATURES_SUBTITLE":"O controle Seguro e digital de imunizações passou a ter um novo papel.","FEATURES_PROPERTIES_1":"Conecte com empresas de transporte e grandes eventos","FEATURES_PROPERTIES_2":"Tradução automática para 12 idiomas","FEATURES_PROPERTIES_3":"Lembretes automáticos de retorno para novas imunizações via email e PUSH","FEATURES_BTN_TEXT":"COMEÇAR AGORA","ABOUT_LABEL":"MUITO MAIS RÁPIDO","ABOUT_TITLE":"Inserção direta de dados sem retrabalho.","ABOUT_SUBTITLE":"Ao inserir os dados de vacinação, sistema já insere a data e hora (timestamp), nome do profissional e dados da clínica de forma automática. Com uma só entrada, as informações estão disponíveis para o paciente e no seu log da clínica.","ABOUT_REVIEW_CARD_TITLE":"Com Immunie nós reduzimos a carga de trabalho de nossas secretárias e agilizamos o trabalho na recepção.","ABOUT_REVIEW_CARD_AVATAR_TITLE":"Dra. Adriana Saito","ABOUT_REVIEW_CARD_AVATAR_SUBTITLE":"Gerente de Clínica","NETWORK_LABEL":"MAIOR ALCANCE","NETWORK_TITLE":"Escolas, Empresas Aéreas e Eventos Esportivos.","NETWORK_SUBTITLE":"Faça parte de uma rede que conecta dados gerados por sua clínica ao seu paciente, escolas, empresas aéreas ou grandes eventos esportivos.","NETWORK_PROPERTIES_1":"Solução Cloud sem custo de implantação para as clínicas","NETWORK_PROPERTIES_2":" Integração de diferentes Aplicativos via API ","NETWORK_PROPERTIES_3":"Tradução automática para 12 Idiomas","NETWORK_PROPERTIES_4":"Emissão de Certificado de Vacinação eICV seguindo o modelo OMS","HOW_IT_WORKS_LABEL":"COMO FAZER PARTE","HOW_IT_WORKS_TITLE":"Como Funciona","HOW_IT_WORKS_ITEM_1_TITLE":"ADESÃO","HOW_IT_WORKS_ITEM_1_SUBTITLE":"Verificamos a regularidade, licenças e alvarás por nossa equipe de compliance em 24 horas.","HOW_IT_WORKS_ITEM_2_TITLE":"TREINAMENTO","HOW_IT_WORKS_ITEM_2_SUBTITLE":"O treinamento pode ser feito de forma presencial ou via vídeo. A sessão dura em torno de 1 hora e, depois disso, pode contar com nossa equipe de suporte.","HOW_IT_WORKS_ITEM_3_TITLE":"PRONTO","HOW_IT_WORKS_ITEM_3_SUBTITLE":"Pronto. A partir de agora sua clínica está integrada e conectada aos seus pacientes e outras fontes de originação de clientes.","HOW_IT_WORKS_BTN_TEXT":"SOLICITAR CONTATO","PRIVACY_LABEL":"PRIVACIDADE","PRIVACY_TITLE":"Padrão Global de Privacidade de Dados","PRIVACY_SUBTITLE":"Immunie foi construído de acordo com os mais elevados padrões de privacidade global, estando 100% de acordo com a LGPDP no Brasil, GDPR Europeu e CDPA California.","PRIVACY_BTN_TEXT":"Saber Mais","SUPPORT_GRID_1_TITLE":"Dúvidas?","SUPPORT_GRID_1_SUBTITLE":"Nossa seção de Perguntas e Respostas (FAQ) pode te ajudar.","SUPPORT_GRID_1_LEARN_MORE":"Consultar FAQ","SUPPORT_GRID_2_TITLE":"Customização","SUPPORT_GRID_2_SUBTITLE":"Precisa de uma solução customizada? Estamos à disposição para construir uma solução do seu jeito.","SUPPORT_GRID_2_LEARN_MORE":"Fale Conosco","SEE_ALSO_LABEL":"OUTROS PRODUTOS","SEE_ALSO_TITLE":"Conheça também","SEE_ALSO_ITEM_1_TITLE":"Immunie para você","SEE_ALSO_ITEM_1_AUTHOR":"Carteira Digital de Vacinação e Exames","SEE_ALSO_ITEM_1_DATE":"Saber mais","SEE_ALSO_ITEM_2_TITLE":"Setor Médico","SEE_ALSO_ITEM_2_AUTHOR":"Vacinas e Exames Certificados","SEE_ALSO_ITEM_2_DATE":"Saber mais","SEE_ALSO_ITEM_3_TITLE":"Laboratórios de exames","SEE_ALSO_ITEM_3_AUTHOR":"Resultados Seguros","SEE_ALSO_ITEM_3_DATE":"Saber Mais","SEE_ALSO_ITEM_4_TITLE":"Transporte de Passageiros","SEE_ALSO_ITEM_4_AUTHOR":"Integração com eTicket","SEE_ALSO_ITEM_4_DATE":"Saber mais","SEE_ALSO_ITEM_5_TITLE":"Administração pública","SEE_ALSO_ITEM_5_AUTHOR":"Saúde e Grandes Eventos","SEE_ALSO_ITEM_5_DATE":"Saber mais","SEE_ALSO_ITEM_6_TITLE":"Immunie Escolas","SEE_ALSO_ITEM_6_AUTHOR":"Controle de Vacinas","SEE_ALSO_ITEM_6_DATE":"Saber mais","STORY_LABEL":"NOSSA HISTÓRIA","STORY_TITLE":"Quem Somos","STORY_GRID_1_TITLE":"Quem somos?","STORY_GRID_1_SUBTITLE":"Somos uma start up selecionada para a incubadora da London Business School, edição 2020-2021. Nossa empresa foi  criada com a missão de salvar vidas ajudando as pessoas, profissionais de saúde e todos aqueles que atuam na gestão de saúde a controlar digitalmente doenças graves passíveis de imunização por vacinas. ","STORY_GRID_2_TITLE":"Por que Immunie?","STORY_GRID_2_SUBTITLE":"Com seus dados em dia, lembretes e alertas em seu smartphone e um calendário sempre atualizado, você sabe o que fazer para estar sempre protegido, sempre Immunie ;)","STORY_BTN_TXT":"SABER MAIS","REVIEWS_TITLE":"Trabalhamos com a melhor tecnologia e os melhores provedores de serviço no mercado global","REVIEWS_ITEM_1_AUTHOR":"Team Immunie","REVIEWS_ITEM_1_AUTHOR_OCCUPATION":"Londres, Reino Unido","REVIEWS_ITEM_1_AUTHOR_FEEDBACK":"Temos orgulho de fazer parte da edição 2020-2021 da Incubadora da London Business School, uma das melhores escolas de negócios do mundo.","REVIEWS_ITEM_2_AUTHOR":"Neil Patel","REVIEWS_ITEM_2_AUTHOR_OCCUPATION":"NP Digital","REVIEWS_ITEM_2_AUTHOR_FEEDBACK":" O Progressive Web Apps representa uma das maiores apostas de empresas como Google e Microsoft para o futuro.","REVIEWS_ITEM_3_AUTHOR":" AWS","REVIEWS_ITEM_3_AUTHOR_OCCUPATION":"Web Services","REVIEWS_ITEM_3_AUTHOR_FEEDBACK":" A infraestrutura em nuvem global mais segura, abrangente e confiável para aplicativos "},"indexPage":{"HOMEPAGE_MAIN_HEADER":"Carteira de Vacinação Digital Internacional","HOMEPAGE_MAIN_TXT":"Registros de vacinação certificados com tecnologia Blockchain. Guarde seus registros com segurança e compartilhe quando quiser com clínicas, escolas e viajando.","HOMEPAGE_COUNT_CARD_NUMBER_1":"12","HOMEPAGE_COUNT_CARD_TXT_1":"Idiomas","HOMEPAGE_COUNT_CARD_NUMBER_2":"34","HOMEPAGE_COUNT_CARD_TXT_2":"Países","HOMEPAGE_COUNT_CARD_NUMBER_3":"840","HOMEPAGE_COUNT_CARD_TXT_3":"Vacinas Locais","PEOPLE_TXT_TITLE":"PARA VOCÊ","PEOPLE_TXT_SUBTITLE":"Carteira de vacinação e saúde digital","PEOPLE_TXT_BTN":"Mais Info","CLINICS_TXT_TITLE":"CLÍNICAS","CLINICS_TXT_SUBTITLE":"Mais pacientes, menos papel","CLINICS_TXT_BTN":"Mais Info","LABS_TXT_TITLE":"EXAMES","LABS_TXT_SUBTITLE":"Resultados de exames autenticados digitalmente. Integração segura com cias aéreas e escolas.","LABS_TXT_BTN":"Mais Info","TRAVEL_TXT_TITLE":"CIAS AÉREAS","TRAVEL_TXT_SUBTITLE":"Check In digital com segurança","TRAVEL_TXT_BTN":"Mais Info","SCHOOLS_TXT_TITLE":"ESCOLAS","SCHOOLS_TXT_SUBTITLE":"Vacinas e saúde dos alunos","SCHOOLS_TXT_BTN":"Mais Info","MANAGERS_TXT_TITLE":"GESTORES","MANAGERS_TXT_SUBTITLE":"Saúde Pública – Eventos Esportivos – Shows e Festivais","MANAGERS_TXT_BTN":"Mais Info","HOMEPAGE_HCB_BUTTON":"CLÍNICAS","HOMEPAGE_USER_BUTTON":"Usuários","HOMEPAGE_ISOMETRIC_HEADER":"Immunie Blockchain","NAVIGATION_HERO_PRODUCT_PEOPLE_TITLE":"Pessoas","NAVIGATION_HERO_PRODUCT_PEOPLE_MAIN_TEXT":"Carteira Digital de Vacinação e Saúde","NAVIGATION_HERO_PRODUCT_PEOPLE_SUB_TEXT":"Segurança e comodidade para você e sua família.","NAVIGATION_HERO_PRODUCT_PEOPLE_BTN_TEXT":"MAIS INFO","NAVIGATION_HERO_PRODUCT_PEOPLE_LEARN_MORE":"Minha conta","NAVIGATION_HERO_PRODUCT_HEALTH_CARE_TITLE":"Clínicas","NAVIGATION_HERO_PRODUCT_HEALTH_CARE_MAIN_TEXT":"Trabalhando lado a lado com setor de saúde para servir melhor.","NAVIGATION_HERO_PRODUCT_HEALTH_CARE_SUB_TEXT":"Conecte sua clínica a pacientes, escolas e laboratórios","NAVIGATION_HERO_PRODUCT_HEALTH_CARE_BTN_TEXT":"MAIS INFO","NAVIGATION_HERO_PRODUCT_HEALTH_CARE_LEARN_MORE":"Registrar clínica","NAVIGATION_HERO_PRODUCT_EXAM_LABS_TITLE":"Laboratórios","NAVIGATION_HERO_PRODUCT_EXAM_LABS_MAIN_TEXT":"Ofereça a conexão de resultados com empresas aéreas e escolas para seus clientes.","NAVIGATION_HERO_PRODUCT_EXAM_LABS_SUB_TEXT":"Resultados autenticados via Blockchain","NAVIGATION_HERO_PRODUCT_EXAM_LABS_BTN_TEXT":"MAIS INFO","NAVIGATION_HERO_PRODUCT_EXAM_LABS_LEARN_MORE":"Cadastrar laboratório","NAVIGATION_HERO_PRODUCT_TRAVEL_TITLE":"Cias Aéreas","NAVIGATION_HERO_PRODUCT_TRAVEL_MAIN_TEXT":"Exames e controles médicos autenticados digitalmente via Blockchain.","NAVIGATION_HERO_PRODUCT_TRAVEL_SUB_TEXT":"Check In digital, rápido e seguro","NAVIGATION_HERO_PRODUCT_TRAVEL_BTN_TEXT":"MAIS INFO","NAVIGATION_HERO_PRODUCT_TRAVEL_LEARN_MORE":"Consultar Checkpoint","NAVIGATION_HERO_PRODUCT_SCHOOLS_TITLE":"Escolas","NAVIGATION_HERO_PRODUCT_SCHOOLS_MAIN_TEXT":"Gestão digital da Saúde dos seus Alunos.","NAVIGATION_HERO_PRODUCT_SCHOOLS_SUB_TEXT":"Vacinas, Ficha de Saúde, Contatos","NAVIGATION_HERO_PRODUCT_SCHOOLS_BTN_TEXT":"MAIS INFO","NAVIGATION_HERO_PRODUCT_SCHOOLS_LEARN_MORE":"Portal escolas","NAVIGATION_HERO_PRODUCT_MANAGERS_TITLE":"Administração","NAVIGATION_HERO_PRODUCT_MANAGERS_MAIN_TEXT":"Gestão digital de Saúde Pública e Grandes Eventos.","NAVIGATION_HERO_PRODUCT_MANAGERS_SUB_TEXT":"Mais segurança, menos custos.","NAVIGATION_HERO_PRODUCT_MANAGERS_BTN_TEXT":"MAIS INFO","NAVIGATION_HERO_PRODUCT_MANAGERS_LEARN_MORE":"Solicitar contato","PRIVACY_LABEL":"PRIVACIDADE","PRIVACY_TITLE":"Padrão Global de Privacidade de Dados","PRIVACY_SUBTITLE":"Immunie foi construído de acordo com os mais elevados padrões de privacidade global, estando 100% de acordo com a LGPDP no Brasil, GDPR Europeu e CDPA California.","PRIVACY_BTN_TEXT":"Saber Mais"},"labsPage":{"HERO_TITLE":"Conexão direta com pacientes e empresas aéreas","HERO_SUBTITLE_1":"Integre os resultados de exames e testes Covid-PCR diretamente com seus clientes de forma segura, com a tecnologia Blockhain.","HERO_SUBTITLE_2":"Preserve a autenticidade dos documentos emitidos pelo seu laboratório de forma eficiente e autenticação digital.","HERO_BTN_TEXT":"DOWNLOAD CATÁLOGO PDF","DESCRIPTION_TITLE":"Certificados de Viagem: Uma nova exigência do mercado","DESCRIPTION_SUBTITLE":"O mundo pós pandemia exige controles mais efetivos de saúde e imunização. A emissão dos resultados de seus exames pode ser feita de forma mais segura e com menores custos.","FEATURES_ITEM_1_TITLE":"Comunicação Direta","FEATURES_ITEM_1_SUBTITLE":" Envie mensagens individualizadas para cada seus clientes via email, SMS ou PUSH com lembretes e informações de resultados.","FEATURES_ITEM_2_TITLE":"Segurança e Privacidade","FEATURES_ITEM_2_SUBTITLE":" Autenticação de dados com encriptação forte, servidores de padrão global e a segurança da tecnologia Blockchain. 100% de acordo com a LGPDP. ","FEATURES_ITEM_3_TITLE":"Transformação Digital","FEATURES_ITEM_3_SUBTITLE":"Processos 100% digitais, mais seguros e contactless agregam valor ao seu negócio e ampliam sua base de clientes.","FEATURES_ITEM_4_TITLE":"Mais que um App","FEATURES_ITEM_4_SUBTITLE":"Immunie foi desenvolvido para integrar diferentes redes, aplicativos e plataformas através de API.","VIDEO_SECTION_TITLE":"Rede Integrada","VIDEO_SECTION_SUBTITLE":"Um ecossistema digital conectando seu laboratório de exames aos seus clientes, escolas, companhias aéreas e gestores de grandes eventos, 100% online, com a segurança da tecnologia Blockchain.","VIDEO_SECTION_BTN_1_TEXT":"CONTATO","VIDEO_SECTION_BTN_2_TEXT":"CATÁLOGO PDF","VIDEO_SECTION_OUR_SPONSORS":"A melhor tecnologia","ABOUT_ITEM_1_TITLE":"Comodidade para seu cliente","ABOUT_ITEM_1_SUBTITLE":"Resultado de exames integrado ao eTicket via App ou API.","ABOUT_ITEM_1_DESCRIPTION":"Faça parte de uma rede que permite que os dados gerados pelo seu laboratório sejam entregues em tempo real ao usuário, às empresas aéreas ou grandes eventos.","ABOUT_ITEM_2_TITLE":"Proteção contra fraudes","ABOUT_ITEM_2_SUBTITLE":"Evite o uso indevido da credibilidade dos seu laboratório","ABOUT_ITEM_2_DESCRIPTION":" Dados autenticados pela tecnologia Blockchain evitam a possibilidade de adulteração de certificado em papel ou PDFs.","ADVANTAGES_TITLE":"Vantagens","ADVANTAGES_SUBTITLE":"A tecnologia Immunie expande o alcance do seu negócio.","ADVANTAGES_ITEM_1_TITLE":"Testes Covid PCR certificados","ADVANTAGES_ITEM_1_DESCRIPTION":"Resultados compartilhados pelo cliente para geração do eTicket direto via App ou API.","ADVANTAGES_ITEM_1_AUTHOR":"EMPRESAS AÉREAS","ADVANTAGES_ITEM_2_TITLE":"Vacina na matricula é lei","ADVANTAGES_ITEM_2_DESCRIPTION":"Seja uma provedor de serviços integrado uma rede de alunos e escolas.","ADVANTAGES_ITEM_2_AUTHOR":"ESCOLAS","ADVANTAGES_ITEM_3_TITLE":"Sua marca sempre","ADVANTAGES_ITEM_3_DESCRIPTION":"Seja sempre lembrado com seu logo no cartão de vacinação digital do seu cliente.","ADVANTAGES_ITEM_3_AUTHOR":"ENGAJAMNETO","ADVANTAGES_ITEM_4_TITLE":"Atendimento VIP","ADVANTAGES_ITEM_4_DESCRIPTION":"Ofereça um serviço diferenciado com a integração de resultados ao sistema de ingressos eletrônicos via API.","ADVANTAGES_ITEM_4_AUTHOR":"EVENTOS ESPORTIVOS","ADVANTAGES_ITEM_5_TITLE":"Volta segura à normalidade","ADVANTAGES_ITEM_5_DESCRIPTION":"Comodidade para seus clientes participarem de eventos de negócios ou acadêmicos com segurança, sem filas.","ADVANTAGES_ITEM_5_AUTHOR":"CONGRESSOS E SEMINÁRIOS ","ADVANTAGES_ITEM_6_TITLE":"Multi Idiomas","ADVANTAGES_ITEM_6_DESCRIPTION":"Emita certificados de vacinação em 12 idiomas com tradução automática, sem complicação.","ADVANTAGES_ITEM_6_AUTHOR":"CARTEIRA DIGITAL DE SAÚDE","PRIVACY_TITLE_1":"Respeito","PRIVACY_TITLE_2":"à Privacidade","PRIVACY_SUBTITLE":"100% de acordo com as normas de privacidade mais avançadas no mundo.","PRIVACY_ITEM_1_AUTHOR":"Lei 13.709/2018","PRIVACY_ITEM_1_AUTHOR_OCCUPATION":"Brasil","PRIVACY_ITEM_1_AUTHOR_FEEDBACK":"100% de acordo com a Lei Geral de Proteção de Dados Pessoais (LGPDP).","PRIVACY_ITEM_2_AUTHOR":"GDPR EU 2016/679","PRIVACY_ITEM_2_AUTHOR_OCCUPATION":"União Européia","PRIVACY_ITEM_2_AUTHOR_FEEDBACK":"Atende a todos os requisitos do Regulamento Geral de Proteção de Dados Europeu (RPPD/GDPR).","PRIVACY_ITEM_3_AUTHOR":"CCPA 2018","PRIVACY_ITEM_3_AUTHOR_OCCUPATION":"Estado da Califórnia, EUA","PRIVACY_ITEM_3_AUTHOR_FEEDBACK":"Implementado de acordo com o California Consumer Privacy Act (CCPA). ","PRIVACY_BTN_TEXT":"POLÍTICA DE PRIVACIDADE"},"managersPage":{"HERO_TITLE":"Carteira Digital de Vacinação e Gestão de Imunização","HERO_SUBTITLE_1":"Gestão digital com tecnologia blockchain para controle seguro de vacinação e grandes eventos.","HERO_SUBTITLE_2":"Serviço tipo cloud de implantação rápida, sem necessidade de investimento em equipamentos ou compra de licenças","HERO_BTN_TEXT":"DOWNLOAD CATÁLOGO PDF","DESCRIPTION_TITLE":"Brasil: Legislação avançada no setor","DESCRIPTION_SUBTITLE":"A legislação Brasileira está à frente da maior parte das grandes nações na digitalização e controle de imunização. A maior parte de nossa população vive em estados ou municípios com leis que determinam a implantação da Carteira Digital de Vacinação ou controle no ato da matrícula escolar.","PROMO_NUMBERS_ITEM_1_TITLE":"Cidadãos","PROMO_NUMBERS_ITEM_2_TITLE":"Municípios","PROMO_NUMBERS_ITEM_3_TITLE":"Estados","ADVANTAGES_ITEM_1_TITLE":"Comunicação Direta","ADVANTAGES_ITEM_1_SUBTITLE":" Envie mensagens individualizadas para cada cidadão via email, SMS ou PUSH com lembretes de vacinas e informações de saúde.","ADVANTAGES_ITEM_2_TITLE":"Segurança","ADVANTAGES_ITEM_2_SUBTITLE":" Autenticação de dados com encriptação forte, servidores de padrão global e a segurança da tecnologia Blockchain. 100% de acordo com a LGPDP. ","ADVANTAGES_ITEM_3_TITLE":"Rastreabilidade","ADVANTAGES_ITEM_3_SUBTITLE":" Políticas efetivas com rastreabilidade total permitindo a atribuição do número de série de cada vacina ao usuário final.","ADVANTAGES_ITEM_4_TITLE":"Sem Disperdício","ADVANTAGES_ITEM_4_SUBTITLE":" Elimine os canais de fraude e desperdício e economize com melhor gestão de estoque na ponta.","VIDEO_SECTION_TITLE":"Mais do que um App","VIDEO_SECTION_SUBTITLE":"Immunie é uma rede que integra toda a comunidade desde os cidadãos, profissionais de saúde, a rede de ensino e a Administração, com a segurança da tecnologia Blockchain.","VIDEO_SECTION_BTN_1_TEXT":"CONTATO","VIDEO_SECTION_BTN_2_TEXT":"CATÁLOGO PDF","VIDEO_SECTION_OUR_SPONSORS":"A melhor tecnologia","ABOUT_ITEM_1_TITLE":"Tudo na sua tela","ABOUT_ITEM_1_SUBTITLE":"Número de série de cada vacina atribuída ao nível individual.","ABOUT_ITEM_1_DESCRIPTION":"Informações detalhadas, em tempo real, na sua tela de forma clara e intuitiva. Inteligência Artificial e segurança da informação a serviço da gestão de saúde.","ABOUT_ITEM_2_TITLE":"Interface universal para o cidadão","ABOUT_ITEM_2_SUBTITLE":"Disponível em qualquer sistema operacional","ABOUT_ITEM_2_DESCRIPTION":" Utilizamos a tecnologia PWA para permitir que cada cidadão possa utilizar a aplicação em qualquer dispositivo móvel ou computador com acesso a internet.","FEATURES_TITLE":"Funcionalidades","FEATURES_SUBTITLE":"Sistema pronto, testado, em produção.","FEATURES_LEARN_MORE_TITLE":"Agende uma demonstração","FEATURES_ITEM_1_TITLE":"Logística de Vacinação","FEATURES_ITEM_1_DESCRIPTION":"Campanhas eficientes com programação por grupos, rastreabilidade das vacinas aplicadas e contato pós vacina.","FEATURES_ITEM_1_AUTHOR":"FILA ORGANIZADA","FEATURES_ITEM_2_TITLE":"Autenticação Blockchain","FEATURES_ITEM_2_DESCRIPTION":"Garantia de integridade de dados e combate a fraudes e com respeito a privacidade do cidadão.","FEATURES_ITEM_2_AUTHOR":"ENCRIPTAÇÃO DE DADOS","FEATURES_ITEM_3_TITLE":"Integração com escolas","FEATURES_ITEM_3_DESCRIPTION":"Sua administração.","FEATURES_ITEM_3_AUTHOR":"ENSINO E SAÚDE","FEATURES_ITEM_4_TITLE":"Lembretes Automáticos","FEATURES_ITEM_4_DESCRIPTION":"Upsell Social WiFi as a Service to business Internet subscribers.","FEATURES_ITEM_4_AUTHOR":" EMAIL E MENSAGENS ","FEATURES_ITEM_5_TITLE":"Certificados de Vacinação","FEATURES_ITEM_5_DESCRIPTION":"Emissão do eICV (Certificado Internacional de Vacinação eletrônico) com autenticação via Blockchain, emitido de acordo com o modelo OMS.","FEATURES_ITEM_5_AUTHOR":"AEROPORTOS E FRONTEIRAS","FEATURES_ITEM_6_TITLE":"Multi Idiomas","FEATURES_ITEM_6_DESCRIPTION":"Todas as funcionalidades do sistema estão disponíveis em 12 idiomas. 34 calendários nacionais na base de dados.","FEATURES_ITEM_6_AUTHOR":"CIDADANIA GLOBAL","PRIVACY_TITLE_1":"Respeito","PRIVACY_TITLE_2":"à Privacidade","PRIVACY_SUBTITLE":"100% de acordo com as normas de privacidade mais avançadas no mundo.","PRIVACY_ITEM_1_AUTHOR":"Lei 13.709/2018","PRIVACY_ITEM_1_AUTHOR_OCCUPATION":"Brasil","PRIVACY_ITEM_1_AUTHOR_FEEDBACK":"100% de acordo com a Lei Geral de Proteção de Dados Pessoais (LGPDP).","PRIVACY_ITEM_2_AUTHOR":"GDPR EU 2016/679","PRIVACY_ITEM_2_AUTHOR_OCCUPATION":"União Européia","PRIVACY_ITEM_2_AUTHOR_FEEDBACK":"Atende a todos os requisitos do Regulamento Geral de Proteção de Dados Europeu (RPPD/GDPR).","PRIVACY_ITEM_3_AUTHOR":"CCPA 2018","PRIVACY_ITEM_3_AUTHOR_OCCUPATION":"Estado da Califórnia, EUA","PRIVACY_ITEM_3_AUTHOR_FEEDBACK":"Implementado de acordo com o California Consumer Privacy Act (CCPA). ","PRIVACY_BTN_TEXT":"POLÍTICA DE PRIVACIDADE"},"mediaAssetsPage":{"HERO_TITLE":"Media Assets","BRAND_GUIDELINES_TITLE":"Brand Guidelines","BRAND_GUIDELINES_SUB_TITLE":"Diretrizes da Marca e Logotipo","BRAND_GUIDELINES_ITEM_1_TITLE":"Immunie Logo","BRAND_GUIDELINES_ITEM_1_TEXT":"O logo Immunie está sujeito a autorização prévia e expressa, devendo sempre ser utilizado de acordo com as diretrizes de marca (Brand Guidelines)","BRAND_GUIDELINES_ITEM_1_DISCLAIMER":"Copyright Immunie 2021","BRAND_GUIDELINES_ITEM_2_TITLE":"Diretrizes da Marca","BRAND_GUIDELINES_ITEM_2_TEXT":"O material de diretrizes de marca Immunie está disponível para referência e não pode ser reproduzido sem autorização da empresa.","BRAND_GUIDELINES_ITEM_2_DISCLAIMER":"Copyright Immunie 2021","CATALOGS_TITLE":"Catálogos e Folhetos","CATALOGS_ITEM_1_TITLE":"Setor de Saúde","CATALOGS_ITEM_2_TITLE":"Educação","CATALOGS_ITEM_3_TITLE":"Setor Público","CATALOGS_ITEM_4_TITLE":"Laboratórios","CATALOGS_ITEM_5_TITLE":"Cias Aérias","CATALOGS_ITEM_6_TITLE":"Legislação","CALENDARS_TITLE":"Calendários","CALENDARS_ITEM_1_TITLE":"PNI/MS","CALENDARS_ITEM_1_TEXT":"Repositório de conteúdo de domínio público publicado pelo Ministério da Saúde e obtido através de download em  Jan/2021","CALENDARS_ITEM_1_DISCLAIMER":"Conteúdo de responsabilidade e propriedade do Minisério da Saúde","CALENDARS_ITEM_2_TITLE":"SBIm","CALENDARS_ITEM_2_TEXT":"Repositório de conteúdo de domínio público disponibilizado pela SBIm via download em Jan/2021","CALENDARS_ITEM_2_DISCLAIMER":"Conteúdo de responsabilidade e propriedade da SBIm","CALENDARS_ITEM_3_TITLE":"SBP","CALENDARS_ITEM_3_TEXT":"Repositório de conteúdo de domínio público publicado SBP via web e obtido via download em Jan/2021","CALENDARS_ITEM_3_DISCLAIMER":"Conteúdo de responsabilidade e propriedade da SBP","INFOGRAPHIC_TITLE":"Infográfico","INFOGRAPHIC_CARD_TITLE":"Immunie Blockchain","INFOGRAPHIC_CARD_TEXT":"Infográfico do conceito da rede Immunie Blockchain. Conteúdo meramente ilustrativo.","INFOGRAPHIC_CARD_DISCLAIMER":"Copyright Immunie 2021"},"passeVerdePage":{"DIGITAL_VACCINATION_CARD":"• Check-in Digital Covid-19","PASSE_VERDE":"Passe Verde","HERO_DESCRIPTION_1_1":"Com a tecnologia ","HERO_DESCRIPTION_1_2":", você pode enviar seu cartão de vacinas ou resultado de COVID-19 através de upload direto de sua casa, escritório ou celular. Desta forma, a verificação dos dados é realizada previamente à sua chegada ao local do 'check-in' ou evento, de forma digital e segura. Sem estresse na hora de entrar, sem surpresas, evitando filas e aglomerações.","HERO_DESCRIPTION_2_1":"A solução Passe Verde Immunie elimina a pressão e riscos do controle de protocolos COVID-19 nos portões de acesso a embarques e eventos.","HERO_DESCRIPTION_2_2":"Viagens, Eventos Esportivos e Shows com mais facilidade e segurança utilizando o serviço de verificação digital.","HOW_IT_WORKS_TITLE":"Como funciona","FOLLOW_STEPS":"Siga o passo a passo para ativar seu Passe Verde","STEP_1_TITLE":"Você faz o upload","STEP_1_DESCRIPTION":"Envie o resultado do seu teste ou cartão de vacina pelo computador ou celular","STEP_2_TITLE":"Analisamos as informações","STEP_2_DESCRIPTION":"Nossa equipe já verifica se está tudo certo para o seu acesso","STEP_3_TITLE":"O certificado é emitido","STEP_3_DESCRIPTION":"Pronto! Agora sua entrada já está com o Passe Verde","ACTIVATE_PASSE_VERDE":"Ative seu Passe Verde","CHECK_IN_DIGITAL_TITLE":"Estamos na Ilha de Fernando de Noronha","CHECK_IN_DIGITAL_TEXT_1":"O ","CHECK_IN_DIGITAL_TEXT_2":" está disponível para os visitantes da Ilha de Fernando de Noronha, podendo ser adquirido na hora do pagamento da TPA Online. Com o serviço ","CHECK_IN_DIGITAL_TEXT_3":", os viajantes já podem enviar os documentos exigidos pelo novo protocolo COVID-19 da Ilha. ","CHECK_IN_DIGITAL_TEXT_4":"Todos os visitantes que optarem pelo Passe Verde, não precisam mais se preocupar em levar uma via impressa do laudo de exame RT-PCR ou Sorologia IgG para verificação na hora do embarque.","CHECK_IN_DIGITAL_TEXT_5":"A partir de agora você já pode fazer o upload da sua casa, escritório ou celular, previamente, deixando este trabalho por conta da tecnologia Passe Verde Immunie. Nós cuidamos das verificações, retornando as informações autenticadas no seu Passe Verde acessível no seu smartphone ou email.","CHECK_IN_DIGITAL_TEXT_6":"Sem estresse na hora de embarcar, sem surpresas. Viajar assim é melhor.","ACESS_SOU_NORONHA":"Acesse Sou Noronha","PRIVACY_SECTION_TITLE":"Segurança \u0026 Privacidade","PRIVACY_SECTION_TEXT_1":"O Passe Verde Immunie utiliza tecnologia para trazer de volta a segurança e normalidade ao processo de controle de acesso sem comprometer sua privacidade.","PRIVACY_SECTION_TEXT_2":" A solução realiza a verificação prévia das informações enviadas pelo cliente, seja ele turista, torcedor ou expectador, retornando ao organizador as informações já certificadas. Tudo isso de forma segura, via API com encriptação SHA 256, integrada com o sistema de emissão de tickets 100% de acordo com a LGPD.","GLOBAL_SECTION_TITLE":"Padrão global de gerenciamento e serviços","GLOBAL_SECTION_SUBTITLE":"Trabalhamos com a melhor tecnologia e os melhores prestadores de serviços do mercado global."},"passeVerdeSteps":{"TITLE":"Nosso sistema indica que sua viagem será amanhã.","SUBTITLE":"Ainda não recebemos seu upload para poder prosseguir com a emissão de seu ","PASSE_VERDE":"Passe Verde","STEPS_TITLE":"ATIVE AGORA SEU PASSE VERDE EM APENAS","STEPS_SUBTITLE":"5 PASSOS","STEP_1_TITLE":"Acesse sua conta com as credenciais recebidas.","STEP_1_TEXT_1":"Acesse sua conta no link abaixo:","STEP_1_TEXT_2":"E faça o login utilizando seus dados de acesso recebidos no seu email de boas vindas.","STEP_2_TITLE":"Ao fazer o 'login', clique no Passe Verde - Ativar","STEP_3_TITLE":"Selecione o botão verde, ‘Upload de Documentos’","STEP_4_TITLE":"Informe o tipo de laudo de exame e confirme","STEP_5_TITLE":"Faça o upload do arquivo pdf original do laudo de teste RT-PCR ou Sorologia IgG e de uma foto tipo selfie recente.","DEADLINES_TITLE":"Após o recebimento dos arquivos legíveis, nossa equipe iniciará a verificação.","DEADLINES_SUBTITLE":"Os prazos mínimos de resposta são:","DEADLINES_TEXT_1":"Laudos RT-PCR Negativo: 6 horas.","DEADLINES_TEXT_2":"Laudos de recuperação clínica, RT-PCR Positivo ou Sorologia IgG: 24 horas."},"peoplePage":{"HERO_TITLE":"Carteira digital de vacinação e saúde","HERO_SUBTITLE":"Mantenha seus registros atualizados online. Controle o acesso a suas informações de forma segura no seu médico, escolas ou quando for viajar.","HERO_BTN_TEXT":"COMEÇAR AGORA","WHY_DIGITAL_WALLET_TITLE":"Por que uma Carteira Digital?","WHY_DIGITAL_WALLET_SUBTITLE":"Seus registros de vacinas sempre seguros e certificados.","WHY_DIGITAL_WALLET_TITLE_ITEM_1":"Seguro","WHY_DIGITAL_WALLET_SUBTITLE_ITEM_1":"Não se preocupe mais em guardar cartões de papel com um registro digital seguro.","WHY_DIGITAL_WALLET_TITLE_ITEM_2":"Inteligente","WHY_DIGITAL_WALLET_SUBTITLE_ITEM_2":"Sempre que o calendário oficial de vacinação é alterado, sua Carteira Digital é atualizada automaticamente.","WHY_DIGITAL_WALLET_TITLE_ITEM_3":"Sempre em dia","WHY_DIGITAL_WALLET_SUBTITLE_ITEM_3":"Saiba antes quando você deve tomar sua próxima vacina com lembretes por mensagem e email.","PRIVACY_TITLE":"Privacidade em Primeiro Lugar","PRIVACY_SUBTITLE":"Immunie foi construído de acordo com os mais elevados padrões de privacidade global, estando 100% de acordo com a Lei Geral de Proteção de Dados Pessoais no Brasil (LGPDP – Lei 13.709/18), Regulamento Geral de Proteção de Dados Europeu (GDPR EU 2016/679) e California Data Protection Act (CDPA / 2018).","PRIVACY_BTN_TEXT":"SABER MAIS","PRIVACY_CARD_TITLE":"","PRIVACY_AVATAR_PRIMARY":"","PRIVACY_AVATAR_SECONDARY":"","HOW_IT_WORKS_TITLE":"COMO FUNCIONA","HOW_IT_WORKS_SUBTITLE":"Fácil, simples e sem a necessidade de mais um aplicativo ocupando memória em seu telefone. ","HOW_IT_WORKS_TITLE_ITEM_1":"CRIE SUA CONTA","HOW_IT_WORKS_SUBTITLE_ITEM_1":"Crie sua conta online em menos de 1 minuto clicando aqui.","HOW_IT_WORKS_TITLE_ITEM_2":"ESCOLHA SEU PLANO","HOW_IT_WORKS_SUBTITLE_ITEM_2":"Quando fizer seu primeiro acesso, você deve escolher o seu plano. ","HOW_IT_WORKS_TITLE_ITEM_3":"COMEÇE A USAR","HOW_IT_WORKS_SUBTITLE_ITEM_3":"Pronto! Já pode começar a utilizar, consultar o calendário de vacinação atualizado e compartilhar seu cartão com sua escola. Seja bem vindo!","WHERE_TO_USE_TITLE":"Aonde usar","WHERE_TO_USE_SUBTITLE":"Torne sua vida mais fácil com Immunie. Sem papel, sem preocupações.","WHERE_TO_USE_TAG_ITEM_1":"CLÍNICAS","WHERE_TO_USE_TITLE_ITEM_1":"Basta conectar sua carteira digital à sua clínica para que seu médico possa fazer o registro de novas vacinas","WHERE_TO_USE_TAG_ITEM_2":"ESCOLAS","WHERE_TO_USE_TITLE_ITEM_2":"Compartilhe o cartão de vacinação, fiche de saúde, alergias e contatos de emergência em um clique.","WHERE_TO_USE_TAG_ITEM_3":"VIAJANDO","WHERE_TO_USE_TITLE_ITEM_3":"Você decide quando enviar resultados de seus exames para companhias aéreas por via digital, permitindo o Check In online.","WHERE_TO_USE_TAG_ITEM_4":"EVENTOS ESPORTIVOS","WHERE_TO_USE_TITLE_ITEM_4":"Evite filas e aglomerações conectando o resultado de testes com o emissor do ingresso eletrônico.","WHERE_TO_USE_RIGTH_CARD_1_TITLE":"O que diz a Legislação?","WHERE_TO_USE_RIGTH_CARD_1_SUBTITLE":"Confira aqui a lista de Estados e Municípios com leis sobre carteira digital de vacinação e apresentação na matrícula.","WHERE_TO_USE_RIGTH_CARD_1_BTN_TEXT":"SABER MAIS","WHERE_TO_USE_RIGTH_CARD_2_TITLE":"Confira os principais Calendários de Vacinação","WHERE_TO_USE_RIGTH_CARD_2_BTN_TEXT":"CONFIRA AQUI","BLOCKCHAIN_TECH_TITLE":"Tecnologia Blockchain","BLOCKCHAIN_TECH_SUBTITLE":"A autenticação dos registros de vacinação inseridos na sua Carteira Digital de Vacinação e Saúde Immunie utiliza dois níveis de encriptação para garantir a autenticidade dos dados, preservando sua privacidade.","BLOCKCHAIN_TECH_ITEM_1":"Disponíbilidade Global","BLOCKCHAIN_TECH_ITEM_2":"Applicação Mobile e Web","BLOCKCHAIN_TECH_ITEM_3":"Tecnologia PWA em qualquer smartphone","INTEGRATION_TITLE":"Padrão global de gestão e serviços","INTEGRATION_SUBTITLE":"Trabalhamos com a melhor tecnologia e os melhores provedores de serviço no mercado global.","INTEGRATION_ITEM_1_TITLE":"LBS Incubator","INTEGRATION_ITEM_1_SUBTITLE":"Temos orgulho de fazer parte da edição 2020-2021 da Incubadora da London Business School, uma das melhores escolas de negócios do mundo.","INTEGRATION_ITEM_2_TITLE":"Amazon Web Services","INTEGRATION_ITEM_2_SUBTITLE":"A infraestrutura em nuvem global mais segura, abrangente e confiável para aplicativos.","INTEGRATION_ITEM_3_TITLE":"PWA","INTEGRATION_ITEM_3_SUBTITLE":"O Progressive Web Apps representa uma das maiores apostas de empresas como Google e Microsoft para o futuro.","PRICING_TITLE":"Nossos Planos","PRICING_SUBTITLE":"Fique sempre em dia, guarde seus registros com segurança, controle suas permissões, e utilize seu cartão digital de vacinação em qualquer lugar do mundo.","PRICING_CARD_1_TITLE":"Starter","PRICING_CARD_1_SUBTITLE":"Começe a usar agora","PRICING_CARD_1_FEATURE_1":"Calendário de Vacinação Atualizado","PRICING_CARD_1_FEATURE_2":"Integração com escolas","PRICING_CARD_1_FEATURE_3":"Ficha de Saúde","PRICING_CARD_1_FEATURE_4":"Contatos de Emergência","PRICING_CARD_1_FEATURE_5":"Carteira de Exames","PRICING_CARD_1_DISCLAIMER":"","PRICING_CARD_2_TITLE":"Full","PRICING_CARD_2_SUBTITLE":"A pay-once license, just for you","PRICING_CARD_2_FEATURE_1":"Todos os recursos do Plano Starter","PRICING_CARD_2_FEATURE_2":"Lembretes por email e PUSH","PRICING_CARD_2_FEATURE_3":"Integração com clínicas","PRICING_CARD_2_FEATURE_4":"Carteira Digital de Vacinação","PRICING_CARD_2_FEATURE_5":"Autenticação Blockchain","PRICING_CARD_2_DISCLAIMER":"Experimente grátis por 90 dias","PRICING_CARD_3_TITLE":"Premium","PRICING_CARD_3_SUBTITLE":"Sua carteira no Brasil e no Exterior","PRICING_CARD_3_FEATURE_1":"Todos os recursos do Plano Full","PRICING_CARD_3_FEATURE_2":"12 idiomas","PRICING_CARD_3_FEATURE_3":"Certificado Internacional","PRICING_CARD_3_FEATURE_4":"Exames Certificados","PRICING_CARD_3_FEATURE_5":"Testes para viajem","PRICING_CARD_3_DISCLAIMER":" Experimente grátis por 90 dias","PRICING_CARDS_CTA_BTN_TEXT":"CRIAR MINHA CONTA","VACCINATION_PROGRAM_TITLE":"Programas de Vacinação no Brasil","VACCINATION_PROGRAM_SUBTITLE":"Além do Calendário de Vacinação divulgado pelo Ministério da Saúde como diretriz para o Programa Nacional de Imunização, o Brasil também tem como referências os calendários da Sociedade Brasileira de Pediatria e da Sociedade Brasileira de Imunologia.","VACCINATION_PROGRAM_BTN_TEXT":"SABER MAIS","VACCINATION_PROGRAM_ITEM_1_TITLE":"Calendário Nacional de Vacinação 2020","VACCINATION_PROGRAM_ITEM_1_SUBTITLE_1":"PNI","VACCINATION_PROGRAM_ITEM_1_SUBTITLE_2":"MS","VACCINATION_PROGRAM_ITEM_2_TITLE":"Calendário de Vacinação a SBP","VACCINATION_PROGRAM_ITEM_2_SUBTITLE_1":"SBP","VACCINATION_PROGRAM_ITEM_2_SUBTITLE_2":"2020","VACCINATION_PROGRAM_ITEM_3_TITLE":" Calendário Único SBIm ","VACCINATION_PROGRAM_ITEM_3_SUBTITLE_1":"2020","VACCINATION_PROGRAM_ITEM_3_SUBTITLE_2":" Sociedade Brasileira de Imunização ","WHICH_PLAN_TITLE":"Qual o melhor plano para mim?","WHICH_PLAN_SUBTITLE":"Comece.","WHICH_PLAN_CARD_1_TITLE":"Starter","WHICH_PLAN_CARD_1_SUBTITLE":"Calendário sempre atualizado e integração com escolas de forma segura.","WHICH_PLAN_CARD_1_BTN_TEXT":"SABER MAIS","WHICH_PLAN_CARD_2_TITLE":"Premium","WHICH_PLAN_CARD_2_SUBTITLE":"Guarde suas informações, receba lembretes e viaje tranquilo com certificados traduzidos para 12 idiomas","WHICH_PLAN_CARD_2_BTN_TEXT":"TESTE GRÁTIS"},"privacyPolicyPage":{"PRIVACY_POLICY_PAGE_HEADER_1":"Política de Privacidade","PRIVACY_POLICY_PAGE_TXT_1":"Atualizado em 02.02.2021","PRIVACY_POLICY_PAGE_HEADER_2":"Política de Privacidade","PRIVACY_POLICY_PAGE_TXT_2":"Na Immunie temos a privacidade como um valor fundamental e o desenvolvimento de nosso sistema foi guiado pelo conceito de privacidade desde o design em nossas mentes desde o início. É muito importante que você leia atentamente esta Política de Privacidade antes de se inscrever aos nossos serviços. Se você tiver alguma pergunta ou dúvida em relação a esta política de privacidade, sinta-se à vontade para nos enviar uma mensagem para privacy@immunie.net. A menos que você tenha lido e concordado com esta política de privacidade, você não deve usar o nosso serviços. Trabalhamos muito para cumprir o Regulamento Geral de Proteção de Dados (GDPR) e a Lei de Proteção de Dados 2018 (DPA), esta política deve expressá-lo. Esta política explica como usamos seus dados pessoais e como trabalhamos com seus dados. que você pode fazer escolhas informadas e estar no controle de suas informações. Podemos atualizar esta política de tempos em tempos e, se fizermos quaisquer alterações materiais, iremos notificá-lo quando o fizermos. Forneceremos a você a oportunidade de ver essas mudanças. Ao continuar a usar nossos produtos e serviços após as alterações terem sido feitas e nós o tivermos notificado sobre elas, a maneira como usamos seus dados pessoais estará sujeita aos termos da política atualizada. Esta política explica como usamos seus dados pessoais para nossos produtos e serviços de registros digitais de vacinação. Ele também rege o uso de seus dados por meio de nosso Progressive WebApp ou de qualquer um de nossos sites, incluindo o site Immunie e o site Immunie em questão (e qualquer referência ao nosso Aplicativo nesta política também deve incluir uma referência aos nossos sites). ","PRIVACY_POLICY_PAGE_HEADER_3":"Sobre Immunie","PRIVACY_POLICY_PAGE_TXT_3":"Immunie é um serviço prestado por KIPR Blockchain Ltd , uma empresa registrada na Inglaterra. A sede social e principal local de negócios de nossa empresa é Kipr Blockchain Kemp House 152-160 City Road, London, England, EC1V 2NX. Registros de vacinação da Immunie, App e A emissão e-ICV são serviços digitais fornecidos pela Immunie sob um acordo de subcontrato por meio de empresas de saúde afiliadas, como hospitais, maternidades, clínicas de vacinação, clínicas de vacinação em viagens e outras entidades licenciadas e autorizadas. Quando esta política falar sobre 'Immunie', ' nós 'ou' nós ', significa os serviços Immunie fornecidos por KIPR Blockchain Ltd. Não fornecemos seus dados a outras empresas e a arquitetura e o design do software Immunie foram desenvolvidos para garantir que nenhum dado pessoal seja compartilhado sem o seu prévio e consentimento expresso. Immunie é o controlador dos seus dados pessoais fornecidos a, ou recolhidos por, ou para, ou processados ​​em ligação com os nossos serviços. A sua relação é sagaz h Immunie. Se, por exemplo, você deseja acessar seus dados, Immunie é a entidade para a qual você faria essa solicitação.0 ","PRIVACY_POLICY_PAGE_HEADER_4":"Sobre os dados que mantemos e como são obtidos","PRIVACY_POLICY_PAGE_TXT_4":"Usamos as seguintes categorias de dados pessoais:","PRIVACY_POLICY_PAGE_HEADER_5":"(I) Dados pessoais","PRIVACY_POLICY_PAGE_TXT_5":"Ao se registrar na Immunie, você preenche formulários e nos fornece informações básicas sobre você, como seu nome, data de nascimento, endereço físico e endereço de e-mail. Você também nos fornecerá uma cópia da documentação de identificação para Verificações de identidade a serem realizadas por um de nossos parceiros comerciais. Você é responsável pela exatidão das informações que nos fornece. ","PRIVACY_POLICY_PAGE_HEADER_6":"(II) Informações médicas e de saúde","PRIVACY_POLICY_PAGE_TXT_6":"O principal tipo de informação que temos sobre você são os registros de vacinação: as vacinas que você tomou, o fabricante dessas vacinas, o número do lote, a clínica e o profissional de saúde que as aplicou, sua localização e a hora e data já aconteceu. Isso inclui detalhes de suas consultas com médicos e interações com nossos serviços digitais, incluindo interações com nosso chatbot, mensagens e histórico de ações dentro do aplicativo, você também pode fornecer uma foto digital de seu antigo cartão de vacinação em papel. Suas interações com nossos serviços digitais podem ser compartilhadas com médicos apenas se você permitir o acesso a eles compartilhando o código de 6 dígitos gerado por seu aplicativo. Algumas dessas informações podem ser obtidas diretamente de você, quando você se registra conosco e quando usa nossos serviços .Se você usar nosso Immunie e enviar uma foto digital de seu antigo cartão de vacinação em papel, receberemos seu histórico médico de vacinas recebidas anteriormente. a resposta que recebemos de você é enviada eletronicamente para seu registro de back-office do Immunie. Retemos gravações de nossas interações com você. Isso pode incluir o uso de nosso serviço de chatbot, gravações de vídeo e áudio ou gravações apenas de áudio. Isso é para lhe oferecer um melhor serviço e suporte que você deseja, para que possamos garantir um atendimento de alta qualidade a você e, com o seu consentimento, para que possamos aprender com eles para melhorar nossos serviços. Para monitorar a qualidade do nosso serviço, podemos manter registros de quando você entra em contato com nossas equipes de suporte via e-mail, telefone ou nosso serviço de chat interativo ao vivo no aplicativo. As gravações são mantidas com segurança de acordo com nossa política de retenção. Você pode acessar gravações ou transcrições de suas consultas ou interações conosco (dependendo do formato) por um tempo limitado por meio do aplicativo ou de nós. Consulte a seção 'Períodos de retenção' desta política. ","PRIVACY_POLICY_PAGE_HEADER_7":"(III) Informações financeiras","PRIVACY_POLICY_PAGE_TXT_7":"Se você fizer qualquer pagamento no aplicativo, os detalhes do seu cartão de crédito / débito serão processados ​​diretamente por um processador terceirizado que armazenará todas as informações de pagamento e detalhes da transação. Apenas reteremos detalhes das transações em servidores seguros e nós não reterá as informações do seu cartão de crédito ou débito. ","PRIVACY_POLICY_PAGE_HEADER_8":"(IV) Informações técnicas e análises.","PRIVACY_POLICY_PAGE_TXT_8":"Quando você usa nosso aplicativo ou visita nosso site, podemos coletar automaticamente as seguintes informações, quando permitido pelo seu dispositivo ou pelas configurações do navegador: informações técnicas, incluindo o endereço usado para conectar seu telefone celular ou outro dispositivo ao Internet, suas informações de login, sistema e tipo de plataforma de sistema operacional e versão, modelo do dispositivo, versão do navegador ou aplicativo, configuração de fuso horário, idioma e preferências de localização, operadora sem fio e sua localização (com base no endereço IP); e informações sobre sua visita ( como quando você usou o aplicativo pela primeira vez e quando o usou pela última vez, e o número total de sessões que você teve nesse aplicativo), incluindo produtos e serviços que você visualizou ou usou, tempos de resposta e atualizações do aplicativo, informações de interação (como o botão impressoras ou os horários e frequência de suas interações com as comunicações que entregamos a você no aplicativo ou de outra forma) e qualquer número de telefone usado para ligar para nosso número de atendimento ao cliente. ork com parceiros que nos fornecem serviços analíticos e de publicidade (apenas para os nossos serviços e não para publicidade de terceiros). Isso inclui nos ajudar a entender como os usuários interagem com nossos serviços, fornecendo nossos anúncios na Internet e medindo o desempenho de nossos serviços e anúncios. Cookies e tecnologias semelhantes podem ser usados ​​para coletar essas informações, como suas interações com nossos serviços. Nossa Política de Cookies está disponível em: Immuniehealth.com/terms/cookies. Você pode evitar a configuração de cookies ajustando as configurações do seu navegador ou do seu telefone celular. ","PRIVACY_POLICY_PAGE_HEADER_9":"(V) Informações obtidas de serviços de terceiros.","PRIVACY_POLICY_PAGE_TXT_9":"Você pode escolher conectar suas contas existentes com outros provedores (como um provedor de mídia social), por exemplo, ao se inscrever para facilitar a criação de uma conta conosco. Se você decidir fazer isso, nós receberá informações limitadas sobre você desse provedor, como seu endereço de e-mail e nome. Desde que estejamos agindo de acordo com as leis de proteção de dados, também podemos usar informações de outras fontes, como empresas especializadas que fornecem informações, canais de mídia online, nossos parceiros comerciais e registros públicos. Essas informações podem, por exemplo, nos ajudar a melhorar e medir a eficácia de nossos serviços. ","PRIVACY_POLICY_PAGE_HEADER_10":"Sobre a finalidade de usar seus dados pessoais","PRIVACY_POLICY_PAGE_TXT_10":"Os fins para os quais utilizamos os seus dados pessoais e os fundamentos legais pelos quais o fazemos são os seguintes:","PRIVACY_POLICY_PAGE_HEADER_11":"(I) Fornecendo um serviço a você.","PRIVACY_POLICY_PAGE_TXT_11":"Obtemos e usamos os seus dados pessoais e financeiros para estabelecer e entregar o nosso contrato consigo e (se aplicável) cobrar-lhe correctamente. Obtemos e usamos algumas das suas informações médicas porque são necessárias para os fins dos serviços que oferecemos, incluindo seu histórico de vacinação e os lugares que você viajou. Também pode incluir o compartilhamento de informações com outros profissionais de saúde, conforme necessário para a prestação de cuidados a você, como o profissional de saúde responsável por uma nova vacinação, quando você concederam acesso ao seu cartão compartilhando o código de vacinação de 6 dígitos. ","PRIVACY_POLICY_PAGE_HEADER_12":"(II) Tornando as vacinas melhores.","PRIVACY_POLICY_PAGE_TXT_12":"Onde você fornecer seu consentimento explícito, usaremos suas informações de feedback sobre reações adversas, como febre, dor de cabeça ou qualquer tipo de desconforto ou mal-estar após tomar uma vacina (sempre removendo identificadores pessoais, como seu nome, endereço e detalhes de contato) para melhorar os produtos e serviços fornecidos pelos produtores de vacinas, com ou sem o processamento por nosso sistema de inteligência artificial, para que melhores cuidados de saúde possam ser prestados a você e a outros usuários do Immunie. Estas informações médicas (com seus identificadores pessoais removidos da forma descrita acima) pode incluir seu registro médico (registros recebidos e criados por nós), transcrições e gravações de suas consultas e suas interações com nossos serviços de inteligência artificial, como nosso livechat. Isso não envolve a tomada de quaisquer decisões que teria um efeito significativo sobre você - trata-se apenas de melhorar nossas vacinas e produtos de imunização e o serviços e software que fornecemos, para que possamos oferecer uma experiência melhor a você e a outros usuários do Immunie. Disposições estritas de confidencialidade e segurança de dados se aplicam em todos os momentos. Este consentimento se refere a informações que podem identificá-lo. Podemos obter e usar dados sobre sua localização precisa onde você dá seu consentimento (fornecendo-nos acesso à sua localização por meio de seu aplicativo ou configurações do navegador ou seu endereço), por exemplo, para ajudar a direcioná-lo para a clínica de vacinação para viagens mais próxima. Também podemos derivar sua localização aproximada de seu endereço IP. ","PRIVACY_POLICY_PAGE_HEADER_13":"(III) Mantendo você atualizado.","PRIVACY_POLICY_PAGE_TXT_13":"Usamos seu endereço de e-mail, número de telefone e / ou detalhes para contatá-lo ou apresentá-lo com atualizações ocasionais e mensagens de marketing onde você não optou por não participar, com base em nosso legítimo interesse em comercializar nossos serviços para você e sujeito a o seu direito de cancelar a qualquer momento. Como parte do fornecimento de serviços de registro de vacinação de alta qualidade, podemos contatá-lo por SMS, e-mail e / ou outros meios para oferecer informações úteis ou convidá-lo a marcar consultas, por exemplo, quando um a vacina pode estar prestes a vencer. ","PRIVACY_POLICY_PAGE_HEADER_14":"(IV) Outros usos.","PRIVACY_POLICY_PAGE_TXT_14":"Com base em nosso legítimo interesse em gerenciar e planejar nossos negócios, podemos analisar dados sobre o uso de nossos produtos e serviços para solucionar bugs no aplicativo ou em nosso site, prever a demanda de serviço e entender outras tendências de uso , incluindo quais recursos os usuários mais usam e consideram mais úteis, e quais recursos os usuários exigem de nós. Isso não envolve a tomada de qualquer decisão sobre você que teria um efeito jurídico significativo sobre você - trata-se apenas de melhorar nosso aplicativo para que possamos pode fornecer melhores serviços a você. Disposições estritas de confidencialidade e segurança de dados serão aplicadas em todos os momentos. Quando necessário, podemos precisar compartilhar dados pessoais e financeiros para fins de prevenção e detecção de fraude. Quando necessário para segurança, regulamentação e / ou conformidade para fins, podemos auditar a vacinação e suas outras interações com nossos serviços. Disposições estritas de confidencialidade e segurança de dados serão aplicadas em todos os momentos a qualquer tal auditoria e acesso. ","PRIVACY_POLICY_PAGE_HEADER_15":"Sobre compartilhar seus dados pessoais com outras pessoas","PRIVACY_POLICY_PAGE_TXT_15":"Podemos compartilhar seus dados pessoais com membros de nossa empresa e nossos parceiros (como desenvolvedores e cientistas de dados, sempre trabalhando sob estrito acordo de não divulgação). Isso nos ajudará a fornecer nossos serviços a você. Podemos compartilhe seus dados pessoais com empresas que contratamos para fornecer serviços em nosso nome, incluindo aquelas que atuam como processadores de dados em nosso nome, agindo estritamente sob contrato de acordo com o Artigo 28 do GDPR. Esses processadores de dados estão sujeitos a disposições estritas de confidencialidade e segurança de dados , e eles só podem usar seus dados das formas especificadas por nós. Onde você acessa nossos serviços por meio de seu provedor de serviços de saúde ou qualquer um de nossos parceiros comerciais (incluindo hospitais, maternidades e clínicas de vacinação), podemos compartilhar com esse parceiro seu nome, data de nascimento, endereço de e-mail, número da apólice, localização e o fato de você ter registrado / usado o serviço (e qualquer outra informação semelhante). Não compartilharemos sem o seu consentimento e quaisquer detalhes relacionados ao conteúdo de sua consulta conosco ou seus registros médicos / de saúde. ","PRIVACY_POLICY_PAGE_HEADER_16":"Informação anônima","PRIVACY_POLICY_PAGE_TXT_16":"Podemos exibir em nosso site ou compartilhar com nossos parceiros comerciais dados agregados e anônimos que não o identificam pessoalmente, mas que mostram tendências gerais, por exemplo, o número de usuários de nosso serviço. Podemos preservar ou divulgar informações sobre você para cumprir uma lei, regulamento, processo legal ou solicitação governamental; para fazer valer direitos legais ou se defender contra ações judiciais; ou para prevenir, detectar ou investigar atividades ilegais, fraude, abuso, violações de nossos termos ou ameaças à segurança dos nossos serviços ou à segurança física de qualquer pessoa. Exceto conforme descrito acima, nunca compartilharemos suas informações pessoais com terceiros sem o seu consentimento. ","PRIVACY_POLICY_PAGE_HEADER_17":"Políticas de períodos de retenção","PRIVACY_POLICY_PAGE_TXT_17":"Retemos seus registros médicos de acordo com a orientação nacional de melhores práticas - em particular, aconselhamento fornecido pelo Departamento de Saúde (2006) Gerenciamento de registros: código de prática do NHS e orientação resumida emitida pela British Medical Association. abaixo está um resumo de nossa política de retenção, mas podemos reter registros que não o identifiquem para fins comerciais legítimos, como gerenciamento ou planejamento de nossos negócios, ou registros para outros períodos conforme exigido por lei ou regulamento. ","PRIVACY_POLICY_PAGE_HEADER_18":"(I) Conversas de chat ao vivo.","PRIVACY_POLICY_PAGE_TXT_18":"Retido como registros GP acima. Disponível via App por um período limitado (atualmente 6 meses, sujeito a alterações), após o qual disponível mediante solicitação.","PRIVACY_POLICY_PAGE_HEADER_19":"(II) Cartão de Vacinação.","PRIVACY_POLICY_PAGE_TXT_19":"Retido 2 anos após o encerramento da conta.","PRIVACY_POLICY_PAGE_HEADER_20":"Como seus dados são armazenados, mantidos seguros e transferidos","PRIVACY_POLICY_PAGE_TXT_20":"Não armazenamos seus dados pessoais de saúde em seu dispositivo móvel. Armazenamos todos os seus dados pessoais de saúde, incluindo suas informações de cuidados primários, informações de medicamentos e informações de diagnóstico, em servidores seguros localizados fisicamente na área da UE. Onde você escolheu uma senha que permite o acesso a certas partes do nosso aplicativo, você é responsável por manter essa senha confidencial. Pedimos que você não compartilhe a senha com ninguém. Não armazenamos nenhuma informação de cartão de crédito ou débito. Os pagamentos são processados ​​via um provedor de pagamento terceirizado que é totalmente compatível com os padrões de segurança de dados da indústria de cartões de pagamento (PCI) Nível 1. Todas as transações de pagamento são criptografadas usando a tecnologia SSL. Criptografamos os dados transmitidos de e para o aplicativo. Assim que recebermos suas informações, usará procedimentos rígidos e recursos de segurança para tentar impedir o acesso não autorizado. Tomaremos todas as medidas razoavelmente necessárias para garantir que seus dados sejam verdadeiros de forma segura e de acordo com esta política de privacidade. O Immunie Blockchain não armazena nem processa nenhuma informação pessoal ou de saúde e funciona como testemunha para a validação da integridade das informações que você pode decidir compartilhar com terceiros, como um profissional de saúde no caso de consultas ou obtenção de uma vacina ou uma autoridade em o caso do e-ICV. O Immunie Blockchain valida as transações usando hashing SHA-3 duplo com uma camada intermediária de segurança (gerador de números pseudo-aleatórios criptográficos - CPRNG, Salt). Seus dados podem ser processados ​​ou armazenados em destinos fora do Reino Unido e do Espaço Econômico Europeu (EEE), mas sempre de acordo com a lei de proteção de dados, incluindo mecanismos para transferir dados legalmente através das fronteiras e sujeitos a salvaguardas rígidas. Por exemplo, trabalhamos com terceiros que ajudam a fornecer nossos serviços a você, cujos servidores podem estar localizados fora do Reino Unido ou do EEE. Para obter mais informações sobre as salvaguardas que tomamos se transferirmos dados para fora do EEE, entre em contato com privacy@immunie.net. ","PRIVACY_POLICY_PAGE_HEADER_21":"Sobre seus direitos em relação à proteção de dados","PRIVACY_POLICY_PAGE_TXT_21":"Conforme indicado acima, sempre que contarmos com seu consentimento para processar seus dados pessoais, você tem o direito de retirar seu consentimento a qualquer momento, acessando as configurações de privacidade no aplicativo. Você também tem direitos específicos sob o GDPR e DPA para: onde quer que processemos dados com base em seu consentimento, retire esse consentimento a qualquer momento. Você pode fazer isso através da seção de privacidade de nosso aplicativo; compreender e solicitar uma cópia das informações que temos sobre você. Sujeito aos nossos períodos de retenção, gravações de seus compromissos conosco e outras notas médicas podem ser acessadas através do App. Para outras informações, você pode fazer uma solicitação por e-mail; peça-nos para retificar ou apagar informações que temos sobre você, sujeito às limitações relacionadas à nossa obrigação de armazenar dados médicos ou registros de saúde para diagnósticos médicos e tratamento por períodos de tempo prescritos; peça-nos para restringir nosso processamento de seus dados pessoais ou objeto ao nosso processamento; e peça que seus dados sejam fornecidos em um portab le base. Você também pode entrar em contato com o Information Commissioners Office (o regulador de proteção de dados no Reino Unido): Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, telefone: 0303 123 1113 (tarifa local). ","PRIVACY_POLICY_PAGE_HEADER_22":"Entre em contato","PRIVACY_POLICY_PAGE_TXT_22":"Em caso de dúvidas ou preocupações, você pode entrar em contato conosco enviando um e-mail para privacy@immunie.net."},"schoolPage":{"HERO_LABEL":"Saúde dos Alunos","HERO_TITLE_1":"Immunie Escolas","HERO_TITLE_2":"Controle Digital de Vacinas .","HERO_SUBTITLE":"Solução para gestão Ficha de Saúde, Cartões de Vacinação e Alegias de alunos desde a creche até o Segundo Grau.","HERO_BTN_TEXT":"CONTRATAR","FEATURES_CARD_1_TITLE":"SEGURO","FEATURES_CARD_1_SUBTITLE":"Não se preocupe mais com a possibilidade de perda de dados. Trabalhe com o melhor padrão de serviços digitais e 100% de acordo com a LGPDP.","FEATURES_CARD_2_TITLE":"É LEI","FEATURES_CARD_2_SUBTITLE":"Na maior parte do Brasil* as as escolas públicas e privadas são responsáveis pela verificação das vacinas atualizadas.","FEATURES_CARD_3_TITLE":"ORGANIZAÇÃO","FEATURES_CARD_3_SUBTITLE":"Todos os seus dados organizados em um só lugar, na nuvem, acessíveis no computador ou tablete de forma clara e intuitiva.","FEATURES_CARD_4_TITLE":"COMODIDADE","FEATURES_CARD_4_SUBTITLE":"Ofereça a comodidade de um aplicativo para os pais de seus alunos, evitando o envio por papel, foto no WhatsApp ou email.","FEATURES_LABEL":"MENOS TRABALHO ADMINISTRATIVO","FEATURES_TITLE":"Dados e relatórios com um clíque.","FEATURES_SUBTITLE":"Economize tempo de sua equipe administrative com uma solução que organiza todos os dados em um só lugar, onde sua equipe encontra as informações na hora.","FEATURES_PROPERTIES_1":"Lembretes automáticos para os país de alunos com cópia para a escola","FEATURES_PROPERTIES_2":"Gestão segura de restrições alimentares e alergias","FEATURES_PROPERTIES_3":"Mais tempo livre e menos papel","FEATURES_BTN_TEXT":"Começar Agora","ABOUT_LABEL":"PAINÉL DE CONTROLE","ABOUT_TITLE":"Visão completa de sua escola.","ABOUT_SUBTITLE":"Dados consolidados em um dashboard claro e intuítivo, com identificação do status de todos os alunos, busca individualizada e filtro por status de atualização. Fácil, claro e organizado.","ABOUT_REVIEW_CARD_TITLE":"Immunie Escolas me dá a tranquilidade de saber que todos os dados de saúde dos meus alunos estão em dia.","ABOUT_REVIEW_CARD_AVATAR_TITLE":"Dra. Helena Pacheco","ABOUT_REVIEW_CARD_AVATAR_SUBTITLE":"Coordenadora de ensino","FACILITIES_LABEL":"GESTÃO INTELIGENTE","FACILITIES_TITLE":"Relatórios gerados em um clique.","FACILITIES_SUBTITLE":" Fique sempre atualizado quando houver alunos com imunizações, contatos de emergência ou ficha de saúde pendentes.","FACILITIES_PROPERTIES_1":"Gestão descomplicada de Alergias e Restrições Alimentares","FACILITIES_PROPERTIES_2":"Envio dos Relatórios Obrigatórios ao Conselhor Tutelar","FACILITIES_PROPERTIES_3":"Não deixe de ter todos os contatos de emergência em dia","FACILITIES_PROPERTIES_4":"Ficha de Saúde Completa sempre à mão","HOW_IT_WORKS_LABEL":"NOSSO PROCESSO","HOW_IT_WORKS_TITLE":"Como Funciona","HOW_IT_WORKS_ITEM_1_TITLE":"IMPLANTE","HOW_IT_WORKS_ITEM_1_SUBTITLE":"Nossa equipe de suporte faz toda a implantação e das contas no App para os pais","HOW_IT_WORKS_ITEM_2_TITLE":"ENVIE O LINK","HOW_IT_WORKS_ITEM_2_SUBTITLE":"Um email customizado, com o logo da sua instituição é enviado para cada pai de aluno, com as instruções para o primeiro acesso","HOW_IT_WORKS_ITEM_3_TITLE":"RECEBA OS DADOS","HOW_IT_WORKS_ITEM_3_SUBTITLE":"Pronto. A partir de agora sua escola recebe e faz a gestão do cartão de vacinas, fiche de saúde, contatos de emergência e atualizações de forma digital.","HOW_IT_WORKS_BTN_TEXT":"SOLICITAR CONTATO","PRIVACY_LABEL":"PRIVACIDADE","PRIVACY_TITLE":"Padrão Global de Privacidade de Dados","PRIVACY_SUBTITLE":"Immunie foi construído de acordo com os mais elevados padrões de privacidade global, estando 100% de acordo com a LGPDP no Brasil, GDPR Europeu e CDPA California.","PRIVACY_BTN_TEXT":"Saber Mais","PRICING_LABEL":"PLANOS","PRICING_TITLE":"Escolha seu plano","PRICING_CARD_1_TITLE":"Escolas","PRICING_CARD_1_PRICE":"","PRICING_CARD_1_FEATURE_1":"Upload de Cartão de Vacinas","PRICING_CARD_1_FEATURE_2":"Lembrete de novas vacinas ","PRICING_CARD_1_FEATURE_3":"Ficha de Saúde","PRICING_CARD_1_FEATURE_4":"Contatos de emergência","PRICING_CARD_1_FEATURE_5":"Relatórios em PDF","PRICING_CARD_2_TITLE":"Redes de ensino","PRICING_CARD_2_PRICE":"","PRICING_CARD_2_FEATURE_1":"Upload de Cartão de Vacinas","PRICING_CARD_2_FEATURE_2":"Lembrete de novas vacinas ","PRICING_CARD_2_FEATURE_3":"Ficha de Saúde","PRICING_CARD_2_FEATURE_4":"Contatos de emergêcia","PRICING_CARD_2_FEATURE_5":"Envio automático de relatórios","PRICING_CARD_2_DISCLAIMER":"GESTÃO CONSOLIDADA MULTIUNIDADES","PRICING_CARD_BTN_TEXT":"MAIS INFORMAÇÕES","SUPPORT_GRID_1_TITLE":"Dúvidas?","SUPPORT_GRID_1_SUBTITLE":"Nossa seção de Perguntas e Respostas (FAQ) pode te ajudar.","SUPPORT_GRID_1_LEARN_MORE":"Consultar FAQ","SUPPORT_GRID_2_TITLE":"Customização","SUPPORT_GRID_2_SUBTITLE":"Precisa de uma solução customizada? Estamos à disposição para construir uma solução do seu jeito.","SUPPORT_GRID_2_LEARN_MORE":"Fale Conosco","SEE_ALSO_LABEL":"SUITE DE PRODUTOS","SEE_ALSO_TITLE":"Conheça também","SEE_ALSO_ITEM_1_TITLE":"Immunie para você","SEE_ALSO_ITEM_1_AUTHOR":"Carteira Digital de Vacinação e Exames","SEE_ALSO_ITEM_1_DATE":"Saber mais","SEE_ALSO_ITEM_2_TITLE":"Setor Médico","SEE_ALSO_ITEM_2_AUTHOR":"Vacinas e Exames Certificados","SEE_ALSO_ITEM_2_DATE":"Saber mais","SEE_ALSO_ITEM_3_TITLE":"Laboratórios de exames","SEE_ALSO_ITEM_3_AUTHOR":"Resultados Seguros","SEE_ALSO_ITEM_3_DATE":"Saber Mais","SEE_ALSO_ITEM_4_TITLE":"Transporte de Passageiros","SEE_ALSO_ITEM_4_AUTHOR":"Integração com eTicket","SEE_ALSO_ITEM_4_DATE":"Saber mais","SEE_ALSO_ITEM_5_TITLE":"Administração pública","SEE_ALSO_ITEM_5_AUTHOR":"Saúde e Grandes Eventos","SEE_ALSO_ITEM_5_DATE":"Saber mais","SEE_ALSO_ITEM_6_TITLE":"Immunie Escolas","SEE_ALSO_ITEM_6_AUTHOR":"Controle de Vacinas","SEE_ALSO_ITEM_6_DATE":"Saber mais","STORY_LABEL":"NOSSA HISTÓRIA","STORY_TITLE":"Quem Somos","STORY_GRID_1_TITLE":"Quem somos?","STORY_GRID_1_SUBTITLE":"Somos uma start up selecionada para a incubadora da London Business School, edição 2020-2021. Nossa empresa foi  criada com a missão de salvar vidas ajudando as pessoas, profissionais de saúde e todos aqueles que atuam na gestão de saúde a controlar digitalmente doenças graves passíveis de imunização por vacinas. ","STORY_GRID_2_TITLE":"Por que Immunie?","STORY_GRID_2_SUBTITLE":"Com seus dados em dia, lembretes e alertas em seu smartphone e um calendário sempre atualizado, você sabe o que fazer para estar sempre protegido, sempre Immunie ;)","STORY_BTN_TXT":"SABER MAIS","REVIEWS_TITLE":"Trabalhamos com a melhor tecnologia e os melhores provedores de serviço no mercado global","REVIEWS_ITEM_1_AUTHOR":"Team Immunie","REVIEWS_ITEM_1_AUTHOR_OCCUPATION":"Londres, Reino Unido","REVIEWS_ITEM_1_AUTHOR_FEEDBACK":"Temos orgulho de fazer parte da edição 2020-2021 da Incubadora da London Business School, uma das melhores escolas de negócios do mundo.","REVIEWS_ITEM_2_AUTHOR":"Neil Patel","REVIEWS_ITEM_2_AUTHOR_OCCUPATION":"NP Digital","REVIEWS_ITEM_2_AUTHOR_FEEDBACK":" O Progressive Web Apps representa uma das maiores apostas de empresas como Google e Microsoft para o futuro.","REVIEWS_ITEM_3_AUTHOR":" AWS","REVIEWS_ITEM_3_AUTHOR_OCCUPATION":"Web Services","REVIEWS_ITEM_3_AUTHOR_FEEDBACK":" A infraestrutura em nuvem global mais segura, abrangente e confiável para aplicativos "},"tocPage":{"FRONT_END_TERMS_AND_CONDITIONS_PAGE_TITLE":"TERMOS E CONDIÇÕES DE USO","FRONT_END_TERMS_AND_CONDITIONS_PAGE_HEADER_1":"Introdução","FRONT_END_TERMS_AND_CONDITIONS_PAGE_TXT_1":"Estes termos e condições se aplicam entre você, o Usuário deste site (immunie.net) e seu Aplicativo da Web (app.immunie.net, secure.immunie.net e checkpoint.immunie.net, incluindo qualquer sub- domínios, a menos que expressamente excluído por seus próprios termos e condições), e KIPR Blockchain Ltd., o proprietário e operador da marca registrada e dos direitos autorais Immunie. Leia estes termos e condições com atenção, pois eles afetam seus direitos legais. Seu acordo em cumprir com e estar vinculado a estes termos e condições é considerada como ocorrendo em seu primeiro uso do Site e seus Aplicativos da Web. Se você não concordar em se comprometer por estes termos e condições, você deve parar de usar o Site e seus Aplicativos da Web imediatamente . Nestes termos e condições, Usuário ou Usuários significa qualquer terceiro que acesse o Site e seus Aplicativos da Web e não seja (i) empregado por KIPR Blockchain Ltd. e agindo no curso de seu emprego ou (ii) contratado como consultor ou de outra forma fornecendo serviços para KIPR Blockchain Ltd. e acessando o Site e seus Aplicativos da Web em conexão com o fornecimento de tais serviços. Você deve ter pelo menos 18 anos de idade para usar este site e seus aplicativos da web. Ao usar o site e seus aplicativos da Web e concordar com estes termos e condições, você declara e garante que tem pelo menos 18 anos de idade. ","FRONT_END_TERMS_AND_CONDITIONS_PAGE_HEADER_2":"Propriedade intelectual e uso aceitável","FRONT_END_TERMS_AND_CONDITIONS_PAGE_TXT_2":"1. Todo o Conteúdo incluído no Site e seus Aplicativos da Web, a menos que carregado pelos Usuários, é propriedade de KIPR Blockchain Ltd., nossas afiliadas ou outros terceiros relevantes. Nestes termos e condições, Conteúdo significa qualquer texto, gráficos, imagens, áudio, vídeo, software, compilações de dados, layout de página, código e software subjacentes e qualquer outra forma de informação capaz de ser armazenada em um computador que apareça ou faça parte deste Site e seus Aplicativos da Web, incluindo qualquer conteúdo carregado pelos usuários. Ao continuar a usar o site e seus aplicativos da web, você reconhece que esse conteúdo é protegido por direitos autorais, marcas registradas, direitos de banco de dados e outros direitos de propriedade intelectual. Nada neste site deve ser interpretado como concessão, por implicação, preclusão, ou de outra forma, qualquer licença ou direito de usar qualquer marca registrada, logotipo ou marca de serviço exibida no site sem a permissão prévia por escrito do proprietário. Você pode, para seu próprio uso pessoal e não comercial, fazer o seguinte: a. recuperar, exibir e visualizar o Conteúdo em uma tela de computador b. baixar e armazenar o Conteúdo em formato eletrônico em um disco (mas não em qualquer servidor ou outro dispositivo de armazenamento conectado a uma rede) c. imprimir uma cópia do Conteúdo 3. Você não deve reproduzir, modificar, copiar, distribuir ou usar para fins comerciais qualquer Conteúdo sem a permissão por escrito de KIPR Blockchain Ltd . 4. Você reconhece que é responsável por qualquer Conteúdo que possa enviar por meio do Site e de seus Aplicativos da Web, incluindo a legalidade, confiabilidade, adequação, originalidade e direitos autorais de qualquer Conteúdo. Você não pode carregar, distribuir ou de outra forma publicar através do site e seus aplicativos da web qualquer conteúdo que (i) seja confidencial, proprietário, falso, fraudulento, calunioso, difamatório, obsceno, ameaçador, invasor de privacidade ou direitos de publicidade, infringindo direitos intelectuais direitos de propriedade, abusivos, ilegais ou censuráveis; (ii) pode constituir ou encorajar uma ofensa criminal, violar os direitos de qualquer parte ou de outra forma dar origem a responsabilidade ou violar qualquer lei; ou (iii) pode conter vírus de software, campanha política, correntes, e-mails em massa ou qualquer forma de 'spam'. Você não pode usar um endereço de e-mail falso ou outras informações de identificação, fazer-se passar por qualquer pessoa ou entidade ou induzir em erro a origem de qualquer conteúdo. Você não pode fazer upload de conteúdo comercial para o site e seus aplicativos da web. 5. Você representa e garante que possui ou de outra forma controla todos os direitos sobre o Conteúdo que postar; que o conteúdo é preciso; que o uso do Conteúdo que você fornece não viola qualquer disposição destes termos e condições e não causará danos a qualquer pessoa; e que você indenizará KIPR Blockchain Ltd. por todas as reivindicações resultantes do Conteúdo fornecido por você.","FRONT_END_TERMS_AND_CONDITIONS_PAGE_HEADER_3":"Uso proibido","FRONT_END_TERMS_AND_CONDITIONS_PAGE_TXT_3":"6. Você não pode usar o Site e seus Aplicativos da Web para nenhum dos seguintes fins: a. De qualquer forma que cause, ou possa causar, danos ao Site e seus Aplicativos da Web ou interfira com os de qualquer outra pessoa uso ou desfrute do site e seus aplicativos da web; b. de qualquer forma que seja prejudicial, ilegal, ilegal, abusiva, assediadora, ameaçadora ou de outra forma questionável ou em violação de qualquer lei aplicável, regulamento, ordem governamental; c. fazer, transmitir ou armazenar cópias eletrônicas de Conteúdo protegido por direitos autorais sem a permissão do proprietário. ","FRONT_END_TERMS_AND_CONDITIONS_PAGE_HEADER_4":"Registro","FRONT_END_TERMS_AND_CONDITIONS_PAGE_TXT_4":"7. Você deve garantir que os dados fornecidos por você no registro ou a qualquer momento estejam corretos e completos.8. Você deve nos informar imediatamente sobre quaisquer alterações nas informações fornecidas ao se registrar, atualizando seus dados pessoais para garantir que possamos nos comunicar com você de maneira eficaz.9. Podemos suspender ou cancelar seu registro com efeito imediato para quaisquer fins razoáveis ​​ou se você violar estes termos e condições. 10. Você pode cancelar seu registro a qualquer momento, informando-nos por escrito para o endereço no final destes termos e condições. Se você fizer isso, você deve parar imediatamente de usar o site e seus aplicativos da Web. O cancelamento ou suspensão do seu registro não afeta quaisquer direitos legais. ","FRONT_END_TERMS_AND_CONDITIONS_PAGE_HEADER_5":"Senha e segurança","FRONT_END_TERMS_AND_CONDITIONS_PAGE_TXT_5":"11. Ao se registrar neste site e em seus aplicativos da web, você será solicitado a criar uma senha, que deve ser mantida em sigilo e não deve ser divulgada ou compartilhada com ninguém. 12. Se tivermos motivos para acreditar nisso é ou pode haver qualquer uso indevido do site e seus aplicativos da Web ou violação de segurança, podemos exigir que você altere sua senha ou suspenda sua conta. ","FRONT_END_TERMS_AND_CONDITIONS_PAGE_HEADER_6":"Links para outro site e seus aplicativos da web","FRONT_END_TERMS_AND_CONDITIONS_PAGE_TXT_6":"13. Este site e seus aplicativos da Web podem conter links para outros sites. A menos que expressamente declarado, esses sites não estão sob o controle da KIPR Blockchain Ltd. ou de nossas afiliadas. 14. Não assumimos qualquer responsabilidade por o conteúdo de tal site e seus aplicativos da Web e se isenta de responsabilidade por toda e qualquer forma de perda ou dano decorrente do uso deles. 15. A inclusão de um link para outro site neste site e seus aplicativos da Web não implica qualquer endosso dos próprios sites ou daqueles que os controlam. ","FRONT_END_TERMS_AND_CONDITIONS_PAGE_HEADER_7":"Política de Privacidade","FRONT_END_TERMS_AND_CONDITIONS_PAGE_TXT_7":"16. O uso do Site e de seus Aplicativos da Web também é regido por nossa Política de Privacidade, que é incorporada a estes termos e condições por esta referência. Para ver a Política de Privacidade, clique em: https: / /www.immunie.net/privacy-policy. ","FRONT_END_TERMS_AND_CONDITIONS_PAGE_HEADER_8":"Disponibilidade do site e seus aplicativos da web e isenções de responsabilidade","FRONT_END_TERMS_AND_CONDITIONS_PAGE_TXT_8":"17. Quaisquer facilidades, ferramentas, serviços ou informações online que KIPR Blockchain Ltd. disponibiliza através do Site e seus Aplicativos da Web (o Serviço) são fornecidos 'como estão' e em uma base 'conforme disponível'. Não oferecemos garantia de que o Serviço estará livre de defeitos e / ou falhas. Na medida máxima permitida por lei, não oferecemos garantias (expressas ou implícitas) de adequação a um propósito específico, precisão de informações, compatibilidade e qualidade satisfatória . O KIPR Blockchain Ltd. não tem obrigação de atualizar as informações no site e seus aplicativos da Web. 18. Enquanto o KIPR Blockchain Ltd. faz esforços razoáveis ​​para garantir que o site e seus aplicativos da Web sejam seguros e livres de erros, vírus e outro malware, não oferecemos nenhuma garantia ou fiança a esse respeito e todos os usuários assumem a responsabilidade por sua própria segurança, de seus dados pessoais e de seus computadores 19. O Blockc hain Connect Ltd. não se responsabiliza por qualquer interrupção ou indisponibilidade do site e seus aplicativos da web. 20. A KIPR Blockchain Ltd. reserva-se o direito de alterar, suspender ou descontinuar qualquer parte (ou a totalidade) do Site e seus Aplicativos da Web, incluindo, mas não se limitando a, quaisquer produtos e / ou serviços disponíveis. Estes termos e condições continuarão a se aplicar a qualquer versão modificada do Site e seus Aplicativos da Web, a menos que seja expressamente declarado o contrário. ","FRONT_END_TERMS_AND_CONDITIONS_PAGE_HEADER_9":"Limitação de responsabilidade","FRONT_END_TERMS_AND_CONDITIONS_PAGE_TXT_9":"21. Nada nestes termos e condições irá: (a) limitar ou excluir nossa responsabilidade por morte ou danos pessoais resultantes de nossa negligência, conforme aplicável; (b) limitar ou excluir nossa ou sua responsabilidade por fraude ou deturpação fraudulenta; ou (c) limitar ou excluir qualquer uma de nossas responsabilidades de qualquer forma que não seja permitida pela lei aplicável. 22. Na medida em que o Site e seus Aplicativos da Web e Conteúdo sejam fornecidos gratuitamente, não seremos responsáveis ​​por você por qualquer perda ou dano de qualquer tipo. 23. Não seremos responsáveis ​​por você em relação a quaisquer perdas decorrentes de eventos além do nosso controle razoável. 24. Na extensão máxima permitida por lei, KIPR Blockchain Ltd. não se responsabiliza por qualquer um dos seguintes: a. Quaisquer perdas de negócios, como perda de lucros, receitas, receitas, economias previstas, negócios, contratos, boa vontade ou oportunidades comerciais; b. Perda ou corrupção de quaisquer dados, da tabase ou software; c. qualquer perda ou dano especial, indireto ou consequencial. ","FRONT_END_TERMS_AND_CONDITIONS_PAGE_HEADER_10":"Geral","FRONT_END_TERMS_AND_CONDITIONS_PAGE_TXT_10":"25. Você não pode transferir nenhum dos seus direitos sob estes termos e condições a qualquer outra pessoa. Podemos transferir nossos direitos sob estes termos e condições quando acreditarmos razoavelmente que seus direitos não serão afetados. 26. Estes termos e as condições podem ser alteradas por nós de tempos em tempos. Esses termos revisados ​​serão aplicados ao site e seus aplicativos da Web a partir da data de publicação. Os usuários devem verificar os termos e condições regularmente para garantir a familiaridade com a versão então atual. 27. Estes os termos e condições, juntamente com a Política de Privacidade e Política de Cookies, contêm todo o acordo entre as partes em relação ao assunto em questão e substituem todas as discussões, acordos ou acordos anteriores que possam ter ocorrido em relação aos termos e condições. 28. Os Contratos ( A Lei dos Direitos de Terceiros de 1999 não se aplica a estes termos e condições e nenhum terceiro terá o direito de fazer cumprir ou repor de acordo com qualquer disposição destes termos e condições. 29. Se qualquer tribunal ou autoridade competente considerar que qualquer disposição destes termos e condições (ou parte de qualquer disposição) é inválida, ilegal ou inexequível, essa disposição ou disposição parcial será, na medida necessária, considerada como excluída, e a validade e aplicabilidade das outras disposições destes termos e condições não serão afetadas. 30. Salvo acordo em contrário, nenhum atraso, ato ou omissão por uma das partes no exercício de qualquer direito ou recurso será considerado uma renúncia desse ou de qualquer outro direito ou recurso. 31. Este Acordo será regido e interpretado de acordo com a lei da Inglaterra e País de Gales e todas as disputas decorrentes do Acordo (incluindo disputas ou reivindicações não contratuais) estarão sujeitas à jurisdição exclusiva dos tribunais ingleses e galeses. 32. A KIPR Blockchain Ltd., com sede na dKipr Blockchain Kemp House 152-160 City Road, London, England, EC1V 2NXe 28, opera o site e seus aplicativos da Web https://immunie.net. O número de IVA registrado é 355 0222 32. Você pode entrar em contato com KIPR Blockchain Ltd. por e-mail em support@immunie.net. "},"travelPage":{"HERO_TITLE":"Exames e Certificados de Vacinação via API ","HERO_SUBTITLE":"Check-in rápido e seguro com dados autenticados digitalmente com a tecnologia blockchain, antes do passageiro sair de casa.","HERO_BTN_TEXT":"CHECKPOINT","BUILD_FOR_TITLE":"Por que Immunie?","BUILD_FOR_SUBTITLE":"Exames Covid PCR, Vacinas e Certificados Médicos com inseridos por profissionais de saúde licenciados.","BUILD_FOR_TITLE_ITEM_1":"Check In Digital","BUILD_FOR_SUBTITLE_ITEM_1":"Processo rápido, sem filas, sem sobrecarga no balcão. Integração direta para emissão prévia do eBoarding Pass.","BUILD_FOR_TITLE_ITEM_2":"Segurança","BUILD_FOR_SUBTITLE_ITEM_2":"Dados autenticados e verificados via blockchain, com interface API, web ou mobile para operações remotas.","BUILD_FOR_TITLE_ITEM_3":"Valor Agregado","BUILD_FOR_SUBTITLE_ITEM_3":"Potencialize a geração de ancillary revenues oferecendo mais comodidade para o passageiro.","PRIVACY_TITLE":"Privacidade em Primeiro Lugar","PRIVACY_SUBTITLE":"Immunie foi construído de acordo com os mais elevados padrões de privacidade global, estando 100% de acordo com a Lei Geral de Proteção de Dados Pessoais no Brasil (LGPDP – Lei 13.709/18), Regulamento Geral de Proteção de Dados Europeu (GDPR EU 2016/679) e California Data Protection Act (CDPA / 2018).","PRIVACY_BTN_TEXT":"SABER MAIS","PRIVACY_CARD_TITLE":"","PRIVACY_AVATAR_PRIMARY":"","PRIVACY_AVATAR_SECONDARY":"","HOW_IT_WORKS_TITLE":"COMO FUNCIONA","HOW_IT_WORKS_SUBTITLE":"Conexão direta e segura entre o originador dos dados médicos com seu servidor mediante consentimento do passageiro.","HOW_IT_WORKS_TITLE_ITEM_1":"VISITA À CLÍNICA","HOW_IT_WORKS_SUBTITLE_ITEM_1":"O passageiro faz o seu teste Covid-PCR ou recebe a vacina necessária para viajar.","HOW_IT_WORKS_TITLE_ITEM_2":"DADOS INSERIDOS PELO MÉDICO","HOW_IT_WORKS_SUBTITLE_ITEM_2":"O resultado do exame ou dados da vacina com número de lote e timestamp são atualizados automaticamente. ","HOW_IT_WORKS_TITLE_ITEM_3":"DADOS AUTENTICADOS","HOW_IT_WORKS_SUBTITLE_ITEM_3":"O passageiro faz o opt-in associando os resultados ao seu eTICKET, via API, permitindo sua autenticação e emissão do eBoarding Pass.","HOW_TO_USE_TITLE":"Como usar","HOW_TO_USE_SUBTITLE":"Torne sua vida mais fácil com Immunie. Sem papel, sem preocupações.","HOW_TO_USE_TAG_ITEM_1":"Testes Covid-PCR","HOW_TO_USE_TITLE_ITEM_1":"Resultados de exames compartilhados diretamente na sua API com a segurança da autenticação Blockchain","HOW_TO_USE_SUBTITLE_ITEM_1":"","HOW_TO_USE_TAG_ITEM_2":"Certificados eICV","HOW_TO_USE_TITLE_ITEM_2":"Certificados de Vacinação Internacional eletrônicos gerados de acordo com o modelo ICV da OMS.","HOW_TO_USE_SUBTITLE_ITEM_2":"","HOW_TO_USE_TAG_ITEM_3":"Combate a Fraudes","HOW_TO_USE_TITLE_ITEM_3":"Elimine o risco de edição de resultados apresentados em papel ou arquivos PDFs.","HOW_TO_USE_SUBTITLE_ITEM_3":"","HOW_TO_USE_RIGTH_CARD_1_TITLE":"FLUXO DE INFORMAÇÕES","HOW_TO_USE_RIGTH_CARD_1_SUBTITLE":"Veja como a integração ocorre, etapa por etapa em nosso catálogo para o setor de transporte de passageiros.","HOW_TO_USE_RIGTH_CARD_1_BTN_TEXT":"CATÁLOGO PDF","HOW_TO_USE_RIGTH_CARD_2_TITLE":"Teste o sistema desde a entrada dos dados até a autenticação via Blockchain","HOW_TO_USE_RIGTH_CARD_2_BTN_TEXT":"AGENDAR DEMONSTRAÇÃO","BLOCKCHAIN_TECH_TITLE":"Tecnologia Blockchain","BLOCKCHAIN_TECH_SUBTITLE":"A autenticação dos registros de vacinação inseridos na sua Carteira Digital de Vacinação e Saúde Immunie utiliza dois níveis de encriptação para garantir a autenticidade dos dados, preservando sua privacidade.","BLOCKCHAIN_TECH_ITEM_1":"Disponíbilidade Global","BLOCKCHAIN_TECH_ITEM_2":"Applicação Mobile e Web","BLOCKCHAIN_TECH_ITEM_3":"Tecnologia PWA em qualquer smartphone","INTEGRATION_TITLE":"Padrão global de gestão e serviços","INTEGRATION_SUBTITLE":"Trabalhamos com a melhor tecnologia e os melhores provedores de serviço no mercado global.","INTEGRATION_ITEM_1_TITLE":"LBS Incubator","INTEGRATION_ITEM_1_SUBTITLE":" Temos orgulho de fazer parte da edição 2020-2021 da Incubadora da London Business School, uma das melhores escolas de negócios do mundo.","INTEGRATION_ITEM_2_TITLE":"Amazon Web Services","INTEGRATION_ITEM_2_SUBTITLE":" A infraestrutura em nuvem global mais segura, abrangente e confiável para aplicativos.","INTEGRATION_ITEM_3_TITLE":"PWA","INTEGRATION_ITEM_3_SUBTITLE":"O Progressive Web Apps representa uma das maiores apostas de empresas como Google e Microsoft para o futuro.","SEE_ALSO_LABEL":"OUTROS PRODUTOS","SEE_ALSO_TITLE":"Conheça também","SEE_ALSO_ITEM_1_TITLE":"Immunie para você","SEE_ALSO_ITEM_1_AUTHOR":"Carteira Digital de Vacinação e Exames","SEE_ALSO_ITEM_1_DATE":"Saber mais","SEE_ALSO_ITEM_2_TITLE":"Setor Médico","SEE_ALSO_ITEM_2_AUTHOR":"Vacinas e Exames Certificados","SEE_ALSO_ITEM_2_DATE":"Saber mais","SEE_ALSO_ITEM_3_TITLE":"Laboratórios de exames","SEE_ALSO_ITEM_3_AUTHOR":"Resultados Seguros","SEE_ALSO_ITEM_3_DATE":"Saber Mais","SEE_ALSO_ITEM_4_TITLE":"Transporte de Passageiros","SEE_ALSO_ITEM_4_AUTHOR":"Integração com eTicket","SEE_ALSO_ITEM_4_DATE":"Saber mais","SEE_ALSO_ITEM_5_TITLE":"Administração pública","SEE_ALSO_ITEM_5_AUTHOR":"Saúde e Grandes Eventos","SEE_ALSO_ITEM_5_DATE":"Saber mais","SEE_ALSO_ITEM_6_TITLE":"Immunie Escolas","SEE_ALSO_ITEM_6_AUTHOR":"Controle de Vacinas","SEE_ALSO_ITEM_6_DATE":"Saber mais","STORY_LABEL":"NOSSA HISTÓRIA","STORY_TITLE":"Quem Somos","STORY_GRID_1_TITLE":"Quem somos?","STORY_GRID_1_SUBTITLE":"Somos uma start up selecionada para a incubadora da London Business School, edição 2020-2021. Nossa empresa foi  criada com a missão de salvar vidas ajudando as pessoas, profissionais de saúde e todos aqueles que atuam na gestão de saúde a controlar digitalmente doenças graves passíveis de imunização por vacinas. ","STORY_GRID_2_TITLE":"Por que Immunie?","STORY_GRID_2_SUBTITLE":"Com seus dados em dia, lembretes e alertas em seu smartphone e um calendário sempre atualizado, você sabe o que fazer para estar sempre protegido, sempre Immunie ;)","STORY_BTN_TXT":"SABER MAIS","REVIEWS_TITLE":"Trabalhamos com a melhor tecnologia e os melhores provedores de serviço no mercado global","REVIEWS_ITEM_1_AUTHOR":"Team Immunie","REVIEWS_ITEM_1_AUTHOR_OCCUPATION":"Londres, Reino Unido","REVIEWS_ITEM_1_AUTHOR_FEEDBACK":"Temos orgulho de fazer parte da edição 2020-2021 da Incubadora da London Business School, uma das melhores escolas de negócios do mundo.","REVIEWS_ITEM_2_AUTHOR":"Neil Patel","REVIEWS_ITEM_2_AUTHOR_OCCUPATION":"NP Digital","REVIEWS_ITEM_2_AUTHOR_FEEDBACK":" O Progressive Web Apps representa uma das maiores apostas de empresas como Google e Microsoft para o futuro.","REVIEWS_ITEM_3_AUTHOR":" AWS","REVIEWS_ITEM_3_AUTHOR_OCCUPATION":"Web Services","REVIEWS_ITEM_3_AUTHOR_FEEDBACK":" A infraestrutura em nuvem global mais segura, abrangente e confiável para aplicativos "}}},"initialLanguage":"pt","i18nServerInstance":null,"pageProps":{}},"page":"/404","query":{},"buildId":"nDZD4foxkD8xipOua1Ujd","runtimeConfig":{"localeSubpaths":{}},"nextExport":true,"isFallback":false,"appGip":true}</script><script nomodule="" src="/_next/static/chunks/polyfills-10a8cf8ec0fcff4a7700.js"></script><script src="/_next/static/chunks/main-005c099ebc6d73bffa35.js" async=""></script><script src="/_next/static/chunks/webpack-245f049e565ebf942e09.js" async=""></script><script src="/_next/static/chunks/framework.64c08973ae123710aa81.js" async=""></script><script src="/_next/static/chunks/commons.ddec478f82113778b077.js" async=""></script><script src="/_next/static/chunks/pages/_app-8f3a4cdfd6b03ceeb0b9.js" async=""></script><script src="/_next/static/chunks/a4c92b5b.014bebfe28d7f652e7fb.js" async=""></script><script src="/_next/static/chunks/11b04806d3909ce7987efbbeab9b411580946ab6.05063bfe093fef78d737.js" async=""></script><script src="/_next/static/chunks/b0787e176b509ab8a5b092dbcd4c2bdafe937fdc.42fe8430b9ca6fad0654.js" async=""></script><script src="/_next/static/chunks/pages/404-81c43578768cb0c107f5.js" async=""></script><script src="/_next/static/nDZD4foxkD8xipOua1Ujd/_buildManifest.js" async=""></script><script src="/_next/static/nDZD4foxkD8xipOua1Ujd/_ssgManifest.js" async=""></script></body></html>

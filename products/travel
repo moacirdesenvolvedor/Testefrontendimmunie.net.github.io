@@ -1,0 +1,2049 @@
+<!DOCTYPE html><html lang="en">
+<!-- Mirrored from immunie.net/products/travel by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Sep 2021 19:29:57 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head><meta charSet="utf-8"/><link rel="shortcut icon" href="../assets/favicon.svg"/><meta name="theme-color" content="#ffffff"/><meta name="description" content="International Vaccination Records authenticated using Blockchain Technology. Keep your record safe anytime, anywhere. Immunie is a privacy by design application, built to comply with the highest data privacy standards"/><meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/><meta property="og:locale" content="en_US"/><meta property="og:type" content="website"/><meta property="og:title" content="Immunie | Digital Vaccination Card"/><meta property="og:description" content="International Vaccination Records authenticated using Blockchain Technology. Keep your record safe anytime, anywhere. Immunie is a privacy by design application, built to comply with the highest data privacy standards"/><meta property="og:url" content="https://immunie.org/"/><link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&amp;display=swap" rel="stylesheet"/><script src="../../kit.fontawesome.com/4c273e6d43.js" crossorigin="anonymous"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-J1J5FK05T4"></script><script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+  
+              gtag('config', 'G-J1J5FK05T4');
+          </script><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><title>Immunie Digital Vaccination Card</title><meta name="next-head-count" content="3"/><link rel="preload" href="../_next/static/css/c6fd4f563a3cf2b1449e.css" as="style"/><link rel="stylesheet" href="../_next/static/css/c6fd4f563a3cf2b1449e.css" data-n-g=""/><noscript data-n-css=""></noscript><link rel="preload" href="../_next/static/chunks/main-005c099ebc6d73bffa35.js" as="script"/><link rel="preload" href="../_next/static/chunks/webpack-245f049e565ebf942e09.js" as="script"/><link rel="preload" href="../_next/static/chunks/framework.64c08973ae123710aa81.js" as="script"/><link rel="preload" href="../_next/static/chunks/commons.ddec478f82113778b077.js" as="script"/><link rel="preload" href="../_next/static/chunks/pages/_app-8f3a4cdfd6b03ceeb0b9.js" as="script"/><link rel="preload" href="../_next/static/chunks/a4c92b5b.014bebfe28d7f652e7fb.js" as="script"/><link rel="preload" href="../_next/static/chunks/11b04806d3909ce7987efbbeab9b411580946ab6.05063bfe093fef78d737.js" as="script"/><link rel="preload" href="../_next/static/chunks/b0787e176b509ab8a5b092dbcd4c2bdafe937fdc.42fe8430b9ca6fad0654.js" as="script"/><link rel="preload" href="../_next/static/chunks/f21c5035378776e5664e82d348c0227acd3df0b3.76b2b439016ecfd9a02a.js" as="script"/><link rel="preload" href="../_next/static/chunks/pages/products/travel-0927c969ab5ffd6b44a3.js" as="script"/><style id="jss-server-side">.MuiSvgIcon-root {
+  fill: currentColor;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  font-size: 1.5rem;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  flex-shrink: 0;
+  user-select: none;
+}
+.MuiSvgIcon-colorPrimary {
+  color: #3f51b5;
+}
+.MuiSvgIcon-colorSecondary {
+  color: #f9b934;
+}
+.MuiSvgIcon-colorAction {
+  color: rgba(0, 0, 0, 0.54);
+}
+.MuiSvgIcon-colorError {
+  color: #f44336;
+}
+.MuiSvgIcon-colorDisabled {
+  color: rgba(0, 0, 0, 0.26);
+}
+.MuiSvgIcon-fontSizeInherit {
+  font-size: inherit;
+}
+.MuiSvgIcon-fontSizeSmall {
+  font-size: 1.25rem;
+}
+.MuiSvgIcon-fontSizeLarge {
+  font-size: 2.1875rem;
+}
+.MuiPaper-root {
+  color: #2d3748;
+  transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  background-color: #fff;
+}
+.MuiPaper-rounded {
+  border-radius: 4px;
+}
+.MuiPaper-outlined {
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+.MuiPaper-elevation0 {
+  box-shadow: none;
+}
+.MuiPaper-elevation1 {
+  box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 1px 3px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation2 {
+  box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation3 {
+  box-shadow: 0px 3px 3px -2px rgba(0,0,0,0.2),0px 3px 4px 0px rgba(0,0,0,0.14),0px 1px 8px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation4 {
+  box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation5 {
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 5px 8px 0px rgba(0,0,0,0.14),0px 1px 14px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation6 {
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation7 {
+  box-shadow: 0px 4px 5px -2px rgba(0,0,0,0.2),0px 7px 10px 1px rgba(0,0,0,0.14),0px 2px 16px 1px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation8 {
+  box-shadow: 0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation9 {
+  box-shadow: 0px 5px 6px -3px rgba(0,0,0,0.2),0px 9px 12px 1px rgba(0,0,0,0.14),0px 3px 16px 2px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation10 {
+  box-shadow: 0px 6px 6px -3px rgba(0,0,0,0.2),0px 10px 14px 1px rgba(0,0,0,0.14),0px 4px 18px 3px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation11 {
+  box-shadow: 0px 6px 7px -4px rgba(0,0,0,0.2),0px 11px 15px 1px rgba(0,0,0,0.14),0px 4px 20px 3px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation12 {
+  box-shadow: 0px 7px 8px -4px rgba(0,0,0,0.2),0px 12px 17px 2px rgba(0,0,0,0.14),0px 5px 22px 4px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation13 {
+  box-shadow: 0px 7px 8px -4px rgba(0,0,0,0.2),0px 13px 19px 2px rgba(0,0,0,0.14),0px 5px 24px 4px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation14 {
+  box-shadow: 0px 7px 9px -4px rgba(0,0,0,0.2),0px 14px 21px 2px rgba(0,0,0,0.14),0px 5px 26px 4px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation15 {
+  box-shadow: 0px 8px 9px -5px rgba(0,0,0,0.2),0px 15px 22px 2px rgba(0,0,0,0.14),0px 6px 28px 5px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation16 {
+  box-shadow: 0px 8px 10px -5px rgba(0,0,0,0.2),0px 16px 24px 2px rgba(0,0,0,0.14),0px 6px 30px 5px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation17 {
+  box-shadow: 0px 8px 11px -5px rgba(0,0,0,0.2),0px 17px 26px 2px rgba(0,0,0,0.14),0px 6px 32px 5px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation18 {
+  box-shadow: 0px 9px 11px -5px rgba(0,0,0,0.2),0px 18px 28px 2px rgba(0,0,0,0.14),0px 7px 34px 6px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation19 {
+  box-shadow: 0px 9px 12px -6px rgba(0,0,0,0.2),0px 19px 29px 2px rgba(0,0,0,0.14),0px 7px 36px 6px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation20 {
+  box-shadow: 0px 10px 13px -6px rgba(0,0,0,0.2),0px 20px 31px 3px rgba(0,0,0,0.14),0px 8px 38px 7px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation21 {
+  box-shadow: 0px 10px 13px -6px rgba(0,0,0,0.2),0px 21px 33px 3px rgba(0,0,0,0.14),0px 8px 40px 7px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation22 {
+  box-shadow: 0px 10px 14px -6px rgba(0,0,0,0.2),0px 22px 35px 3px rgba(0,0,0,0.14),0px 8px 42px 7px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation23 {
+  box-shadow: 0px 11px 14px -7px rgba(0,0,0,0.2),0px 23px 36px 3px rgba(0,0,0,0.14),0px 9px 44px 8px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation24 {
+  box-shadow: 0px 11px 15px -7px rgba(0,0,0,0.2),0px 24px 38px 3px rgba(0,0,0,0.14),0px 9px 46px 8px rgba(0,0,0,0.12);
+}
+.MuiButtonBase-root {
+  color: inherit;
+  border: 0;
+  cursor: pointer;
+  margin: 0;
+  display: inline-flex;
+  outline: 0;
+  padding: 0;
+  position: relative;
+  align-items: center;
+  user-select: none;
+  border-radius: 0;
+  vertical-align: middle;
+  -moz-appearance: none;
+  justify-content: center;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-appearance: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.MuiButtonBase-root::-moz-focus-inner {
+  border-style: none;
+}
+.MuiButtonBase-root.Mui-disabled {
+  cursor: default;
+  pointer-events: none;
+}
+@media print {
+  .MuiButtonBase-root {
+    color-adjust: exact;
+  }
+}
+  .MuiIconButton-root {
+    flex: 0 0 auto;
+    color: rgba(0, 0, 0, 0.54);
+    padding: 12px;
+    overflow: visible;
+    font-size: 1.5rem;
+    text-align: center;
+    transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    border-radius: 50%;
+  }
+  .MuiIconButton-root:hover {
+    background-color: rgba(0, 0, 0, 0.04);
+  }
+  .MuiIconButton-root.Mui-disabled {
+    color: rgba(0, 0, 0, 0.26);
+    background-color: transparent;
+  }
+@media (hover: none) {
+  .MuiIconButton-root:hover {
+    background-color: transparent;
+  }
+}
+  .MuiIconButton-edgeStart {
+    margin-left: -12px;
+  }
+  .MuiIconButton-sizeSmall.MuiIconButton-edgeStart {
+    margin-left: -3px;
+  }
+  .MuiIconButton-edgeEnd {
+    margin-right: -12px;
+  }
+  .MuiIconButton-sizeSmall.MuiIconButton-edgeEnd {
+    margin-right: -3px;
+  }
+  .MuiIconButton-colorInherit {
+    color: inherit;
+  }
+  .MuiIconButton-colorPrimary {
+    color: #3f51b5;
+  }
+  .MuiIconButton-colorPrimary:hover {
+    background-color: rgba(63, 81, 181, 0.04);
+  }
+@media (hover: none) {
+  .MuiIconButton-colorPrimary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiIconButton-colorSecondary {
+    color: #f9b934;
+  }
+  .MuiIconButton-colorSecondary:hover {
+    background-color: rgba(249, 185, 52, 0.04);
+  }
+@media (hover: none) {
+  .MuiIconButton-colorSecondary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiIconButton-sizeSmall {
+    padding: 3px;
+    font-size: 1.125rem;
+  }
+  .MuiIconButton-label {
+    width: 100%;
+    display: flex;
+    align-items: inherit;
+    justify-content: inherit;
+  }
+  .MuiAvatar-root {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    font-size: 1.25rem;
+    align-items: center;
+    flex-shrink: 0;
+    font-family: Lato;
+    line-height: 1;
+    user-select: none;
+    border-radius: 50%;
+    justify-content: center;
+  }
+  .MuiAvatar-colorDefault {
+    color: #fff;
+    background-color: #bdbdbd;
+  }
+  .MuiAvatar-rounded {
+    border-radius: 4px;
+  }
+  .MuiAvatar-square {
+    border-radius: 0;
+  }
+  .MuiAvatar-img {
+    color: transparent;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    text-align: center;
+    text-indent: 10000px;
+  }
+  .MuiAvatar-fallback {
+    width: 75%;
+    height: 75%;
+  }
+  .MuiTypography-root {
+    margin: 0;
+  }
+  .MuiTypography-body2 {
+    font-size: 0.875rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.43;
+  }
+  .MuiTypography-body1 {
+    font-size: 1rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.5;
+  }
+  .MuiTypography-caption {
+    font-size: 0.75rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.66;
+  }
+  .MuiTypography-button {
+    font-size: 0.875rem;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: 1.75;
+    text-transform: uppercase;
+  }
+  .MuiTypography-h1 {
+    font-size: 3.5rem;
+    font-family: Lato;
+    font-weight: 300;
+    line-height: 1.167;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h1 {
+    font-size: 4.7129rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h1 {
+    font-size: 5.3556rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h1 {
+    font-size: 5.9983rem;
+  }
+}
+  .MuiTypography-h2 {
+    font-size: 2.375rem;
+    font-family: Lato;
+    font-weight: 300;
+    line-height: 1.2;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h2 {
+    font-size: 2.9167rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h2 {
+    font-size: 3.3333rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h2 {
+    font-size: 3.75rem;
+  }
+}
+  .MuiTypography-h3 {
+    font-size: 2rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.167;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h3 {
+    font-size: 2.5707rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h3 {
+    font-size: 2.7849rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h3 {
+    font-size: 2.9991rem;
+  }
+}
+  .MuiTypography-h4 {
+    font-size: 1.5625rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.235;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h4 {
+    font-size: 1.8219rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h4 {
+    font-size: 2.0243rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h4 {
+    font-size: 2.0243rem;
+  }
+}
+  .MuiTypography-h5 {
+    font-size: 1.25rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.334;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h5 {
+    font-size: 1.3118rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h5 {
+    font-size: 1.4993rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h5 {
+    font-size: 1.4993rem;
+  }
+}
+  .MuiTypography-h6 {
+    font-size: 1.125rem;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: 1.6;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h6 {
+    font-size: 1.25rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h6 {
+    font-size: 1.25rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h6 {
+    font-size: 1.25rem;
+  }
+}
+  .MuiTypography-subtitle1 {
+    font-size: 1rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.75;
+  }
+  .MuiTypography-subtitle2 {
+    font-size: 0.875rem;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: 1.57;
+  }
+  .MuiTypography-overline {
+    font-size: 0.75rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 2.66;
+    text-transform: uppercase;
+  }
+  .MuiTypography-srOnly {
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+  }
+  .MuiTypography-alignLeft {
+    text-align: left;
+  }
+  .MuiTypography-alignCenter {
+    text-align: center;
+  }
+  .MuiTypography-alignRight {
+    text-align: right;
+  }
+  .MuiTypography-alignJustify {
+    text-align: justify;
+  }
+  .MuiTypography-noWrap {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+  .MuiTypography-gutterBottom {
+    margin-bottom: 0.35em;
+  }
+  .MuiTypography-paragraph {
+    margin-bottom: 16px;
+  }
+  .MuiTypography-colorInherit {
+    color: inherit;
+  }
+  .MuiTypography-colorPrimary {
+    color: #3f51b5;
+  }
+  .MuiTypography-colorSecondary {
+    color: #f9b934;
+  }
+  .MuiTypography-colorTextPrimary {
+    color: #2d3748;
+  }
+  .MuiTypography-colorTextSecondary {
+    color: #718096;
+  }
+  .MuiTypography-colorError {
+    color: #f44336;
+  }
+  .MuiTypography-displayInline {
+    display: inline;
+  }
+  .MuiTypography-displayBlock {
+    display: block;
+  }
+  .MuiButton-root {
+    color: #2d3748;
+    padding: 6px 16px;
+    font-size: 0.875rem;
+    min-width: 64px;
+    box-sizing: border-box;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: 1.75;
+    border-radius: 4px;
+    text-transform: uppercase;
+  }
+  .MuiButton-root:hover {
+    text-decoration: none;
+    background-color: rgba(45, 55, 72, 0.04);
+  }
+  .MuiButton-root.Mui-disabled {
+    color: rgba(0, 0, 0, 0.26);
+  }
+@media (hover: none) {
+  .MuiButton-root:hover {
+    background-color: transparent;
+  }
+}
+  .MuiButton-root:hover.Mui-disabled {
+    background-color: transparent;
+  }
+  .MuiButton-label {
+    width: 100%;
+    display: inherit;
+    align-items: inherit;
+    justify-content: inherit;
+  }
+  .MuiButton-text {
+    padding: 6px 8px;
+  }
+  .MuiButton-textPrimary {
+    color: #3f51b5;
+  }
+  .MuiButton-textPrimary:hover {
+    background-color: rgba(63, 81, 181, 0.04);
+  }
+@media (hover: none) {
+  .MuiButton-textPrimary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiButton-textSecondary {
+    color: #f9b934;
+  }
+  .MuiButton-textSecondary:hover {
+    background-color: rgba(249, 185, 52, 0.04);
+  }
+@media (hover: none) {
+  .MuiButton-textSecondary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiButton-outlined {
+    border: 1px solid rgba(0, 0, 0, 0.23);
+    padding: 5px 15px;
+  }
+  .MuiButton-outlined.Mui-disabled {
+    border: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .MuiButton-outlinedPrimary {
+    color: #3f51b5;
+    border: 1px solid rgba(63, 81, 181, 0.5);
+  }
+  .MuiButton-outlinedPrimary:hover {
+    border: 1px solid #3f51b5;
+    background-color: rgba(63, 81, 181, 0.04);
+  }
+@media (hover: none) {
+  .MuiButton-outlinedPrimary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiButton-outlinedSecondary {
+    color: #f9b934;
+    border: 1px solid rgba(249, 185, 52, 0.5);
+  }
+  .MuiButton-outlinedSecondary:hover {
+    border: 1px solid #f9b934;
+    background-color: rgba(249, 185, 52, 0.04);
+  }
+  .MuiButton-outlinedSecondary.Mui-disabled {
+    border: 1px solid rgba(0, 0, 0, 0.26);
+  }
+@media (hover: none) {
+  .MuiButton-outlinedSecondary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiButton-contained {
+    color: rgba(0, 0, 0, 0.87);
+    box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+    background-color: #e0e0e0;
+  }
+  .MuiButton-contained:hover {
+    box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+    background-color: #d5d5d5;
+  }
+  .MuiButton-contained.Mui-focusVisible {
+    box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);
+  }
+  .MuiButton-contained:active {
+    box-shadow: 0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);
+  }
+  .MuiButton-contained.Mui-disabled {
+    color: rgba(0, 0, 0, 0.26);
+    box-shadow: none;
+    background-color: rgba(0, 0, 0, 0.12);
+  }
+@media (hover: none) {
+  .MuiButton-contained:hover {
+    box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+    background-color: #e0e0e0;
+  }
+}
+  .MuiButton-contained:hover.Mui-disabled {
+    background-color: rgba(0, 0, 0, 0.12);
+  }
+  .MuiButton-containedPrimary {
+    color: #fff;
+    background-color: #3f51b5;
+  }
+  .MuiButton-containedPrimary:hover {
+    background-color: rgb(17, 82, 147);
+  }
+@media (hover: none) {
+  .MuiButton-containedPrimary:hover {
+    background-color: #3f51b5;
+  }
+}
+  .MuiButton-containedSecondary {
+    color: white;
+    background-color: #f9b934;
+  }
+  .MuiButton-containedSecondary:hover {
+    background-color: #f57c00;
+  }
+@media (hover: none) {
+  .MuiButton-containedSecondary:hover {
+    background-color: #f9b934;
+  }
+}
+  .MuiButton-disableElevation {
+    box-shadow: none;
+  }
+  .MuiButton-disableElevation:hover {
+    box-shadow: none;
+  }
+  .MuiButton-disableElevation.Mui-focusVisible {
+    box-shadow: none;
+  }
+  .MuiButton-disableElevation:active {
+    box-shadow: none;
+  }
+  .MuiButton-disableElevation.Mui-disabled {
+    box-shadow: none;
+  }
+  .MuiButton-colorInherit {
+    color: inherit;
+    border-color: currentColor;
+  }
+  .MuiButton-textSizeSmall {
+    padding: 4px 5px;
+    font-size: 0.8125rem;
+  }
+  .MuiButton-textSizeLarge {
+    padding: 8px 11px;
+    font-size: 0.9375rem;
+  }
+  .MuiButton-outlinedSizeSmall {
+    padding: 3px 9px;
+    font-size: 0.8125rem;
+  }
+  .MuiButton-outlinedSizeLarge {
+    padding: 7px 21px;
+    font-size: 0.9375rem;
+  }
+  .MuiButton-containedSizeSmall {
+    padding: 4px 10px;
+    font-size: 0.8125rem;
+  }
+  .MuiButton-containedSizeLarge {
+    padding: 8px 22px;
+    font-size: 0.9375rem;
+  }
+  .MuiButton-fullWidth {
+    width: 100%;
+  }
+  .MuiButton-startIcon {
+    display: inherit;
+    margin-left: -4px;
+    margin-right: 8px;
+  }
+  .MuiButton-startIcon.MuiButton-iconSizeSmall {
+    margin-left: -2px;
+  }
+  .MuiButton-endIcon {
+    display: inherit;
+    margin-left: 8px;
+    margin-right: -4px;
+  }
+  .MuiButton-endIcon.MuiButton-iconSizeSmall {
+    margin-right: -2px;
+  }
+  .MuiButton-iconSizeSmall > *:first-child {
+    font-size: 18px;
+  }
+  .MuiButton-iconSizeMedium > *:first-child {
+    font-size: 20px;
+  }
+  .MuiButton-iconSizeLarge > *:first-child {
+    font-size: 22px;
+  }
+  .MuiCard-root {
+    overflow: hidden;
+  }
+  .MuiCardContent-root {
+    padding: 16px;
+  }
+  .MuiCardContent-root:last-child {
+    padding-bottom: 24px;
+  }
+  .MuiCardMedia-root {
+    display: block;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .MuiCardMedia-media {
+    width: 100%;
+  }
+  .MuiCardMedia-img {
+    object-fit: cover;
+  }
+html {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+strong, b {
+  font-weight: 700;
+}
+body {
+  color: #2d3748;
+  margin: 0;
+  font-size: 0.875rem;
+  font-family: Lato;
+  font-weight: 400;
+  line-height: 1.43;
+  background-color: #fff;
+}
+@media print {
+  body {
+    background-color: #fff;
+  }
+}
+body::backdrop {
+  background-color: #fff;
+}
+  .MuiDivider-root {
+    border: none;
+    height: 1px;
+    margin: 0;
+    flex-shrink: 0;
+    background-color: rgba(0, 0, 0, 0.12);
+  }
+  .MuiDivider-absolute {
+    left: 0;
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+  }
+  .MuiDivider-inset {
+    margin-left: 72px;
+  }
+  .MuiDivider-light {
+    background-color: rgba(0, 0, 0, 0.08);
+  }
+  .MuiDivider-middle {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+  .MuiDivider-vertical {
+    width: 1px;
+    height: 100%;
+  }
+  .MuiDivider-flexItem {
+    height: auto;
+    align-self: stretch;
+  }
+  .MuiDrawer-docked {
+    flex: 0 0 auto;
+  }
+  .MuiDrawer-paper {
+    top: 0;
+    flex: 1 0 auto;
+    height: 100%;
+    display: flex;
+    outline: 0;
+    z-index: 1100;
+    position: fixed;
+    overflow-y: auto;
+    flex-direction: column;
+    -webkit-overflow-scrolling: touch;
+  }
+  .MuiDrawer-paperAnchorLeft {
+    left: 0;
+    right: auto;
+  }
+  .MuiDrawer-paperAnchorRight {
+    left: auto;
+    right: 0;
+  }
+  .MuiDrawer-paperAnchorTop {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: auto;
+    height: auto;
+    max-height: 100%;
+  }
+  .MuiDrawer-paperAnchorBottom {
+    top: auto;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: auto;
+    max-height: 100%;
+  }
+  .MuiDrawer-paperAnchorDockedLeft {
+    border-right: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .MuiDrawer-paperAnchorDockedTop {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .MuiDrawer-paperAnchorDockedRight {
+    border-left: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .MuiDrawer-paperAnchorDockedBottom {
+    border-top: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .MuiGrid-container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+  }
+  .MuiGrid-item {
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .MuiGrid-zeroMinWidth {
+    min-width: 0;
+  }
+  .MuiGrid-direction-xs-column {
+    flex-direction: column;
+  }
+  .MuiGrid-direction-xs-column-reverse {
+    flex-direction: column-reverse;
+  }
+  .MuiGrid-direction-xs-row-reverse {
+    flex-direction: row-reverse;
+  }
+  .MuiGrid-wrap-xs-nowrap {
+    flex-wrap: nowrap;
+  }
+  .MuiGrid-wrap-xs-wrap-reverse {
+    flex-wrap: wrap-reverse;
+  }
+  .MuiGrid-align-items-xs-center {
+    align-items: center;
+  }
+  .MuiGrid-align-items-xs-flex-start {
+    align-items: flex-start;
+  }
+  .MuiGrid-align-items-xs-flex-end {
+    align-items: flex-end;
+  }
+  .MuiGrid-align-items-xs-baseline {
+    align-items: baseline;
+  }
+  .MuiGrid-align-content-xs-center {
+    align-content: center;
+  }
+  .MuiGrid-align-content-xs-flex-start {
+    align-content: flex-start;
+  }
+  .MuiGrid-align-content-xs-flex-end {
+    align-content: flex-end;
+  }
+  .MuiGrid-align-content-xs-space-between {
+    align-content: space-between;
+  }
+  .MuiGrid-align-content-xs-space-around {
+    align-content: space-around;
+  }
+  .MuiGrid-justify-xs-center {
+    justify-content: center;
+  }
+  .MuiGrid-justify-xs-flex-end {
+    justify-content: flex-end;
+  }
+  .MuiGrid-justify-xs-space-between {
+    justify-content: space-between;
+  }
+  .MuiGrid-justify-xs-space-around {
+    justify-content: space-around;
+  }
+  .MuiGrid-justify-xs-space-evenly {
+    justify-content: space-evenly;
+  }
+  .MuiGrid-spacing-xs-1 {
+    width: calc(100% + 8px);
+    margin: -4px;
+  }
+  .MuiGrid-spacing-xs-1 > .MuiGrid-item {
+    padding: 4px;
+  }
+  .MuiGrid-spacing-xs-2 {
+    width: calc(100% + 16px);
+    margin: -8px;
+  }
+  .MuiGrid-spacing-xs-2 > .MuiGrid-item {
+    padding: 8px;
+  }
+  .MuiGrid-spacing-xs-3 {
+    width: calc(100% + 24px);
+    margin: -12px;
+  }
+  .MuiGrid-spacing-xs-3 > .MuiGrid-item {
+    padding: 12px;
+  }
+  .MuiGrid-spacing-xs-4 {
+    width: calc(100% + 32px);
+    margin: -16px;
+  }
+  .MuiGrid-spacing-xs-4 > .MuiGrid-item {
+    padding: 16px;
+  }
+  .MuiGrid-spacing-xs-5 {
+    width: calc(100% + 40px);
+    margin: -20px;
+  }
+  .MuiGrid-spacing-xs-5 > .MuiGrid-item {
+    padding: 20px;
+  }
+  .MuiGrid-spacing-xs-6 {
+    width: calc(100% + 48px);
+    margin: -24px;
+  }
+  .MuiGrid-spacing-xs-6 > .MuiGrid-item {
+    padding: 24px;
+  }
+  .MuiGrid-spacing-xs-7 {
+    width: calc(100% + 56px);
+    margin: -28px;
+  }
+  .MuiGrid-spacing-xs-7 > .MuiGrid-item {
+    padding: 28px;
+  }
+  .MuiGrid-spacing-xs-8 {
+    width: calc(100% + 64px);
+    margin: -32px;
+  }
+  .MuiGrid-spacing-xs-8 > .MuiGrid-item {
+    padding: 32px;
+  }
+  .MuiGrid-spacing-xs-9 {
+    width: calc(100% + 72px);
+    margin: -36px;
+  }
+  .MuiGrid-spacing-xs-9 > .MuiGrid-item {
+    padding: 36px;
+  }
+  .MuiGrid-spacing-xs-10 {
+    width: calc(100% + 80px);
+    margin: -40px;
+  }
+  .MuiGrid-spacing-xs-10 > .MuiGrid-item {
+    padding: 40px;
+  }
+  .MuiGrid-grid-xs-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-xs-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-xs-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-xs-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-xs-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-xs-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-xs-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-xs-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-xs-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-xs-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-xs-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-xs-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-xs-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-xs-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+@media (min-width:600px) {
+  .MuiGrid-grid-sm-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-sm-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-sm-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-sm-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-sm-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-sm-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-sm-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-sm-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-sm-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-sm-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-sm-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-sm-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-sm-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-sm-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:960px) {
+  .MuiGrid-grid-md-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-md-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-md-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-md-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-md-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-md-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-md-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-md-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-md-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-md-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-md-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-md-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-md-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-md-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:1280px) {
+  .MuiGrid-grid-lg-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-lg-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-lg-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-lg-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-lg-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-lg-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-lg-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-lg-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-lg-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-lg-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-lg-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-lg-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-lg-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-lg-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:1920px) {
+  .MuiGrid-grid-xl-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-xl-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-xl-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-xl-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-xl-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-xl-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-xl-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-xl-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-xl-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-xl-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-xl-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-xl-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-xl-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-xl-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+  .MuiList-root {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    list-style: none;
+  }
+  .MuiList-padding {
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+  .MuiList-subheader {
+    padding-top: 0;
+  }
+  .MuiListItem-root {
+    width: 100%;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    text-align: left;
+    align-items: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    justify-content: flex-start;
+    text-decoration: none;
+  }
+  .MuiListItem-root.Mui-focusVisible {
+    background-color: rgba(0, 0, 0, 0.08);
+  }
+  .MuiListItem-root.Mui-selected, .MuiListItem-root.Mui-selected:hover {
+    background-color: rgba(0, 0, 0, 0.08);
+  }
+  .MuiListItem-root.Mui-disabled {
+    opacity: 0.5;
+  }
+  .MuiListItem-container {
+    position: relative;
+  }
+  .MuiListItem-dense {
+    padding-top: 4px;
+    padding-bottom: 4px;
+  }
+  .MuiListItem-alignItemsFlexStart {
+    align-items: flex-start;
+  }
+  .MuiListItem-divider {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+    background-clip: padding-box;
+  }
+  .MuiListItem-gutters {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .MuiListItem-button {
+    transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  }
+  .MuiListItem-button:hover {
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.04);
+  }
+@media (hover: none) {
+  .MuiListItem-button:hover {
+    background-color: transparent;
+  }
+}
+  .MuiListItem-secondaryAction {
+    padding-right: 48px;
+  }
+  .MuiListItemAvatar-root {
+    min-width: 56px;
+    flex-shrink: 0;
+  }
+  .MuiListItemAvatar-alignItemsFlexStart {
+    margin-top: 8px;
+  }
+  .MuiListItemText-root {
+    flex: 1 1 auto;
+    min-width: 0;
+    margin-top: 4px;
+    margin-bottom: 4px;
+  }
+  .MuiListItemText-multiline {
+    margin-top: 6px;
+    margin-bottom: 6px;
+  }
+  .MuiListItemText-inset {
+    padding-left: 56px;
+  }
+  .MuiToolbar-root {
+    display: flex;
+    position: relative;
+    align-items: center;
+  }
+  .MuiToolbar-gutters {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+@media (min-width:600px) {
+  .MuiToolbar-gutters {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+  .MuiToolbar-regular {
+    min-height: 56px;
+  }
+@media (min-width:0px) and (orientation: landscape) {
+  .MuiToolbar-regular {
+    min-height: 48px;
+  }
+}
+@media (min-width:600px) {
+  .MuiToolbar-regular {
+    min-height: 64px;
+  }
+}
+  .MuiToolbar-dense {
+    min-height: 48px;
+  }
+  .jss41 {
+    width: 100%;
+    margin: 0 auto;
+    padding: 48px 16px;
+    max-width: 1236px;
+  }
+@media (min-width:600px) {
+  .jss41 {
+    padding: 64px 64px;
+  }
+}
+@media (min-width:960px) {
+  .jss41 {
+    padding: 96px 64px;
+  }
+}
+  .jss42 {
+    max-width: 100%;
+  }
+  .jss43 {
+    padding: 0;
+  }
+  .jss44 {
+    max-width: 800px;
+  }
+  .jss58 {
+    background: rgb(247, 249, 250);
+  }
+  .jss59 {
+    width: 100%;
+    margin: 0 auto;
+    padding: 48px 16px;
+    max-width: 1236px;
+  }
+@media (min-width:600px) {
+  .jss59 {
+    padding: 64px 64px;
+  }
+}
+@media (min-width:960px) {
+  .jss59 {
+    padding: 96px 64px;
+  }
+}
+  .jss60 {
+    max-width: 800px;
+  }
+  .jss77 {
+    font-weight: 700;
+  }
+  .jss67 {
+    width: 100%;
+    height: 100%;
+  }
+  .jss68 {
+    box-shadow: 0 2px 10px 0 rgba(23, 70, 161, .11);
+  }
+  .jss69 {
+    box-shadow: none;
+  }
+  .jss70 {
+    border: 0;
+  }
+  .jss71 {
+    background: transparent;
+  }
+  .jss72 {
+    transition: box-shadow .25s ease,transform .25s ease,-webkit-transform .25s ease;
+  }
+  .jss72:hover {
+    transform: translate3d(0,-5px,0);
+    box-shadow: 0 1.5rem 2.5rem rgba(22,28,45,.1),0 .3rem 0.5rem -.50rem rgba(22,28,45,.05) !important;
+  }
+  .jss73 {
+    height: 100%;
+    display: flex;
+    padding: 32px 16px;
+    align-items: center;
+    flex-direction: column;
+  }
+  .jss73:last-child {
+    padding: 32px 16px;
+  }
+@media (min-width:960px) {
+  .jss73 {
+    padding: 48px 24px;
+  }
+  .jss73:last-child {
+    padding: 48px 24px;
+  }
+}
+  .jss74 {
+    align-items: flex-start;
+  }
+  .jss75 {
+    align-items: flex-end;
+  }
+  .jss76 {
+    align-items: center;
+  }
+  .jss49 {
+    width: 100%;
+    height: 100%;
+  }
+  .jss50 {
+    display: block;
+  }
+  .jss34 {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+  .jss35 {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    position: relative;
+    max-width: 1236px;
+  }
+@media (max-width:959.95px) {
+  .jss35 {
+    flex-direction: column-reverse;
+  }
+}
+@media (max-width:959.95px) {
+  .jss36 {
+    padding: 24px 64px;
+  }
+}
+@media (max-width:599.95px) {
+  .jss36 {
+    padding: 24px 16px;
+  }
+}
+  .jss37 {
+    flex: 0 0 50%;
+    position: relative;
+    max-width: 50%;
+  }
+@media (max-width:959.95px) {
+  .jss37 {
+    flex: 0 0 100%;
+    height: 300px;
+    max-width: 100%;
+  }
+}
+  .jss38 {
+    width: 50vw;
+    height: 100%;
+    position: relative;
+  }
+@media (max-width:959.95px) {
+  .jss38 {
+    width: 100%;
+  }
+}
+  .jss39 {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+  .jss40 {
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+  }
+@media (min-width:960px) {
+  .jss40 {
+    clip-path: polygon(10% 0%, 100% 0, 100% 100%, 0% 100%);
+    shape-outside: polygon(10% 0%, 100% 0, 100% 100%, 0% 100%);
+  }
+}
+  .jss45 {
+    margin-bottom: 24px;
+  }
+@media (min-width:960px) {
+  .jss45 {
+    margin-bottom: 32px;
+  }
+}
+  .jss46 {
+    margin-bottom: 0;
+  }
+  .jss47 {
+    font-weight: bold;
+  }
+  .jss48 {
+    margin-left: 8px;
+  }
+  .jss48:first-child {
+    margin-left: 0;
+  }
+  .jss61 {
+    color: white;
+  }
+  .jss62 .MuiCardContent-root {
+    justify-content: space-between;
+  }
+@media (min-width:960px) {
+  .jss62 {
+    margin-top: -96px;
+  }
+  .jss62 .MuiCardContent-root {
+    padding: 88px 40px;
+  }
+}
+  .jss63 {
+    font-weight: bold;
+  }
+@media (max-width:959.95px) {
+  .jss63 {
+    margin-bottom: 16px;
+  }
+}
+  .jss64 {
+    width: 100px;
+    height: 100px;
+    box-shadow: 5px 11px 20px 0px rgba(0, 0, 0, 0.25);
+  }
+  .jss65 {
+    width: 300px;
+    object-fit: cover;
+    border-radius: 20px;
+  }
+  .jss66 {
+    justify-content: center;
+  }
+  .jss31 {
+    background: url(https://assets.maccarianagency.com/the-front/illustrations/patterns-bg.svg) no-repeat left bottom;
+    background-size: contain;
+    background-color: rgb(247, 249, 250);
+  }
+  .jss32 {
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+    position: relative;
+  }
+  .jss33 {
+    object-fit: cover;
+  }
+  .jss86 {
+    color: white;
+  }
+  .jss87 {
+    width: 140px;
+    height: 140px;
+    background: transparent;
+    border-radius: 0;
+  }
+  .jss88 .description-list-icon__title, .jss88 .description-list-icon__subtitle {
+    color: white;
+  }
+  .jss78 {
+    color: white;
+  }
+  .jss79 {
+    height: 180px;
+    margin: 0 auto;
+  }
+  .jss80 {
+    display: flex;
+    box-shadow: none;
+  }
+@media (max-width:599.95px) {
+  .jss80 {
+    flex-direction: column;
+  }
+}
+  .jss81 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .jss82 {
+    background: rgb(17, 82, 147);
+  }
+  .jss83 {
+    object-fit: cover;
+  }
+  .jss84 {
+    background: transparent;
+    border-radius: 0;
+  }
+  .jss85 {
+    height: auto;
+    max-width: 450px;
+  }
+  .jss51 .hero-shaped {
+    border-bottom: 0;
+  }
+  .jss52 {
+    padding: 0px 16px;
+    max-width: 100%;
+  }
+  .jss53 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    z-index: 9;
+    position: relative;
+    background: url(https://assets.maccarianagency.com/the-front/illustrations/patterns-bg.svg) no-repeat left bottom;
+    background-size: contain;
+    justify-content: flex-end;
+  }
+  .jss54 {
+    width: auto;
+    max-width: 90%;
+    object-fit: contain;
+  }
+  .jss55 {
+    align-self: flex-start;
+    margin-top: 8px;
+    margin-right: 8px;
+  }
+@media (min-width:960px) {
+  .jss55 {
+    margin-right: 32px;
+  }
+}
+  .jss56 {
+    font-weight: bold;
+  }
+  .jss57 {
+    width: 60px;
+  }
+  .jss89 {
+    cursor: pointer;
+    margin: 16px 0px;
+  }
+  .jss90 {
+    border: 0;
+    max-width: 300px;
+    box-shadow: none;
+  }
+  .jss91 {
+    height: 185px;
+  }
+  .jss92 {
+    width: auto;
+  }
+  .jss93 {
+    color: white;
+  }
+  .jss94 {
+    margin-bottom: 32px;
+  }
+  .jss95 {
+    width: auto;
+  }
+  .jss96 {
+    margin-bottom: 56px;
+  }
+  .jss97 .swiper-pagination-bullet-active {
+    background: white;
+  }
+  .jss98 {
+    max-width: 120px;
+  }
+  .jss25 {
+    max-width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .jss26 {
+    background: url(https://assets.maccarianagency.com/the-front/illustrations/patterns-bg.svg) no-repeat center;
+    background-size: contain;
+  }
+  .jss27 {
+    background: #3d93d0;
+  }
+  .jss28 {
+    padding-top: 0;
+  }
+  .jss29 {
+    background: rgb(17, 82, 147);
+  }
+  .jss30 {
+    background: #0c133e;
+  }
+  .jss99 {
+    padding: 48px 0px;
+    background: #1b1642;
+  }
+@media (min-width:960px) {
+  .jss99 {
+    padding: 96px 0px;
+  }
+}
+  .jss100 {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0px 16px;
+    max-width: 1236px;
+  }
+@media (min-width:600px) {
+  .jss100 {
+    padding: 0px 64px;
+  }
+}
+  .jss101 {
+    width: fit-content;
+    margin: 0 auto;
+    padding: 12px;
+  }
+  .jss102 {
+    padding-top: 0;
+  }
+  .jss103 {
+    color: rgb(17, 82, 147);
+    margin-bottom: 8px;
+    text-transform: uppercase;
+  }
+  .jss104 {
+    color: rgba(255,255,255,.6);
+    padding: 0;
+    margin-right: 8px;
+  }
+  .jss104:hover {
+    background: transparent;
+  }
+  .jss104:last-child {
+    margin-right: 0;
+  }
+  .jss105 {
+    font-size: 24px;
+  }
+  .jss106 {
+    padding: 0 !important;
+  }
+  .jss107 {
+    display: flex;
+    margin-left: auto;
+    justify-content: space-evenly !important;
+  }
+  .jss108 {
+    margin: 16px;
+  }
+  .jss108:last-child {
+    margin-bottom: 0;
+  }
+  .jss109 {
+    padding-top: 0;
+    padding-bottom: 4px;
+  }
+  .jss109:last-child {
+    padding-bottom: 0;
+  }
+  .jss110 {
+    color: white;
+    text-transform: uppercase;
+  }
+  .jss111 {
+    color: white;
+  }
+  .jss112 {
+    width: 100%;
+  }
+  .jss113 {
+    color: rgba(255,255,255,.6);
+  }
+  .jss2 {
+    font-size: 1.8rem;
+    margin-top: -8px;
+    font-weight: bold;
+  }
+  .jss3 {
+    flex-grow: 1;
+  }
+  .jss4 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .jss5 {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0px 16px;
+    max-width: 1400px;
+  }
+  .jss6 {
+    padding: 0.4em;
+    text-transform: none;
+  }
+  .jss7 {
+    cursor: pointer;
+    font-weight: 300;
+  }
+  .jss7:hover {
+    color: rgb(17, 82, 147);
+  }
+  .jss8 {
+    color: #546e7a;
+    font-weight: 300;
+  }
+  .jss8:hover {
+    color: rgb(17, 82, 147);
+  }
+  .jss8:visited {
+    text-decoration: none;
+  }
+  .jss9 {
+    cursor: pointer;
+  }
+  .jss9:hover > .menu-item, .jss9:hover {
+    color: rgb(17, 82, 147);
+  }
+  .jss10> .menu-item {
+    color: rgb(17, 82, 147);
+  }
+  .jss11 {
+    flex: 0 0 auto;
+    white-space: nowrap;
+    margin-right: 16px;
+  }
+  .jss12 {
+    min-width: auto;
+  }
+  .jss13 {
+    border: 16px;
+    padding: 32px;
+    min-width: 350px;
+    box-shadow: 0 0.5rem 2rem 2px rgba(116, 123, 144, 0.09);
+    margin-top: 16px;
+  }
+  .jss14 {
+    padding: 0;
+  }
+  .jss14:hover {
+    background: transparent;
+  }
+  .jss15 {
+    color: rgb(17, 82, 147);
+    transform: rotate(180deg);
+  }
+  .jss16 {
+    width: 180px;
+    cursor: pointer;
+    height: 60px;
+    display: flex;
+    object-fit: cover;
+    align-items: center;
+    background-size: contain;
+    background-image: url('../static/images/logos/brand_with_name.svg');
+    background-repeat: no-repeat;
+  }
+@media (min-width:960px) {
+  .jss16 {
+    width: 180px;
+    height: 60px;
+  }
+}
+  .jss17 {
+    display: flex;
+    justify-content: space-between;
+  }
+  .jss18 {
+    margin-right: 40px;
+  }
+  .jss18:last-child {
+    margin-right: 0;
+  }
+  .jss19 {
+    padding-top: 0;
+  }
+  .jss20 {
+    text-transform: uppercase;
+  }
+  .jss21 {
+    display: flex;
+    align-items: center;
+  }
+  .jss22 {
+    width: 100%;
+    max-width: 325px;
+  }
+  .jss23 {
+    height: 100%;
+    padding: 8px;
+  }
+  .jss24 {
+    margin-bottom: 8px;
+  }
+  .jss1 {
+    height: 100%;
+  }</style></head><body><div id="__next"><div class="MuiPaper-root MuiPaper-elevation0 MuiPaper-rounded"><div class="container"><div class="jss1"><div class="MuiToolbar-root MuiToolbar-regular jss5" i18n="[object Object]"><div class="jss16"></div><div class="jss3"></div></div><main><hr class="MuiDivider-root"/><div><div class="jss31" i18n="[object Object]"><div class="jss34 hero-shaped"><div class="hero-shaped__wrapper jss35"><section class="section jss41 hero-shaped__left-side jss36"><div class="MuiGrid-root section-header jss45 MuiGrid-container MuiGrid-spacing-xs-2" data-aos="fade-up"><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h3 class="MuiTypography-root section-header__title jss47 MuiTypography-h3 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Exames e Certificados de Vacinação via API </h3></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root section-header__subtitle MuiTypography-h6 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Check-in rápido e seguro com dados autenticados digitalmente com a tecnologia blockchain, antes do passageiro sair de casa.</h6></div><div class="MuiGrid-root section-header__cta-wrapper MuiGrid-item MuiGrid-grid-xs-12"><div class="MuiGrid-root section-header__cta-container MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"><div class="section-header__cta-item-wrapper jss48"><button class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge" tabindex="0" type="button"><span class="MuiButton-label">CHECKPOINT</span></button></div></div></div></div></section><div class="hero-shaped__right-side jss37"><div class="hero-shaped__cover jss38"><div class="hero-shaped__image-container jss39"><div class="hero-shaped__image jss40"><div class="jss32"><span class=" lazy-load-image-background opacity" style="background-image:;background-size:;display:inline-block;height:100%;width:100%"><span class="image jss49 jss50 jss33" style="display:inline-block;width:100%;height:100%"></span></span></div></div></div></div></div></div><hr class="MuiDivider-root"/></div></div><section class="section jss41 jss25"><div class="jss51" i18n="[object Object]"><div class="MuiGrid-root section-header jss45 jss52 MuiGrid-container MuiGrid-spacing-xs-2" data-aos="fade-up"><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root section-header__title jss47 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignCenter">Por que Immunie?</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root section-header__subtitle MuiTypography-h6 MuiTypography-colorTextSecondary MuiTypography-alignCenter">Exames Covid PCR, Vacinas e Certificados Médicos com inseridos por profissionais de saúde licenciados.</h6></div></div><div class="jss34 hero-shaped"><div class="hero-shaped__wrapper jss35"><section class="section jss41 hero-shaped__left-side jss36"><ul class="MuiList-root"><li class="MuiListItem-root" data-aos="fade-up"><div class="MuiListItemAvatar-root jss55"><span class=" lazy-load-image-background opacity" style="background-image:;background-size:;display:inline-block;height:auto;width:auto"><span class="image jss49 jss50 jss57" style="display:inline-block;width:auto;height:auto"></span></span></div><div class="MuiListItemText-root MuiListItemText-multiline"><span class="MuiTypography-root jss56 MuiTypography-h6 MuiTypography-gutterBottom MuiTypography-displayBlock">Check In Digital</span><h6 class="MuiTypography-root MuiListItemText-secondary MuiTypography-subtitle1 MuiTypography-colorTextPrimary MuiTypography-displayBlock">Processo rápido, sem filas, sem sobrecarga no balcão. Integração direta para emissão prévia do eBoarding Pass.</h6></div></li><li class="MuiListItem-root" data-aos="fade-up"><div class="MuiListItemAvatar-root jss55"><span class=" lazy-load-image-background opacity" style="background-image:;background-size:;display:inline-block;height:auto;width:auto"><span class="image jss49 jss50 jss57" style="display:inline-block;width:auto;height:auto"></span></span></div><div class="MuiListItemText-root MuiListItemText-multiline"><span class="MuiTypography-root jss56 MuiTypography-h6 MuiTypography-gutterBottom MuiTypography-displayBlock">Segurança</span><h6 class="MuiTypography-root MuiListItemText-secondary MuiTypography-subtitle1 MuiTypography-colorTextPrimary MuiTypography-displayBlock">Dados autenticados e verificados via blockchain, com interface API, web ou mobile para operações remotas.</h6></div></li><li class="MuiListItem-root" data-aos="fade-up"><div class="MuiListItemAvatar-root jss55"><span class=" lazy-load-image-background opacity" style="background-image:;background-size:;display:inline-block;height:auto;width:auto"><span class="image jss49 jss50 jss57" style="display:inline-block;width:auto;height:auto"></span></span></div><div class="MuiListItemText-root MuiListItemText-multiline"><span class="MuiTypography-root jss56 MuiTypography-h6 MuiTypography-gutterBottom MuiTypography-displayBlock">Valor Agregado</span><h6 class="MuiTypography-root MuiListItemText-secondary MuiTypography-subtitle1 MuiTypography-colorTextPrimary MuiTypography-displayBlock">Potencialize a geração de ancillary revenues oferecendo mais comodidade para o passageiro.</h6></div></li></ul></section><div class="hero-shaped__right-side jss37"><div class="hero-shaped__cover jss38"><div class="hero-shaped__image-container jss39"><div class="hero-shaped__image jss40"><div class="jss53"><img class="image jss49 jss54" alt="..." src="../static/images/photos/travel_mockup.png"/></div></div></div></div></div></div><hr class="MuiDivider-root"/></div></div></section><section class="section-alternate jss58 jss30"><div class="section-alternate__content jss59"><div i18n="[object Object]"><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4"><div class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-grid-xs-12 MuiGrid-grid-md-6"><div class="MuiGrid-root section-header jss45 MuiGrid-container MuiGrid-spacing-xs-2" data-aos="fade-up"><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root section-header__title jss47 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft"><span class="jss61">Privacidade em Primeiro Lugar</span></h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-alignLeft"><span class="jss61">Immunie foi construído de acordo com os mais elevados padrões de privacidade global, estando 100% de acordo com a Lei Geral de Proteção de Dados Pessoais no Brasil (LGPDP – Lei 13.709/18), Regulamento Geral de Proteção de Dados Europeu (GDPR EU 2016/679) e California Data Protection Act (CDPA / 2018).</span></p></div><div class="MuiGrid-root section-header__cta-wrapper MuiGrid-item MuiGrid-grid-xs-12"><div class="MuiGrid-root section-header__cta-container MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"><div class="section-header__cta-item-wrapper jss48"><button class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedSizeLarge MuiButton-sizeLarge" tabindex="0" type="button"><span class="MuiButton-label">SABER MAIS</span></button></div></div></div></div></div><div class="MuiGrid-root jss66 MuiGrid-container MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6"><span class=" lazy-load-image-background opacity" style="background-image:;background-size:;display:inline-block;height:auto;width:auto"><span class="image jss49 jss50 jss65" style="display:inline-block;width:auto;height:auto"></span></span></div></div></div></div></section><div class="jss26"><section class="section jss41"><div i18n="[object Object]"><div class="MuiGrid-root section-header jss45 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root section-header__title jss47 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignCenter">COMO FUNCIONA</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root section-header__subtitle MuiTypography-h6 MuiTypography-colorTextSecondary MuiTypography-alignCenter">Conexão direta e segura entre o originador dos dados médicos com seu servidor mediante consentimento do passageiro.</h6></div></div><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-4" data-aos="fade-up"><div class="MuiPaper-root MuiCard-root card-base jss67 jss69 jss72 MuiPaper-outlined MuiPaper-rounded"><div class="MuiCardContent-root card-base__content jss73 jss76"><div class="MuiGrid-root description-list-icon MuiGrid-container MuiGrid-spacing-xs-2"><div class="MuiGrid-root description-list-icon__icon-wrapper MuiGrid-container MuiGrid-item MuiGrid-grid-xs-12"><span class=" lazy-load-image-background opacity" style="background-image:;background-size:;display:inline-block;height:auto;width:auto"><span class="image jss49 jss50" style="display:inline-block;width:auto;height:auto"></span></span></div><div class="MuiGrid-root description-list-icon__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root jss77 description-list-icon__title MuiTypography-h6 MuiTypography-colorTextPrimary MuiTypography-alignLeft">VISITA À CLÍNICA</h6></div><div class="MuiGrid-root description-list-icon__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root description-list-icon__subtitle MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-alignLeft">O passageiro faz o seu teste Covid-PCR ou recebe a vacina necessária para viajar.</p></div></div></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-4" data-aos="fade-up"><div class="MuiPaper-root MuiCard-root card-base jss67 jss69 jss72 MuiPaper-outlined MuiPaper-rounded"><div class="MuiCardContent-root card-base__content jss73 jss76"><div class="MuiGrid-root description-list-icon MuiGrid-container MuiGrid-spacing-xs-2"><div class="MuiGrid-root description-list-icon__icon-wrapper MuiGrid-container MuiGrid-item MuiGrid-grid-xs-12"><span class=" lazy-load-image-background opacity" style="background-image:;background-size:;display:inline-block;height:auto;width:auto"><span class="image jss49 jss50" style="display:inline-block;width:auto;height:auto"></span></span></div><div class="MuiGrid-root description-list-icon__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root jss77 description-list-icon__title MuiTypography-h6 MuiTypography-colorTextPrimary MuiTypography-alignLeft">DADOS INSERIDOS PELO MÉDICO</h6></div><div class="MuiGrid-root description-list-icon__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root description-list-icon__subtitle MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-alignLeft">O resultado do exame ou dados da vacina com número de lote e timestamp são atualizados automaticamente. </p></div></div></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-4" data-aos="fade-up"><div class="MuiPaper-root MuiCard-root card-base jss67 jss69 jss72 MuiPaper-outlined MuiPaper-rounded"><div class="MuiCardContent-root card-base__content jss73 jss76"><div class="MuiGrid-root description-list-icon MuiGrid-container MuiGrid-spacing-xs-2"><div class="MuiGrid-root description-list-icon__icon-wrapper MuiGrid-container MuiGrid-item MuiGrid-grid-xs-12"><span class=" lazy-load-image-background opacity" style="background-image:;background-size:;display:inline-block;height:auto;width:auto"><span class="image jss49 jss50" style="display:inline-block;width:auto;height:auto"></span></span></div><div class="MuiGrid-root description-list-icon__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root jss77 description-list-icon__title MuiTypography-h6 MuiTypography-colorTextPrimary MuiTypography-alignLeft">DADOS AUTENTICADOS</h6></div><div class="MuiGrid-root description-list-icon__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root description-list-icon__subtitle MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-alignLeft">O passageiro faz o opt-in associando os resultados ao seu eTICKET, via API, permitindo sua autenticação e emissão do eBoarding Pass.</p></div></div></div></div></div></div></div></section></div><section class="section-alternate jss58"><div class="section-alternate__content jss59"><div i18n="[object Object]"><div class="MuiGrid-root section-header jss45 MuiGrid-container MuiGrid-spacing-xs-2" data-aos="fade-up"><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root section-header__title jss47 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignCenter">Como usar</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root section-header__subtitle MuiTypography-h6 MuiTypography-colorTextSecondary MuiTypography-alignCenter">Torne sua vida mais fácil com Immunie. Sem papel, sem preocupações.</h6></div></div><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-8"><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4 MuiGrid-direction-xs-column"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12" data-aos="fade-up"><div class="MuiPaper-root MuiCard-root jss80 MuiPaper-elevation1 MuiPaper-rounded"><div class="MuiCardMedia-root jss79"><span class=" lazy-load-image-background opacity" style="background-image:;background-size:;display:inline-block;height:100%;width:200px"><span class="image jss49 jss50 jss83" style="display:inline-block;width:200px;height:100%"></span></span></div><div class="MuiCardContent-root jss81"><h6 class="MuiTypography-root MuiTypography-subtitle1 MuiTypography-colorTextSecondary">Testes Covid-PCR</h6><h6 class="MuiTypography-root MuiTypography-h6 MuiTypography-colorTextPrimary">Resultados de exames compartilhados diretamente na sua API com a segurança da autenticação Blockchain</h6></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12" data-aos="fade-up"><div class="MuiPaper-root MuiCard-root jss80 MuiPaper-elevation1 MuiPaper-rounded"><div class="MuiCardMedia-root jss79"><span class=" lazy-load-image-background opacity" style="background-image:;background-size:;display:inline-block;height:100%;width:200px"><span class="image jss49 jss50 jss83" style="display:inline-block;width:200px;height:100%"></span></span></div><div class="MuiCardContent-root jss81"><h6 class="MuiTypography-root MuiTypography-subtitle1 MuiTypography-colorTextSecondary">Certificados eICV</h6><h6 class="MuiTypography-root MuiTypography-h6 MuiTypography-colorTextPrimary">Certificados de Vacinação Internacional eletrônicos gerados de acordo com o modelo ICV da OMS.</h6></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12" data-aos="fade-up"><div class="MuiPaper-root MuiCard-root jss80 MuiPaper-elevation1 MuiPaper-rounded"><div class="MuiCardMedia-root jss79"><span class=" lazy-load-image-background opacity" style="background-image:;background-size:;display:inline-block;height:100%;width:200px"><span class="image jss49 jss50 jss83" style="display:inline-block;width:200px;height:100%"></span></span></div><div class="MuiCardContent-root jss81"><h6 class="MuiTypography-root MuiTypography-subtitle1 MuiTypography-colorTextSecondary">Combate a Fraudes</h6><h6 class="MuiTypography-root MuiTypography-h6 MuiTypography-colorTextPrimary">Elimine o risco de edição de resultados apresentados em papel ou arquivos PDFs.</h6></div></div></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-4"><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4 MuiGrid-direction-xs-column"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12" data-aos="fade-up"><div class="MuiPaper-root MuiCard-root card-base jss67 jss68 jss82 MuiPaper-elevation1 MuiPaper-rounded"><div class="MuiCardContent-root card-base__content jss73 jss76"><div class="MuiGrid-root section-header jss45 jss46 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root section-header__title jss47 MuiTypography-h6 MuiTypography-colorTextPrimary MuiTypography-alignLeft"><span class="jss78">FLUXO DE INFORMAÇÕES</span></h6></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-alignLeft"><span class="jss78">Veja como a integração ocorre, etapa por etapa em nosso catálogo para o setor de transporte de passageiros.</span></p></div><div class="MuiGrid-root section-header__cta-wrapper MuiGrid-item MuiGrid-grid-xs-12"><div class="MuiGrid-root section-header__cta-container MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"><div class="section-header__cta-item-wrapper jss48"><button class="MuiButtonBase-root MuiButton-root MuiButton-contained" tabindex="0" type="button"><span class="MuiButton-label">CATÁLOGO PDF</span></button></div></div></div></div></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12" data-aos="fade-up"><div class="MuiPaper-root MuiCard-root card-base jss67 jss68 MuiPaper-elevation1 MuiPaper-rounded"><div class="MuiCardContent-root card-base__content jss73 jss76"><div class="MuiGrid-root section-header jss45 jss46 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root section-header__title jss47 MuiTypography-h6 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Teste o sistema desde a entrada dos dados até a autenticação via Blockchain</h6></div><div class="MuiGrid-root section-header__cta-wrapper MuiGrid-item MuiGrid-grid-xs-12"><div class="MuiGrid-root section-header__cta-container MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"><div class="section-header__cta-item-wrapper jss48"><a class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary" tabindex="0" aria-disabled="false" href="mailto:contact@immunie.net"><span class="MuiButton-label">AGENDAR DEMONSTRAÇÃO</span></a></div></div></div></div></div></div></div></div></div></div></div></div></section><section class="section jss41"><div i18n="[object Object]"><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6" data-aos="fade-up"><div class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column MuiGrid-align-items-xs-flex-start MuiGrid-justify-xs-center"><div class="MuiGrid-root section-header jss45 jss46 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root section-header__title jss47 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Tecnologia Blockchain</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root section-header__subtitle MuiTypography-h6 MuiTypography-colorTextPrimary MuiTypography-alignLeft">A autenticação dos registros de vacinação inseridos na sua Carteira Digital de Vacinação e Saúde Immunie utiliza dois níveis de encriptação para garantir a autenticidade dos dados, preservando sua privacidade.</h6></div></div><div class="MuiGrid-root MuiGrid-container"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12" data-aos="fade-up"><li class="MuiListItem-root"><div class="MuiListItemAvatar-root"><div class="MuiAvatar-root MuiAvatar-circle jss84"><img src="https://assets.maccarianagency.com/the-front/illustrations/check-icon-yellow.svg" class="MuiAvatar-img"/></div></div><h6 class="MuiTypography-root MuiTypography-subtitle1 MuiTypography-colorTextPrimary">Disponíbilidade Global</h6></li></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12" data-aos="fade-up"><li class="MuiListItem-root"><div class="MuiListItemAvatar-root"><div class="MuiAvatar-root MuiAvatar-circle jss84"><img src="https://assets.maccarianagency.com/the-front/illustrations/check-icon-yellow.svg" class="MuiAvatar-img"/></div></div><h6 class="MuiTypography-root MuiTypography-subtitle1 MuiTypography-colorTextPrimary">Applicação Mobile e Web</h6></li></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12" data-aos="fade-up"><li class="MuiListItem-root"><div class="MuiListItemAvatar-root"><div class="MuiAvatar-root MuiAvatar-circle jss84"><img src="https://assets.maccarianagency.com/the-front/illustrations/check-icon-yellow.svg" class="MuiAvatar-img"/></div></div><h6 class="MuiTypography-root MuiTypography-subtitle1 MuiTypography-colorTextPrimary">Tecnologia PWA em qualquer smartphone</h6></li></div></div></div></div><div class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-justify-xs-flex-end MuiGrid-grid-xs-12 MuiGrid-grid-md-6" data-aos="fade-up"><span class=" lazy-load-image-background opacity" style="background-image:;background-size:;display:inline-block;height:auto;width:auto"><span class="image jss49 jss50 jss85" style="display:inline-block;width:auto;height:auto"></span></span></div></div></div></section><section class="section-alternate jss58 jss27"><div class="section-alternate__content jss59"><div i18n="[object Object]"><div class="MuiGrid-root section-header jss45 MuiGrid-container MuiGrid-spacing-xs-2" data-aos="fade-up"><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root section-header__title jss47 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignCenter"><span class="jss86">Padrão global de gestão e serviços</span></h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root section-header__subtitle MuiTypography-h6 MuiTypography-colorTextSecondary MuiTypography-alignCenter"><span class="jss86">Trabalhamos com a melhor tecnologia e os melhores provedores de serviço no mercado global.</span></h6></div></div><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4"><div class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-12 MuiGrid-grid-sm-4 MuiGrid-grid-md-4" data-aos="fade-up"><div class="MuiGrid-root description-list-icon jss88 MuiGrid-container MuiGrid-spacing-xs-2"><div class="MuiGrid-root description-list-icon__icon-wrapper MuiGrid-container MuiGrid-item MuiGrid-justify-xs-center MuiGrid-grid-xs-12"><div class="MuiAvatar-root MuiAvatar-circle jss87 MuiAvatar-colorDefault"><span class=" lazy-load-image-background opacity" style="background-image:;background-size:;display:inline-block;height:auto;width:auto"><span class="image jss49 jss50" style="display:inline-block;width:auto;height:auto"></span></span></div></div><div class="MuiGrid-root description-list-icon__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root jss77 description-list-icon__title MuiTypography-h6 MuiTypography-colorTextPrimary MuiTypography-alignCenter">LBS Incubator</h6></div><div class="MuiGrid-root description-list-icon__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root description-list-icon__subtitle MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-alignCenter"> Temos orgulho de fazer parte da edição 2020-2021 da Incubadora da London Business School, uma das melhores escolas de negócios do mundo.</p></div></div></div><div class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-12 MuiGrid-grid-sm-4 MuiGrid-grid-md-4" data-aos="fade-up"><div class="MuiGrid-root description-list-icon jss88 MuiGrid-container MuiGrid-spacing-xs-2"><div class="MuiGrid-root description-list-icon__icon-wrapper MuiGrid-container MuiGrid-item MuiGrid-justify-xs-center MuiGrid-grid-xs-12"><div class="MuiAvatar-root MuiAvatar-circle jss87 MuiAvatar-colorDefault"><span class=" lazy-load-image-background opacity" style="background-image:;background-size:;display:inline-block;height:auto;width:auto"><span class="image jss49 jss50" style="display:inline-block;width:auto;height:auto"></span></span></div></div><div class="MuiGrid-root description-list-icon__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root jss77 description-list-icon__title MuiTypography-h6 MuiTypography-colorTextPrimary MuiTypography-alignCenter">Amazon Web Services</h6></div><div class="MuiGrid-root description-list-icon__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root description-list-icon__subtitle MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-alignCenter"> A infraestrutura em nuvem global mais segura, abrangente e confiável para aplicativos.</p></div></div></div><div class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-12 MuiGrid-grid-sm-4 MuiGrid-grid-md-4" data-aos="fade-up"><div class="MuiGrid-root description-list-icon jss88 MuiGrid-container MuiGrid-spacing-xs-2"><div class="MuiGrid-root description-list-icon__icon-wrapper MuiGrid-container MuiGrid-item MuiGrid-justify-xs-center MuiGrid-grid-xs-12"><div class="MuiAvatar-root MuiAvatar-circle jss87 MuiAvatar-colorDefault"><span class=" lazy-load-image-background opacity" style="background-image:;background-size:;display:inline-block;height:auto;width:auto"><span class="image jss49 jss50" style="display:inline-block;width:auto;height:auto"></span></span></div></div><div class="MuiGrid-root description-list-icon__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root jss77 description-list-icon__title MuiTypography-h6 MuiTypography-colorTextPrimary MuiTypography-alignCenter">PWA</h6></div><div class="MuiGrid-root description-list-icon__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root description-list-icon__subtitle MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-alignCenter">O Progressive Web Apps representa uma das maiores apostas de empresas como Google e Microsoft para o futuro.</p></div></div></div></div></div></div></section><section class="section jss41"><div i18n="[object Object]"><div class="MuiGrid-root section-header jss45 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__label-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root MuiTypography-overline MuiTypography-colorPrimary MuiTypography-alignLeft">OUTROS PRODUTOS</p></div><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root section-header__title jss47 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Conheça também</h4></div></div><div class="article-swiper swiper-container"><div class="swiper-wrapper"><div class="swiper-slide jss92"><div class="MuiPaper-root MuiCard-root jss90 MuiPaper-elevation1 MuiPaper-rounded"><div class="MuiCardMedia-root jss91"><span class=" lazy-load-image-background opacity" style="background-image:;background-size:;display:inline-block;height:100%;width:100%"><span class="image jss49 jss50" style="display:inline-block;width:100%;height:100%"></span></span></div><div class="MuiCardContent-root"><p class="MuiTypography-root jss89 MuiTypography-body1 MuiTypography-colorPrimary"><i>Carteira Digital de Vacinação e Exames</i> | <i>Saber mais</i></p><p class="MuiTypography-root MuiTypography-h6 MuiTypography-colorTextPrimary">Immunie para você</p></div></div></div><div class="swiper-slide jss92"><div class="MuiPaper-root MuiCard-root jss90 MuiPaper-elevation1 MuiPaper-rounded"><div class="MuiCardMedia-root jss91"><span class=" lazy-load-image-background opacity" style="background-image:;background-size:;display:inline-block;height:100%;width:100%"><span class="image jss49 jss50" style="display:inline-block;width:100%;height:100%"></span></span></div><div class="MuiCardContent-root"><p class="MuiTypography-root jss89 MuiTypography-body1 MuiTypography-colorPrimary"><i>Vacinas e Exames Certificados</i> | <i>Saber mais</i></p><p class="MuiTypography-root MuiTypography-h6 MuiTypography-colorTextPrimary">Setor Médico</p></div></div></div><div class="swiper-slide jss92"><div class="MuiPaper-root MuiCard-root jss90 MuiPaper-elevation1 MuiPaper-rounded"><div class="MuiCardMedia-root jss91"><span class=" lazy-load-image-background opacity" style="background-image:;background-size:;display:inline-block;height:100%;width:100%"><span class="image jss49 jss50" style="display:inline-block;width:100%;height:100%"></span></span></div><div class="MuiCardContent-root"><p class="MuiTypography-root jss89 MuiTypography-body1 MuiTypography-colorPrimary"><i>Resultados Seguros</i> | <i>Saber Mais</i></p><p class="MuiTypography-root MuiTypography-h6 MuiTypography-colorTextPrimary">Laboratórios de exames</p></div></div></div><div class="swiper-slide jss92"><div class="MuiPaper-root MuiCard-root jss90 MuiPaper-elevation1 MuiPaper-rounded"><div class="MuiCardMedia-root jss91"><span class=" lazy-load-image-background opacity" style="background-image:;background-size:;display:inline-block;height:100%;width:100%"><span class="image jss49 jss50" style="display:inline-block;width:100%;height:100%"></span></span></div><div class="MuiCardContent-root"><p class="MuiTypography-root jss89 MuiTypography-body1 MuiTypography-colorPrimary"><i>Integração com eTicket</i> | <i>Saber mais</i></p><p class="MuiTypography-root MuiTypography-h6 MuiTypography-colorTextPrimary">Transporte de Passageiros</p></div></div></div><div class="swiper-slide jss92"><div class="MuiPaper-root MuiCard-root jss90 MuiPaper-elevation1 MuiPaper-rounded"><div class="MuiCardMedia-root jss91"><span class=" lazy-load-image-background opacity" style="background-image:;background-size:;display:inline-block;height:100%;width:100%"><span class="image jss49 jss50" style="display:inline-block;width:100%;height:100%"></span></span></div><div class="MuiCardContent-root"><p class="MuiTypography-root jss89 MuiTypography-body1 MuiTypography-colorPrimary"><i>Saúde e Grandes Eventos</i> | <i>Saber mais</i></p><p class="MuiTypography-root MuiTypography-h6 MuiTypography-colorTextPrimary">Administração pública</p></div></div></div><div class="swiper-slide jss92"><div class="MuiPaper-root MuiCard-root jss90 MuiPaper-elevation1 MuiPaper-rounded"><div class="MuiCardMedia-root jss91"><span class=" lazy-load-image-background opacity" style="background-image:;background-size:;display:inline-block;height:100%;width:100%"><span class="image jss49 jss50" style="display:inline-block;width:100%;height:100%"></span></span></div><div class="MuiCardContent-root"><p class="MuiTypography-root jss89 MuiTypography-body1 MuiTypography-colorPrimary"><i>Controle de Vacinas</i> | <i>Saber mais</i></p><p class="MuiTypography-root MuiTypography-h6 MuiTypography-colorTextPrimary">Immunie Escolas</p></div></div></div></div><div class="swiper-pagination"></div></div></div></section><section class="section-alternate jss58"><div class="section-alternate__content jss59"><div i18n="[object Object]"><div class="MuiGrid-root section-header jss45 MuiGrid-container MuiGrid-spacing-xs-2" data-aos="fade-up"><div class="MuiGrid-root section-header__label-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root MuiTypography-overline MuiTypography-colorPrimary MuiTypography-alignCenter">NOSSA HISTÓRIA</p></div><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root section-header__title jss47 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignCenter">Quem Somos</h4></div></div><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6" data-aos="fade-up"><div class="MuiGrid-root description-list-icon MuiGrid-container MuiGrid-spacing-xs-2"><div class="MuiGrid-root description-list-icon__icon-wrapper MuiGrid-container MuiGrid-item MuiGrid-grid-xs-12"><span class=" lazy-load-image-background opacity" style="background-image:;background-size:;display:inline-block;height:auto;width:auto"><span class="image jss49 jss50" style="display:inline-block;width:auto;height:auto"></span></span></div><div class="MuiGrid-root description-list-icon__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root jss77 description-list-icon__title MuiTypography-h6 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Quem somos?</h6></div><div class="MuiGrid-root description-list-icon__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root description-list-icon__subtitle MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-alignLeft">Somos uma start up selecionada para a incubadora da London Business School, edição 2020-2021. Nossa empresa foi  criada com a missão de salvar vidas ajudando as pessoas, profissionais de saúde e todos aqueles que atuam na gestão de saúde a controlar digitalmente doenças graves passíveis de imunização por vacinas. </p></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6" data-aos="fade-up"><div class="MuiGrid-root description-list-icon MuiGrid-container MuiGrid-spacing-xs-2"><div class="MuiGrid-root description-list-icon__icon-wrapper MuiGrid-container MuiGrid-item MuiGrid-grid-xs-12"><span class=" lazy-load-image-background opacity" style="background-image:;background-size:;display:inline-block;height:auto;width:auto"><span class="image jss49 jss50" style="display:inline-block;width:auto;height:auto"></span></span></div><div class="MuiGrid-root description-list-icon__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root jss77 description-list-icon__title MuiTypography-h6 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Por que Immunie?</h6></div><div class="MuiGrid-root description-list-icon__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root description-list-icon__subtitle MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-alignLeft">Com seus dados em dia, lembretes e alertas em seu smartphone e um calendário sempre atualizado, você sabe o que fazer para estar sempre protegido, sempre Immunie ;)</p></div></div></div><div class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-justify-xs-center MuiGrid-grid-xs-12" data-aos="fade-up"><button class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary" tabindex="0" type="button"><span class="MuiButton-label">SABER MAIS</span></button></div></div></div></div></section><section class="section-alternate jss58 jss29"><div class="section-alternate__content jss59 jss60"><div i18n="[object Object]"><div class="MuiGrid-root section-header jss45 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root section-header__title jss47 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignCenter"><span class="jss93">Trabalhamos com a melhor tecnologia e os melhores provedores de serviço no mercado global</span></h4></div></div><div class="review-swiper swiper-container jss97"><div class="swiper-wrapper jss96"><div class="swiper-slide jss95"><p class="MuiTypography-root jss93 jss94 MuiTypography-h6 MuiTypography-alignCenter"><i>&quot;<!-- -->Temos orgulho de fazer parte da edição 2020-2021 da Incubadora da London Business School, uma das melhores escolas de negócios do mundo.<!-- -->&quot;</i></p><p class="MuiTypography-root jss93 MuiTypography-subtitle1 MuiTypography-gutterBottom MuiTypography-alignCenter"><i>Team Immunie</i></p><p class="MuiTypography-root jss93 MuiTypography-subtitle1 MuiTypography-alignCenter"><i>Londres, Reino Unido</i></p></div><div class="swiper-slide jss95"><p class="MuiTypography-root jss93 jss94 MuiTypography-h6 MuiTypography-alignCenter"><i>&quot;<!-- --> O Progressive Web Apps representa uma das maiores apostas de empresas como Google e Microsoft para o futuro.<!-- -->&quot;</i></p><p class="MuiTypography-root jss93 MuiTypography-subtitle1 MuiTypography-gutterBottom MuiTypography-alignCenter"><i>Neil Patel</i></p><p class="MuiTypography-root jss93 MuiTypography-subtitle1 MuiTypography-alignCenter"><i>NP Digital</i></p></div><div class="swiper-slide jss95"><p class="MuiTypography-root jss93 jss94 MuiTypography-h6 MuiTypography-alignCenter"><i>&quot;<!-- --> A infraestrutura em nuvem global mais segura, abrangente e confiável para aplicativos <!-- -->&quot;</i></p><p class="MuiTypography-root jss93 MuiTypography-subtitle1 MuiTypography-gutterBottom MuiTypography-alignCenter"><i> AWS</i></p><p class="MuiTypography-root jss93 MuiTypography-subtitle1 MuiTypography-alignCenter"><i>Web Services</i></p></div></div><div class="swiper-pagination"></div></div></div></div></section><section class="section jss41"><div><div class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between" data-aos="fade-up"><div class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-justify-xs-center MuiGrid-grid-xs-6 MuiGrid-grid-sm-2"><img class="image jss49 jss98" alt="London College" src="../static/images/partners/incubator.png"/></div><div class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-justify-xs-center MuiGrid-grid-xs-6 MuiGrid-grid-sm-2"><img class="image jss49 jss98" alt="Amazon Web Services" src="../static/images/partners/amazon_web_service.png"/></div><div class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-justify-xs-center MuiGrid-grid-xs-6 MuiGrid-grid-sm-2"><img class="image jss49 jss98" alt="PWA pass" src="../static/images/partners/mongodb.png"/></div><div class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-justify-xs-center MuiGrid-grid-xs-6 MuiGrid-grid-sm-2"><img class="image jss49 jss98" alt="Hyperledger" src="../static/images/partners/hyperledger.png"/></div><div class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-justify-xs-center MuiGrid-grid-xs-6 MuiGrid-grid-sm-2"><img class="image jss49 jss98" alt="SSL" src="../static/images/partners/pwa_pass.png"/></div><div class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-justify-xs-center MuiGrid-grid-xs-6 MuiGrid-grid-sm-2"><img class="image jss49 jss98" alt="Incubator" src="../static/images/partners/ssl_certificate.png"/></div></div></div></section></div></main><div i18n="[object Object]" class="jss99"><div class="jss100"><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-2"><ul class="MuiList-root jss101"><li class="MuiListItem-root jss102"><p class="MuiTypography-root jss111 MuiTypography-body1">Redes Sociais</p></li><li class="MuiListItem-root"><button class="MuiButtonBase-root MuiIconButton-root jss104" tabindex="0" type="button" aria-label="Facebook"><span class="MuiIconButton-label"><svg class="MuiSvgIcon-root jss105" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2m13 2h-2.5A3.5 3.5 0 0 0 12 8.5V11h-2v3h2v7h3v-7h3v-3h-3V9a1 1 0 0 1 1-1h2V5z"></path></svg></span></button><button class="MuiButtonBase-root MuiIconButton-root jss104" tabindex="0" type="button" aria-label="Instagram"><span class="MuiIconButton-label"><svg class="MuiSvgIcon-root jss105" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M7.8 2h8.4C19.4 2 22 4.6 22 7.8v8.4a5.8 5.8 0 0 1-5.8 5.8H7.8C4.6 22 2 19.4 2 16.2V7.8A5.8 5.8 0 0 1 7.8 2m-.2 2A3.6 3.6 0 0 0 4 7.6v8.8C4 18.39 5.61 20 7.6 20h8.8a3.6 3.6 0 0 0 3.6-3.6V7.6C20 5.61 18.39 4 16.4 4H7.6m9.65 1.5a1.25 1.25 0 0 1 1.25 1.25A1.25 1.25 0 0 1 17.25 8 1.25 1.25 0 0 1 16 6.75a1.25 1.25 0 0 1 1.25-1.25M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3z"></path></svg></span></button><button class="MuiButtonBase-root MuiIconButton-root jss104" tabindex="0" type="button" aria-label="Twitter"><span class="MuiIconButton-label"><svg class="MuiSvgIcon-root jss105" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M22.46 6c-.77.35-1.6.58-2.46.69.88-.53 1.56-1.37 1.88-2.38-.83.5-1.75.85-2.72 1.05C18.37 4.5 17.26 4 16 4c-2.35 0-4.27 1.92-4.27 4.29 0 .34.04.67.11.98C8.28 9.09 5.11 7.38 3 4.79c-.37.63-.58 1.37-.58 2.15 0 1.49.75 2.81 1.91 3.56-.71 0-1.37-.2-1.95-.5v.03c0 2.08 1.48 3.82 3.44 4.21a4.22 4.22 0 0 1-1.93.07 4.28 4.28 0 0 0 4 2.98 8.521 8.521 0 0 1-5.33 1.84c-.34 0-.68-.02-1.02-.06C3.44 20.29 5.7 21 8.12 21 16 21 20.33 14.46 20.33 8.79c0-.19 0-.37-.01-.56.84-.6 1.56-1.36 2.14-2.23z"></path></svg></span></button><button class="MuiButtonBase-root MuiIconButton-root jss104" tabindex="0" type="button" aria-label="Pinterest"><span class="MuiIconButton-label"><svg class="MuiSvgIcon-root jss105" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9.04 21.54c.96.29 1.93.46 2.96.46a10 10 0 0 0 10-10A10 10 0 0 0 12 2 10 10 0 0 0 2 12c0 4.25 2.67 7.9 6.44 9.34-.09-.78-.18-2.07 0-2.96l1.15-4.94s-.29-.58-.29-1.5c0-1.38.86-2.41 1.84-2.41.86 0 1.26.63 1.26 1.44 0 .86-.57 2.09-.86 3.27-.17.98.52 1.84 1.52 1.84 1.78 0 3.16-1.9 3.16-4.58 0-2.4-1.72-4.04-4.19-4.04-2.82 0-4.48 2.1-4.48 4.31 0 .86.28 1.73.74 2.3.09.06.09.14.06.29l-.29 1.09c0 .17-.11.23-.28.11-1.28-.56-2.02-2.38-2.02-3.85 0-3.16 2.24-6.03 6.56-6.03 3.44 0 6.12 2.47 6.12 5.75 0 3.44-2.13 6.2-5.18 6.2-.97 0-1.92-.52-2.26-1.13l-.67 2.37c-.23.86-.86 2.01-1.29 2.7v-.03z"></path></svg></span></button></li></ul></div><div class="MuiGrid-root jss106 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-10"><div class="MuiGrid-root MuiGrid-item"><div class="jss107"><div class="jss108"><ul class="MuiList-root jss108"><li class="MuiListItem-root jss109"><p class="MuiTypography-root jss110 MuiTypography-body2">Nossa empresa</p></li><li class="MuiListItem-root jss109"><a class="MuiTypography-root jss113 submenu-item MuiTypography-body2" href="../company/about">Sobre</a></li><li class="MuiListItem-root jss109"><a class="MuiTypography-root jss113 submenu-item MuiTypography-body2" href="../company/media-assets">Mídias</a></li><li class="MuiListItem-root jss109"><a class="MuiTypography-root jss113 submenu-item MuiTypography-body2" href="../company/contact">Contato</a></li></ul><ul class="MuiList-root jss108"><li class="MuiListItem-root jss109"><p class="MuiTypography-root jss110 MuiTypography-body2">Checkpoint</p></li><li class="MuiListItem-root jss109"><a class="MuiTypography-root jss113 submenu-item MuiTypography-body2" href="https://www.checkpoint.immunie.net/">Autenticação Blockchain </a></li></ul></div><div class="jss108"><ul class="MuiList-root jss108"><li class="MuiListItem-root jss109"><p class="MuiTypography-root jss110 MuiTypography-body2">Termos de Uso</p></li><li class="MuiListItem-root jss109"><a class="MuiTypography-root jss113 submenu-item MuiTypography-body2" href="../terms-of-use/privacy-policy">Política de Privacidade</a></li><li class="MuiListItem-root jss109"><a class="MuiTypography-root jss113 submenu-item MuiTypography-body2" href="../terms-of-use/terms-and-conditions">Termos e Condições</a></li><li class="MuiListItem-root jss109"><a class="MuiTypography-root jss113 submenu-item MuiTypography-body2" href="../terms-of-use/faqs">FAQs</a></li></ul></div><div class="jss108"><ul class="MuiList-root jss108"><li class="MuiListItem-root jss109"><p class="MuiTypography-root jss110 MuiTypography-body2">Produtos</p></li><li class="MuiListItem-root jss109"><a class="MuiTypography-root jss113 submenu-item MuiTypography-body2" href="people">Pessoas</a></li><li class="MuiListItem-root jss109"><a class="MuiTypography-root jss113 submenu-item MuiTypography-body2" href="health-care">Setor de Saúde</a></li><li class="MuiListItem-root jss109"><a class="MuiTypography-root jss113 submenu-item MuiTypography-body2" href="labs">Laboratórios de Exames</a></li><li class="MuiListItem-root jss109"><a class="MuiTypography-root jss113 submenu-item MuiTypography-body2" href="travel">Companhias Aéreas</a></li><li class="MuiListItem-root jss109"><a class="MuiTypography-root jss113 submenu-item MuiTypography-body2" href="schools">Escolas</a></li><li class="MuiListItem-root jss109"><a class="MuiTypography-root jss113 submenu-item MuiTypography-body2" href="managers">Governos e Grandes Eventos</a></li></ul></div></div></div></div></div></div></div></div></div></div></div><script id="__NEXT_DATA__" type="application/json">{"props":{"initialI18nStore":{"pt":{"common":{"SERVICES":"Serviços","SERVICES_GROUP_COMPANY":"Nossa empresa","SERVICES_SUBGROUP_ABOUT":"Sobre","SERVICES_SUBGROUP_MEDIA_ASSETS":"Mídias","SERVICES_SUBGROUP_CONTACT":"Contato","SERVICES_GROUP_CHECKPOINT":"Checkpoint","SERVICES_SUBGROUP_BLOCKCHAIN":"Autenticação Blockchain ","SERVICES_GROUP_TERMS_OF_USE":"Termos de Uso","SERVICES_SUBGROUP_PRIVACY_POLICY":"Política de Privacidade","SERVICES_SUBGROUP_TERMS_AND_CONDITIONS":"Termos e Condições","SERVICES_SUBGROUP_FAQ":"FAQs","PRODUCTS":"Produtos","PRODUCT_GROUP_SUBPAGES":"Produtos","PRODUCT_SUBGROUP_PEOPLE_PAGE":"Pessoas","PRODUCT_HEALTH_CARE_PAGE":"Setor de Saúde","PRODUCT_EXAM_LABS_PAGE":"Laboratórios de Exames","PRODUCT_TRAVEL_PAGE":"Companhias Aéreas","PRODUCT_SCHOOLS_PAGE":"Escolas","PRODUCT_MANAGERS_PAGE":"Governos e Grandes Eventos","CONTACT_FORM_TITLE":"Fale Conosco","CONTACT_FORM_SUBTITLE":"Seu contato é muito importante para nós. Todas as mensagens recebidas são lidas com atenção","CONTACT_FORM_FIELD_FULL_NAME":"Nome Completo","CONTACT_FORM_FIELD_MESSAGE":"Mensagem","CONTACT_FORM_REQUIRED_FIELDS":"Campos marcados com * são obrigatórios.","CONTACT_FORM_SEND_BTN_TEXT":"ENVIAR"},"header":{"HCB_AREA_BTN_TEXT":"Clínicas","USER_AREA_BTN_TEXT":"Usuários"},"travelPage":{"HERO_TITLE":"Exames e Certificados de Vacinação via API ","HERO_SUBTITLE":"Check-in rápido e seguro com dados autenticados digitalmente com a tecnologia blockchain, antes do passageiro sair de casa.","HERO_BTN_TEXT":"CHECKPOINT","BUILD_FOR_TITLE":"Por que Immunie?","BUILD_FOR_SUBTITLE":"Exames Covid PCR, Vacinas e Certificados Médicos com inseridos por profissionais de saúde licenciados.","BUILD_FOR_TITLE_ITEM_1":"Check In Digital","BUILD_FOR_SUBTITLE_ITEM_1":"Processo rápido, sem filas, sem sobrecarga no balcão. Integração direta para emissão prévia do eBoarding Pass.","BUILD_FOR_TITLE_ITEM_2":"Segurança","BUILD_FOR_SUBTITLE_ITEM_2":"Dados autenticados e verificados via blockchain, com interface API, web ou mobile para operações remotas.","BUILD_FOR_TITLE_ITEM_3":"Valor Agregado","BUILD_FOR_SUBTITLE_ITEM_3":"Potencialize a geração de ancillary revenues oferecendo mais comodidade para o passageiro.","PRIVACY_TITLE":"Privacidade em Primeiro Lugar","PRIVACY_SUBTITLE":"Immunie foi construído de acordo com os mais elevados padrões de privacidade global, estando 100% de acordo com a Lei Geral de Proteção de Dados Pessoais no Brasil (LGPDP – Lei 13.709/18), Regulamento Geral de Proteção de Dados Europeu (GDPR EU 2016/679) e California Data Protection Act (CDPA / 2018).","PRIVACY_BTN_TEXT":"SABER MAIS","PRIVACY_CARD_TITLE":"","PRIVACY_AVATAR_PRIMARY":"","PRIVACY_AVATAR_SECONDARY":"","HOW_IT_WORKS_TITLE":"COMO FUNCIONA","HOW_IT_WORKS_SUBTITLE":"Conexão direta e segura entre o originador dos dados médicos com seu servidor mediante consentimento do passageiro.","HOW_IT_WORKS_TITLE_ITEM_1":"VISITA À CLÍNICA","HOW_IT_WORKS_SUBTITLE_ITEM_1":"O passageiro faz o seu teste Covid-PCR ou recebe a vacina necessária para viajar.","HOW_IT_WORKS_TITLE_ITEM_2":"DADOS INSERIDOS PELO MÉDICO","HOW_IT_WORKS_SUBTITLE_ITEM_2":"O resultado do exame ou dados da vacina com número de lote e timestamp são atualizados automaticamente. ","HOW_IT_WORKS_TITLE_ITEM_3":"DADOS AUTENTICADOS","HOW_IT_WORKS_SUBTITLE_ITEM_3":"O passageiro faz o opt-in associando os resultados ao seu eTICKET, via API, permitindo sua autenticação e emissão do eBoarding Pass.","HOW_TO_USE_TITLE":"Como usar","HOW_TO_USE_SUBTITLE":"Torne sua vida mais fácil com Immunie. Sem papel, sem preocupações.","HOW_TO_USE_TAG_ITEM_1":"Testes Covid-PCR","HOW_TO_USE_TITLE_ITEM_1":"Resultados de exames compartilhados diretamente na sua API com a segurança da autenticação Blockchain","HOW_TO_USE_SUBTITLE_ITEM_1":"","HOW_TO_USE_TAG_ITEM_2":"Certificados eICV","HOW_TO_USE_TITLE_ITEM_2":"Certificados de Vacinação Internacional eletrônicos gerados de acordo com o modelo ICV da OMS.","HOW_TO_USE_SUBTITLE_ITEM_2":"","HOW_TO_USE_TAG_ITEM_3":"Combate a Fraudes","HOW_TO_USE_TITLE_ITEM_3":"Elimine o risco de edição de resultados apresentados em papel ou arquivos PDFs.","HOW_TO_USE_SUBTITLE_ITEM_3":"","HOW_TO_USE_RIGTH_CARD_1_TITLE":"FLUXO DE INFORMAÇÕES","HOW_TO_USE_RIGTH_CARD_1_SUBTITLE":"Veja como a integração ocorre, etapa por etapa em nosso catálogo para o setor de transporte de passageiros.","HOW_TO_USE_RIGTH_CARD_1_BTN_TEXT":"CATÁLOGO PDF","HOW_TO_USE_RIGTH_CARD_2_TITLE":"Teste o sistema desde a entrada dos dados até a autenticação via Blockchain","HOW_TO_USE_RIGTH_CARD_2_BTN_TEXT":"AGENDAR DEMONSTRAÇÃO","BLOCKCHAIN_TECH_TITLE":"Tecnologia Blockchain","BLOCKCHAIN_TECH_SUBTITLE":"A autenticação dos registros de vacinação inseridos na sua Carteira Digital de Vacinação e Saúde Immunie utiliza dois níveis de encriptação para garantir a autenticidade dos dados, preservando sua privacidade.","BLOCKCHAIN_TECH_ITEM_1":"Disponíbilidade Global","BLOCKCHAIN_TECH_ITEM_2":"Applicação Mobile e Web","BLOCKCHAIN_TECH_ITEM_3":"Tecnologia PWA em qualquer smartphone","INTEGRATION_TITLE":"Padrão global de gestão e serviços","INTEGRATION_SUBTITLE":"Trabalhamos com a melhor tecnologia e os melhores provedores de serviço no mercado global.","INTEGRATION_ITEM_1_TITLE":"LBS Incubator","INTEGRATION_ITEM_1_SUBTITLE":" Temos orgulho de fazer parte da edição 2020-2021 da Incubadora da London Business School, uma das melhores escolas de negócios do mundo.","INTEGRATION_ITEM_2_TITLE":"Amazon Web Services","INTEGRATION_ITEM_2_SUBTITLE":" A infraestrutura em nuvem global mais segura, abrangente e confiável para aplicativos.","INTEGRATION_ITEM_3_TITLE":"PWA","INTEGRATION_ITEM_3_SUBTITLE":"O Progressive Web Apps representa uma das maiores apostas de empresas como Google e Microsoft para o futuro.","SEE_ALSO_LABEL":"OUTROS PRODUTOS","SEE_ALSO_TITLE":"Conheça também","SEE_ALSO_ITEM_1_TITLE":"Immunie para você","SEE_ALSO_ITEM_1_AUTHOR":"Carteira Digital de Vacinação e Exames","SEE_ALSO_ITEM_1_DATE":"Saber mais","SEE_ALSO_ITEM_2_TITLE":"Setor Médico","SEE_ALSO_ITEM_2_AUTHOR":"Vacinas e Exames Certificados","SEE_ALSO_ITEM_2_DATE":"Saber mais","SEE_ALSO_ITEM_3_TITLE":"Laboratórios de exames","SEE_ALSO_ITEM_3_AUTHOR":"Resultados Seguros","SEE_ALSO_ITEM_3_DATE":"Saber Mais","SEE_ALSO_ITEM_4_TITLE":"Transporte de Passageiros","SEE_ALSO_ITEM_4_AUTHOR":"Integração com eTicket","SEE_ALSO_ITEM_4_DATE":"Saber mais","SEE_ALSO_ITEM_5_TITLE":"Administração pública","SEE_ALSO_ITEM_5_AUTHOR":"Saúde e Grandes Eventos","SEE_ALSO_ITEM_5_DATE":"Saber mais","SEE_ALSO_ITEM_6_TITLE":"Immunie Escolas","SEE_ALSO_ITEM_6_AUTHOR":"Controle de Vacinas","SEE_ALSO_ITEM_6_DATE":"Saber mais","STORY_LABEL":"NOSSA HISTÓRIA","STORY_TITLE":"Quem Somos","STORY_GRID_1_TITLE":"Quem somos?","STORY_GRID_1_SUBTITLE":"Somos uma start up selecionada para a incubadora da London Business School, edição 2020-2021. Nossa empresa foi  criada com a missão de salvar vidas ajudando as pessoas, profissionais de saúde e todos aqueles que atuam na gestão de saúde a controlar digitalmente doenças graves passíveis de imunização por vacinas. ","STORY_GRID_2_TITLE":"Por que Immunie?","STORY_GRID_2_SUBTITLE":"Com seus dados em dia, lembretes e alertas em seu smartphone e um calendário sempre atualizado, você sabe o que fazer para estar sempre protegido, sempre Immunie ;)","STORY_BTN_TXT":"SABER MAIS","REVIEWS_TITLE":"Trabalhamos com a melhor tecnologia e os melhores provedores de serviço no mercado global","REVIEWS_ITEM_1_AUTHOR":"Team Immunie","REVIEWS_ITEM_1_AUTHOR_OCCUPATION":"Londres, Reino Unido","REVIEWS_ITEM_1_AUTHOR_FEEDBACK":"Temos orgulho de fazer parte da edição 2020-2021 da Incubadora da London Business School, uma das melhores escolas de negócios do mundo.","REVIEWS_ITEM_2_AUTHOR":"Neil Patel","REVIEWS_ITEM_2_AUTHOR_OCCUPATION":"NP Digital","REVIEWS_ITEM_2_AUTHOR_FEEDBACK":" O Progressive Web Apps representa uma das maiores apostas de empresas como Google e Microsoft para o futuro.","REVIEWS_ITEM_3_AUTHOR":" AWS","REVIEWS_ITEM_3_AUTHOR_OCCUPATION":"Web Services","REVIEWS_ITEM_3_AUTHOR_FEEDBACK":" A infraestrutura em nuvem global mais segura, abrangente e confiável para aplicativos "}}},"initialLanguage":"pt","i18nServerInstance":null,"pageProps":{"namespacesRequired":["common","header","travelPage"]}},"page":"/products/travel","query":{},"buildId":"nDZD4foxkD8xipOua1Ujd","runtimeConfig":{"localeSubpaths":{}},"nextExport":true,"isFallback":false,"gip":true,"appGip":true}</script><script nomodule="" src="../_next/static/chunks/polyfills-10a8cf8ec0fcff4a7700.js"></script><script src="../_next/static/chunks/main-005c099ebc6d73bffa35.js" async=""></script><script src="../_next/static/chunks/webpack-245f049e565ebf942e09.js" async=""></script><script src="../_next/static/chunks/framework.64c08973ae123710aa81.js" async=""></script><script src="../_next/static/chunks/commons.ddec478f82113778b077.js" async=""></script><script src="../_next/static/chunks/pages/_app-8f3a4cdfd6b03ceeb0b9.js" async=""></script><script src="../_next/static/chunks/a4c92b5b.014bebfe28d7f652e7fb.js" async=""></script><script src="../_next/static/chunks/11b04806d3909ce7987efbbeab9b411580946ab6.05063bfe093fef78d737.js" async=""></script><script src="../_next/static/chunks/b0787e176b509ab8a5b092dbcd4c2bdafe937fdc.42fe8430b9ca6fad0654.js" async=""></script><script src="../_next/static/chunks/f21c5035378776e5664e82d348c0227acd3df0b3.76b2b439016ecfd9a02a.js" async=""></script><script src="../_next/static/chunks/pages/products/travel-0927c969ab5ffd6b44a3.js" async=""></script><script src="../_next/static/nDZD4foxkD8xipOua1Ujd/_buildManifest.js" async=""></script><script src="../_next/static/nDZD4foxkD8xipOua1Ujd/_ssgManifest.js" async=""></script></body>
+<!-- Mirrored from immunie.net/products/travel by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Sep 2021 19:29:58 GMT -->
+</html>

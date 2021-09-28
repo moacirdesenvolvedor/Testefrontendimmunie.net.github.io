@@ -1,0 +1,1915 @@
+<!DOCTYPE html><html lang="en">
+<!-- Mirrored from immunie.net/products/labs by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Sep 2021 19:29:53 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head><meta charSet="utf-8"/><link rel="shortcut icon" href="../assets/favicon.svg"/><meta name="theme-color" content="#ffffff"/><meta name="description" content="International Vaccination Records authenticated using Blockchain Technology. Keep your record safe anytime, anywhere. Immunie is a privacy by design application, built to comply with the highest data privacy standards"/><meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/><meta property="og:locale" content="en_US"/><meta property="og:type" content="website"/><meta property="og:title" content="Immunie | Digital Vaccination Card"/><meta property="og:description" content="International Vaccination Records authenticated using Blockchain Technology. Keep your record safe anytime, anywhere. Immunie is a privacy by design application, built to comply with the highest data privacy standards"/><meta property="og:url" content="https://immunie.org/"/><link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&amp;display=swap" rel="stylesheet"/><script src="../../kit.fontawesome.com/4c273e6d43.js" crossorigin="anonymous"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-J1J5FK05T4"></script><script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+  
+              gtag('config', 'G-J1J5FK05T4');
+          </script><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><title>Immunie Digital Vaccination Card</title><meta name="next-head-count" content="3"/><link rel="preload" href="../_next/static/css/c6fd4f563a3cf2b1449e.css" as="style"/><link rel="stylesheet" href="../_next/static/css/c6fd4f563a3cf2b1449e.css" data-n-g=""/><noscript data-n-css=""></noscript><link rel="preload" href="../_next/static/chunks/main-005c099ebc6d73bffa35.js" as="script"/><link rel="preload" href="../_next/static/chunks/webpack-245f049e565ebf942e09.js" as="script"/><link rel="preload" href="../_next/static/chunks/framework.64c08973ae123710aa81.js" as="script"/><link rel="preload" href="../_next/static/chunks/commons.ddec478f82113778b077.js" as="script"/><link rel="preload" href="../_next/static/chunks/pages/_app-8f3a4cdfd6b03ceeb0b9.js" as="script"/><link rel="preload" href="../_next/static/chunks/a4c92b5b.014bebfe28d7f652e7fb.js" as="script"/><link rel="preload" href="../_next/static/chunks/11b04806d3909ce7987efbbeab9b411580946ab6.05063bfe093fef78d737.js" as="script"/><link rel="preload" href="../_next/static/chunks/b0787e176b509ab8a5b092dbcd4c2bdafe937fdc.42fe8430b9ca6fad0654.js" as="script"/><link rel="preload" href="../_next/static/chunks/f21c5035378776e5664e82d348c0227acd3df0b3.76b2b439016ecfd9a02a.js" as="script"/><link rel="preload" href="../_next/static/chunks/25a8d7ab5f5d99d3b01da091b59e74e43713563c.d145237d590eb733ea38.js" as="script"/><link rel="preload" href="../_next/static/chunks/pages/products/labs-a5457f6a3c72d01cce8a.js" as="script"/><style id="jss-server-side">.MuiSvgIcon-root {
+  fill: currentColor;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  font-size: 1.5rem;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  flex-shrink: 0;
+  user-select: none;
+}
+.MuiSvgIcon-colorPrimary {
+  color: #3f51b5;
+}
+.MuiSvgIcon-colorSecondary {
+  color: #f9b934;
+}
+.MuiSvgIcon-colorAction {
+  color: rgba(0, 0, 0, 0.54);
+}
+.MuiSvgIcon-colorError {
+  color: #f44336;
+}
+.MuiSvgIcon-colorDisabled {
+  color: rgba(0, 0, 0, 0.26);
+}
+.MuiSvgIcon-fontSizeInherit {
+  font-size: inherit;
+}
+.MuiSvgIcon-fontSizeSmall {
+  font-size: 1.25rem;
+}
+.MuiSvgIcon-fontSizeLarge {
+  font-size: 2.1875rem;
+}
+.MuiPaper-root {
+  color: #2d3748;
+  transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  background-color: #fff;
+}
+.MuiPaper-rounded {
+  border-radius: 4px;
+}
+.MuiPaper-outlined {
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+.MuiPaper-elevation0 {
+  box-shadow: none;
+}
+.MuiPaper-elevation1 {
+  box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 1px 3px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation2 {
+  box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation3 {
+  box-shadow: 0px 3px 3px -2px rgba(0,0,0,0.2),0px 3px 4px 0px rgba(0,0,0,0.14),0px 1px 8px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation4 {
+  box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation5 {
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 5px 8px 0px rgba(0,0,0,0.14),0px 1px 14px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation6 {
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation7 {
+  box-shadow: 0px 4px 5px -2px rgba(0,0,0,0.2),0px 7px 10px 1px rgba(0,0,0,0.14),0px 2px 16px 1px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation8 {
+  box-shadow: 0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation9 {
+  box-shadow: 0px 5px 6px -3px rgba(0,0,0,0.2),0px 9px 12px 1px rgba(0,0,0,0.14),0px 3px 16px 2px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation10 {
+  box-shadow: 0px 6px 6px -3px rgba(0,0,0,0.2),0px 10px 14px 1px rgba(0,0,0,0.14),0px 4px 18px 3px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation11 {
+  box-shadow: 0px 6px 7px -4px rgba(0,0,0,0.2),0px 11px 15px 1px rgba(0,0,0,0.14),0px 4px 20px 3px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation12 {
+  box-shadow: 0px 7px 8px -4px rgba(0,0,0,0.2),0px 12px 17px 2px rgba(0,0,0,0.14),0px 5px 22px 4px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation13 {
+  box-shadow: 0px 7px 8px -4px rgba(0,0,0,0.2),0px 13px 19px 2px rgba(0,0,0,0.14),0px 5px 24px 4px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation14 {
+  box-shadow: 0px 7px 9px -4px rgba(0,0,0,0.2),0px 14px 21px 2px rgba(0,0,0,0.14),0px 5px 26px 4px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation15 {
+  box-shadow: 0px 8px 9px -5px rgba(0,0,0,0.2),0px 15px 22px 2px rgba(0,0,0,0.14),0px 6px 28px 5px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation16 {
+  box-shadow: 0px 8px 10px -5px rgba(0,0,0,0.2),0px 16px 24px 2px rgba(0,0,0,0.14),0px 6px 30px 5px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation17 {
+  box-shadow: 0px 8px 11px -5px rgba(0,0,0,0.2),0px 17px 26px 2px rgba(0,0,0,0.14),0px 6px 32px 5px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation18 {
+  box-shadow: 0px 9px 11px -5px rgba(0,0,0,0.2),0px 18px 28px 2px rgba(0,0,0,0.14),0px 7px 34px 6px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation19 {
+  box-shadow: 0px 9px 12px -6px rgba(0,0,0,0.2),0px 19px 29px 2px rgba(0,0,0,0.14),0px 7px 36px 6px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation20 {
+  box-shadow: 0px 10px 13px -6px rgba(0,0,0,0.2),0px 20px 31px 3px rgba(0,0,0,0.14),0px 8px 38px 7px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation21 {
+  box-shadow: 0px 10px 13px -6px rgba(0,0,0,0.2),0px 21px 33px 3px rgba(0,0,0,0.14),0px 8px 40px 7px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation22 {
+  box-shadow: 0px 10px 14px -6px rgba(0,0,0,0.2),0px 22px 35px 3px rgba(0,0,0,0.14),0px 8px 42px 7px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation23 {
+  box-shadow: 0px 11px 14px -7px rgba(0,0,0,0.2),0px 23px 36px 3px rgba(0,0,0,0.14),0px 9px 44px 8px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation24 {
+  box-shadow: 0px 11px 15px -7px rgba(0,0,0,0.2),0px 24px 38px 3px rgba(0,0,0,0.14),0px 9px 46px 8px rgba(0,0,0,0.12);
+}
+.MuiButtonBase-root {
+  color: inherit;
+  border: 0;
+  cursor: pointer;
+  margin: 0;
+  display: inline-flex;
+  outline: 0;
+  padding: 0;
+  position: relative;
+  align-items: center;
+  user-select: none;
+  border-radius: 0;
+  vertical-align: middle;
+  -moz-appearance: none;
+  justify-content: center;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-appearance: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.MuiButtonBase-root::-moz-focus-inner {
+  border-style: none;
+}
+.MuiButtonBase-root.Mui-disabled {
+  cursor: default;
+  pointer-events: none;
+}
+@media print {
+  .MuiButtonBase-root {
+    color-adjust: exact;
+  }
+}
+  .MuiIconButton-root {
+    flex: 0 0 auto;
+    color: rgba(0, 0, 0, 0.54);
+    padding: 12px;
+    overflow: visible;
+    font-size: 1.5rem;
+    text-align: center;
+    transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    border-radius: 50%;
+  }
+  .MuiIconButton-root:hover {
+    background-color: rgba(0, 0, 0, 0.04);
+  }
+  .MuiIconButton-root.Mui-disabled {
+    color: rgba(0, 0, 0, 0.26);
+    background-color: transparent;
+  }
+@media (hover: none) {
+  .MuiIconButton-root:hover {
+    background-color: transparent;
+  }
+}
+  .MuiIconButton-edgeStart {
+    margin-left: -12px;
+  }
+  .MuiIconButton-sizeSmall.MuiIconButton-edgeStart {
+    margin-left: -3px;
+  }
+  .MuiIconButton-edgeEnd {
+    margin-right: -12px;
+  }
+  .MuiIconButton-sizeSmall.MuiIconButton-edgeEnd {
+    margin-right: -3px;
+  }
+  .MuiIconButton-colorInherit {
+    color: inherit;
+  }
+  .MuiIconButton-colorPrimary {
+    color: #3f51b5;
+  }
+  .MuiIconButton-colorPrimary:hover {
+    background-color: rgba(63, 81, 181, 0.04);
+  }
+@media (hover: none) {
+  .MuiIconButton-colorPrimary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiIconButton-colorSecondary {
+    color: #f9b934;
+  }
+  .MuiIconButton-colorSecondary:hover {
+    background-color: rgba(249, 185, 52, 0.04);
+  }
+@media (hover: none) {
+  .MuiIconButton-colorSecondary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiIconButton-sizeSmall {
+    padding: 3px;
+    font-size: 1.125rem;
+  }
+  .MuiIconButton-label {
+    width: 100%;
+    display: flex;
+    align-items: inherit;
+    justify-content: inherit;
+  }
+  .MuiAvatar-root {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    font-size: 1.25rem;
+    align-items: center;
+    flex-shrink: 0;
+    font-family: Lato;
+    line-height: 1;
+    user-select: none;
+    border-radius: 50%;
+    justify-content: center;
+  }
+  .MuiAvatar-colorDefault {
+    color: #fff;
+    background-color: #bdbdbd;
+  }
+  .MuiAvatar-rounded {
+    border-radius: 4px;
+  }
+  .MuiAvatar-square {
+    border-radius: 0;
+  }
+  .MuiAvatar-img {
+    color: transparent;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    text-align: center;
+    text-indent: 10000px;
+  }
+  .MuiAvatar-fallback {
+    width: 75%;
+    height: 75%;
+  }
+  .MuiTypography-root {
+    margin: 0;
+  }
+  .MuiTypography-body2 {
+    font-size: 0.875rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.43;
+  }
+  .MuiTypography-body1 {
+    font-size: 1rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.5;
+  }
+  .MuiTypography-caption {
+    font-size: 0.75rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.66;
+  }
+  .MuiTypography-button {
+    font-size: 0.875rem;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: 1.75;
+    text-transform: uppercase;
+  }
+  .MuiTypography-h1 {
+    font-size: 3.5rem;
+    font-family: Lato;
+    font-weight: 300;
+    line-height: 1.167;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h1 {
+    font-size: 4.7129rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h1 {
+    font-size: 5.3556rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h1 {
+    font-size: 5.9983rem;
+  }
+}
+  .MuiTypography-h2 {
+    font-size: 2.375rem;
+    font-family: Lato;
+    font-weight: 300;
+    line-height: 1.2;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h2 {
+    font-size: 2.9167rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h2 {
+    font-size: 3.3333rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h2 {
+    font-size: 3.75rem;
+  }
+}
+  .MuiTypography-h3 {
+    font-size: 2rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.167;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h3 {
+    font-size: 2.5707rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h3 {
+    font-size: 2.7849rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h3 {
+    font-size: 2.9991rem;
+  }
+}
+  .MuiTypography-h4 {
+    font-size: 1.5625rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.235;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h4 {
+    font-size: 1.8219rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h4 {
+    font-size: 2.0243rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h4 {
+    font-size: 2.0243rem;
+  }
+}
+  .MuiTypography-h5 {
+    font-size: 1.25rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.334;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h5 {
+    font-size: 1.3118rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h5 {
+    font-size: 1.4993rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h5 {
+    font-size: 1.4993rem;
+  }
+}
+  .MuiTypography-h6 {
+    font-size: 1.125rem;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: 1.6;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h6 {
+    font-size: 1.25rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h6 {
+    font-size: 1.25rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h6 {
+    font-size: 1.25rem;
+  }
+}
+  .MuiTypography-subtitle1 {
+    font-size: 1rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.75;
+  }
+  .MuiTypography-subtitle2 {
+    font-size: 0.875rem;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: 1.57;
+  }
+  .MuiTypography-overline {
+    font-size: 0.75rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 2.66;
+    text-transform: uppercase;
+  }
+  .MuiTypography-srOnly {
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+  }
+  .MuiTypography-alignLeft {
+    text-align: left;
+  }
+  .MuiTypography-alignCenter {
+    text-align: center;
+  }
+  .MuiTypography-alignRight {
+    text-align: right;
+  }
+  .MuiTypography-alignJustify {
+    text-align: justify;
+  }
+  .MuiTypography-noWrap {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+  .MuiTypography-gutterBottom {
+    margin-bottom: 0.35em;
+  }
+  .MuiTypography-paragraph {
+    margin-bottom: 16px;
+  }
+  .MuiTypography-colorInherit {
+    color: inherit;
+  }
+  .MuiTypography-colorPrimary {
+    color: #3f51b5;
+  }
+  .MuiTypography-colorSecondary {
+    color: #f9b934;
+  }
+  .MuiTypography-colorTextPrimary {
+    color: #2d3748;
+  }
+  .MuiTypography-colorTextSecondary {
+    color: #718096;
+  }
+  .MuiTypography-colorError {
+    color: #f44336;
+  }
+  .MuiTypography-displayInline {
+    display: inline;
+  }
+  .MuiTypography-displayBlock {
+    display: block;
+  }
+  .MuiButton-root {
+    color: #2d3748;
+    padding: 6px 16px;
+    font-size: 0.875rem;
+    min-width: 64px;
+    box-sizing: border-box;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: 1.75;
+    border-radius: 4px;
+    text-transform: uppercase;
+  }
+  .MuiButton-root:hover {
+    text-decoration: none;
+    background-color: rgba(45, 55, 72, 0.04);
+  }
+  .MuiButton-root.Mui-disabled {
+    color: rgba(0, 0, 0, 0.26);
+  }
+@media (hover: none) {
+  .MuiButton-root:hover {
+    background-color: transparent;
+  }
+}
+  .MuiButton-root:hover.Mui-disabled {
+    background-color: transparent;
+  }
+  .MuiButton-label {
+    width: 100%;
+    display: inherit;
+    align-items: inherit;
+    justify-content: inherit;
+  }
+  .MuiButton-text {
+    padding: 6px 8px;
+  }
+  .MuiButton-textPrimary {
+    color: #3f51b5;
+  }
+  .MuiButton-textPrimary:hover {
+    background-color: rgba(63, 81, 181, 0.04);
+  }
+@media (hover: none) {
+  .MuiButton-textPrimary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiButton-textSecondary {
+    color: #f9b934;
+  }
+  .MuiButton-textSecondary:hover {
+    background-color: rgba(249, 185, 52, 0.04);
+  }
+@media (hover: none) {
+  .MuiButton-textSecondary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiButton-outlined {
+    border: 1px solid rgba(0, 0, 0, 0.23);
+    padding: 5px 15px;
+  }
+  .MuiButton-outlined.Mui-disabled {
+    border: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .MuiButton-outlinedPrimary {
+    color: #3f51b5;
+    border: 1px solid rgba(63, 81, 181, 0.5);
+  }
+  .MuiButton-outlinedPrimary:hover {
+    border: 1px solid #3f51b5;
+    background-color: rgba(63, 81, 181, 0.04);
+  }
+@media (hover: none) {
+  .MuiButton-outlinedPrimary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiButton-outlinedSecondary {
+    color: #f9b934;
+    border: 1px solid rgba(249, 185, 52, 0.5);
+  }
+  .MuiButton-outlinedSecondary:hover {
+    border: 1px solid #f9b934;
+    background-color: rgba(249, 185, 52, 0.04);
+  }
+  .MuiButton-outlinedSecondary.Mui-disabled {
+    border: 1px solid rgba(0, 0, 0, 0.26);
+  }
+@media (hover: none) {
+  .MuiButton-outlinedSecondary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiButton-contained {
+    color: rgba(0, 0, 0, 0.87);
+    box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+    background-color: #e0e0e0;
+  }
+  .MuiButton-contained:hover {
+    box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+    background-color: #d5d5d5;
+  }
+  .MuiButton-contained.Mui-focusVisible {
+    box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);
+  }
+  .MuiButton-contained:active {
+    box-shadow: 0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);
+  }
+  .MuiButton-contained.Mui-disabled {
+    color: rgba(0, 0, 0, 0.26);
+    box-shadow: none;
+    background-color: rgba(0, 0, 0, 0.12);
+  }
+@media (hover: none) {
+  .MuiButton-contained:hover {
+    box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+    background-color: #e0e0e0;
+  }
+}
+  .MuiButton-contained:hover.Mui-disabled {
+    background-color: rgba(0, 0, 0, 0.12);
+  }
+  .MuiButton-containedPrimary {
+    color: #fff;
+    background-color: #3f51b5;
+  }
+  .MuiButton-containedPrimary:hover {
+    background-color: rgb(17, 82, 147);
+  }
+@media (hover: none) {
+  .MuiButton-containedPrimary:hover {
+    background-color: #3f51b5;
+  }
+}
+  .MuiButton-containedSecondary {
+    color: white;
+    background-color: #f9b934;
+  }
+  .MuiButton-containedSecondary:hover {
+    background-color: #f57c00;
+  }
+@media (hover: none) {
+  .MuiButton-containedSecondary:hover {
+    background-color: #f9b934;
+  }
+}
+  .MuiButton-disableElevation {
+    box-shadow: none;
+  }
+  .MuiButton-disableElevation:hover {
+    box-shadow: none;
+  }
+  .MuiButton-disableElevation.Mui-focusVisible {
+    box-shadow: none;
+  }
+  .MuiButton-disableElevation:active {
+    box-shadow: none;
+  }
+  .MuiButton-disableElevation.Mui-disabled {
+    box-shadow: none;
+  }
+  .MuiButton-colorInherit {
+    color: inherit;
+    border-color: currentColor;
+  }
+  .MuiButton-textSizeSmall {
+    padding: 4px 5px;
+    font-size: 0.8125rem;
+  }
+  .MuiButton-textSizeLarge {
+    padding: 8px 11px;
+    font-size: 0.9375rem;
+  }
+  .MuiButton-outlinedSizeSmall {
+    padding: 3px 9px;
+    font-size: 0.8125rem;
+  }
+  .MuiButton-outlinedSizeLarge {
+    padding: 7px 21px;
+    font-size: 0.9375rem;
+  }
+  .MuiButton-containedSizeSmall {
+    padding: 4px 10px;
+    font-size: 0.8125rem;
+  }
+  .MuiButton-containedSizeLarge {
+    padding: 8px 22px;
+    font-size: 0.9375rem;
+  }
+  .MuiButton-fullWidth {
+    width: 100%;
+  }
+  .MuiButton-startIcon {
+    display: inherit;
+    margin-left: -4px;
+    margin-right: 8px;
+  }
+  .MuiButton-startIcon.MuiButton-iconSizeSmall {
+    margin-left: -2px;
+  }
+  .MuiButton-endIcon {
+    display: inherit;
+    margin-left: 8px;
+    margin-right: -4px;
+  }
+  .MuiButton-endIcon.MuiButton-iconSizeSmall {
+    margin-right: -2px;
+  }
+  .MuiButton-iconSizeSmall > *:first-child {
+    font-size: 18px;
+  }
+  .MuiButton-iconSizeMedium > *:first-child {
+    font-size: 20px;
+  }
+  .MuiButton-iconSizeLarge > *:first-child {
+    font-size: 22px;
+  }
+  .MuiCard-root {
+    overflow: hidden;
+  }
+  .MuiCardContent-root {
+    padding: 16px;
+  }
+  .MuiCardContent-root:last-child {
+    padding-bottom: 24px;
+  }
+html {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+strong, b {
+  font-weight: 700;
+}
+body {
+  color: #2d3748;
+  margin: 0;
+  font-size: 0.875rem;
+  font-family: Lato;
+  font-weight: 400;
+  line-height: 1.43;
+  background-color: #fff;
+}
+@media print {
+  body {
+    background-color: #fff;
+  }
+}
+body::backdrop {
+  background-color: #fff;
+}
+  .MuiDivider-root {
+    border: none;
+    height: 1px;
+    margin: 0;
+    flex-shrink: 0;
+    background-color: rgba(0, 0, 0, 0.12);
+  }
+  .MuiDivider-absolute {
+    left: 0;
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+  }
+  .MuiDivider-inset {
+    margin-left: 72px;
+  }
+  .MuiDivider-light {
+    background-color: rgba(0, 0, 0, 0.08);
+  }
+  .MuiDivider-middle {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+  .MuiDivider-vertical {
+    width: 1px;
+    height: 100%;
+  }
+  .MuiDivider-flexItem {
+    height: auto;
+    align-self: stretch;
+  }
+  .MuiDrawer-docked {
+    flex: 0 0 auto;
+  }
+  .MuiDrawer-paper {
+    top: 0;
+    flex: 1 0 auto;
+    height: 100%;
+    display: flex;
+    outline: 0;
+    z-index: 1100;
+    position: fixed;
+    overflow-y: auto;
+    flex-direction: column;
+    -webkit-overflow-scrolling: touch;
+  }
+  .MuiDrawer-paperAnchorLeft {
+    left: 0;
+    right: auto;
+  }
+  .MuiDrawer-paperAnchorRight {
+    left: auto;
+    right: 0;
+  }
+  .MuiDrawer-paperAnchorTop {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: auto;
+    height: auto;
+    max-height: 100%;
+  }
+  .MuiDrawer-paperAnchorBottom {
+    top: auto;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: auto;
+    max-height: 100%;
+  }
+  .MuiDrawer-paperAnchorDockedLeft {
+    border-right: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .MuiDrawer-paperAnchorDockedTop {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .MuiDrawer-paperAnchorDockedRight {
+    border-left: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .MuiDrawer-paperAnchorDockedBottom {
+    border-top: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .MuiGrid-container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+  }
+  .MuiGrid-item {
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .MuiGrid-zeroMinWidth {
+    min-width: 0;
+  }
+  .MuiGrid-direction-xs-column {
+    flex-direction: column;
+  }
+  .MuiGrid-direction-xs-column-reverse {
+    flex-direction: column-reverse;
+  }
+  .MuiGrid-direction-xs-row-reverse {
+    flex-direction: row-reverse;
+  }
+  .MuiGrid-wrap-xs-nowrap {
+    flex-wrap: nowrap;
+  }
+  .MuiGrid-wrap-xs-wrap-reverse {
+    flex-wrap: wrap-reverse;
+  }
+  .MuiGrid-align-items-xs-center {
+    align-items: center;
+  }
+  .MuiGrid-align-items-xs-flex-start {
+    align-items: flex-start;
+  }
+  .MuiGrid-align-items-xs-flex-end {
+    align-items: flex-end;
+  }
+  .MuiGrid-align-items-xs-baseline {
+    align-items: baseline;
+  }
+  .MuiGrid-align-content-xs-center {
+    align-content: center;
+  }
+  .MuiGrid-align-content-xs-flex-start {
+    align-content: flex-start;
+  }
+  .MuiGrid-align-content-xs-flex-end {
+    align-content: flex-end;
+  }
+  .MuiGrid-align-content-xs-space-between {
+    align-content: space-between;
+  }
+  .MuiGrid-align-content-xs-space-around {
+    align-content: space-around;
+  }
+  .MuiGrid-justify-xs-center {
+    justify-content: center;
+  }
+  .MuiGrid-justify-xs-flex-end {
+    justify-content: flex-end;
+  }
+  .MuiGrid-justify-xs-space-between {
+    justify-content: space-between;
+  }
+  .MuiGrid-justify-xs-space-around {
+    justify-content: space-around;
+  }
+  .MuiGrid-justify-xs-space-evenly {
+    justify-content: space-evenly;
+  }
+  .MuiGrid-spacing-xs-1 {
+    width: calc(100% + 8px);
+    margin: -4px;
+  }
+  .MuiGrid-spacing-xs-1 > .MuiGrid-item {
+    padding: 4px;
+  }
+  .MuiGrid-spacing-xs-2 {
+    width: calc(100% + 16px);
+    margin: -8px;
+  }
+  .MuiGrid-spacing-xs-2 > .MuiGrid-item {
+    padding: 8px;
+  }
+  .MuiGrid-spacing-xs-3 {
+    width: calc(100% + 24px);
+    margin: -12px;
+  }
+  .MuiGrid-spacing-xs-3 > .MuiGrid-item {
+    padding: 12px;
+  }
+  .MuiGrid-spacing-xs-4 {
+    width: calc(100% + 32px);
+    margin: -16px;
+  }
+  .MuiGrid-spacing-xs-4 > .MuiGrid-item {
+    padding: 16px;
+  }
+  .MuiGrid-spacing-xs-5 {
+    width: calc(100% + 40px);
+    margin: -20px;
+  }
+  .MuiGrid-spacing-xs-5 > .MuiGrid-item {
+    padding: 20px;
+  }
+  .MuiGrid-spacing-xs-6 {
+    width: calc(100% + 48px);
+    margin: -24px;
+  }
+  .MuiGrid-spacing-xs-6 > .MuiGrid-item {
+    padding: 24px;
+  }
+  .MuiGrid-spacing-xs-7 {
+    width: calc(100% + 56px);
+    margin: -28px;
+  }
+  .MuiGrid-spacing-xs-7 > .MuiGrid-item {
+    padding: 28px;
+  }
+  .MuiGrid-spacing-xs-8 {
+    width: calc(100% + 64px);
+    margin: -32px;
+  }
+  .MuiGrid-spacing-xs-8 > .MuiGrid-item {
+    padding: 32px;
+  }
+  .MuiGrid-spacing-xs-9 {
+    width: calc(100% + 72px);
+    margin: -36px;
+  }
+  .MuiGrid-spacing-xs-9 > .MuiGrid-item {
+    padding: 36px;
+  }
+  .MuiGrid-spacing-xs-10 {
+    width: calc(100% + 80px);
+    margin: -40px;
+  }
+  .MuiGrid-spacing-xs-10 > .MuiGrid-item {
+    padding: 40px;
+  }
+  .MuiGrid-grid-xs-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-xs-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-xs-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-xs-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-xs-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-xs-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-xs-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-xs-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-xs-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-xs-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-xs-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-xs-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-xs-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-xs-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+@media (min-width:600px) {
+  .MuiGrid-grid-sm-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-sm-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-sm-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-sm-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-sm-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-sm-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-sm-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-sm-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-sm-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-sm-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-sm-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-sm-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-sm-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-sm-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:960px) {
+  .MuiGrid-grid-md-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-md-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-md-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-md-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-md-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-md-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-md-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-md-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-md-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-md-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-md-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-md-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-md-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-md-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:1280px) {
+  .MuiGrid-grid-lg-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-lg-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-lg-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-lg-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-lg-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-lg-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-lg-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-lg-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-lg-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-lg-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-lg-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-lg-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-lg-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-lg-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:1920px) {
+  .MuiGrid-grid-xl-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-xl-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-xl-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-xl-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-xl-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-xl-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-xl-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-xl-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-xl-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-xl-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-xl-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-xl-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-xl-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-xl-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+  .MuiList-root {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    list-style: none;
+  }
+  .MuiList-padding {
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+  .MuiList-subheader {
+    padding-top: 0;
+  }
+  .MuiListItem-root {
+    width: 100%;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    text-align: left;
+    align-items: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    justify-content: flex-start;
+    text-decoration: none;
+  }
+  .MuiListItem-root.Mui-focusVisible {
+    background-color: rgba(0, 0, 0, 0.08);
+  }
+  .MuiListItem-root.Mui-selected, .MuiListItem-root.Mui-selected:hover {
+    background-color: rgba(0, 0, 0, 0.08);
+  }
+  .MuiListItem-root.Mui-disabled {
+    opacity: 0.5;
+  }
+  .MuiListItem-container {
+    position: relative;
+  }
+  .MuiListItem-dense {
+    padding-top: 4px;
+    padding-bottom: 4px;
+  }
+  .MuiListItem-alignItemsFlexStart {
+    align-items: flex-start;
+  }
+  .MuiListItem-divider {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+    background-clip: padding-box;
+  }
+  .MuiListItem-gutters {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .MuiListItem-button {
+    transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  }
+  .MuiListItem-button:hover {
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.04);
+  }
+@media (hover: none) {
+  .MuiListItem-button:hover {
+    background-color: transparent;
+  }
+}
+  .MuiListItem-secondaryAction {
+    padding-right: 48px;
+  }
+  .MuiListItemAvatar-root {
+    min-width: 56px;
+    flex-shrink: 0;
+  }
+  .MuiListItemAvatar-alignItemsFlexStart {
+    margin-top: 8px;
+  }
+  .MuiListItemText-root {
+    flex: 1 1 auto;
+    min-width: 0;
+    margin-top: 4px;
+    margin-bottom: 4px;
+  }
+  .MuiListItemText-multiline {
+    margin-top: 6px;
+    margin-bottom: 6px;
+  }
+  .MuiListItemText-inset {
+    padding-left: 56px;
+  }
+  .MuiToolbar-root {
+    display: flex;
+    position: relative;
+    align-items: center;
+  }
+  .MuiToolbar-gutters {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+@media (min-width:600px) {
+  .MuiToolbar-gutters {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+  .MuiToolbar-regular {
+    min-height: 56px;
+  }
+@media (min-width:0px) and (orientation: landscape) {
+  .MuiToolbar-regular {
+    min-height: 48px;
+  }
+}
+@media (min-width:600px) {
+  .MuiToolbar-regular {
+    min-height: 64px;
+  }
+}
+  .MuiToolbar-dense {
+    min-height: 48px;
+  }
+  .jss38 {
+    width: 100%;
+    margin: 0 auto;
+    padding: 48px 16px;
+    max-width: 1236px;
+  }
+@media (min-width:600px) {
+  .jss38 {
+    padding: 64px 64px;
+  }
+}
+@media (min-width:960px) {
+  .jss38 {
+    padding: 96px 64px;
+  }
+}
+  .jss39 {
+    max-width: 100%;
+  }
+  .jss40 {
+    padding: 0;
+  }
+  .jss41 {
+    max-width: 800px;
+  }
+  .jss42 {
+    background: rgb(247, 249, 250);
+  }
+  .jss43 {
+    width: 100%;
+    margin: 0 auto;
+    padding: 48px 16px;
+    max-width: 1236px;
+  }
+@media (min-width:600px) {
+  .jss43 {
+    padding: 64px 64px;
+  }
+}
+@media (min-width:960px) {
+  .jss43 {
+    padding: 96px 64px;
+  }
+}
+  .jss44 {
+    max-width: 800px;
+  }
+  .jss48 {
+    font-weight: 700;
+  }
+  .jss71 {
+    width: 100%;
+    height: 100%;
+  }
+  .jss72 {
+    box-shadow: 0 2px 10px 0 rgba(23, 70, 161, .11);
+  }
+  .jss73 {
+    box-shadow: none;
+  }
+  .jss74 {
+    border: 0;
+  }
+  .jss75 {
+    background: transparent;
+  }
+  .jss76 {
+    transition: box-shadow .25s ease,transform .25s ease,-webkit-transform .25s ease;
+  }
+  .jss76:hover {
+    transform: translate3d(0,-5px,0);
+    box-shadow: 0 1.5rem 2.5rem rgba(22,28,45,.1),0 .3rem 0.5rem -.50rem rgba(22,28,45,.05) !important;
+  }
+  .jss77 {
+    height: 100%;
+    display: flex;
+    padding: 32px 16px;
+    align-items: center;
+    flex-direction: column;
+  }
+  .jss77:last-child {
+    padding: 32px 16px;
+  }
+@media (min-width:960px) {
+  .jss77 {
+    padding: 48px 24px;
+  }
+  .jss77:last-child {
+    padding: 48px 24px;
+  }
+}
+  .jss78 {
+    align-items: flex-start;
+  }
+  .jss79 {
+    align-items: flex-end;
+  }
+  .jss80 {
+    align-items: center;
+  }
+  .jss70 {
+    width: 100%;
+    height: 100%;
+  }
+  .jss49 {
+    width: 100%;
+    height: 100%;
+  }
+  .jss50 {
+    display: block;
+  }
+  .jss29 {
+    display: flex;
+    overflow: visible;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+  }
+  .jss30 {
+    background: #1a237e;
+  }
+  .jss31 {
+    z-index: 2;
+  }
+  .jss32 {
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    bottom: 0;
+    height: 100%;
+    opacity: 0.4;
+    z-index: 1;
+    position: absolute;
+  }
+  .jss33 {
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .jss34 {
+    opacity: 1;
+  }
+  .jss60 {
+    position: relative;
+  }
+  .jss61 {
+    position: relative;
+    max-height: 400px;
+  }
+  .jss62 {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+  .jss63 {
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    bottom: 0;
+    height: 100%;
+    opacity: 0.1;
+    position: absolute;
+    background: #1a237e;
+  }
+  .jss64 {
+    top: 50%;
+    display: flex;
+    padding: 0px 32px;
+    position: relative;
+    transform: none;
+    flex-direction: column;
+    justify-content: center;
+  }
+@media (max-width:1279.95px) {
+  .jss64 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+}
+  .jss54 {
+    margin-bottom: 24px;
+  }
+@media (min-width:960px) {
+  .jss54 {
+    margin-bottom: 32px;
+  }
+}
+  .jss55 {
+    margin-bottom: 0;
+  }
+  .jss56 {
+    font-weight: bold;
+  }
+  .jss57 {
+    margin-left: 8px;
+  }
+  .jss57:first-child {
+    margin-left: 0;
+  }
+  .jss58 {
+    font-weight: 700;
+  }
+  .jss59 {
+    color: white;
+  }
+  .jss67 {
+    width: 200px;
+    border: 8px solid #fff;
+    height: 200px;
+    box-shadow: 0 2px 10px 0 rgba(23, 70, 161, .11);
+    border-radius: 16px;
+  }
+  .jss68 {
+    overflow: hidden;
+    margin-bottom: 24px;
+  }
+  .jss68:last-child {
+    margin-bottom: 0;
+  }
+  .jss45 {
+    color: white;
+  }
+  .jss46 {
+    font-weight: bold;
+  }
+  .jss27 {
+    color: white;
+  }
+  .jss28 {
+    font-weight: bold;
+  }
+  .jss69 {
+    max-width: 120px;
+  }
+  .jss47 {
+    width: 60px;
+  }
+  .jss51 {
+    box-shadow: 0 5px 12px 0 rgba(23, 70, 161, .11);
+    border-radius: 8px;
+  }
+  .jss52 {
+    overflow: hidden;
+  }
+  .jss53 {
+    max-width: 80px;
+  }
+  .jss25 {
+    background: #0d47a1;
+  }
+  .jss26 {
+    background: transparent;
+    background-image: linear-gradient(180deg, #fff 300px, rgb(17, 82, 147) 0%);
+  }
+  .jss81 {
+    padding: 48px 0px;
+    background: #1b1642;
+  }
+@media (min-width:960px) {
+  .jss81 {
+    padding: 96px 0px;
+  }
+}
+  .jss82 {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0px 16px;
+    max-width: 1236px;
+  }
+@media (min-width:600px) {
+  .jss82 {
+    padding: 0px 64px;
+  }
+}
+  .jss83 {
+    width: fit-content;
+    margin: 0 auto;
+    padding: 12px;
+  }
+  .jss84 {
+    padding-top: 0;
+  }
+  .jss85 {
+    color: rgb(17, 82, 147);
+    margin-bottom: 8px;
+    text-transform: uppercase;
+  }
+  .jss86 {
+    color: rgba(255,255,255,.6);
+    padding: 0;
+    margin-right: 8px;
+  }
+  .jss86:hover {
+    background: transparent;
+  }
+  .jss86:last-child {
+    margin-right: 0;
+  }
+  .jss87 {
+    font-size: 24px;
+  }
+  .jss88 {
+    padding: 0 !important;
+  }
+  .jss89 {
+    display: flex;
+    margin-left: auto;
+    justify-content: space-evenly !important;
+  }
+  .jss90 {
+    margin: 16px;
+  }
+  .jss90:last-child {
+    margin-bottom: 0;
+  }
+  .jss91 {
+    padding-top: 0;
+    padding-bottom: 4px;
+  }
+  .jss91:last-child {
+    padding-bottom: 0;
+  }
+  .jss92 {
+    color: white;
+    text-transform: uppercase;
+  }
+  .jss93 {
+    color: white;
+  }
+  .jss94 {
+    width: 100%;
+  }
+  .jss95 {
+    color: rgba(255,255,255,.6);
+  }
+  .jss2 {
+    font-size: 1.8rem;
+    margin-top: -8px;
+    font-weight: bold;
+  }
+  .jss3 {
+    flex-grow: 1;
+  }
+  .jss4 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .jss5 {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0px 16px;
+    max-width: 1400px;
+  }
+  .jss6 {
+    padding: 0.4em;
+    text-transform: none;
+  }
+  .jss7 {
+    cursor: pointer;
+    font-weight: 300;
+  }
+  .jss7:hover {
+    color: rgb(17, 82, 147);
+  }
+  .jss8 {
+    color: #546e7a;
+    font-weight: 300;
+  }
+  .jss8:hover {
+    color: rgb(17, 82, 147);
+  }
+  .jss8:visited {
+    text-decoration: none;
+  }
+  .jss9 {
+    cursor: pointer;
+  }
+  .jss9:hover > .menu-item, .jss9:hover {
+    color: rgb(17, 82, 147);
+  }
+  .jss10> .menu-item {
+    color: rgb(17, 82, 147);
+  }
+  .jss11 {
+    flex: 0 0 auto;
+    white-space: nowrap;
+    margin-right: 16px;
+  }
+  .jss12 {
+    min-width: auto;
+  }
+  .jss13 {
+    border: 16px;
+    padding: 32px;
+    min-width: 350px;
+    box-shadow: 0 0.5rem 2rem 2px rgba(116, 123, 144, 0.09);
+    margin-top: 16px;
+  }
+  .jss14 {
+    padding: 0;
+  }
+  .jss14:hover {
+    background: transparent;
+  }
+  .jss15 {
+    color: rgb(17, 82, 147);
+    transform: rotate(180deg);
+  }
+  .jss16 {
+    width: 180px;
+    cursor: pointer;
+    height: 60px;
+    display: flex;
+    object-fit: cover;
+    align-items: center;
+    background-size: contain;
+    background-image: url('../static/images/logos/brand_with_name.svg');
+    background-repeat: no-repeat;
+  }
+@media (min-width:960px) {
+  .jss16 {
+    width: 180px;
+    height: 60px;
+  }
+}
+  .jss17 {
+    display: flex;
+    justify-content: space-between;
+  }
+  .jss18 {
+    margin-right: 40px;
+  }
+  .jss18:last-child {
+    margin-right: 0;
+  }
+  .jss19 {
+    padding-top: 0;
+  }
+  .jss20 {
+    text-transform: uppercase;
+  }
+  .jss21 {
+    display: flex;
+    align-items: center;
+  }
+  .jss22 {
+    width: 100%;
+    max-width: 325px;
+  }
+  .jss23 {
+    height: 100%;
+    padding: 8px;
+  }
+  .jss24 {
+    margin-bottom: 8px;
+  }
+  .jss1 {
+    height: 100%;
+  }
+  .jss35 {
+    background-image: url(../static/images/photos/labs_service.jpg);
+  }
+
+</style></head><body><div id="__next"><div class="MuiPaper-root MuiPaper-elevation0 MuiPaper-rounded"><div class="container"><div class="jss1"><div class="MuiToolbar-root MuiToolbar-regular jss5" i18n="[object Object]"><div class="jss16"></div><div class="jss3"></div></div><main><hr class="MuiDivider-root"/><div><div i18n="[object Object]"><div class="hero-background jss29 jss30"><div class="hero-background__wrapper jss31"><section class="section jss38 hero-background__section"><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><h3 class="MuiTypography-root jss27 jss28 MuiTypography-h3">Conexão direta com pacientes e empresas aéreas</h3></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6"><h5 class="MuiTypography-root jss27 MuiTypography-h5 MuiTypography-gutterBottom">Integre os resultados de exames e testes Covid-PCR diretamente com seus clientes de forma segura, com a tecnologia Blockhain.</h5><h5 class="MuiTypography-root jss27 MuiTypography-h5">Preserve a autenticidade dos documentos emitidos pelo seu laboratório de forma eficiente e autenticação digital.</h5></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6"><button class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedSizeLarge MuiButton-sizeLarge" tabindex="0" type="button"><span class="MuiButton-label">DOWNLOAD CATÁLOGO PDF</span></button></div></div></section></div><div class="hero-background__cover jss33 jss32 jss35"></div></div></div><section class="section-alternate jss42 jss25"><div class="section-alternate__content jss43"><div i18n="[object Object]"><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss45 jss46 MuiTypography-h4">Certificados de Viagem: Uma nova exigência do mercado</h4></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root jss45 MuiTypography-h6">O mundo pós pandemia exige controles mais efetivos de saúde e imunização. A emissão dos resultados de seus exames pode ser feita de forma mais segura e com menores custos.</p></div></div></div></div></section><hr class="MuiDivider-root"/><section class="section jss38"><div i18n="[object Object]"><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-3" data-aos="fade-up"><div class="MuiGrid-root description-list-icon MuiGrid-container MuiGrid-spacing-xs-2"><div class="MuiGrid-root description-list-icon__icon-wrapper MuiGrid-container MuiGrid-item MuiGrid-grid-xs-12"><span class=" lazy-load-image-background opacity" style="background-image:;background-size:;display:inline-block;height:auto;width:auto"><span class="image jss49 jss50 jss47" style="display:inline-block;width:auto;height:auto"></span></span></div><div class="MuiGrid-root description-list-icon__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root jss48 description-list-icon__title MuiTypography-h6 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Comunicação Direta</h6></div><div class="MuiGrid-root description-list-icon__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root description-list-icon__subtitle MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-alignLeft"> Envie mensagens individualizadas para cada seus clientes via email, SMS ou PUSH com lembretes e informações de resultados.</p></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-3" data-aos="fade-up"><div class="MuiGrid-root description-list-icon MuiGrid-container MuiGrid-spacing-xs-2"><div class="MuiGrid-root description-list-icon__icon-wrapper MuiGrid-container MuiGrid-item MuiGrid-grid-xs-12"><span class=" lazy-load-image-background opacity" style="background-image:;background-size:;display:inline-block;height:auto;width:auto"><span class="image jss49 jss50 jss47" style="display:inline-block;width:auto;height:auto"></span></span></div><div class="MuiGrid-root description-list-icon__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root jss48 description-list-icon__title MuiTypography-h6 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Segurança e Privacidade</h6></div><div class="MuiGrid-root description-list-icon__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root description-list-icon__subtitle MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-alignLeft"> Autenticação de dados com encriptação forte, servidores de padrão global e a segurança da tecnologia Blockchain. 100% de acordo com a LGPDP. </p></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-3" data-aos="fade-up"><div class="MuiGrid-root description-list-icon MuiGrid-container MuiGrid-spacing-xs-2"><div class="MuiGrid-root description-list-icon__icon-wrapper MuiGrid-container MuiGrid-item MuiGrid-grid-xs-12"><span class=" lazy-load-image-background opacity" style="background-image:;background-size:;display:inline-block;height:auto;width:auto"><span class="image jss49 jss50 jss47" style="display:inline-block;width:auto;height:auto"></span></span></div><div class="MuiGrid-root description-list-icon__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root jss48 description-list-icon__title MuiTypography-h6 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Transformação Digital</h6></div><div class="MuiGrid-root description-list-icon__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root description-list-icon__subtitle MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-alignLeft">Processos 100% digitais, mais seguros e contactless agregam valor ao seu negócio e ampliam sua base de clientes.</p></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-3" data-aos="fade-up"><div class="MuiGrid-root description-list-icon MuiGrid-container MuiGrid-spacing-xs-2"><div class="MuiGrid-root description-list-icon__icon-wrapper MuiGrid-container MuiGrid-item MuiGrid-grid-xs-12"><span class=" lazy-load-image-background opacity" style="background-image:;background-size:;display:inline-block;height:auto;width:auto"><span class="image jss49 jss50 jss47" style="display:inline-block;width:auto;height:auto"></span></span></div><div class="MuiGrid-root description-list-icon__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root jss48 description-list-icon__title MuiTypography-h6 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Mais que um App</h6></div><div class="MuiGrid-root description-list-icon__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root description-list-icon__subtitle MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-alignLeft">Immunie foi desenvolvido para integrar diferentes redes, aplicativos e plataformas através de API.</p></div></div></div></div></div></section><section class="section-alternate jss42"><div class="section-alternate__content jss43"><div i18n="[object Object]"><div class="MuiGrid-root jss52 MuiGrid-container MuiGrid-spacing-xs-4 MuiGrid-justify-xs-space-between"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6" data-aos="fade-up"><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-align-items-xs-flex-start"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><div class="MuiGrid-root section-header jss54 jss55 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root section-header__title jss56 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Rede Integrada</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root section-header__subtitle MuiTypography-h6 MuiTypography-colorTextSecondary MuiTypography-alignLeft">Um ecossistema digital conectando seu laboratório de exames aos seus clientes, escolas, companhias aéreas e gestores de grandes eventos, 100% online, com a segurança da tecnologia Blockchain.</h6></div><div class="MuiGrid-root section-header__cta-wrapper MuiGrid-item MuiGrid-grid-xs-12"><div class="MuiGrid-root section-header__cta-container MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"><div class="section-header__cta-item-wrapper jss57"><a class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge" tabindex="0" aria-disabled="false" href="mailto:contact@immunie.net"><span class="MuiButton-label">CONTATO</span></a></div><div class="section-header__cta-item-wrapper jss57"><button class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-outlinedSizeLarge MuiButton-sizeLarge" tabindex="0" type="button"><span class="MuiButton-label">CATÁLOGO PDF</span></button></div></div></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2" data-aos="fade-up"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root MuiTypography-h6 MuiTypography-colorPrimary MuiTypography-alignLeft">A melhor tecnologia</h6></div><div class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-justify-xs-space-between MuiGrid-grid-xs-12"><div class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-justify-xs-center MuiGrid-grid-xs-6 MuiGrid-grid-sm-2"><img class="image jss49 jss53" alt="London College" src="../static/images/partners/incubator.png"/></div><div class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-justify-xs-center MuiGrid-grid-xs-6 MuiGrid-grid-sm-2"><img class="image jss49 jss53" alt="Amazon Web Services" src="../static/images/partners/amazon_web_service.png"/></div><div class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-justify-xs-center MuiGrid-grid-xs-6 MuiGrid-grid-sm-2"><img class="image jss49 jss53" alt="PWA pass" src="../static/images/partners/mongodb.png"/></div><div class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-justify-xs-center MuiGrid-grid-xs-6 MuiGrid-grid-sm-2"><img class="image jss49 jss53" alt="Hyperledger" src="../static/images/partners/hyperledger.png"/></div><div class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-justify-xs-center MuiGrid-grid-xs-6 MuiGrid-grid-sm-2"><img class="image jss49 jss53" alt="SSL" src="../static/images/partners/pwa_pass.png"/></div><div class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-justify-xs-center MuiGrid-grid-xs-6 MuiGrid-grid-sm-2"><img class="image jss49 jss53" alt="Incubator" src="../static/images/partners/ssl_certificate.png"/></div></div></div></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6" data-aos="fade-up"><div class="MuiGrid-root MuiGrid-container MuiGrid-justify-xs-center"><iframe class="jss51" title="video" width="100%" height="315" src="https://www.youtube.com/embed/i5uK_Yp9g_8" frameBorder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"></iframe></div></div></div></div></div></section><div data-aos="fade-up" i18n="[object Object]"><div class="MuiGrid-root hero-side-image jss60 MuiGrid-container MuiGrid-direction-xs-row-reverse"><div class="MuiGrid-root hero-side-image__image-wrapper jss61 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6"><img class="image jss49 hero-side-image__image jss62" alt="..." src="../static/images/photos/people_mockup.png" srcSet=""/><div class="hero-side-image__cover jss63"></div></div><div class="MuiGrid-root jss64 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6"><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss58 MuiTypography-h4 MuiTypography-colorPrimary">Comodidade para seu cliente</h4></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root jss58 MuiTypography-h6">Resultado de exames integrado ao eTicket via App ou API.</h6></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root MuiTypography-body1 MuiTypography-colorTextSecondary">Faça parte de uma rede que permite que os dados gerados pelo seu laboratório sejam entregues em tempo real ao usuário, às empresas aéreas ou grandes eventos.</p></div></div></div></div><div class="MuiGrid-root hero-side-image jss60 MuiGrid-container"><div class="MuiGrid-root hero-side-image__image-wrapper jss61 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6"><img class="image jss49 hero-side-image__image jss62" alt="..." src="../static/images/cartoons/counterfeit_percival.jpg" srcSet=""/><div class="hero-side-image__cover jss63"></div></div><div class="MuiGrid-root jss64 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6"><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss58 MuiTypography-h4 MuiTypography-colorPrimary">Proteção contra fraudes</h4></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root jss58 MuiTypography-h6">Evite o uso indevido da credibilidade dos seu laboratório</h6></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root MuiTypography-body1 MuiTypography-colorTextSecondary"> Dados autenticados pela tecnologia Blockchain evitam a possibilidade de adulteração de certificado em papel ou PDFs.</p></div></div></div></div></div><hr class="MuiDivider-root"/><section class="section jss38 jss41"><div i18n="[object Object]"><div class="MuiGrid-root section-header jss54 MuiGrid-container MuiGrid-spacing-xs-2" data-aos="fade-up"><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root section-header__title jss56 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignCenter">Vantagens</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root section-header__subtitle MuiTypography-h6 MuiTypography-colorTextSecondary MuiTypography-alignCenter">A tecnologia Immunie expande o alcance do seu negócio.</h6></div></div><div class="MuiGrid-root MuiGrid-container MuiGrid-justify-xs-center"><div class="MuiGrid-root jss68 MuiGrid-container MuiGrid-spacing-xs-4 MuiGrid-item MuiGrid-direction-xs-row-reverse MuiGrid-justify-xs-space-between" data-aos="fade-up"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-8"><div class="MuiGrid-root section-header jss54 jss55 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__label-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root MuiTypography-overline MuiTypography-colorPrimary MuiTypography-alignLeft">EMPRESAS AÉREAS</p></div><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h5 class="MuiTypography-root section-header__title jss56 MuiTypography-h5 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Testes Covid PCR certificados</h5></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root section-header__subtitle MuiTypography-h6 MuiTypography-colorTextSecondary MuiTypography-alignLeft">Resultados compartilhados pelo cliente para geração do eTicket direto via App ou API.</h6></div></div></div><div class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-justify-xs-flex-end MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-4"><div class="MuiAvatar-root MuiAvatar-circle jss67"><img alt="ADVANTAGES_ITEM_1_AUTHOR" src="../static/images/illustrations/tests.svg" class="MuiAvatar-img"/></div></div></div><div class="MuiGrid-root jss68 MuiGrid-container MuiGrid-spacing-xs-4 MuiGrid-item MuiGrid-direction-xs-row-reverse MuiGrid-justify-xs-space-between" data-aos="fade-up"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-8"><div class="MuiGrid-root section-header jss54 jss55 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__label-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root MuiTypography-overline MuiTypography-colorPrimary MuiTypography-alignLeft">ESCOLAS</p></div><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h5 class="MuiTypography-root section-header__title jss56 MuiTypography-h5 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Vacina na matricula é lei</h5></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root section-header__subtitle MuiTypography-h6 MuiTypography-colorTextSecondary MuiTypography-alignLeft">Seja uma provedor de serviços integrado uma rede de alunos e escolas.</h6></div></div></div><div class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-justify-xs-flex-end MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-4"><div class="MuiAvatar-root MuiAvatar-circle jss67"><img alt="ADVANTAGES_ITEM_2_AUTHOR" src="../static/images/illustrations/class.svg" class="MuiAvatar-img"/></div></div></div><div class="MuiGrid-root jss68 MuiGrid-container MuiGrid-spacing-xs-4 MuiGrid-item MuiGrid-direction-xs-row-reverse MuiGrid-justify-xs-space-between" data-aos="fade-up"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-8"><div class="MuiGrid-root section-header jss54 jss55 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__label-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root MuiTypography-overline MuiTypography-colorPrimary MuiTypography-alignLeft">CONGRESSOS E SEMINÁRIOS </p></div><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h5 class="MuiTypography-root section-header__title jss56 MuiTypography-h5 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Volta segura à normalidade</h5></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root section-header__subtitle MuiTypography-h6 MuiTypography-colorTextSecondary MuiTypography-alignLeft">Comodidade para seus clientes participarem de eventos de negócios ou acadêmicos com segurança, sem filas.</h6></div></div></div><div class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-justify-xs-flex-end MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-4"><div class="MuiAvatar-root MuiAvatar-circle jss67"><img alt="ADVANTAGES_ITEM_5_AUTHOR" src="../static/images/illustrations/travelling.svg" class="MuiAvatar-img"/></div></div></div><div class="MuiGrid-root jss68 MuiGrid-container MuiGrid-spacing-xs-4 MuiGrid-item MuiGrid-direction-xs-row-reverse MuiGrid-justify-xs-space-between" data-aos="fade-up"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-8"><div class="MuiGrid-root section-header jss54 jss55 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__label-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root MuiTypography-overline MuiTypography-colorPrimary MuiTypography-alignLeft">CARTEIRA DIGITAL DE SAÚDE</p></div><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h5 class="MuiTypography-root section-header__title jss56 MuiTypography-h5 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Multi Idiomas</h5></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root section-header__subtitle MuiTypography-h6 MuiTypography-colorTextSecondary MuiTypography-alignLeft">Emita certificados de vacinação em 12 idiomas com tradução automática, sem complicação.</h6></div></div></div><div class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-justify-xs-flex-end MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-4"><div class="MuiAvatar-root MuiAvatar-circle jss67"><img alt="ADVANTAGES_ITEM_6_AUTHOR" src="../static/images/illustrations/multi_language.svg" class="MuiAvatar-img"/></div></div></div></div></div></section><hr class="MuiDivider-root"/><section class="section-alternate jss42"><div class="section-alternate__content jss43"><div i18n="[object Object]"><div class="MuiGrid-root section-header jss54 MuiGrid-container MuiGrid-spacing-xs-2" data-aos="fade-up"><div class="MuiGrid-root section-header__overline-wrapper MuiGrid-container MuiGrid-item MuiGrid-justify-xs-center MuiGrid-grid-xs-12"><span class=" lazy-load-image-background opacity" style="background-image:;background-size:;display:inline-block;height:auto;width:auto"><span class="image jss49 jss50 jss69" style="display:inline-block;width:auto;height:auto"></span></span></div><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root section-header__title jss56 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignCenter"><span><span class="MuiTypography-root MuiTypography-colorPrimary">Respeito</span> <!-- -->à Privacidade</span></h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root section-header__subtitle MuiTypography-h6 MuiTypography-colorTextSecondary MuiTypography-alignCenter">100% de acordo com as normas de privacidade mais avançadas no mundo.</h6></div></div><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4"><div class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-12 MuiGrid-grid-md-4" data-aos="fade-up"><div class="MuiPaper-root MuiCard-root card-base jss71 card-review jss70 MuiPaper-outlined MuiPaper-rounded"><div class="MuiCardContent-root card-base__content jss77 jss80"><div class="MuiGrid-root card-review__wrapper MuiGrid-container MuiGrid-spacing-xs-2"><div class="MuiGrid-root card-review__icon-wrapper MuiGrid-container MuiGrid-item MuiGrid-justify-xs-center MuiGrid-grid-xs-12"></div><div class="MuiGrid-root card-review__text-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root MuiTypography-h6 MuiTypography-alignCenter">100% de acordo com a Lei Geral de Proteção de Dados Pessoais (LGPDP).</p></div><div class="MuiGrid-root card-review__lits-container MuiGrid-item MuiGrid-grid-xs-12"><div class="MuiGrid-root card-review__list-wrapper MuiGrid-container MuiGrid-justify-xs-center"><ul class="MuiList-root card-review__list"><li class="MuiListItem-root card-review__list-item MuiListItem-gutters" style="width:260px"><div class="MuiListItemAvatar-root card-review__list-item-avatar"><div class="MuiAvatar-root MuiAvatar-circle card-review__avatar" style="border-radius:10px;width:60px;height:60px;margin-right:10px"><img alt="Lei 13.709/2018" src="../static/images/photos/privacy.jpg" class="MuiAvatar-img"/></div></div><div class="MuiListItemText-root card-review__list-item-text MuiListItemText-multiline"><span class="MuiTypography-root MuiListItemText-primary MuiTypography-body1 MuiTypography-displayBlock">Lei 13.709/2018</span><p class="MuiTypography-root MuiListItemText-secondary MuiTypography-body2 MuiTypography-colorTextSecondary MuiTypography-displayBlock">Brasil</p></div></li></ul></div></div></div></div></div></div><div class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-12 MuiGrid-grid-md-4" data-aos="fade-up"><div class="MuiPaper-root MuiCard-root card-base jss71 card-review jss70 MuiPaper-outlined MuiPaper-rounded"><div class="MuiCardContent-root card-base__content jss77 jss80"><div class="MuiGrid-root card-review__wrapper MuiGrid-container MuiGrid-spacing-xs-2"><div class="MuiGrid-root card-review__icon-wrapper MuiGrid-container MuiGrid-item MuiGrid-justify-xs-center MuiGrid-grid-xs-12"></div><div class="MuiGrid-root card-review__text-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root MuiTypography-h6 MuiTypography-alignCenter">Atende a todos os requisitos do Regulamento Geral de Proteção de Dados Europeu (RPPD/GDPR).</p></div><div class="MuiGrid-root card-review__lits-container MuiGrid-item MuiGrid-grid-xs-12"><div class="MuiGrid-root card-review__list-wrapper MuiGrid-container MuiGrid-justify-xs-center"><ul class="MuiList-root card-review__list"><li class="MuiListItem-root card-review__list-item MuiListItem-gutters" style="width:260px"><div class="MuiListItemAvatar-root card-review__list-item-avatar"><div class="MuiAvatar-root MuiAvatar-circle card-review__avatar" style="border-radius:10px;width:60px;height:60px;margin-right:10px"><img alt="GDPR EU 2016/679" src="../static/images/photos/GDPR.jpg" class="MuiAvatar-img"/></div></div><div class="MuiListItemText-root card-review__list-item-text MuiListItemText-multiline"><span class="MuiTypography-root MuiListItemText-primary MuiTypography-body1 MuiTypography-displayBlock">GDPR EU 2016/679</span><p class="MuiTypography-root MuiListItemText-secondary MuiTypography-body2 MuiTypography-colorTextSecondary MuiTypography-displayBlock">União Européia</p></div></li></ul></div></div></div></div></div></div><div class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-12 MuiGrid-grid-md-4" data-aos="fade-up"><div class="MuiPaper-root MuiCard-root card-base jss71 card-review jss70 MuiPaper-outlined MuiPaper-rounded"><div class="MuiCardContent-root card-base__content jss77 jss80"><div class="MuiGrid-root card-review__wrapper MuiGrid-container MuiGrid-spacing-xs-2"><div class="MuiGrid-root card-review__icon-wrapper MuiGrid-container MuiGrid-item MuiGrid-justify-xs-center MuiGrid-grid-xs-12"></div><div class="MuiGrid-root card-review__text-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root MuiTypography-h6 MuiTypography-alignCenter">Implementado de acordo com o California Consumer Privacy Act (CCPA). </p></div><div class="MuiGrid-root card-review__lits-container MuiGrid-item MuiGrid-grid-xs-12"><div class="MuiGrid-root card-review__list-wrapper MuiGrid-container MuiGrid-justify-xs-center"><ul class="MuiList-root card-review__list"><li class="MuiListItem-root card-review__list-item MuiListItem-gutters" style="width:260px"><div class="MuiListItemAvatar-root card-review__list-item-avatar"><div class="MuiAvatar-root MuiAvatar-circle card-review__avatar" style="border-radius:10px;width:60px;height:60px;margin-right:10px"><img alt="CCPA 2018" src="../static/images/photos/CCPA.jpg" class="MuiAvatar-img"/></div></div><div class="MuiListItemText-root card-review__list-item-text MuiListItemText-multiline"><span class="MuiTypography-root MuiListItemText-primary MuiTypography-body1 MuiTypography-displayBlock">CCPA 2018</span><p class="MuiTypography-root MuiListItemText-secondary MuiTypography-body2 MuiTypography-colorTextSecondary MuiTypography-displayBlock">Estado da Califórnia, EUA</p></div></li></ul></div></div></div></div></div></div><div class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-justify-xs-center MuiGrid-grid-xs-12"><button class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedSecondary MuiButton-containedSizeLarge MuiButton-sizeLarge" tabindex="0" type="button"><span class="MuiButton-label">POLÍTICA DE PRIVACIDADE</span></button></div></div></div></div></section></div></main><div i18n="[object Object]" class="jss81"><div class="jss82"><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-2"><ul class="MuiList-root jss83"><li class="MuiListItem-root jss84"><p class="MuiTypography-root jss93 MuiTypography-body1">Redes Sociais</p></li><li class="MuiListItem-root"><button class="MuiButtonBase-root MuiIconButton-root jss86" tabindex="0" type="button" aria-label="Facebook"><span class="MuiIconButton-label"><svg class="MuiSvgIcon-root jss87" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2m13 2h-2.5A3.5 3.5 0 0 0 12 8.5V11h-2v3h2v7h3v-7h3v-3h-3V9a1 1 0 0 1 1-1h2V5z"></path></svg></span></button><button class="MuiButtonBase-root MuiIconButton-root jss86" tabindex="0" type="button" aria-label="Instagram"><span class="MuiIconButton-label"><svg class="MuiSvgIcon-root jss87" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M7.8 2h8.4C19.4 2 22 4.6 22 7.8v8.4a5.8 5.8 0 0 1-5.8 5.8H7.8C4.6 22 2 19.4 2 16.2V7.8A5.8 5.8 0 0 1 7.8 2m-.2 2A3.6 3.6 0 0 0 4 7.6v8.8C4 18.39 5.61 20 7.6 20h8.8a3.6 3.6 0 0 0 3.6-3.6V7.6C20 5.61 18.39 4 16.4 4H7.6m9.65 1.5a1.25 1.25 0 0 1 1.25 1.25A1.25 1.25 0 0 1 17.25 8 1.25 1.25 0 0 1 16 6.75a1.25 1.25 0 0 1 1.25-1.25M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3z"></path></svg></span></button><button class="MuiButtonBase-root MuiIconButton-root jss86" tabindex="0" type="button" aria-label="Twitter"><span class="MuiIconButton-label"><svg class="MuiSvgIcon-root jss87" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M22.46 6c-.77.35-1.6.58-2.46.69.88-.53 1.56-1.37 1.88-2.38-.83.5-1.75.85-2.72 1.05C18.37 4.5 17.26 4 16 4c-2.35 0-4.27 1.92-4.27 4.29 0 .34.04.67.11.98C8.28 9.09 5.11 7.38 3 4.79c-.37.63-.58 1.37-.58 2.15 0 1.49.75 2.81 1.91 3.56-.71 0-1.37-.2-1.95-.5v.03c0 2.08 1.48 3.82 3.44 4.21a4.22 4.22 0 0 1-1.93.07 4.28 4.28 0 0 0 4 2.98 8.521 8.521 0 0 1-5.33 1.84c-.34 0-.68-.02-1.02-.06C3.44 20.29 5.7 21 8.12 21 16 21 20.33 14.46 20.33 8.79c0-.19 0-.37-.01-.56.84-.6 1.56-1.36 2.14-2.23z"></path></svg></span></button><button class="MuiButtonBase-root MuiIconButton-root jss86" tabindex="0" type="button" aria-label="Pinterest"><span class="MuiIconButton-label"><svg class="MuiSvgIcon-root jss87" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9.04 21.54c.96.29 1.93.46 2.96.46a10 10 0 0 0 10-10A10 10 0 0 0 12 2 10 10 0 0 0 2 12c0 4.25 2.67 7.9 6.44 9.34-.09-.78-.18-2.07 0-2.96l1.15-4.94s-.29-.58-.29-1.5c0-1.38.86-2.41 1.84-2.41.86 0 1.26.63 1.26 1.44 0 .86-.57 2.09-.86 3.27-.17.98.52 1.84 1.52 1.84 1.78 0 3.16-1.9 3.16-4.58 0-2.4-1.72-4.04-4.19-4.04-2.82 0-4.48 2.1-4.48 4.31 0 .86.28 1.73.74 2.3.09.06.09.14.06.29l-.29 1.09c0 .17-.11.23-.28.11-1.28-.56-2.02-2.38-2.02-3.85 0-3.16 2.24-6.03 6.56-6.03 3.44 0 6.12 2.47 6.12 5.75 0 3.44-2.13 6.2-5.18 6.2-.97 0-1.92-.52-2.26-1.13l-.67 2.37c-.23.86-.86 2.01-1.29 2.7v-.03z"></path></svg></span></button></li></ul></div><div class="MuiGrid-root jss88 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-10"><div class="MuiGrid-root MuiGrid-item"><div class="jss89"><div class="jss90"><ul class="MuiList-root jss90"><li class="MuiListItem-root jss91"><p class="MuiTypography-root jss92 MuiTypography-body2">Nossa empresa</p></li><li class="MuiListItem-root jss91"><a class="MuiTypography-root jss95 submenu-item MuiTypography-body2" href="../company/about">Sobre</a></li><li class="MuiListItem-root jss91"><a class="MuiTypography-root jss95 submenu-item MuiTypography-body2" href="../company/media-assets">Mídias</a></li><li class="MuiListItem-root jss91"><a class="MuiTypography-root jss95 submenu-item MuiTypography-body2" href="../company/contact">Contato</a></li></ul><ul class="MuiList-root jss90"><li class="MuiListItem-root jss91"><p class="MuiTypography-root jss92 MuiTypography-body2">Checkpoint</p></li><li class="MuiListItem-root jss91"><a class="MuiTypography-root jss95 submenu-item MuiTypography-body2" href="https://www.checkpoint.immunie.net/">Autenticação Blockchain </a></li></ul></div><div class="jss90"><ul class="MuiList-root jss90"><li class="MuiListItem-root jss91"><p class="MuiTypography-root jss92 MuiTypography-body2">Termos de Uso</p></li><li class="MuiListItem-root jss91"><a class="MuiTypography-root jss95 submenu-item MuiTypography-body2" href="../terms-of-use/privacy-policy">Política de Privacidade</a></li><li class="MuiListItem-root jss91"><a class="MuiTypography-root jss95 submenu-item MuiTypography-body2" href="../terms-of-use/terms-and-conditions">Termos e Condições</a></li><li class="MuiListItem-root jss91"><a class="MuiTypography-root jss95 submenu-item MuiTypography-body2" href="../terms-of-use/faqs">FAQs</a></li></ul></div><div class="jss90"><ul class="MuiList-root jss90"><li class="MuiListItem-root jss91"><p class="MuiTypography-root jss92 MuiTypography-body2">Produtos</p></li><li class="MuiListItem-root jss91"><a class="MuiTypography-root jss95 submenu-item MuiTypography-body2" href="people">Pessoas</a></li><li class="MuiListItem-root jss91"><a class="MuiTypography-root jss95 submenu-item MuiTypography-body2" href="health-care">Setor de Saúde</a></li><li class="MuiListItem-root jss91"><a class="MuiTypography-root jss95 submenu-item MuiTypography-body2" href="labs">Laboratórios de Exames</a></li><li class="MuiListItem-root jss91"><a class="MuiTypography-root jss95 submenu-item MuiTypography-body2" href="travel">Companhias Aéreas</a></li><li class="MuiListItem-root jss91"><a class="MuiTypography-root jss95 submenu-item MuiTypography-body2" href="schools">Escolas</a></li><li class="MuiListItem-root jss91"><a class="MuiTypography-root jss95 submenu-item MuiTypography-body2" href="managers">Governos e Grandes Eventos</a></li></ul></div></div></div></div></div></div></div></div></div></div></div><script id="__NEXT_DATA__" type="application/json">{"props":{"initialI18nStore":{"pt":{"common":{"SERVICES":"Serviços","SERVICES_GROUP_COMPANY":"Nossa empresa","SERVICES_SUBGROUP_ABOUT":"Sobre","SERVICES_SUBGROUP_MEDIA_ASSETS":"Mídias","SERVICES_SUBGROUP_CONTACT":"Contato","SERVICES_GROUP_CHECKPOINT":"Checkpoint","SERVICES_SUBGROUP_BLOCKCHAIN":"Autenticação Blockchain ","SERVICES_GROUP_TERMS_OF_USE":"Termos de Uso","SERVICES_SUBGROUP_PRIVACY_POLICY":"Política de Privacidade","SERVICES_SUBGROUP_TERMS_AND_CONDITIONS":"Termos e Condições","SERVICES_SUBGROUP_FAQ":"FAQs","PRODUCTS":"Produtos","PRODUCT_GROUP_SUBPAGES":"Produtos","PRODUCT_SUBGROUP_PEOPLE_PAGE":"Pessoas","PRODUCT_HEALTH_CARE_PAGE":"Setor de Saúde","PRODUCT_EXAM_LABS_PAGE":"Laboratórios de Exames","PRODUCT_TRAVEL_PAGE":"Companhias Aéreas","PRODUCT_SCHOOLS_PAGE":"Escolas","PRODUCT_MANAGERS_PAGE":"Governos e Grandes Eventos","CONTACT_FORM_TITLE":"Fale Conosco","CONTACT_FORM_SUBTITLE":"Seu contato é muito importante para nós. Todas as mensagens recebidas são lidas com atenção","CONTACT_FORM_FIELD_FULL_NAME":"Nome Completo","CONTACT_FORM_FIELD_MESSAGE":"Mensagem","CONTACT_FORM_REQUIRED_FIELDS":"Campos marcados com * são obrigatórios.","CONTACT_FORM_SEND_BTN_TEXT":"ENVIAR"},"header":{"HCB_AREA_BTN_TEXT":"Clínicas","USER_AREA_BTN_TEXT":"Usuários"},"labsPage":{"HERO_TITLE":"Conexão direta com pacientes e empresas aéreas","HERO_SUBTITLE_1":"Integre os resultados de exames e testes Covid-PCR diretamente com seus clientes de forma segura, com a tecnologia Blockhain.","HERO_SUBTITLE_2":"Preserve a autenticidade dos documentos emitidos pelo seu laboratório de forma eficiente e autenticação digital.","HERO_BTN_TEXT":"DOWNLOAD CATÁLOGO PDF","DESCRIPTION_TITLE":"Certificados de Viagem: Uma nova exigência do mercado","DESCRIPTION_SUBTITLE":"O mundo pós pandemia exige controles mais efetivos de saúde e imunização. A emissão dos resultados de seus exames pode ser feita de forma mais segura e com menores custos.","FEATURES_ITEM_1_TITLE":"Comunicação Direta","FEATURES_ITEM_1_SUBTITLE":" Envie mensagens individualizadas para cada seus clientes via email, SMS ou PUSH com lembretes e informações de resultados.","FEATURES_ITEM_2_TITLE":"Segurança e Privacidade","FEATURES_ITEM_2_SUBTITLE":" Autenticação de dados com encriptação forte, servidores de padrão global e a segurança da tecnologia Blockchain. 100% de acordo com a LGPDP. ","FEATURES_ITEM_3_TITLE":"Transformação Digital","FEATURES_ITEM_3_SUBTITLE":"Processos 100% digitais, mais seguros e contactless agregam valor ao seu negócio e ampliam sua base de clientes.","FEATURES_ITEM_4_TITLE":"Mais que um App","FEATURES_ITEM_4_SUBTITLE":"Immunie foi desenvolvido para integrar diferentes redes, aplicativos e plataformas através de API.","VIDEO_SECTION_TITLE":"Rede Integrada","VIDEO_SECTION_SUBTITLE":"Um ecossistema digital conectando seu laboratório de exames aos seus clientes, escolas, companhias aéreas e gestores de grandes eventos, 100% online, com a segurança da tecnologia Blockchain.","VIDEO_SECTION_BTN_1_TEXT":"CONTATO","VIDEO_SECTION_BTN_2_TEXT":"CATÁLOGO PDF","VIDEO_SECTION_OUR_SPONSORS":"A melhor tecnologia","ABOUT_ITEM_1_TITLE":"Comodidade para seu cliente","ABOUT_ITEM_1_SUBTITLE":"Resultado de exames integrado ao eTicket via App ou API.","ABOUT_ITEM_1_DESCRIPTION":"Faça parte de uma rede que permite que os dados gerados pelo seu laboratório sejam entregues em tempo real ao usuário, às empresas aéreas ou grandes eventos.","ABOUT_ITEM_2_TITLE":"Proteção contra fraudes","ABOUT_ITEM_2_SUBTITLE":"Evite o uso indevido da credibilidade dos seu laboratório","ABOUT_ITEM_2_DESCRIPTION":" Dados autenticados pela tecnologia Blockchain evitam a possibilidade de adulteração de certificado em papel ou PDFs.","ADVANTAGES_TITLE":"Vantagens","ADVANTAGES_SUBTITLE":"A tecnologia Immunie expande o alcance do seu negócio.","ADVANTAGES_ITEM_1_TITLE":"Testes Covid PCR certificados","ADVANTAGES_ITEM_1_DESCRIPTION":"Resultados compartilhados pelo cliente para geração do eTicket direto via App ou API.","ADVANTAGES_ITEM_1_AUTHOR":"EMPRESAS AÉREAS","ADVANTAGES_ITEM_2_TITLE":"Vacina na matricula é lei","ADVANTAGES_ITEM_2_DESCRIPTION":"Seja uma provedor de serviços integrado uma rede de alunos e escolas.","ADVANTAGES_ITEM_2_AUTHOR":"ESCOLAS","ADVANTAGES_ITEM_3_TITLE":"Sua marca sempre","ADVANTAGES_ITEM_3_DESCRIPTION":"Seja sempre lembrado com seu logo no cartão de vacinação digital do seu cliente.","ADVANTAGES_ITEM_3_AUTHOR":"ENGAJAMNETO","ADVANTAGES_ITEM_4_TITLE":"Atendimento VIP","ADVANTAGES_ITEM_4_DESCRIPTION":"Ofereça um serviço diferenciado com a integração de resultados ao sistema de ingressos eletrônicos via API.","ADVANTAGES_ITEM_4_AUTHOR":"EVENTOS ESPORTIVOS","ADVANTAGES_ITEM_5_TITLE":"Volta segura à normalidade","ADVANTAGES_ITEM_5_DESCRIPTION":"Comodidade para seus clientes participarem de eventos de negócios ou acadêmicos com segurança, sem filas.","ADVANTAGES_ITEM_5_AUTHOR":"CONGRESSOS E SEMINÁRIOS ","ADVANTAGES_ITEM_6_TITLE":"Multi Idiomas","ADVANTAGES_ITEM_6_DESCRIPTION":"Emita certificados de vacinação em 12 idiomas com tradução automática, sem complicação.","ADVANTAGES_ITEM_6_AUTHOR":"CARTEIRA DIGITAL DE SAÚDE","PRIVACY_TITLE_1":"Respeito","PRIVACY_TITLE_2":"à Privacidade","PRIVACY_SUBTITLE":"100% de acordo com as normas de privacidade mais avançadas no mundo.","PRIVACY_ITEM_1_AUTHOR":"Lei 13.709/2018","PRIVACY_ITEM_1_AUTHOR_OCCUPATION":"Brasil","PRIVACY_ITEM_1_AUTHOR_FEEDBACK":"100% de acordo com a Lei Geral de Proteção de Dados Pessoais (LGPDP).","PRIVACY_ITEM_2_AUTHOR":"GDPR EU 2016/679","PRIVACY_ITEM_2_AUTHOR_OCCUPATION":"União Européia","PRIVACY_ITEM_2_AUTHOR_FEEDBACK":"Atende a todos os requisitos do Regulamento Geral de Proteção de Dados Europeu (RPPD/GDPR).","PRIVACY_ITEM_3_AUTHOR":"CCPA 2018","PRIVACY_ITEM_3_AUTHOR_OCCUPATION":"Estado da Califórnia, EUA","PRIVACY_ITEM_3_AUTHOR_FEEDBACK":"Implementado de acordo com o California Consumer Privacy Act (CCPA). ","PRIVACY_BTN_TEXT":"POLÍTICA DE PRIVACIDADE"}}},"initialLanguage":"pt","i18nServerInstance":null,"pageProps":{"namespacesRequired":["common","header","labsPage"]}},"page":"/products/labs","query":{},"buildId":"nDZD4foxkD8xipOua1Ujd","runtimeConfig":{"localeSubpaths":{}},"nextExport":true,"isFallback":false,"gip":true,"appGip":true}</script><script nomodule="" src="../_next/static/chunks/polyfills-10a8cf8ec0fcff4a7700.js"></script><script src="../_next/static/chunks/main-005c099ebc6d73bffa35.js" async=""></script><script src="../_next/static/chunks/webpack-245f049e565ebf942e09.js" async=""></script><script src="../_next/static/chunks/framework.64c08973ae123710aa81.js" async=""></script><script src="../_next/static/chunks/commons.ddec478f82113778b077.js" async=""></script><script src="../_next/static/chunks/pages/_app-8f3a4cdfd6b03ceeb0b9.js" async=""></script><script src="../_next/static/chunks/a4c92b5b.014bebfe28d7f652e7fb.js" async=""></script><script src="../_next/static/chunks/11b04806d3909ce7987efbbeab9b411580946ab6.05063bfe093fef78d737.js" async=""></script><script src="../_next/static/chunks/b0787e176b509ab8a5b092dbcd4c2bdafe937fdc.42fe8430b9ca6fad0654.js" async=""></script><script src="../_next/static/chunks/f21c5035378776e5664e82d348c0227acd3df0b3.76b2b439016ecfd9a02a.js" async=""></script><script src="../_next/static/chunks/25a8d7ab5f5d99d3b01da091b59e74e43713563c.d145237d590eb733ea38.js" async=""></script><script src="../_next/static/chunks/pages/products/labs-a5457f6a3c72d01cce8a.js" async=""></script><script src="../_next/static/nDZD4foxkD8xipOua1Ujd/_buildManifest.js" async=""></script><script src="../_next/static/nDZD4foxkD8xipOua1Ujd/_ssgManifest.js" async=""></script></body>
+<!-- Mirrored from immunie.net/products/labs by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Sep 2021 19:29:57 GMT -->
+</html>

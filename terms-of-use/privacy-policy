@@ -1,0 +1,1441 @@
+<!DOCTYPE html><html lang="en">
+<!-- Mirrored from immunie.net/terms-of-use/privacy-policy by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Sep 2021 19:29:51 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head><meta charSet="utf-8"/><link rel="shortcut icon" href="../assets/favicon.svg"/><meta name="theme-color" content="#ffffff"/><meta name="description" content="International Vaccination Records authenticated using Blockchain Technology. Keep your record safe anytime, anywhere. Immunie is a privacy by design application, built to comply with the highest data privacy standards"/><meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/><meta property="og:locale" content="en_US"/><meta property="og:type" content="website"/><meta property="og:title" content="Immunie | Digital Vaccination Card"/><meta property="og:description" content="International Vaccination Records authenticated using Blockchain Technology. Keep your record safe anytime, anywhere. Immunie is a privacy by design application, built to comply with the highest data privacy standards"/><meta property="og:url" content="https://immunie.org/"/><link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&amp;display=swap" rel="stylesheet"/><script src="../../kit.fontawesome.com/4c273e6d43.js" crossorigin="anonymous"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-J1J5FK05T4"></script><script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+  
+              gtag('config', 'G-J1J5FK05T4');
+          </script><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><title>Immunie Digital Vaccination Card</title><meta name="next-head-count" content="3"/><link rel="preload" href="../_next/static/css/c6fd4f563a3cf2b1449e.css" as="style"/><link rel="stylesheet" href="../_next/static/css/c6fd4f563a3cf2b1449e.css" data-n-g=""/><noscript data-n-css=""></noscript><link rel="preload" href="../_next/static/chunks/main-005c099ebc6d73bffa35.js" as="script"/><link rel="preload" href="../_next/static/chunks/webpack-245f049e565ebf942e09.js" as="script"/><link rel="preload" href="../_next/static/chunks/framework.64c08973ae123710aa81.js" as="script"/><link rel="preload" href="../_next/static/chunks/commons.ddec478f82113778b077.js" as="script"/><link rel="preload" href="../_next/static/chunks/pages/_app-8f3a4cdfd6b03ceeb0b9.js" as="script"/><link rel="preload" href="../_next/static/chunks/a4c92b5b.014bebfe28d7f652e7fb.js" as="script"/><link rel="preload" href="../_next/static/chunks/11b04806d3909ce7987efbbeab9b411580946ab6.05063bfe093fef78d737.js" as="script"/><link rel="preload" href="../_next/static/chunks/b0787e176b509ab8a5b092dbcd4c2bdafe937fdc.42fe8430b9ca6fad0654.js" as="script"/><link rel="preload" href="../_next/static/chunks/f21c5035378776e5664e82d348c0227acd3df0b3.76b2b439016ecfd9a02a.js" as="script"/><link rel="preload" href="../_next/static/chunks/pages/terms-of-use/privacy-policy-824cf07782faf7248a33.js" as="script"/><style id="jss-server-side">.MuiSvgIcon-root {
+  fill: currentColor;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  font-size: 1.5rem;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  flex-shrink: 0;
+  user-select: none;
+}
+.MuiSvgIcon-colorPrimary {
+  color: #3f51b5;
+}
+.MuiSvgIcon-colorSecondary {
+  color: #f9b934;
+}
+.MuiSvgIcon-colorAction {
+  color: rgba(0, 0, 0, 0.54);
+}
+.MuiSvgIcon-colorError {
+  color: #f44336;
+}
+.MuiSvgIcon-colorDisabled {
+  color: rgba(0, 0, 0, 0.26);
+}
+.MuiSvgIcon-fontSizeInherit {
+  font-size: inherit;
+}
+.MuiSvgIcon-fontSizeSmall {
+  font-size: 1.25rem;
+}
+.MuiSvgIcon-fontSizeLarge {
+  font-size: 2.1875rem;
+}
+.MuiPaper-root {
+  color: #2d3748;
+  transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  background-color: #fff;
+}
+.MuiPaper-rounded {
+  border-radius: 4px;
+}
+.MuiPaper-outlined {
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+.MuiPaper-elevation0 {
+  box-shadow: none;
+}
+.MuiPaper-elevation1 {
+  box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 1px 3px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation2 {
+  box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation3 {
+  box-shadow: 0px 3px 3px -2px rgba(0,0,0,0.2),0px 3px 4px 0px rgba(0,0,0,0.14),0px 1px 8px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation4 {
+  box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation5 {
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 5px 8px 0px rgba(0,0,0,0.14),0px 1px 14px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation6 {
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation7 {
+  box-shadow: 0px 4px 5px -2px rgba(0,0,0,0.2),0px 7px 10px 1px rgba(0,0,0,0.14),0px 2px 16px 1px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation8 {
+  box-shadow: 0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation9 {
+  box-shadow: 0px 5px 6px -3px rgba(0,0,0,0.2),0px 9px 12px 1px rgba(0,0,0,0.14),0px 3px 16px 2px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation10 {
+  box-shadow: 0px 6px 6px -3px rgba(0,0,0,0.2),0px 10px 14px 1px rgba(0,0,0,0.14),0px 4px 18px 3px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation11 {
+  box-shadow: 0px 6px 7px -4px rgba(0,0,0,0.2),0px 11px 15px 1px rgba(0,0,0,0.14),0px 4px 20px 3px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation12 {
+  box-shadow: 0px 7px 8px -4px rgba(0,0,0,0.2),0px 12px 17px 2px rgba(0,0,0,0.14),0px 5px 22px 4px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation13 {
+  box-shadow: 0px 7px 8px -4px rgba(0,0,0,0.2),0px 13px 19px 2px rgba(0,0,0,0.14),0px 5px 24px 4px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation14 {
+  box-shadow: 0px 7px 9px -4px rgba(0,0,0,0.2),0px 14px 21px 2px rgba(0,0,0,0.14),0px 5px 26px 4px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation15 {
+  box-shadow: 0px 8px 9px -5px rgba(0,0,0,0.2),0px 15px 22px 2px rgba(0,0,0,0.14),0px 6px 28px 5px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation16 {
+  box-shadow: 0px 8px 10px -5px rgba(0,0,0,0.2),0px 16px 24px 2px rgba(0,0,0,0.14),0px 6px 30px 5px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation17 {
+  box-shadow: 0px 8px 11px -5px rgba(0,0,0,0.2),0px 17px 26px 2px rgba(0,0,0,0.14),0px 6px 32px 5px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation18 {
+  box-shadow: 0px 9px 11px -5px rgba(0,0,0,0.2),0px 18px 28px 2px rgba(0,0,0,0.14),0px 7px 34px 6px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation19 {
+  box-shadow: 0px 9px 12px -6px rgba(0,0,0,0.2),0px 19px 29px 2px rgba(0,0,0,0.14),0px 7px 36px 6px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation20 {
+  box-shadow: 0px 10px 13px -6px rgba(0,0,0,0.2),0px 20px 31px 3px rgba(0,0,0,0.14),0px 8px 38px 7px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation21 {
+  box-shadow: 0px 10px 13px -6px rgba(0,0,0,0.2),0px 21px 33px 3px rgba(0,0,0,0.14),0px 8px 40px 7px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation22 {
+  box-shadow: 0px 10px 14px -6px rgba(0,0,0,0.2),0px 22px 35px 3px rgba(0,0,0,0.14),0px 8px 42px 7px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation23 {
+  box-shadow: 0px 11px 14px -7px rgba(0,0,0,0.2),0px 23px 36px 3px rgba(0,0,0,0.14),0px 9px 44px 8px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation24 {
+  box-shadow: 0px 11px 15px -7px rgba(0,0,0,0.2),0px 24px 38px 3px rgba(0,0,0,0.14),0px 9px 46px 8px rgba(0,0,0,0.12);
+}
+.MuiButtonBase-root {
+  color: inherit;
+  border: 0;
+  cursor: pointer;
+  margin: 0;
+  display: inline-flex;
+  outline: 0;
+  padding: 0;
+  position: relative;
+  align-items: center;
+  user-select: none;
+  border-radius: 0;
+  vertical-align: middle;
+  -moz-appearance: none;
+  justify-content: center;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-appearance: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.MuiButtonBase-root::-moz-focus-inner {
+  border-style: none;
+}
+.MuiButtonBase-root.Mui-disabled {
+  cursor: default;
+  pointer-events: none;
+}
+@media print {
+  .MuiButtonBase-root {
+    color-adjust: exact;
+  }
+}
+  .MuiIconButton-root {
+    flex: 0 0 auto;
+    color: rgba(0, 0, 0, 0.54);
+    padding: 12px;
+    overflow: visible;
+    font-size: 1.5rem;
+    text-align: center;
+    transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    border-radius: 50%;
+  }
+  .MuiIconButton-root:hover {
+    background-color: rgba(0, 0, 0, 0.04);
+  }
+  .MuiIconButton-root.Mui-disabled {
+    color: rgba(0, 0, 0, 0.26);
+    background-color: transparent;
+  }
+@media (hover: none) {
+  .MuiIconButton-root:hover {
+    background-color: transparent;
+  }
+}
+  .MuiIconButton-edgeStart {
+    margin-left: -12px;
+  }
+  .MuiIconButton-sizeSmall.MuiIconButton-edgeStart {
+    margin-left: -3px;
+  }
+  .MuiIconButton-edgeEnd {
+    margin-right: -12px;
+  }
+  .MuiIconButton-sizeSmall.MuiIconButton-edgeEnd {
+    margin-right: -3px;
+  }
+  .MuiIconButton-colorInherit {
+    color: inherit;
+  }
+  .MuiIconButton-colorPrimary {
+    color: #3f51b5;
+  }
+  .MuiIconButton-colorPrimary:hover {
+    background-color: rgba(63, 81, 181, 0.04);
+  }
+@media (hover: none) {
+  .MuiIconButton-colorPrimary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiIconButton-colorSecondary {
+    color: #f9b934;
+  }
+  .MuiIconButton-colorSecondary:hover {
+    background-color: rgba(249, 185, 52, 0.04);
+  }
+@media (hover: none) {
+  .MuiIconButton-colorSecondary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiIconButton-sizeSmall {
+    padding: 3px;
+    font-size: 1.125rem;
+  }
+  .MuiIconButton-label {
+    width: 100%;
+    display: flex;
+    align-items: inherit;
+    justify-content: inherit;
+  }
+  .MuiTypography-root {
+    margin: 0;
+  }
+  .MuiTypography-body2 {
+    font-size: 0.875rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.43;
+  }
+  .MuiTypography-body1 {
+    font-size: 1rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.5;
+  }
+  .MuiTypography-caption {
+    font-size: 0.75rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.66;
+  }
+  .MuiTypography-button {
+    font-size: 0.875rem;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: 1.75;
+    text-transform: uppercase;
+  }
+  .MuiTypography-h1 {
+    font-size: 3.5rem;
+    font-family: Lato;
+    font-weight: 300;
+    line-height: 1.167;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h1 {
+    font-size: 4.7129rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h1 {
+    font-size: 5.3556rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h1 {
+    font-size: 5.9983rem;
+  }
+}
+  .MuiTypography-h2 {
+    font-size: 2.375rem;
+    font-family: Lato;
+    font-weight: 300;
+    line-height: 1.2;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h2 {
+    font-size: 2.9167rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h2 {
+    font-size: 3.3333rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h2 {
+    font-size: 3.75rem;
+  }
+}
+  .MuiTypography-h3 {
+    font-size: 2rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.167;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h3 {
+    font-size: 2.5707rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h3 {
+    font-size: 2.7849rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h3 {
+    font-size: 2.9991rem;
+  }
+}
+  .MuiTypography-h4 {
+    font-size: 1.5625rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.235;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h4 {
+    font-size: 1.8219rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h4 {
+    font-size: 2.0243rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h4 {
+    font-size: 2.0243rem;
+  }
+}
+  .MuiTypography-h5 {
+    font-size: 1.25rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.334;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h5 {
+    font-size: 1.3118rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h5 {
+    font-size: 1.4993rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h5 {
+    font-size: 1.4993rem;
+  }
+}
+  .MuiTypography-h6 {
+    font-size: 1.125rem;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: 1.6;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h6 {
+    font-size: 1.25rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h6 {
+    font-size: 1.25rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h6 {
+    font-size: 1.25rem;
+  }
+}
+  .MuiTypography-subtitle1 {
+    font-size: 1rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.75;
+  }
+  .MuiTypography-subtitle2 {
+    font-size: 0.875rem;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: 1.57;
+  }
+  .MuiTypography-overline {
+    font-size: 0.75rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 2.66;
+    text-transform: uppercase;
+  }
+  .MuiTypography-srOnly {
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+  }
+  .MuiTypography-alignLeft {
+    text-align: left;
+  }
+  .MuiTypography-alignCenter {
+    text-align: center;
+  }
+  .MuiTypography-alignRight {
+    text-align: right;
+  }
+  .MuiTypography-alignJustify {
+    text-align: justify;
+  }
+  .MuiTypography-noWrap {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+  .MuiTypography-gutterBottom {
+    margin-bottom: 0.35em;
+  }
+  .MuiTypography-paragraph {
+    margin-bottom: 16px;
+  }
+  .MuiTypography-colorInherit {
+    color: inherit;
+  }
+  .MuiTypography-colorPrimary {
+    color: #3f51b5;
+  }
+  .MuiTypography-colorSecondary {
+    color: #f9b934;
+  }
+  .MuiTypography-colorTextPrimary {
+    color: #2d3748;
+  }
+  .MuiTypography-colorTextSecondary {
+    color: #718096;
+  }
+  .MuiTypography-colorError {
+    color: #f44336;
+  }
+  .MuiTypography-displayInline {
+    display: inline;
+  }
+  .MuiTypography-displayBlock {
+    display: block;
+  }
+html {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+strong, b {
+  font-weight: 700;
+}
+body {
+  color: #2d3748;
+  margin: 0;
+  font-size: 0.875rem;
+  font-family: Lato;
+  font-weight: 400;
+  line-height: 1.43;
+  background-color: #fff;
+}
+@media print {
+  body {
+    background-color: #fff;
+  }
+}
+body::backdrop {
+  background-color: #fff;
+}
+  .MuiDivider-root {
+    border: none;
+    height: 1px;
+    margin: 0;
+    flex-shrink: 0;
+    background-color: rgba(0, 0, 0, 0.12);
+  }
+  .MuiDivider-absolute {
+    left: 0;
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+  }
+  .MuiDivider-inset {
+    margin-left: 72px;
+  }
+  .MuiDivider-light {
+    background-color: rgba(0, 0, 0, 0.08);
+  }
+  .MuiDivider-middle {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+  .MuiDivider-vertical {
+    width: 1px;
+    height: 100%;
+  }
+  .MuiDivider-flexItem {
+    height: auto;
+    align-self: stretch;
+  }
+  .MuiDrawer-docked {
+    flex: 0 0 auto;
+  }
+  .MuiDrawer-paper {
+    top: 0;
+    flex: 1 0 auto;
+    height: 100%;
+    display: flex;
+    outline: 0;
+    z-index: 1100;
+    position: fixed;
+    overflow-y: auto;
+    flex-direction: column;
+    -webkit-overflow-scrolling: touch;
+  }
+  .MuiDrawer-paperAnchorLeft {
+    left: 0;
+    right: auto;
+  }
+  .MuiDrawer-paperAnchorRight {
+    left: auto;
+    right: 0;
+  }
+  .MuiDrawer-paperAnchorTop {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: auto;
+    height: auto;
+    max-height: 100%;
+  }
+  .MuiDrawer-paperAnchorBottom {
+    top: auto;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: auto;
+    max-height: 100%;
+  }
+  .MuiDrawer-paperAnchorDockedLeft {
+    border-right: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .MuiDrawer-paperAnchorDockedTop {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .MuiDrawer-paperAnchorDockedRight {
+    border-left: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .MuiDrawer-paperAnchorDockedBottom {
+    border-top: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .MuiGrid-container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+  }
+  .MuiGrid-item {
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .MuiGrid-zeroMinWidth {
+    min-width: 0;
+  }
+  .MuiGrid-direction-xs-column {
+    flex-direction: column;
+  }
+  .MuiGrid-direction-xs-column-reverse {
+    flex-direction: column-reverse;
+  }
+  .MuiGrid-direction-xs-row-reverse {
+    flex-direction: row-reverse;
+  }
+  .MuiGrid-wrap-xs-nowrap {
+    flex-wrap: nowrap;
+  }
+  .MuiGrid-wrap-xs-wrap-reverse {
+    flex-wrap: wrap-reverse;
+  }
+  .MuiGrid-align-items-xs-center {
+    align-items: center;
+  }
+  .MuiGrid-align-items-xs-flex-start {
+    align-items: flex-start;
+  }
+  .MuiGrid-align-items-xs-flex-end {
+    align-items: flex-end;
+  }
+  .MuiGrid-align-items-xs-baseline {
+    align-items: baseline;
+  }
+  .MuiGrid-align-content-xs-center {
+    align-content: center;
+  }
+  .MuiGrid-align-content-xs-flex-start {
+    align-content: flex-start;
+  }
+  .MuiGrid-align-content-xs-flex-end {
+    align-content: flex-end;
+  }
+  .MuiGrid-align-content-xs-space-between {
+    align-content: space-between;
+  }
+  .MuiGrid-align-content-xs-space-around {
+    align-content: space-around;
+  }
+  .MuiGrid-justify-xs-center {
+    justify-content: center;
+  }
+  .MuiGrid-justify-xs-flex-end {
+    justify-content: flex-end;
+  }
+  .MuiGrid-justify-xs-space-between {
+    justify-content: space-between;
+  }
+  .MuiGrid-justify-xs-space-around {
+    justify-content: space-around;
+  }
+  .MuiGrid-justify-xs-space-evenly {
+    justify-content: space-evenly;
+  }
+  .MuiGrid-spacing-xs-1 {
+    width: calc(100% + 8px);
+    margin: -4px;
+  }
+  .MuiGrid-spacing-xs-1 > .MuiGrid-item {
+    padding: 4px;
+  }
+  .MuiGrid-spacing-xs-2 {
+    width: calc(100% + 16px);
+    margin: -8px;
+  }
+  .MuiGrid-spacing-xs-2 > .MuiGrid-item {
+    padding: 8px;
+  }
+  .MuiGrid-spacing-xs-3 {
+    width: calc(100% + 24px);
+    margin: -12px;
+  }
+  .MuiGrid-spacing-xs-3 > .MuiGrid-item {
+    padding: 12px;
+  }
+  .MuiGrid-spacing-xs-4 {
+    width: calc(100% + 32px);
+    margin: -16px;
+  }
+  .MuiGrid-spacing-xs-4 > .MuiGrid-item {
+    padding: 16px;
+  }
+  .MuiGrid-spacing-xs-5 {
+    width: calc(100% + 40px);
+    margin: -20px;
+  }
+  .MuiGrid-spacing-xs-5 > .MuiGrid-item {
+    padding: 20px;
+  }
+  .MuiGrid-spacing-xs-6 {
+    width: calc(100% + 48px);
+    margin: -24px;
+  }
+  .MuiGrid-spacing-xs-6 > .MuiGrid-item {
+    padding: 24px;
+  }
+  .MuiGrid-spacing-xs-7 {
+    width: calc(100% + 56px);
+    margin: -28px;
+  }
+  .MuiGrid-spacing-xs-7 > .MuiGrid-item {
+    padding: 28px;
+  }
+  .MuiGrid-spacing-xs-8 {
+    width: calc(100% + 64px);
+    margin: -32px;
+  }
+  .MuiGrid-spacing-xs-8 > .MuiGrid-item {
+    padding: 32px;
+  }
+  .MuiGrid-spacing-xs-9 {
+    width: calc(100% + 72px);
+    margin: -36px;
+  }
+  .MuiGrid-spacing-xs-9 > .MuiGrid-item {
+    padding: 36px;
+  }
+  .MuiGrid-spacing-xs-10 {
+    width: calc(100% + 80px);
+    margin: -40px;
+  }
+  .MuiGrid-spacing-xs-10 > .MuiGrid-item {
+    padding: 40px;
+  }
+  .MuiGrid-grid-xs-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-xs-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-xs-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-xs-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-xs-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-xs-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-xs-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-xs-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-xs-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-xs-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-xs-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-xs-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-xs-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-xs-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+@media (min-width:600px) {
+  .MuiGrid-grid-sm-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-sm-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-sm-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-sm-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-sm-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-sm-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-sm-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-sm-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-sm-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-sm-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-sm-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-sm-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-sm-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-sm-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:960px) {
+  .MuiGrid-grid-md-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-md-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-md-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-md-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-md-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-md-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-md-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-md-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-md-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-md-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-md-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-md-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-md-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-md-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:1280px) {
+  .MuiGrid-grid-lg-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-lg-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-lg-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-lg-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-lg-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-lg-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-lg-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-lg-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-lg-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-lg-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-lg-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-lg-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-lg-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-lg-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:1920px) {
+  .MuiGrid-grid-xl-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-xl-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-xl-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-xl-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-xl-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-xl-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-xl-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-xl-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-xl-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-xl-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-xl-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-xl-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-xl-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-xl-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+  .MuiList-root {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    list-style: none;
+  }
+  .MuiList-padding {
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+  .MuiList-subheader {
+    padding-top: 0;
+  }
+  .MuiListItem-root {
+    width: 100%;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    text-align: left;
+    align-items: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    justify-content: flex-start;
+    text-decoration: none;
+  }
+  .MuiListItem-root.Mui-focusVisible {
+    background-color: rgba(0, 0, 0, 0.08);
+  }
+  .MuiListItem-root.Mui-selected, .MuiListItem-root.Mui-selected:hover {
+    background-color: rgba(0, 0, 0, 0.08);
+  }
+  .MuiListItem-root.Mui-disabled {
+    opacity: 0.5;
+  }
+  .MuiListItem-container {
+    position: relative;
+  }
+  .MuiListItem-dense {
+    padding-top: 4px;
+    padding-bottom: 4px;
+  }
+  .MuiListItem-alignItemsFlexStart {
+    align-items: flex-start;
+  }
+  .MuiListItem-divider {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+    background-clip: padding-box;
+  }
+  .MuiListItem-gutters {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .MuiListItem-button {
+    transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  }
+  .MuiListItem-button:hover {
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.04);
+  }
+@media (hover: none) {
+  .MuiListItem-button:hover {
+    background-color: transparent;
+  }
+}
+  .MuiListItem-secondaryAction {
+    padding-right: 48px;
+  }
+  .MuiToolbar-root {
+    display: flex;
+    position: relative;
+    align-items: center;
+  }
+  .MuiToolbar-gutters {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+@media (min-width:600px) {
+  .MuiToolbar-gutters {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+  .MuiToolbar-regular {
+    min-height: 56px;
+  }
+@media (min-width:0px) and (orientation: landscape) {
+  .MuiToolbar-regular {
+    min-height: 48px;
+  }
+}
+@media (min-width:600px) {
+  .MuiToolbar-regular {
+    min-height: 64px;
+  }
+}
+  .MuiToolbar-dense {
+    min-height: 48px;
+  }
+  .jss37 {
+    padding: 48px 0px;
+    background: #1b1642;
+  }
+@media (min-width:960px) {
+  .jss37 {
+    padding: 96px 0px;
+  }
+}
+  .jss38 {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0px 16px;
+    max-width: 1236px;
+  }
+@media (min-width:600px) {
+  .jss38 {
+    padding: 0px 64px;
+  }
+}
+  .jss39 {
+    width: fit-content;
+    margin: 0 auto;
+    padding: 12px;
+  }
+  .jss40 {
+    padding-top: 0;
+  }
+  .jss41 {
+    color: rgb(17, 82, 147);
+    margin-bottom: 8px;
+    text-transform: uppercase;
+  }
+  .jss42 {
+    color: rgba(255,255,255,.6);
+    padding: 0;
+    margin-right: 8px;
+  }
+  .jss42:hover {
+    background: transparent;
+  }
+  .jss42:last-child {
+    margin-right: 0;
+  }
+  .jss43 {
+    font-size: 24px;
+  }
+  .jss44 {
+    padding: 0 !important;
+  }
+  .jss45 {
+    display: flex;
+    margin-left: auto;
+    justify-content: space-evenly !important;
+  }
+  .jss46 {
+    margin: 16px;
+  }
+  .jss46:last-child {
+    margin-bottom: 0;
+  }
+  .jss47 {
+    padding-top: 0;
+    padding-bottom: 4px;
+  }
+  .jss47:last-child {
+    padding-bottom: 0;
+  }
+  .jss48 {
+    color: white;
+    text-transform: uppercase;
+  }
+  .jss49 {
+    color: white;
+  }
+  .jss50 {
+    width: 100%;
+  }
+  .jss51 {
+    color: rgba(255,255,255,.6);
+  }
+  .jss33 {
+    margin-bottom: 24px;
+  }
+@media (min-width:960px) {
+  .jss33 {
+    margin-bottom: 32px;
+  }
+}
+  .jss34 {
+    margin-bottom: 0;
+  }
+  .jss35 {
+    font-weight: bold;
+  }
+  .jss36 {
+    margin-left: 8px;
+  }
+  .jss36:first-child {
+    margin-left: 0;
+  }
+  .jss2 {
+    font-size: 1.8rem;
+    margin-top: -8px;
+    font-weight: bold;
+  }
+  .jss3 {
+    flex-grow: 1;
+  }
+  .jss4 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .jss5 {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0px 16px;
+    max-width: 1400px;
+  }
+  .jss6 {
+    padding: 0.4em;
+    text-transform: none;
+  }
+  .jss7 {
+    cursor: pointer;
+    font-weight: 300;
+  }
+  .jss7:hover {
+    color: rgb(17, 82, 147);
+  }
+  .jss8 {
+    color: #546e7a;
+    font-weight: 300;
+  }
+  .jss8:hover {
+    color: rgb(17, 82, 147);
+  }
+  .jss8:visited {
+    text-decoration: none;
+  }
+  .jss9 {
+    cursor: pointer;
+  }
+  .jss9:hover > .menu-item, .jss9:hover {
+    color: rgb(17, 82, 147);
+  }
+  .jss10> .menu-item {
+    color: rgb(17, 82, 147);
+  }
+  .jss11 {
+    flex: 0 0 auto;
+    white-space: nowrap;
+    margin-right: 16px;
+  }
+  .jss12 {
+    min-width: auto;
+  }
+  .jss13 {
+    border: 16px;
+    padding: 32px;
+    min-width: 350px;
+    box-shadow: 0 0.5rem 2rem 2px rgba(116, 123, 144, 0.09);
+    margin-top: 16px;
+  }
+  .jss14 {
+    padding: 0;
+  }
+  .jss14:hover {
+    background: transparent;
+  }
+  .jss15 {
+    color: rgb(17, 82, 147);
+    transform: rotate(180deg);
+  }
+  .jss16 {
+    width: 180px;
+    cursor: pointer;
+    height: 60px;
+    display: flex;
+    object-fit: cover;
+    align-items: center;
+    background-size: contain;
+    background-image: url('../static/images/logos/brand_with_name.svg');
+    background-repeat: no-repeat;
+  }
+@media (min-width:960px) {
+  .jss16 {
+    width: 180px;
+    height: 60px;
+  }
+}
+  .jss17 {
+    display: flex;
+    justify-content: space-between;
+  }
+  .jss18 {
+    margin-right: 40px;
+  }
+  .jss18:last-child {
+    margin-right: 0;
+  }
+  .jss19 {
+    padding-top: 0;
+  }
+  .jss20 {
+    text-transform: uppercase;
+  }
+  .jss21 {
+    display: flex;
+    align-items: center;
+  }
+  .jss22 {
+    width: 100%;
+    max-width: 325px;
+  }
+  .jss23 {
+    height: 100%;
+    padding: 8px;
+  }
+  .jss24 {
+    margin-bottom: 8px;
+  }
+  .jss1 {
+    height: 100%;
+  }
+  .jss29 {
+    width: 100%;
+    margin: 0 auto;
+    padding: 48px 16px;
+    max-width: 1236px;
+  }
+@media (min-width:600px) {
+  .jss29 {
+    padding: 64px 64px;
+  }
+}
+@media (min-width:960px) {
+  .jss29 {
+    padding: 96px 64px;
+  }
+}
+  .jss30 {
+    max-width: 100%;
+  }
+  .jss31 {
+    padding: 0;
+  }
+  .jss32 {
+    max-width: 800px;
+  }
+  .jss25 {
+    width: 100%;
+    height: 100%;
+  }
+  .jss25 .description-cta__button-group {
+    flex-wrap: nowrap;
+  }
+  .jss26 {
+    padding-top: 24px;
+  }
+@media (min-width:960px) {
+  .jss26 {
+    padding-top: 40px;
+  }
+}
+  .jss27 {
+    font-weight: bold;
+  }
+  .jss28 {
+    margin: 24px 0px;
+  }
+@media (min-width:960px) {
+  .jss28 {
+    margin: 40px 0px;
+  }
+}</style></head><body><div id="__next"><div class="MuiPaper-root MuiPaper-elevation0 MuiPaper-rounded"><div class="container"><div class="jss1"><div class="MuiToolbar-root MuiToolbar-regular jss5" i18n="[object Object]"><div class="jss16"></div><div class="jss3"></div></div><main><hr class="MuiDivider-root"/><div class="jss25"><section class="section jss29 jss26"><div class="MuiGrid-root description-cta MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"><div class="MuiGrid-root description-cta__wrapper MuiGrid-item"><h5 class="MuiTypography-root jss27 MuiTypography-h5 MuiTypography-colorTextPrimary MuiTypography-gutterBottom MuiTypography-alignLeft">Política de Privacidade</h5><h6 class="MuiTypography-root description-cta__subtitle MuiTypography-subtitle1 MuiTypography-colorTextSecondary MuiTypography-alignLeft">Atualizado em 02.02.2021</h6></div><div class="MuiGrid-root MuiGrid-item"><div class="MuiGrid-root description-cta__button-group MuiGrid-container MuiGrid-spacing-xs-1 MuiGrid-justify-xs-flex-end"><div class="MuiGrid-root description-cta__primary-button-wrapper MuiGrid-item"></div></div></div></div><hr class="MuiDivider-root jss28"/><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><div class="MuiGrid-root section-header jss33 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Política de Privacidade</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Na Immunie temos a privacidade como um valor fundamental e o desenvolvimento de nosso sistema foi guiado pelo conceito de privacidade desde o design em nossas mentes desde o início. É muito importante que você leia atentamente esta Política de Privacidade antes de se inscrever aos nossos serviços. Se você tiver alguma pergunta ou dúvida em relação a esta política de privacidade, sinta-se à vontade para nos enviar uma mensagem para privacy@immunie.net. A menos que você tenha lido e concordado com esta política de privacidade, você não deve usar o nosso serviços. Trabalhamos muito para cumprir o Regulamento Geral de Proteção de Dados (GDPR) e a Lei de Proteção de Dados 2018 (DPA), esta política deve expressá-lo. Esta política explica como usamos seus dados pessoais e como trabalhamos com seus dados. que você pode fazer escolhas informadas e estar no controle de suas informações. Podemos atualizar esta política de tempos em tempos e, se fizermos quaisquer alterações materiais, iremos notificá-lo quando o fizermos. Forneceremos a você a oportunidade de ver essas mudanças. Ao continuar a usar nossos produtos e serviços após as alterações terem sido feitas e nós o tivermos notificado sobre elas, a maneira como usamos seus dados pessoais estará sujeita aos termos da política atualizada. Esta política explica como usamos seus dados pessoais para nossos produtos e serviços de registros digitais de vacinação. Ele também rege o uso de seus dados por meio de nosso Progressive WebApp ou de qualquer um de nossos sites, incluindo o site Immunie e o site Immunie em questão (e qualquer referência ao nosso Aplicativo nesta política também deve incluir uma referência aos nossos sites). </p></div></div><div class="MuiGrid-root section-header jss33 jss34 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Sobre Immunie</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Immunie é um serviço prestado por KIPR Blockchain Ltd , uma empresa registrada na Inglaterra. A sede social e principal local de negócios de nossa empresa é Kipr Blockchain Kemp House 152-160 City Road, London, England, EC1V 2NX. Registros de vacinação da Immunie, App e A emissão e-ICV são serviços digitais fornecidos pela Immunie sob um acordo de subcontrato por meio de empresas de saúde afiliadas, como hospitais, maternidades, clínicas de vacinação, clínicas de vacinação em viagens e outras entidades licenciadas e autorizadas. Quando esta política falar sobre &#x27;Immunie&#x27;, &#x27; nós &#x27;ou&#x27; nós &#x27;, significa os serviços Immunie fornecidos por KIPR Blockchain Ltd. Não fornecemos seus dados a outras empresas e a arquitetura e o design do software Immunie foram desenvolvidos para garantir que nenhum dado pessoal seja compartilhado sem o seu prévio e consentimento expresso. Immunie é o controlador dos seus dados pessoais fornecidos a, ou recolhidos por, ou para, ou processados ​​em ligação com os nossos serviços. A sua relação é sagaz h Immunie. Se, por exemplo, você deseja acessar seus dados, Immunie é a entidade para a qual você faria essa solicitação.0 </p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Sobre os dados que mantemos e como são obtidos</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Usamos as seguintes categorias de dados pessoais:</p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root jss27 MuiTypography-h6 MuiTypography-colorTextPrimary MuiTypography-alignLeft">(I) Dados pessoais</h6></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Ao se registrar na Immunie, você preenche formulários e nos fornece informações básicas sobre você, como seu nome, data de nascimento, endereço físico e endereço de e-mail. Você também nos fornecerá uma cópia da documentação de identificação para Verificações de identidade a serem realizadas por um de nossos parceiros comerciais. Você é responsável pela exatidão das informações que nos fornece. </p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root jss27 MuiTypography-h6 MuiTypography-colorTextPrimary MuiTypography-alignLeft">(II) Informações médicas e de saúde</h6></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">O principal tipo de informação que temos sobre você são os registros de vacinação: as vacinas que você tomou, o fabricante dessas vacinas, o número do lote, a clínica e o profissional de saúde que as aplicou, sua localização e a hora e data já aconteceu. Isso inclui detalhes de suas consultas com médicos e interações com nossos serviços digitais, incluindo interações com nosso chatbot, mensagens e histórico de ações dentro do aplicativo, você também pode fornecer uma foto digital de seu antigo cartão de vacinação em papel. Suas interações com nossos serviços digitais podem ser compartilhadas com médicos apenas se você permitir o acesso a eles compartilhando o código de 6 dígitos gerado por seu aplicativo. Algumas dessas informações podem ser obtidas diretamente de você, quando você se registra conosco e quando usa nossos serviços .Se você usar nosso Immunie e enviar uma foto digital de seu antigo cartão de vacinação em papel, receberemos seu histórico médico de vacinas recebidas anteriormente. a resposta que recebemos de você é enviada eletronicamente para seu registro de back-office do Immunie. Retemos gravações de nossas interações com você. Isso pode incluir o uso de nosso serviço de chatbot, gravações de vídeo e áudio ou gravações apenas de áudio. Isso é para lhe oferecer um melhor serviço e suporte que você deseja, para que possamos garantir um atendimento de alta qualidade a você e, com o seu consentimento, para que possamos aprender com eles para melhorar nossos serviços. Para monitorar a qualidade do nosso serviço, podemos manter registros de quando você entra em contato com nossas equipes de suporte via e-mail, telefone ou nosso serviço de chat interativo ao vivo no aplicativo. As gravações são mantidas com segurança de acordo com nossa política de retenção. Você pode acessar gravações ou transcrições de suas consultas ou interações conosco (dependendo do formato) por um tempo limitado por meio do aplicativo ou de nós. Consulte a seção &#x27;Períodos de retenção&#x27; desta política. </p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root jss27 MuiTypography-h6 MuiTypography-colorTextPrimary MuiTypography-alignLeft">(III) Informações financeiras</h6></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Se você fizer qualquer pagamento no aplicativo, os detalhes do seu cartão de crédito / débito serão processados ​​diretamente por um processador terceirizado que armazenará todas as informações de pagamento e detalhes da transação. Apenas reteremos detalhes das transações em servidores seguros e nós não reterá as informações do seu cartão de crédito ou débito. </p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root jss27 MuiTypography-h6 MuiTypography-colorTextPrimary MuiTypography-alignLeft">(IV) Informações técnicas e análises.</h6></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Quando você usa nosso aplicativo ou visita nosso site, podemos coletar automaticamente as seguintes informações, quando permitido pelo seu dispositivo ou pelas configurações do navegador: informações técnicas, incluindo o endereço usado para conectar seu telefone celular ou outro dispositivo ao Internet, suas informações de login, sistema e tipo de plataforma de sistema operacional e versão, modelo do dispositivo, versão do navegador ou aplicativo, configuração de fuso horário, idioma e preferências de localização, operadora sem fio e sua localização (com base no endereço IP); e informações sobre sua visita ( como quando você usou o aplicativo pela primeira vez e quando o usou pela última vez, e o número total de sessões que você teve nesse aplicativo), incluindo produtos e serviços que você visualizou ou usou, tempos de resposta e atualizações do aplicativo, informações de interação (como o botão impressoras ou os horários e frequência de suas interações com as comunicações que entregamos a você no aplicativo ou de outra forma) e qualquer número de telefone usado para ligar para nosso número de atendimento ao cliente. ork com parceiros que nos fornecem serviços analíticos e de publicidade (apenas para os nossos serviços e não para publicidade de terceiros). Isso inclui nos ajudar a entender como os usuários interagem com nossos serviços, fornecendo nossos anúncios na Internet e medindo o desempenho de nossos serviços e anúncios. Cookies e tecnologias semelhantes podem ser usados ​​para coletar essas informações, como suas interações com nossos serviços. Nossa Política de Cookies está disponível em: Immuniehealth.com/terms/cookies. Você pode evitar a configuração de cookies ajustando as configurações do seu navegador ou do seu telefone celular. </p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root jss27 MuiTypography-h6 MuiTypography-colorTextPrimary MuiTypography-alignLeft">(V) Informações obtidas de serviços de terceiros.</h6></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Você pode escolher conectar suas contas existentes com outros provedores (como um provedor de mídia social), por exemplo, ao se inscrever para facilitar a criação de uma conta conosco. Se você decidir fazer isso, nós receberá informações limitadas sobre você desse provedor, como seu endereço de e-mail e nome. Desde que estejamos agindo de acordo com as leis de proteção de dados, também podemos usar informações de outras fontes, como empresas especializadas que fornecem informações, canais de mídia online, nossos parceiros comerciais e registros públicos. Essas informações podem, por exemplo, nos ajudar a melhorar e medir a eficácia de nossos serviços. </p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Sobre a finalidade de usar seus dados pessoais</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Os fins para os quais utilizamos os seus dados pessoais e os fundamentos legais pelos quais o fazemos são os seguintes:</p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root jss27 MuiTypography-h6 MuiTypography-colorTextPrimary MuiTypography-alignLeft">(I) Fornecendo um serviço a você.</h6></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Obtemos e usamos os seus dados pessoais e financeiros para estabelecer e entregar o nosso contrato consigo e (se aplicável) cobrar-lhe correctamente. Obtemos e usamos algumas das suas informações médicas porque são necessárias para os fins dos serviços que oferecemos, incluindo seu histórico de vacinação e os lugares que você viajou. Também pode incluir o compartilhamento de informações com outros profissionais de saúde, conforme necessário para a prestação de cuidados a você, como o profissional de saúde responsável por uma nova vacinação, quando você concederam acesso ao seu cartão compartilhando o código de vacinação de 6 dígitos. </p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root jss27 MuiTypography-h6 MuiTypography-colorTextPrimary MuiTypography-alignLeft">(II) Tornando as vacinas melhores.</h6></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Onde você fornecer seu consentimento explícito, usaremos suas informações de feedback sobre reações adversas, como febre, dor de cabeça ou qualquer tipo de desconforto ou mal-estar após tomar uma vacina (sempre removendo identificadores pessoais, como seu nome, endereço e detalhes de contato) para melhorar os produtos e serviços fornecidos pelos produtores de vacinas, com ou sem o processamento por nosso sistema de inteligência artificial, para que melhores cuidados de saúde possam ser prestados a você e a outros usuários do Immunie. Estas informações médicas (com seus identificadores pessoais removidos da forma descrita acima) pode incluir seu registro médico (registros recebidos e criados por nós), transcrições e gravações de suas consultas e suas interações com nossos serviços de inteligência artificial, como nosso livechat. Isso não envolve a tomada de quaisquer decisões que teria um efeito significativo sobre você - trata-se apenas de melhorar nossas vacinas e produtos de imunização e o serviços e software que fornecemos, para que possamos oferecer uma experiência melhor a você e a outros usuários do Immunie. Disposições estritas de confidencialidade e segurança de dados se aplicam em todos os momentos. Este consentimento se refere a informações que podem identificá-lo. Podemos obter e usar dados sobre sua localização precisa onde você dá seu consentimento (fornecendo-nos acesso à sua localização por meio de seu aplicativo ou configurações do navegador ou seu endereço), por exemplo, para ajudar a direcioná-lo para a clínica de vacinação para viagens mais próxima. Também podemos derivar sua localização aproximada de seu endereço IP. </p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root jss27 MuiTypography-h6 MuiTypography-colorTextPrimary MuiTypography-alignLeft">(III) Mantendo você atualizado.</h6></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Usamos seu endereço de e-mail, número de telefone e / ou detalhes para contatá-lo ou apresentá-lo com atualizações ocasionais e mensagens de marketing onde você não optou por não participar, com base em nosso legítimo interesse em comercializar nossos serviços para você e sujeito a o seu direito de cancelar a qualquer momento. Como parte do fornecimento de serviços de registro de vacinação de alta qualidade, podemos contatá-lo por SMS, e-mail e / ou outros meios para oferecer informações úteis ou convidá-lo a marcar consultas, por exemplo, quando um a vacina pode estar prestes a vencer. </p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root jss27 MuiTypography-h6 MuiTypography-colorTextPrimary MuiTypography-alignLeft">(IV) Outros usos.</h6></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Com base em nosso legítimo interesse em gerenciar e planejar nossos negócios, podemos analisar dados sobre o uso de nossos produtos e serviços para solucionar bugs no aplicativo ou em nosso site, prever a demanda de serviço e entender outras tendências de uso , incluindo quais recursos os usuários mais usam e consideram mais úteis, e quais recursos os usuários exigem de nós. Isso não envolve a tomada de qualquer decisão sobre você que teria um efeito jurídico significativo sobre você - trata-se apenas de melhorar nosso aplicativo para que possamos pode fornecer melhores serviços a você. Disposições estritas de confidencialidade e segurança de dados serão aplicadas em todos os momentos. Quando necessário, podemos precisar compartilhar dados pessoais e financeiros para fins de prevenção e detecção de fraude. Quando necessário para segurança, regulamentação e / ou conformidade para fins, podemos auditar a vacinação e suas outras interações com nossos serviços. Disposições estritas de confidencialidade e segurança de dados serão aplicadas em todos os momentos a qualquer tal auditoria e acesso. </p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Sobre compartilhar seus dados pessoais com outras pessoas</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Podemos compartilhar seus dados pessoais com membros de nossa empresa e nossos parceiros (como desenvolvedores e cientistas de dados, sempre trabalhando sob estrito acordo de não divulgação). Isso nos ajudará a fornecer nossos serviços a você. Podemos compartilhe seus dados pessoais com empresas que contratamos para fornecer serviços em nosso nome, incluindo aquelas que atuam como processadores de dados em nosso nome, agindo estritamente sob contrato de acordo com o Artigo 28 do GDPR. Esses processadores de dados estão sujeitos a disposições estritas de confidencialidade e segurança de dados , e eles só podem usar seus dados das formas especificadas por nós. Onde você acessa nossos serviços por meio de seu provedor de serviços de saúde ou qualquer um de nossos parceiros comerciais (incluindo hospitais, maternidades e clínicas de vacinação), podemos compartilhar com esse parceiro seu nome, data de nascimento, endereço de e-mail, número da apólice, localização e o fato de você ter registrado / usado o serviço (e qualquer outra informação semelhante). Não compartilharemos sem o seu consentimento e quaisquer detalhes relacionados ao conteúdo de sua consulta conosco ou seus registros médicos / de saúde. </p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Informação anônima</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Podemos exibir em nosso site ou compartilhar com nossos parceiros comerciais dados agregados e anônimos que não o identificam pessoalmente, mas que mostram tendências gerais, por exemplo, o número de usuários de nosso serviço. Podemos preservar ou divulgar informações sobre você para cumprir uma lei, regulamento, processo legal ou solicitação governamental; para fazer valer direitos legais ou se defender contra ações judiciais; ou para prevenir, detectar ou investigar atividades ilegais, fraude, abuso, violações de nossos termos ou ameaças à segurança dos nossos serviços ou à segurança física de qualquer pessoa. Exceto conforme descrito acima, nunca compartilharemos suas informações pessoais com terceiros sem o seu consentimento. </p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Políticas de períodos de retenção</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Retemos seus registros médicos de acordo com a orientação nacional de melhores práticas - em particular, aconselhamento fornecido pelo Departamento de Saúde (2006) Gerenciamento de registros: código de prática do NHS e orientação resumida emitida pela British Medical Association. abaixo está um resumo de nossa política de retenção, mas podemos reter registros que não o identifiquem para fins comerciais legítimos, como gerenciamento ou planejamento de nossos negócios, ou registros para outros períodos conforme exigido por lei ou regulamento. </p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root jss27 MuiTypography-h6 MuiTypography-colorTextPrimary MuiTypography-alignLeft">(I) Conversas de chat ao vivo.</h6></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Retido como registros GP acima. Disponível via App por um período limitado (atualmente 6 meses, sujeito a alterações), após o qual disponível mediante solicitação.</p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h6 class="MuiTypography-root jss27 MuiTypography-h6 MuiTypography-colorTextPrimary MuiTypography-alignLeft">(II) Cartão de Vacinação.</h6></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Retido 2 anos após o encerramento da conta.</p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Como seus dados são armazenados, mantidos seguros e transferidos</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Não armazenamos seus dados pessoais de saúde em seu dispositivo móvel. Armazenamos todos os seus dados pessoais de saúde, incluindo suas informações de cuidados primários, informações de medicamentos e informações de diagnóstico, em servidores seguros localizados fisicamente na área da UE. Onde você escolheu uma senha que permite o acesso a certas partes do nosso aplicativo, você é responsável por manter essa senha confidencial. Pedimos que você não compartilhe a senha com ninguém. Não armazenamos nenhuma informação de cartão de crédito ou débito. Os pagamentos são processados ​​via um provedor de pagamento terceirizado que é totalmente compatível com os padrões de segurança de dados da indústria de cartões de pagamento (PCI) Nível 1. Todas as transações de pagamento são criptografadas usando a tecnologia SSL. Criptografamos os dados transmitidos de e para o aplicativo. Assim que recebermos suas informações, usará procedimentos rígidos e recursos de segurança para tentar impedir o acesso não autorizado. Tomaremos todas as medidas razoavelmente necessárias para garantir que seus dados sejam verdadeiros de forma segura e de acordo com esta política de privacidade. O Immunie Blockchain não armazena nem processa nenhuma informação pessoal ou de saúde e funciona como testemunha para a validação da integridade das informações que você pode decidir compartilhar com terceiros, como um profissional de saúde no caso de consultas ou obtenção de uma vacina ou uma autoridade em o caso do e-ICV. O Immunie Blockchain valida as transações usando hashing SHA-3 duplo com uma camada intermediária de segurança (gerador de números pseudo-aleatórios criptográficos - CPRNG, Salt). Seus dados podem ser processados ​​ou armazenados em destinos fora do Reino Unido e do Espaço Econômico Europeu (EEE), mas sempre de acordo com a lei de proteção de dados, incluindo mecanismos para transferir dados legalmente através das fronteiras e sujeitos a salvaguardas rígidas. Por exemplo, trabalhamos com terceiros que ajudam a fornecer nossos serviços a você, cujos servidores podem estar localizados fora do Reino Unido ou do EEE. Para obter mais informações sobre as salvaguardas que tomamos se transferirmos dados para fora do EEE, entre em contato com privacy@immunie.net. </p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Sobre seus direitos em relação à proteção de dados</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Conforme indicado acima, sempre que contarmos com seu consentimento para processar seus dados pessoais, você tem o direito de retirar seu consentimento a qualquer momento, acessando as configurações de privacidade no aplicativo. Você também tem direitos específicos sob o GDPR e DPA para: onde quer que processemos dados com base em seu consentimento, retire esse consentimento a qualquer momento. Você pode fazer isso através da seção de privacidade de nosso aplicativo; compreender e solicitar uma cópia das informações que temos sobre você. Sujeito aos nossos períodos de retenção, gravações de seus compromissos conosco e outras notas médicas podem ser acessadas através do App. Para outras informações, você pode fazer uma solicitação por e-mail; peça-nos para retificar ou apagar informações que temos sobre você, sujeito às limitações relacionadas à nossa obrigação de armazenar dados médicos ou registros de saúde para diagnósticos médicos e tratamento por períodos de tempo prescritos; peça-nos para restringir nosso processamento de seus dados pessoais ou objeto ao nosso processamento; e peça que seus dados sejam fornecidos em um portab le base. Você também pode entrar em contato com o Information Commissioners Office (o regulador de proteção de dados no Reino Unido): Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, telefone: 0303 123 1113 (tarifa local). </p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Entre em contato</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Em caso de dúvidas ou preocupações, você pode entrar em contato conosco enviando um e-mail para privacy@immunie.net.</p></div></div></div></div></section></div></main><div i18n="[object Object]" class="jss37"><div class="jss38"><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-2"><ul class="MuiList-root jss39"><li class="MuiListItem-root jss40"><p class="MuiTypography-root jss49 MuiTypography-body1">Redes Sociais</p></li><li class="MuiListItem-root"><button class="MuiButtonBase-root MuiIconButton-root jss42" tabindex="0" type="button" aria-label="Facebook"><span class="MuiIconButton-label"><svg class="MuiSvgIcon-root jss43" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2m13 2h-2.5A3.5 3.5 0 0 0 12 8.5V11h-2v3h2v7h3v-7h3v-3h-3V9a1 1 0 0 1 1-1h2V5z"></path></svg></span></button><button class="MuiButtonBase-root MuiIconButton-root jss42" tabindex="0" type="button" aria-label="Instagram"><span class="MuiIconButton-label"><svg class="MuiSvgIcon-root jss43" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M7.8 2h8.4C19.4 2 22 4.6 22 7.8v8.4a5.8 5.8 0 0 1-5.8 5.8H7.8C4.6 22 2 19.4 2 16.2V7.8A5.8 5.8 0 0 1 7.8 2m-.2 2A3.6 3.6 0 0 0 4 7.6v8.8C4 18.39 5.61 20 7.6 20h8.8a3.6 3.6 0 0 0 3.6-3.6V7.6C20 5.61 18.39 4 16.4 4H7.6m9.65 1.5a1.25 1.25 0 0 1 1.25 1.25A1.25 1.25 0 0 1 17.25 8 1.25 1.25 0 0 1 16 6.75a1.25 1.25 0 0 1 1.25-1.25M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3z"></path></svg></span></button><button class="MuiButtonBase-root MuiIconButton-root jss42" tabindex="0" type="button" aria-label="Twitter"><span class="MuiIconButton-label"><svg class="MuiSvgIcon-root jss43" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M22.46 6c-.77.35-1.6.58-2.46.69.88-.53 1.56-1.37 1.88-2.38-.83.5-1.75.85-2.72 1.05C18.37 4.5 17.26 4 16 4c-2.35 0-4.27 1.92-4.27 4.29 0 .34.04.67.11.98C8.28 9.09 5.11 7.38 3 4.79c-.37.63-.58 1.37-.58 2.15 0 1.49.75 2.81 1.91 3.56-.71 0-1.37-.2-1.95-.5v.03c0 2.08 1.48 3.82 3.44 4.21a4.22 4.22 0 0 1-1.93.07 4.28 4.28 0 0 0 4 2.98 8.521 8.521 0 0 1-5.33 1.84c-.34 0-.68-.02-1.02-.06C3.44 20.29 5.7 21 8.12 21 16 21 20.33 14.46 20.33 8.79c0-.19 0-.37-.01-.56.84-.6 1.56-1.36 2.14-2.23z"></path></svg></span></button><button class="MuiButtonBase-root MuiIconButton-root jss42" tabindex="0" type="button" aria-label="Pinterest"><span class="MuiIconButton-label"><svg class="MuiSvgIcon-root jss43" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9.04 21.54c.96.29 1.93.46 2.96.46a10 10 0 0 0 10-10A10 10 0 0 0 12 2 10 10 0 0 0 2 12c0 4.25 2.67 7.9 6.44 9.34-.09-.78-.18-2.07 0-2.96l1.15-4.94s-.29-.58-.29-1.5c0-1.38.86-2.41 1.84-2.41.86 0 1.26.63 1.26 1.44 0 .86-.57 2.09-.86 3.27-.17.98.52 1.84 1.52 1.84 1.78 0 3.16-1.9 3.16-4.58 0-2.4-1.72-4.04-4.19-4.04-2.82 0-4.48 2.1-4.48 4.31 0 .86.28 1.73.74 2.3.09.06.09.14.06.29l-.29 1.09c0 .17-.11.23-.28.11-1.28-.56-2.02-2.38-2.02-3.85 0-3.16 2.24-6.03 6.56-6.03 3.44 0 6.12 2.47 6.12 5.75 0 3.44-2.13 6.2-5.18 6.2-.97 0-1.92-.52-2.26-1.13l-.67 2.37c-.23.86-.86 2.01-1.29 2.7v-.03z"></path></svg></span></button></li></ul></div><div class="MuiGrid-root jss44 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-10"><div class="MuiGrid-root MuiGrid-item"><div class="jss45"><div class="jss46"><ul class="MuiList-root jss46"><li class="MuiListItem-root jss47"><p class="MuiTypography-root jss48 MuiTypography-body2">Nossa empresa</p></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="../company/about">Sobre</a></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="../company/media-assets">Mídias</a></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="../company/contact">Contato</a></li></ul><ul class="MuiList-root jss46"><li class="MuiListItem-root jss47"><p class="MuiTypography-root jss48 MuiTypography-body2">Checkpoint</p></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="https://www.checkpoint.immunie.net/">Autenticação Blockchain </a></li></ul></div><div class="jss46"><ul class="MuiList-root jss46"><li class="MuiListItem-root jss47"><p class="MuiTypography-root jss48 MuiTypography-body2">Termos de Uso</p></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="privacy-policy">Política de Privacidade</a></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="terms-and-conditions">Termos e Condições</a></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="faqs">FAQs</a></li></ul></div><div class="jss46"><ul class="MuiList-root jss46"><li class="MuiListItem-root jss47"><p class="MuiTypography-root jss48 MuiTypography-body2">Produtos</p></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="../products/people">Pessoas</a></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="../products/health-care">Setor de Saúde</a></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="../products/labs">Laboratórios de Exames</a></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="../products/travel">Companhias Aéreas</a></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="../products/schools">Escolas</a></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="../products/managers">Governos e Grandes Eventos</a></li></ul></div></div></div></div></div></div></div></div></div></div></div><script id="__NEXT_DATA__" type="application/json">{"props":{"initialI18nStore":{"pt":{"privacyPolicyPage":{"PRIVACY_POLICY_PAGE_HEADER_1":"Política de Privacidade","PRIVACY_POLICY_PAGE_TXT_1":"Atualizado em 02.02.2021","PRIVACY_POLICY_PAGE_HEADER_2":"Política de Privacidade","PRIVACY_POLICY_PAGE_TXT_2":"Na Immunie temos a privacidade como um valor fundamental e o desenvolvimento de nosso sistema foi guiado pelo conceito de privacidade desde o design em nossas mentes desde o início. É muito importante que você leia atentamente esta Política de Privacidade antes de se inscrever aos nossos serviços. Se você tiver alguma pergunta ou dúvida em relação a esta política de privacidade, sinta-se à vontade para nos enviar uma mensagem para privacy@immunie.net. A menos que você tenha lido e concordado com esta política de privacidade, você não deve usar o nosso serviços. Trabalhamos muito para cumprir o Regulamento Geral de Proteção de Dados (GDPR) e a Lei de Proteção de Dados 2018 (DPA), esta política deve expressá-lo. Esta política explica como usamos seus dados pessoais e como trabalhamos com seus dados. que você pode fazer escolhas informadas e estar no controle de suas informações. Podemos atualizar esta política de tempos em tempos e, se fizermos quaisquer alterações materiais, iremos notificá-lo quando o fizermos. Forneceremos a você a oportunidade de ver essas mudanças. Ao continuar a usar nossos produtos e serviços após as alterações terem sido feitas e nós o tivermos notificado sobre elas, a maneira como usamos seus dados pessoais estará sujeita aos termos da política atualizada. Esta política explica como usamos seus dados pessoais para nossos produtos e serviços de registros digitais de vacinação. Ele também rege o uso de seus dados por meio de nosso Progressive WebApp ou de qualquer um de nossos sites, incluindo o site Immunie e o site Immunie em questão (e qualquer referência ao nosso Aplicativo nesta política também deve incluir uma referência aos nossos sites). ","PRIVACY_POLICY_PAGE_HEADER_3":"Sobre Immunie","PRIVACY_POLICY_PAGE_TXT_3":"Immunie é um serviço prestado por KIPR Blockchain Ltd , uma empresa registrada na Inglaterra. A sede social e principal local de negócios de nossa empresa é Kipr Blockchain Kemp House 152-160 City Road, London, England, EC1V 2NX. Registros de vacinação da Immunie, App e A emissão e-ICV são serviços digitais fornecidos pela Immunie sob um acordo de subcontrato por meio de empresas de saúde afiliadas, como hospitais, maternidades, clínicas de vacinação, clínicas de vacinação em viagens e outras entidades licenciadas e autorizadas. Quando esta política falar sobre 'Immunie', ' nós 'ou' nós ', significa os serviços Immunie fornecidos por KIPR Blockchain Ltd. Não fornecemos seus dados a outras empresas e a arquitetura e o design do software Immunie foram desenvolvidos para garantir que nenhum dado pessoal seja compartilhado sem o seu prévio e consentimento expresso. Immunie é o controlador dos seus dados pessoais fornecidos a, ou recolhidos por, ou para, ou processados ​​em ligação com os nossos serviços. A sua relação é sagaz h Immunie. Se, por exemplo, você deseja acessar seus dados, Immunie é a entidade para a qual você faria essa solicitação.0 ","PRIVACY_POLICY_PAGE_HEADER_4":"Sobre os dados que mantemos e como são obtidos","PRIVACY_POLICY_PAGE_TXT_4":"Usamos as seguintes categorias de dados pessoais:","PRIVACY_POLICY_PAGE_HEADER_5":"(I) Dados pessoais","PRIVACY_POLICY_PAGE_TXT_5":"Ao se registrar na Immunie, você preenche formulários e nos fornece informações básicas sobre você, como seu nome, data de nascimento, endereço físico e endereço de e-mail. Você também nos fornecerá uma cópia da documentação de identificação para Verificações de identidade a serem realizadas por um de nossos parceiros comerciais. Você é responsável pela exatidão das informações que nos fornece. ","PRIVACY_POLICY_PAGE_HEADER_6":"(II) Informações médicas e de saúde","PRIVACY_POLICY_PAGE_TXT_6":"O principal tipo de informação que temos sobre você são os registros de vacinação: as vacinas que você tomou, o fabricante dessas vacinas, o número do lote, a clínica e o profissional de saúde que as aplicou, sua localização e a hora e data já aconteceu. Isso inclui detalhes de suas consultas com médicos e interações com nossos serviços digitais, incluindo interações com nosso chatbot, mensagens e histórico de ações dentro do aplicativo, você também pode fornecer uma foto digital de seu antigo cartão de vacinação em papel. Suas interações com nossos serviços digitais podem ser compartilhadas com médicos apenas se você permitir o acesso a eles compartilhando o código de 6 dígitos gerado por seu aplicativo. Algumas dessas informações podem ser obtidas diretamente de você, quando você se registra conosco e quando usa nossos serviços .Se você usar nosso Immunie e enviar uma foto digital de seu antigo cartão de vacinação em papel, receberemos seu histórico médico de vacinas recebidas anteriormente. a resposta que recebemos de você é enviada eletronicamente para seu registro de back-office do Immunie. Retemos gravações de nossas interações com você. Isso pode incluir o uso de nosso serviço de chatbot, gravações de vídeo e áudio ou gravações apenas de áudio. Isso é para lhe oferecer um melhor serviço e suporte que você deseja, para que possamos garantir um atendimento de alta qualidade a você e, com o seu consentimento, para que possamos aprender com eles para melhorar nossos serviços. Para monitorar a qualidade do nosso serviço, podemos manter registros de quando você entra em contato com nossas equipes de suporte via e-mail, telefone ou nosso serviço de chat interativo ao vivo no aplicativo. As gravações são mantidas com segurança de acordo com nossa política de retenção. Você pode acessar gravações ou transcrições de suas consultas ou interações conosco (dependendo do formato) por um tempo limitado por meio do aplicativo ou de nós. Consulte a seção 'Períodos de retenção' desta política. ","PRIVACY_POLICY_PAGE_HEADER_7":"(III) Informações financeiras","PRIVACY_POLICY_PAGE_TXT_7":"Se você fizer qualquer pagamento no aplicativo, os detalhes do seu cartão de crédito / débito serão processados ​​diretamente por um processador terceirizado que armazenará todas as informações de pagamento e detalhes da transação. Apenas reteremos detalhes das transações em servidores seguros e nós não reterá as informações do seu cartão de crédito ou débito. ","PRIVACY_POLICY_PAGE_HEADER_8":"(IV) Informações técnicas e análises.","PRIVACY_POLICY_PAGE_TXT_8":"Quando você usa nosso aplicativo ou visita nosso site, podemos coletar automaticamente as seguintes informações, quando permitido pelo seu dispositivo ou pelas configurações do navegador: informações técnicas, incluindo o endereço usado para conectar seu telefone celular ou outro dispositivo ao Internet, suas informações de login, sistema e tipo de plataforma de sistema operacional e versão, modelo do dispositivo, versão do navegador ou aplicativo, configuração de fuso horário, idioma e preferências de localização, operadora sem fio e sua localização (com base no endereço IP); e informações sobre sua visita ( como quando você usou o aplicativo pela primeira vez e quando o usou pela última vez, e o número total de sessões que você teve nesse aplicativo), incluindo produtos e serviços que você visualizou ou usou, tempos de resposta e atualizações do aplicativo, informações de interação (como o botão impressoras ou os horários e frequência de suas interações com as comunicações que entregamos a você no aplicativo ou de outra forma) e qualquer número de telefone usado para ligar para nosso número de atendimento ao cliente. ork com parceiros que nos fornecem serviços analíticos e de publicidade (apenas para os nossos serviços e não para publicidade de terceiros). Isso inclui nos ajudar a entender como os usuários interagem com nossos serviços, fornecendo nossos anúncios na Internet e medindo o desempenho de nossos serviços e anúncios. Cookies e tecnologias semelhantes podem ser usados ​​para coletar essas informações, como suas interações com nossos serviços. Nossa Política de Cookies está disponível em: Immuniehealth.com/terms/cookies. Você pode evitar a configuração de cookies ajustando as configurações do seu navegador ou do seu telefone celular. ","PRIVACY_POLICY_PAGE_HEADER_9":"(V) Informações obtidas de serviços de terceiros.","PRIVACY_POLICY_PAGE_TXT_9":"Você pode escolher conectar suas contas existentes com outros provedores (como um provedor de mídia social), por exemplo, ao se inscrever para facilitar a criação de uma conta conosco. Se você decidir fazer isso, nós receberá informações limitadas sobre você desse provedor, como seu endereço de e-mail e nome. Desde que estejamos agindo de acordo com as leis de proteção de dados, também podemos usar informações de outras fontes, como empresas especializadas que fornecem informações, canais de mídia online, nossos parceiros comerciais e registros públicos. Essas informações podem, por exemplo, nos ajudar a melhorar e medir a eficácia de nossos serviços. ","PRIVACY_POLICY_PAGE_HEADER_10":"Sobre a finalidade de usar seus dados pessoais","PRIVACY_POLICY_PAGE_TXT_10":"Os fins para os quais utilizamos os seus dados pessoais e os fundamentos legais pelos quais o fazemos são os seguintes:","PRIVACY_POLICY_PAGE_HEADER_11":"(I) Fornecendo um serviço a você.","PRIVACY_POLICY_PAGE_TXT_11":"Obtemos e usamos os seus dados pessoais e financeiros para estabelecer e entregar o nosso contrato consigo e (se aplicável) cobrar-lhe correctamente. Obtemos e usamos algumas das suas informações médicas porque são necessárias para os fins dos serviços que oferecemos, incluindo seu histórico de vacinação e os lugares que você viajou. Também pode incluir o compartilhamento de informações com outros profissionais de saúde, conforme necessário para a prestação de cuidados a você, como o profissional de saúde responsável por uma nova vacinação, quando você concederam acesso ao seu cartão compartilhando o código de vacinação de 6 dígitos. ","PRIVACY_POLICY_PAGE_HEADER_12":"(II) Tornando as vacinas melhores.","PRIVACY_POLICY_PAGE_TXT_12":"Onde você fornecer seu consentimento explícito, usaremos suas informações de feedback sobre reações adversas, como febre, dor de cabeça ou qualquer tipo de desconforto ou mal-estar após tomar uma vacina (sempre removendo identificadores pessoais, como seu nome, endereço e detalhes de contato) para melhorar os produtos e serviços fornecidos pelos produtores de vacinas, com ou sem o processamento por nosso sistema de inteligência artificial, para que melhores cuidados de saúde possam ser prestados a você e a outros usuários do Immunie. Estas informações médicas (com seus identificadores pessoais removidos da forma descrita acima) pode incluir seu registro médico (registros recebidos e criados por nós), transcrições e gravações de suas consultas e suas interações com nossos serviços de inteligência artificial, como nosso livechat. Isso não envolve a tomada de quaisquer decisões que teria um efeito significativo sobre você - trata-se apenas de melhorar nossas vacinas e produtos de imunização e o serviços e software que fornecemos, para que possamos oferecer uma experiência melhor a você e a outros usuários do Immunie. Disposições estritas de confidencialidade e segurança de dados se aplicam em todos os momentos. Este consentimento se refere a informações que podem identificá-lo. Podemos obter e usar dados sobre sua localização precisa onde você dá seu consentimento (fornecendo-nos acesso à sua localização por meio de seu aplicativo ou configurações do navegador ou seu endereço), por exemplo, para ajudar a direcioná-lo para a clínica de vacinação para viagens mais próxima. Também podemos derivar sua localização aproximada de seu endereço IP. ","PRIVACY_POLICY_PAGE_HEADER_13":"(III) Mantendo você atualizado.","PRIVACY_POLICY_PAGE_TXT_13":"Usamos seu endereço de e-mail, número de telefone e / ou detalhes para contatá-lo ou apresentá-lo com atualizações ocasionais e mensagens de marketing onde você não optou por não participar, com base em nosso legítimo interesse em comercializar nossos serviços para você e sujeito a o seu direito de cancelar a qualquer momento. Como parte do fornecimento de serviços de registro de vacinação de alta qualidade, podemos contatá-lo por SMS, e-mail e / ou outros meios para oferecer informações úteis ou convidá-lo a marcar consultas, por exemplo, quando um a vacina pode estar prestes a vencer. ","PRIVACY_POLICY_PAGE_HEADER_14":"(IV) Outros usos.","PRIVACY_POLICY_PAGE_TXT_14":"Com base em nosso legítimo interesse em gerenciar e planejar nossos negócios, podemos analisar dados sobre o uso de nossos produtos e serviços para solucionar bugs no aplicativo ou em nosso site, prever a demanda de serviço e entender outras tendências de uso , incluindo quais recursos os usuários mais usam e consideram mais úteis, e quais recursos os usuários exigem de nós. Isso não envolve a tomada de qualquer decisão sobre você que teria um efeito jurídico significativo sobre você - trata-se apenas de melhorar nosso aplicativo para que possamos pode fornecer melhores serviços a você. Disposições estritas de confidencialidade e segurança de dados serão aplicadas em todos os momentos. Quando necessário, podemos precisar compartilhar dados pessoais e financeiros para fins de prevenção e detecção de fraude. Quando necessário para segurança, regulamentação e / ou conformidade para fins, podemos auditar a vacinação e suas outras interações com nossos serviços. Disposições estritas de confidencialidade e segurança de dados serão aplicadas em todos os momentos a qualquer tal auditoria e acesso. ","PRIVACY_POLICY_PAGE_HEADER_15":"Sobre compartilhar seus dados pessoais com outras pessoas","PRIVACY_POLICY_PAGE_TXT_15":"Podemos compartilhar seus dados pessoais com membros de nossa empresa e nossos parceiros (como desenvolvedores e cientistas de dados, sempre trabalhando sob estrito acordo de não divulgação). Isso nos ajudará a fornecer nossos serviços a você. Podemos compartilhe seus dados pessoais com empresas que contratamos para fornecer serviços em nosso nome, incluindo aquelas que atuam como processadores de dados em nosso nome, agindo estritamente sob contrato de acordo com o Artigo 28 do GDPR. Esses processadores de dados estão sujeitos a disposições estritas de confidencialidade e segurança de dados , e eles só podem usar seus dados das formas especificadas por nós. Onde você acessa nossos serviços por meio de seu provedor de serviços de saúde ou qualquer um de nossos parceiros comerciais (incluindo hospitais, maternidades e clínicas de vacinação), podemos compartilhar com esse parceiro seu nome, data de nascimento, endereço de e-mail, número da apólice, localização e o fato de você ter registrado / usado o serviço (e qualquer outra informação semelhante). Não compartilharemos sem o seu consentimento e quaisquer detalhes relacionados ao conteúdo de sua consulta conosco ou seus registros médicos / de saúde. ","PRIVACY_POLICY_PAGE_HEADER_16":"Informação anônima","PRIVACY_POLICY_PAGE_TXT_16":"Podemos exibir em nosso site ou compartilhar com nossos parceiros comerciais dados agregados e anônimos que não o identificam pessoalmente, mas que mostram tendências gerais, por exemplo, o número de usuários de nosso serviço. Podemos preservar ou divulgar informações sobre você para cumprir uma lei, regulamento, processo legal ou solicitação governamental; para fazer valer direitos legais ou se defender contra ações judiciais; ou para prevenir, detectar ou investigar atividades ilegais, fraude, abuso, violações de nossos termos ou ameaças à segurança dos nossos serviços ou à segurança física de qualquer pessoa. Exceto conforme descrito acima, nunca compartilharemos suas informações pessoais com terceiros sem o seu consentimento. ","PRIVACY_POLICY_PAGE_HEADER_17":"Políticas de períodos de retenção","PRIVACY_POLICY_PAGE_TXT_17":"Retemos seus registros médicos de acordo com a orientação nacional de melhores práticas - em particular, aconselhamento fornecido pelo Departamento de Saúde (2006) Gerenciamento de registros: código de prática do NHS e orientação resumida emitida pela British Medical Association. abaixo está um resumo de nossa política de retenção, mas podemos reter registros que não o identifiquem para fins comerciais legítimos, como gerenciamento ou planejamento de nossos negócios, ou registros para outros períodos conforme exigido por lei ou regulamento. ","PRIVACY_POLICY_PAGE_HEADER_18":"(I) Conversas de chat ao vivo.","PRIVACY_POLICY_PAGE_TXT_18":"Retido como registros GP acima. Disponível via App por um período limitado (atualmente 6 meses, sujeito a alterações), após o qual disponível mediante solicitação.","PRIVACY_POLICY_PAGE_HEADER_19":"(II) Cartão de Vacinação.","PRIVACY_POLICY_PAGE_TXT_19":"Retido 2 anos após o encerramento da conta.","PRIVACY_POLICY_PAGE_HEADER_20":"Como seus dados são armazenados, mantidos seguros e transferidos","PRIVACY_POLICY_PAGE_TXT_20":"Não armazenamos seus dados pessoais de saúde em seu dispositivo móvel. Armazenamos todos os seus dados pessoais de saúde, incluindo suas informações de cuidados primários, informações de medicamentos e informações de diagnóstico, em servidores seguros localizados fisicamente na área da UE. Onde você escolheu uma senha que permite o acesso a certas partes do nosso aplicativo, você é responsável por manter essa senha confidencial. Pedimos que você não compartilhe a senha com ninguém. Não armazenamos nenhuma informação de cartão de crédito ou débito. Os pagamentos são processados ​​via um provedor de pagamento terceirizado que é totalmente compatível com os padrões de segurança de dados da indústria de cartões de pagamento (PCI) Nível 1. Todas as transações de pagamento são criptografadas usando a tecnologia SSL. Criptografamos os dados transmitidos de e para o aplicativo. Assim que recebermos suas informações, usará procedimentos rígidos e recursos de segurança para tentar impedir o acesso não autorizado. Tomaremos todas as medidas razoavelmente necessárias para garantir que seus dados sejam verdadeiros de forma segura e de acordo com esta política de privacidade. O Immunie Blockchain não armazena nem processa nenhuma informação pessoal ou de saúde e funciona como testemunha para a validação da integridade das informações que você pode decidir compartilhar com terceiros, como um profissional de saúde no caso de consultas ou obtenção de uma vacina ou uma autoridade em o caso do e-ICV. O Immunie Blockchain valida as transações usando hashing SHA-3 duplo com uma camada intermediária de segurança (gerador de números pseudo-aleatórios criptográficos - CPRNG, Salt). Seus dados podem ser processados ​​ou armazenados em destinos fora do Reino Unido e do Espaço Econômico Europeu (EEE), mas sempre de acordo com a lei de proteção de dados, incluindo mecanismos para transferir dados legalmente através das fronteiras e sujeitos a salvaguardas rígidas. Por exemplo, trabalhamos com terceiros que ajudam a fornecer nossos serviços a você, cujos servidores podem estar localizados fora do Reino Unido ou do EEE. Para obter mais informações sobre as salvaguardas que tomamos se transferirmos dados para fora do EEE, entre em contato com privacy@immunie.net. ","PRIVACY_POLICY_PAGE_HEADER_21":"Sobre seus direitos em relação à proteção de dados","PRIVACY_POLICY_PAGE_TXT_21":"Conforme indicado acima, sempre que contarmos com seu consentimento para processar seus dados pessoais, você tem o direito de retirar seu consentimento a qualquer momento, acessando as configurações de privacidade no aplicativo. Você também tem direitos específicos sob o GDPR e DPA para: onde quer que processemos dados com base em seu consentimento, retire esse consentimento a qualquer momento. Você pode fazer isso através da seção de privacidade de nosso aplicativo; compreender e solicitar uma cópia das informações que temos sobre você. Sujeito aos nossos períodos de retenção, gravações de seus compromissos conosco e outras notas médicas podem ser acessadas através do App. Para outras informações, você pode fazer uma solicitação por e-mail; peça-nos para retificar ou apagar informações que temos sobre você, sujeito às limitações relacionadas à nossa obrigação de armazenar dados médicos ou registros de saúde para diagnósticos médicos e tratamento por períodos de tempo prescritos; peça-nos para restringir nosso processamento de seus dados pessoais ou objeto ao nosso processamento; e peça que seus dados sejam fornecidos em um portab le base. Você também pode entrar em contato com o Information Commissioners Office (o regulador de proteção de dados no Reino Unido): Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, telefone: 0303 123 1113 (tarifa local). ","PRIVACY_POLICY_PAGE_HEADER_22":"Entre em contato","PRIVACY_POLICY_PAGE_TXT_22":"Em caso de dúvidas ou preocupações, você pode entrar em contato conosco enviando um e-mail para privacy@immunie.net."},"common":{"SERVICES":"Serviços","SERVICES_GROUP_COMPANY":"Nossa empresa","SERVICES_SUBGROUP_ABOUT":"Sobre","SERVICES_SUBGROUP_MEDIA_ASSETS":"Mídias","SERVICES_SUBGROUP_CONTACT":"Contato","SERVICES_GROUP_CHECKPOINT":"Checkpoint","SERVICES_SUBGROUP_BLOCKCHAIN":"Autenticação Blockchain ","SERVICES_GROUP_TERMS_OF_USE":"Termos de Uso","SERVICES_SUBGROUP_PRIVACY_POLICY":"Política de Privacidade","SERVICES_SUBGROUP_TERMS_AND_CONDITIONS":"Termos e Condições","SERVICES_SUBGROUP_FAQ":"FAQs","PRODUCTS":"Produtos","PRODUCT_GROUP_SUBPAGES":"Produtos","PRODUCT_SUBGROUP_PEOPLE_PAGE":"Pessoas","PRODUCT_HEALTH_CARE_PAGE":"Setor de Saúde","PRODUCT_EXAM_LABS_PAGE":"Laboratórios de Exames","PRODUCT_TRAVEL_PAGE":"Companhias Aéreas","PRODUCT_SCHOOLS_PAGE":"Escolas","PRODUCT_MANAGERS_PAGE":"Governos e Grandes Eventos","CONTACT_FORM_TITLE":"Fale Conosco","CONTACT_FORM_SUBTITLE":"Seu contato é muito importante para nós. Todas as mensagens recebidas são lidas com atenção","CONTACT_FORM_FIELD_FULL_NAME":"Nome Completo","CONTACT_FORM_FIELD_MESSAGE":"Mensagem","CONTACT_FORM_REQUIRED_FIELDS":"Campos marcados com * são obrigatórios.","CONTACT_FORM_SEND_BTN_TEXT":"ENVIAR"}}},"initialLanguage":"pt","i18nServerInstance":null,"pageProps":{"namespacesRequired":["privacyPolicyPage","common"]}},"page":"/terms-of-use/privacy-policy","query":{},"buildId":"nDZD4foxkD8xipOua1Ujd","runtimeConfig":{"localeSubpaths":{}},"nextExport":true,"isFallback":false,"gip":true,"appGip":true}</script><script nomodule="" src="../_next/static/chunks/polyfills-10a8cf8ec0fcff4a7700.js"></script><script src="../_next/static/chunks/main-005c099ebc6d73bffa35.js" async=""></script><script src="../_next/static/chunks/webpack-245f049e565ebf942e09.js" async=""></script><script src="../_next/static/chunks/framework.64c08973ae123710aa81.js" async=""></script><script src="../_next/static/chunks/commons.ddec478f82113778b077.js" async=""></script><script src="../_next/static/chunks/pages/_app-8f3a4cdfd6b03ceeb0b9.js" async=""></script><script src="../_next/static/chunks/a4c92b5b.014bebfe28d7f652e7fb.js" async=""></script><script src="../_next/static/chunks/11b04806d3909ce7987efbbeab9b411580946ab6.05063bfe093fef78d737.js" async=""></script><script src="../_next/static/chunks/b0787e176b509ab8a5b092dbcd4c2bdafe937fdc.42fe8430b9ca6fad0654.js" async=""></script><script src="../_next/static/chunks/f21c5035378776e5664e82d348c0227acd3df0b3.76b2b439016ecfd9a02a.js" async=""></script><script src="../_next/static/chunks/pages/terms-of-use/privacy-policy-824cf07782faf7248a33.js" async=""></script><script src="../_next/static/nDZD4foxkD8xipOua1Ujd/_buildManifest.js" async=""></script><script src="../_next/static/nDZD4foxkD8xipOua1Ujd/_ssgManifest.js" async=""></script></body>
+<!-- Mirrored from immunie.net/terms-of-use/privacy-policy by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Sep 2021 19:29:51 GMT -->
+</html>

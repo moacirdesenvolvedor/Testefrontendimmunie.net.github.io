@@ -1,0 +1,1441 @@
+<!DOCTYPE html><html lang="en">
+<!-- Mirrored from immunie.net/terms-of-use/terms-and-conditions by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Sep 2021 19:29:51 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head><meta charSet="utf-8"/><link rel="shortcut icon" href="../assets/favicon.svg"/><meta name="theme-color" content="#ffffff"/><meta name="description" content="International Vaccination Records authenticated using Blockchain Technology. Keep your record safe anytime, anywhere. Immunie is a privacy by design application, built to comply with the highest data privacy standards"/><meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/><meta property="og:locale" content="en_US"/><meta property="og:type" content="website"/><meta property="og:title" content="Immunie | Digital Vaccination Card"/><meta property="og:description" content="International Vaccination Records authenticated using Blockchain Technology. Keep your record safe anytime, anywhere. Immunie is a privacy by design application, built to comply with the highest data privacy standards"/><meta property="og:url" content="https://immunie.org/"/><link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&amp;display=swap" rel="stylesheet"/><script src="../../kit.fontawesome.com/4c273e6d43.js" crossorigin="anonymous"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-J1J5FK05T4"></script><script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+  
+              gtag('config', 'G-J1J5FK05T4');
+          </script><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><title>Immunie Digital Vaccination Card</title><meta name="next-head-count" content="3"/><link rel="preload" href="../_next/static/css/c6fd4f563a3cf2b1449e.css" as="style"/><link rel="stylesheet" href="../_next/static/css/c6fd4f563a3cf2b1449e.css" data-n-g=""/><noscript data-n-css=""></noscript><link rel="preload" href="../_next/static/chunks/main-005c099ebc6d73bffa35.js" as="script"/><link rel="preload" href="../_next/static/chunks/webpack-245f049e565ebf942e09.js" as="script"/><link rel="preload" href="../_next/static/chunks/framework.64c08973ae123710aa81.js" as="script"/><link rel="preload" href="../_next/static/chunks/commons.ddec478f82113778b077.js" as="script"/><link rel="preload" href="../_next/static/chunks/pages/_app-8f3a4cdfd6b03ceeb0b9.js" as="script"/><link rel="preload" href="../_next/static/chunks/a4c92b5b.014bebfe28d7f652e7fb.js" as="script"/><link rel="preload" href="../_next/static/chunks/11b04806d3909ce7987efbbeab9b411580946ab6.05063bfe093fef78d737.js" as="script"/><link rel="preload" href="../_next/static/chunks/b0787e176b509ab8a5b092dbcd4c2bdafe937fdc.42fe8430b9ca6fad0654.js" as="script"/><link rel="preload" href="../_next/static/chunks/f21c5035378776e5664e82d348c0227acd3df0b3.76b2b439016ecfd9a02a.js" as="script"/><link rel="preload" href="../_next/static/chunks/pages/terms-of-use/terms-and-conditions-bdd60d3e153f045cd681.js" as="script"/><style id="jss-server-side">.MuiSvgIcon-root {
+  fill: currentColor;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  font-size: 1.5rem;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  flex-shrink: 0;
+  user-select: none;
+}
+.MuiSvgIcon-colorPrimary {
+  color: #3f51b5;
+}
+.MuiSvgIcon-colorSecondary {
+  color: #f9b934;
+}
+.MuiSvgIcon-colorAction {
+  color: rgba(0, 0, 0, 0.54);
+}
+.MuiSvgIcon-colorError {
+  color: #f44336;
+}
+.MuiSvgIcon-colorDisabled {
+  color: rgba(0, 0, 0, 0.26);
+}
+.MuiSvgIcon-fontSizeInherit {
+  font-size: inherit;
+}
+.MuiSvgIcon-fontSizeSmall {
+  font-size: 1.25rem;
+}
+.MuiSvgIcon-fontSizeLarge {
+  font-size: 2.1875rem;
+}
+.MuiPaper-root {
+  color: #2d3748;
+  transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  background-color: #fff;
+}
+.MuiPaper-rounded {
+  border-radius: 4px;
+}
+.MuiPaper-outlined {
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+.MuiPaper-elevation0 {
+  box-shadow: none;
+}
+.MuiPaper-elevation1 {
+  box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 1px 3px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation2 {
+  box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation3 {
+  box-shadow: 0px 3px 3px -2px rgba(0,0,0,0.2),0px 3px 4px 0px rgba(0,0,0,0.14),0px 1px 8px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation4 {
+  box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation5 {
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 5px 8px 0px rgba(0,0,0,0.14),0px 1px 14px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation6 {
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation7 {
+  box-shadow: 0px 4px 5px -2px rgba(0,0,0,0.2),0px 7px 10px 1px rgba(0,0,0,0.14),0px 2px 16px 1px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation8 {
+  box-shadow: 0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation9 {
+  box-shadow: 0px 5px 6px -3px rgba(0,0,0,0.2),0px 9px 12px 1px rgba(0,0,0,0.14),0px 3px 16px 2px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation10 {
+  box-shadow: 0px 6px 6px -3px rgba(0,0,0,0.2),0px 10px 14px 1px rgba(0,0,0,0.14),0px 4px 18px 3px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation11 {
+  box-shadow: 0px 6px 7px -4px rgba(0,0,0,0.2),0px 11px 15px 1px rgba(0,0,0,0.14),0px 4px 20px 3px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation12 {
+  box-shadow: 0px 7px 8px -4px rgba(0,0,0,0.2),0px 12px 17px 2px rgba(0,0,0,0.14),0px 5px 22px 4px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation13 {
+  box-shadow: 0px 7px 8px -4px rgba(0,0,0,0.2),0px 13px 19px 2px rgba(0,0,0,0.14),0px 5px 24px 4px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation14 {
+  box-shadow: 0px 7px 9px -4px rgba(0,0,0,0.2),0px 14px 21px 2px rgba(0,0,0,0.14),0px 5px 26px 4px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation15 {
+  box-shadow: 0px 8px 9px -5px rgba(0,0,0,0.2),0px 15px 22px 2px rgba(0,0,0,0.14),0px 6px 28px 5px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation16 {
+  box-shadow: 0px 8px 10px -5px rgba(0,0,0,0.2),0px 16px 24px 2px rgba(0,0,0,0.14),0px 6px 30px 5px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation17 {
+  box-shadow: 0px 8px 11px -5px rgba(0,0,0,0.2),0px 17px 26px 2px rgba(0,0,0,0.14),0px 6px 32px 5px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation18 {
+  box-shadow: 0px 9px 11px -5px rgba(0,0,0,0.2),0px 18px 28px 2px rgba(0,0,0,0.14),0px 7px 34px 6px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation19 {
+  box-shadow: 0px 9px 12px -6px rgba(0,0,0,0.2),0px 19px 29px 2px rgba(0,0,0,0.14),0px 7px 36px 6px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation20 {
+  box-shadow: 0px 10px 13px -6px rgba(0,0,0,0.2),0px 20px 31px 3px rgba(0,0,0,0.14),0px 8px 38px 7px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation21 {
+  box-shadow: 0px 10px 13px -6px rgba(0,0,0,0.2),0px 21px 33px 3px rgba(0,0,0,0.14),0px 8px 40px 7px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation22 {
+  box-shadow: 0px 10px 14px -6px rgba(0,0,0,0.2),0px 22px 35px 3px rgba(0,0,0,0.14),0px 8px 42px 7px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation23 {
+  box-shadow: 0px 11px 14px -7px rgba(0,0,0,0.2),0px 23px 36px 3px rgba(0,0,0,0.14),0px 9px 44px 8px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation24 {
+  box-shadow: 0px 11px 15px -7px rgba(0,0,0,0.2),0px 24px 38px 3px rgba(0,0,0,0.14),0px 9px 46px 8px rgba(0,0,0,0.12);
+}
+.MuiButtonBase-root {
+  color: inherit;
+  border: 0;
+  cursor: pointer;
+  margin: 0;
+  display: inline-flex;
+  outline: 0;
+  padding: 0;
+  position: relative;
+  align-items: center;
+  user-select: none;
+  border-radius: 0;
+  vertical-align: middle;
+  -moz-appearance: none;
+  justify-content: center;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-appearance: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.MuiButtonBase-root::-moz-focus-inner {
+  border-style: none;
+}
+.MuiButtonBase-root.Mui-disabled {
+  cursor: default;
+  pointer-events: none;
+}
+@media print {
+  .MuiButtonBase-root {
+    color-adjust: exact;
+  }
+}
+  .MuiIconButton-root {
+    flex: 0 0 auto;
+    color: rgba(0, 0, 0, 0.54);
+    padding: 12px;
+    overflow: visible;
+    font-size: 1.5rem;
+    text-align: center;
+    transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    border-radius: 50%;
+  }
+  .MuiIconButton-root:hover {
+    background-color: rgba(0, 0, 0, 0.04);
+  }
+  .MuiIconButton-root.Mui-disabled {
+    color: rgba(0, 0, 0, 0.26);
+    background-color: transparent;
+  }
+@media (hover: none) {
+  .MuiIconButton-root:hover {
+    background-color: transparent;
+  }
+}
+  .MuiIconButton-edgeStart {
+    margin-left: -12px;
+  }
+  .MuiIconButton-sizeSmall.MuiIconButton-edgeStart {
+    margin-left: -3px;
+  }
+  .MuiIconButton-edgeEnd {
+    margin-right: -12px;
+  }
+  .MuiIconButton-sizeSmall.MuiIconButton-edgeEnd {
+    margin-right: -3px;
+  }
+  .MuiIconButton-colorInherit {
+    color: inherit;
+  }
+  .MuiIconButton-colorPrimary {
+    color: #3f51b5;
+  }
+  .MuiIconButton-colorPrimary:hover {
+    background-color: rgba(63, 81, 181, 0.04);
+  }
+@media (hover: none) {
+  .MuiIconButton-colorPrimary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiIconButton-colorSecondary {
+    color: #f9b934;
+  }
+  .MuiIconButton-colorSecondary:hover {
+    background-color: rgba(249, 185, 52, 0.04);
+  }
+@media (hover: none) {
+  .MuiIconButton-colorSecondary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiIconButton-sizeSmall {
+    padding: 3px;
+    font-size: 1.125rem;
+  }
+  .MuiIconButton-label {
+    width: 100%;
+    display: flex;
+    align-items: inherit;
+    justify-content: inherit;
+  }
+  .MuiTypography-root {
+    margin: 0;
+  }
+  .MuiTypography-body2 {
+    font-size: 0.875rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.43;
+  }
+  .MuiTypography-body1 {
+    font-size: 1rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.5;
+  }
+  .MuiTypography-caption {
+    font-size: 0.75rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.66;
+  }
+  .MuiTypography-button {
+    font-size: 0.875rem;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: 1.75;
+    text-transform: uppercase;
+  }
+  .MuiTypography-h1 {
+    font-size: 3.5rem;
+    font-family: Lato;
+    font-weight: 300;
+    line-height: 1.167;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h1 {
+    font-size: 4.7129rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h1 {
+    font-size: 5.3556rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h1 {
+    font-size: 5.9983rem;
+  }
+}
+  .MuiTypography-h2 {
+    font-size: 2.375rem;
+    font-family: Lato;
+    font-weight: 300;
+    line-height: 1.2;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h2 {
+    font-size: 2.9167rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h2 {
+    font-size: 3.3333rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h2 {
+    font-size: 3.75rem;
+  }
+}
+  .MuiTypography-h3 {
+    font-size: 2rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.167;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h3 {
+    font-size: 2.5707rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h3 {
+    font-size: 2.7849rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h3 {
+    font-size: 2.9991rem;
+  }
+}
+  .MuiTypography-h4 {
+    font-size: 1.5625rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.235;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h4 {
+    font-size: 1.8219rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h4 {
+    font-size: 2.0243rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h4 {
+    font-size: 2.0243rem;
+  }
+}
+  .MuiTypography-h5 {
+    font-size: 1.25rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.334;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h5 {
+    font-size: 1.3118rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h5 {
+    font-size: 1.4993rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h5 {
+    font-size: 1.4993rem;
+  }
+}
+  .MuiTypography-h6 {
+    font-size: 1.125rem;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: 1.6;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h6 {
+    font-size: 1.25rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h6 {
+    font-size: 1.25rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h6 {
+    font-size: 1.25rem;
+  }
+}
+  .MuiTypography-subtitle1 {
+    font-size: 1rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 1.75;
+  }
+  .MuiTypography-subtitle2 {
+    font-size: 0.875rem;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: 1.57;
+  }
+  .MuiTypography-overline {
+    font-size: 0.75rem;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 2.66;
+    text-transform: uppercase;
+  }
+  .MuiTypography-srOnly {
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+  }
+  .MuiTypography-alignLeft {
+    text-align: left;
+  }
+  .MuiTypography-alignCenter {
+    text-align: center;
+  }
+  .MuiTypography-alignRight {
+    text-align: right;
+  }
+  .MuiTypography-alignJustify {
+    text-align: justify;
+  }
+  .MuiTypography-noWrap {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+  .MuiTypography-gutterBottom {
+    margin-bottom: 0.35em;
+  }
+  .MuiTypography-paragraph {
+    margin-bottom: 16px;
+  }
+  .MuiTypography-colorInherit {
+    color: inherit;
+  }
+  .MuiTypography-colorPrimary {
+    color: #3f51b5;
+  }
+  .MuiTypography-colorSecondary {
+    color: #f9b934;
+  }
+  .MuiTypography-colorTextPrimary {
+    color: #2d3748;
+  }
+  .MuiTypography-colorTextSecondary {
+    color: #718096;
+  }
+  .MuiTypography-colorError {
+    color: #f44336;
+  }
+  .MuiTypography-displayInline {
+    display: inline;
+  }
+  .MuiTypography-displayBlock {
+    display: block;
+  }
+html {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+strong, b {
+  font-weight: 700;
+}
+body {
+  color: #2d3748;
+  margin: 0;
+  font-size: 0.875rem;
+  font-family: Lato;
+  font-weight: 400;
+  line-height: 1.43;
+  background-color: #fff;
+}
+@media print {
+  body {
+    background-color: #fff;
+  }
+}
+body::backdrop {
+  background-color: #fff;
+}
+  .MuiDivider-root {
+    border: none;
+    height: 1px;
+    margin: 0;
+    flex-shrink: 0;
+    background-color: rgba(0, 0, 0, 0.12);
+  }
+  .MuiDivider-absolute {
+    left: 0;
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+  }
+  .MuiDivider-inset {
+    margin-left: 72px;
+  }
+  .MuiDivider-light {
+    background-color: rgba(0, 0, 0, 0.08);
+  }
+  .MuiDivider-middle {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+  .MuiDivider-vertical {
+    width: 1px;
+    height: 100%;
+  }
+  .MuiDivider-flexItem {
+    height: auto;
+    align-self: stretch;
+  }
+  .MuiDrawer-docked {
+    flex: 0 0 auto;
+  }
+  .MuiDrawer-paper {
+    top: 0;
+    flex: 1 0 auto;
+    height: 100%;
+    display: flex;
+    outline: 0;
+    z-index: 1100;
+    position: fixed;
+    overflow-y: auto;
+    flex-direction: column;
+    -webkit-overflow-scrolling: touch;
+  }
+  .MuiDrawer-paperAnchorLeft {
+    left: 0;
+    right: auto;
+  }
+  .MuiDrawer-paperAnchorRight {
+    left: auto;
+    right: 0;
+  }
+  .MuiDrawer-paperAnchorTop {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: auto;
+    height: auto;
+    max-height: 100%;
+  }
+  .MuiDrawer-paperAnchorBottom {
+    top: auto;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: auto;
+    max-height: 100%;
+  }
+  .MuiDrawer-paperAnchorDockedLeft {
+    border-right: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .MuiDrawer-paperAnchorDockedTop {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .MuiDrawer-paperAnchorDockedRight {
+    border-left: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .MuiDrawer-paperAnchorDockedBottom {
+    border-top: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .MuiGrid-container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+  }
+  .MuiGrid-item {
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .MuiGrid-zeroMinWidth {
+    min-width: 0;
+  }
+  .MuiGrid-direction-xs-column {
+    flex-direction: column;
+  }
+  .MuiGrid-direction-xs-column-reverse {
+    flex-direction: column-reverse;
+  }
+  .MuiGrid-direction-xs-row-reverse {
+    flex-direction: row-reverse;
+  }
+  .MuiGrid-wrap-xs-nowrap {
+    flex-wrap: nowrap;
+  }
+  .MuiGrid-wrap-xs-wrap-reverse {
+    flex-wrap: wrap-reverse;
+  }
+  .MuiGrid-align-items-xs-center {
+    align-items: center;
+  }
+  .MuiGrid-align-items-xs-flex-start {
+    align-items: flex-start;
+  }
+  .MuiGrid-align-items-xs-flex-end {
+    align-items: flex-end;
+  }
+  .MuiGrid-align-items-xs-baseline {
+    align-items: baseline;
+  }
+  .MuiGrid-align-content-xs-center {
+    align-content: center;
+  }
+  .MuiGrid-align-content-xs-flex-start {
+    align-content: flex-start;
+  }
+  .MuiGrid-align-content-xs-flex-end {
+    align-content: flex-end;
+  }
+  .MuiGrid-align-content-xs-space-between {
+    align-content: space-between;
+  }
+  .MuiGrid-align-content-xs-space-around {
+    align-content: space-around;
+  }
+  .MuiGrid-justify-xs-center {
+    justify-content: center;
+  }
+  .MuiGrid-justify-xs-flex-end {
+    justify-content: flex-end;
+  }
+  .MuiGrid-justify-xs-space-between {
+    justify-content: space-between;
+  }
+  .MuiGrid-justify-xs-space-around {
+    justify-content: space-around;
+  }
+  .MuiGrid-justify-xs-space-evenly {
+    justify-content: space-evenly;
+  }
+  .MuiGrid-spacing-xs-1 {
+    width: calc(100% + 8px);
+    margin: -4px;
+  }
+  .MuiGrid-spacing-xs-1 > .MuiGrid-item {
+    padding: 4px;
+  }
+  .MuiGrid-spacing-xs-2 {
+    width: calc(100% + 16px);
+    margin: -8px;
+  }
+  .MuiGrid-spacing-xs-2 > .MuiGrid-item {
+    padding: 8px;
+  }
+  .MuiGrid-spacing-xs-3 {
+    width: calc(100% + 24px);
+    margin: -12px;
+  }
+  .MuiGrid-spacing-xs-3 > .MuiGrid-item {
+    padding: 12px;
+  }
+  .MuiGrid-spacing-xs-4 {
+    width: calc(100% + 32px);
+    margin: -16px;
+  }
+  .MuiGrid-spacing-xs-4 > .MuiGrid-item {
+    padding: 16px;
+  }
+  .MuiGrid-spacing-xs-5 {
+    width: calc(100% + 40px);
+    margin: -20px;
+  }
+  .MuiGrid-spacing-xs-5 > .MuiGrid-item {
+    padding: 20px;
+  }
+  .MuiGrid-spacing-xs-6 {
+    width: calc(100% + 48px);
+    margin: -24px;
+  }
+  .MuiGrid-spacing-xs-6 > .MuiGrid-item {
+    padding: 24px;
+  }
+  .MuiGrid-spacing-xs-7 {
+    width: calc(100% + 56px);
+    margin: -28px;
+  }
+  .MuiGrid-spacing-xs-7 > .MuiGrid-item {
+    padding: 28px;
+  }
+  .MuiGrid-spacing-xs-8 {
+    width: calc(100% + 64px);
+    margin: -32px;
+  }
+  .MuiGrid-spacing-xs-8 > .MuiGrid-item {
+    padding: 32px;
+  }
+  .MuiGrid-spacing-xs-9 {
+    width: calc(100% + 72px);
+    margin: -36px;
+  }
+  .MuiGrid-spacing-xs-9 > .MuiGrid-item {
+    padding: 36px;
+  }
+  .MuiGrid-spacing-xs-10 {
+    width: calc(100% + 80px);
+    margin: -40px;
+  }
+  .MuiGrid-spacing-xs-10 > .MuiGrid-item {
+    padding: 40px;
+  }
+  .MuiGrid-grid-xs-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-xs-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-xs-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-xs-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-xs-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-xs-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-xs-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-xs-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-xs-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-xs-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-xs-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-xs-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-xs-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-xs-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+@media (min-width:600px) {
+  .MuiGrid-grid-sm-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-sm-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-sm-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-sm-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-sm-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-sm-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-sm-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-sm-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-sm-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-sm-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-sm-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-sm-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-sm-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-sm-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:960px) {
+  .MuiGrid-grid-md-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-md-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-md-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-md-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-md-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-md-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-md-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-md-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-md-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-md-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-md-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-md-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-md-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-md-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:1280px) {
+  .MuiGrid-grid-lg-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-lg-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-lg-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-lg-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-lg-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-lg-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-lg-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-lg-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-lg-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-lg-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-lg-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-lg-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-lg-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-lg-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:1920px) {
+  .MuiGrid-grid-xl-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-xl-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-xl-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-xl-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-xl-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-xl-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-xl-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-xl-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-xl-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-xl-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-xl-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-xl-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-xl-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-xl-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+  .MuiList-root {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    list-style: none;
+  }
+  .MuiList-padding {
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+  .MuiList-subheader {
+    padding-top: 0;
+  }
+  .MuiListItem-root {
+    width: 100%;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    text-align: left;
+    align-items: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    justify-content: flex-start;
+    text-decoration: none;
+  }
+  .MuiListItem-root.Mui-focusVisible {
+    background-color: rgba(0, 0, 0, 0.08);
+  }
+  .MuiListItem-root.Mui-selected, .MuiListItem-root.Mui-selected:hover {
+    background-color: rgba(0, 0, 0, 0.08);
+  }
+  .MuiListItem-root.Mui-disabled {
+    opacity: 0.5;
+  }
+  .MuiListItem-container {
+    position: relative;
+  }
+  .MuiListItem-dense {
+    padding-top: 4px;
+    padding-bottom: 4px;
+  }
+  .MuiListItem-alignItemsFlexStart {
+    align-items: flex-start;
+  }
+  .MuiListItem-divider {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+    background-clip: padding-box;
+  }
+  .MuiListItem-gutters {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .MuiListItem-button {
+    transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  }
+  .MuiListItem-button:hover {
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.04);
+  }
+@media (hover: none) {
+  .MuiListItem-button:hover {
+    background-color: transparent;
+  }
+}
+  .MuiListItem-secondaryAction {
+    padding-right: 48px;
+  }
+  .MuiToolbar-root {
+    display: flex;
+    position: relative;
+    align-items: center;
+  }
+  .MuiToolbar-gutters {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+@media (min-width:600px) {
+  .MuiToolbar-gutters {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+  .MuiToolbar-regular {
+    min-height: 56px;
+  }
+@media (min-width:0px) and (orientation: landscape) {
+  .MuiToolbar-regular {
+    min-height: 48px;
+  }
+}
+@media (min-width:600px) {
+  .MuiToolbar-regular {
+    min-height: 64px;
+  }
+}
+  .MuiToolbar-dense {
+    min-height: 48px;
+  }
+  .jss37 {
+    padding: 48px 0px;
+    background: #1b1642;
+  }
+@media (min-width:960px) {
+  .jss37 {
+    padding: 96px 0px;
+  }
+}
+  .jss38 {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0px 16px;
+    max-width: 1236px;
+  }
+@media (min-width:600px) {
+  .jss38 {
+    padding: 0px 64px;
+  }
+}
+  .jss39 {
+    width: fit-content;
+    margin: 0 auto;
+    padding: 12px;
+  }
+  .jss40 {
+    padding-top: 0;
+  }
+  .jss41 {
+    color: rgb(17, 82, 147);
+    margin-bottom: 8px;
+    text-transform: uppercase;
+  }
+  .jss42 {
+    color: rgba(255,255,255,.6);
+    padding: 0;
+    margin-right: 8px;
+  }
+  .jss42:hover {
+    background: transparent;
+  }
+  .jss42:last-child {
+    margin-right: 0;
+  }
+  .jss43 {
+    font-size: 24px;
+  }
+  .jss44 {
+    padding: 0 !important;
+  }
+  .jss45 {
+    display: flex;
+    margin-left: auto;
+    justify-content: space-evenly !important;
+  }
+  .jss46 {
+    margin: 16px;
+  }
+  .jss46:last-child {
+    margin-bottom: 0;
+  }
+  .jss47 {
+    padding-top: 0;
+    padding-bottom: 4px;
+  }
+  .jss47:last-child {
+    padding-bottom: 0;
+  }
+  .jss48 {
+    color: white;
+    text-transform: uppercase;
+  }
+  .jss49 {
+    color: white;
+  }
+  .jss50 {
+    width: 100%;
+  }
+  .jss51 {
+    color: rgba(255,255,255,.6);
+  }
+  .jss33 {
+    margin-bottom: 24px;
+  }
+@media (min-width:960px) {
+  .jss33 {
+    margin-bottom: 32px;
+  }
+}
+  .jss34 {
+    margin-bottom: 0;
+  }
+  .jss35 {
+    font-weight: bold;
+  }
+  .jss36 {
+    margin-left: 8px;
+  }
+  .jss36:first-child {
+    margin-left: 0;
+  }
+  .jss2 {
+    font-size: 1.8rem;
+    margin-top: -8px;
+    font-weight: bold;
+  }
+  .jss3 {
+    flex-grow: 1;
+  }
+  .jss4 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .jss5 {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0px 16px;
+    max-width: 1400px;
+  }
+  .jss6 {
+    padding: 0.4em;
+    text-transform: none;
+  }
+  .jss7 {
+    cursor: pointer;
+    font-weight: 300;
+  }
+  .jss7:hover {
+    color: rgb(17, 82, 147);
+  }
+  .jss8 {
+    color: #546e7a;
+    font-weight: 300;
+  }
+  .jss8:hover {
+    color: rgb(17, 82, 147);
+  }
+  .jss8:visited {
+    text-decoration: none;
+  }
+  .jss9 {
+    cursor: pointer;
+  }
+  .jss9:hover > .menu-item, .jss9:hover {
+    color: rgb(17, 82, 147);
+  }
+  .jss10> .menu-item {
+    color: rgb(17, 82, 147);
+  }
+  .jss11 {
+    flex: 0 0 auto;
+    white-space: nowrap;
+    margin-right: 16px;
+  }
+  .jss12 {
+    min-width: auto;
+  }
+  .jss13 {
+    border: 16px;
+    padding: 32px;
+    min-width: 350px;
+    box-shadow: 0 0.5rem 2rem 2px rgba(116, 123, 144, 0.09);
+    margin-top: 16px;
+  }
+  .jss14 {
+    padding: 0;
+  }
+  .jss14:hover {
+    background: transparent;
+  }
+  .jss15 {
+    color: rgb(17, 82, 147);
+    transform: rotate(180deg);
+  }
+  .jss16 {
+    width: 180px;
+    cursor: pointer;
+    height: 60px;
+    display: flex;
+    object-fit: cover;
+    align-items: center;
+    background-size: contain;
+    background-image: url('../static/images/logos/brand_with_name.svg');
+    background-repeat: no-repeat;
+  }
+@media (min-width:960px) {
+  .jss16 {
+    width: 180px;
+    height: 60px;
+  }
+}
+  .jss17 {
+    display: flex;
+    justify-content: space-between;
+  }
+  .jss18 {
+    margin-right: 40px;
+  }
+  .jss18:last-child {
+    margin-right: 0;
+  }
+  .jss19 {
+    padding-top: 0;
+  }
+  .jss20 {
+    text-transform: uppercase;
+  }
+  .jss21 {
+    display: flex;
+    align-items: center;
+  }
+  .jss22 {
+    width: 100%;
+    max-width: 325px;
+  }
+  .jss23 {
+    height: 100%;
+    padding: 8px;
+  }
+  .jss24 {
+    margin-bottom: 8px;
+  }
+  .jss1 {
+    height: 100%;
+  }
+  .jss29 {
+    width: 100%;
+    margin: 0 auto;
+    padding: 48px 16px;
+    max-width: 1236px;
+  }
+@media (min-width:600px) {
+  .jss29 {
+    padding: 64px 64px;
+  }
+}
+@media (min-width:960px) {
+  .jss29 {
+    padding: 96px 64px;
+  }
+}
+  .jss30 {
+    max-width: 100%;
+  }
+  .jss31 {
+    padding: 0;
+  }
+  .jss32 {
+    max-width: 800px;
+  }
+  .jss25 {
+    width: 100%;
+    height: 100%;
+  }
+  .jss25 .description-cta__button-group {
+    flex-wrap: nowrap;
+  }
+  .jss26 {
+    padding-top: 24px;
+  }
+@media (min-width:960px) {
+  .jss26 {
+    padding-top: 40px;
+  }
+}
+  .jss27 {
+    font-weight: bold;
+  }
+  .jss28 {
+    margin: 24px 0px;
+  }
+@media (min-width:960px) {
+  .jss28 {
+    margin: 40px 0px;
+  }
+}</style></head><body><div id="__next"><div class="MuiPaper-root MuiPaper-elevation0 MuiPaper-rounded"><div class="container"><div class="jss1"><div class="MuiToolbar-root MuiToolbar-regular jss5" i18n="[object Object]"><div class="jss16"></div><div class="jss3"></div></div><main><hr class="MuiDivider-root"/><div class="jss25"><section class="section jss29 jss26"><div class="MuiGrid-root description-cta MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"><div class="MuiGrid-root description-cta__wrapper MuiGrid-item"><h5 class="MuiTypography-root jss27 MuiTypography-h5 MuiTypography-colorTextPrimary MuiTypography-gutterBottom MuiTypography-alignLeft">TERMOS E CONDIÇÕES DE USO</h5><h6 class="MuiTypography-root description-cta__subtitle MuiTypography-subtitle1 MuiTypography-colorTextSecondary MuiTypography-alignLeft">PRIVACY_POLICY_PAGE_TXT_1</h6></div><div class="MuiGrid-root MuiGrid-item"><div class="MuiGrid-root description-cta__button-group MuiGrid-container MuiGrid-spacing-xs-1 MuiGrid-justify-xs-flex-end"><div class="MuiGrid-root description-cta__primary-button-wrapper MuiGrid-item"></div></div></div></div><hr class="MuiDivider-root jss28"/><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><div class="MuiGrid-root section-header jss33 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Introdução</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Estes termos e condições se aplicam entre você, o Usuário deste site (immunie.net) e seu Aplicativo da Web (app.immunie.net, secure.immunie.net e checkpoint.immunie.net, incluindo qualquer sub- domínios, a menos que expressamente excluído por seus próprios termos e condições), e KIPR Blockchain Ltd., o proprietário e operador da marca registrada e dos direitos autorais Immunie. Leia estes termos e condições com atenção, pois eles afetam seus direitos legais. Seu acordo em cumprir com e estar vinculado a estes termos e condições é considerada como ocorrendo em seu primeiro uso do Site e seus Aplicativos da Web. Se você não concordar em se comprometer por estes termos e condições, você deve parar de usar o Site e seus Aplicativos da Web imediatamente . Nestes termos e condições, Usuário ou Usuários significa qualquer terceiro que acesse o Site e seus Aplicativos da Web e não seja (i) empregado por KIPR Blockchain Ltd. e agindo no curso de seu emprego ou (ii) contratado como consultor ou de outra forma fornecendo serviços para KIPR Blockchain Ltd. e acessando o Site e seus Aplicativos da Web em conexão com o fornecimento de tais serviços. Você deve ter pelo menos 18 anos de idade para usar este site e seus aplicativos da web. Ao usar o site e seus aplicativos da Web e concordar com estes termos e condições, você declara e garante que tem pelo menos 18 anos de idade. </p></div></div><div class="MuiGrid-root section-header jss33 jss34 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Propriedade intelectual e uso aceitável</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">1. Todo o Conteúdo incluído no Site e seus Aplicativos da Web, a menos que carregado pelos Usuários, é propriedade de KIPR Blockchain Ltd., nossas afiliadas ou outros terceiros relevantes. Nestes termos e condições, Conteúdo significa qualquer texto, gráficos, imagens, áudio, vídeo, software, compilações de dados, layout de página, código e software subjacentes e qualquer outra forma de informação capaz de ser armazenada em um computador que apareça ou faça parte deste Site e seus Aplicativos da Web, incluindo qualquer conteúdo carregado pelos usuários. Ao continuar a usar o site e seus aplicativos da web, você reconhece que esse conteúdo é protegido por direitos autorais, marcas registradas, direitos de banco de dados e outros direitos de propriedade intelectual. Nada neste site deve ser interpretado como concessão, por implicação, preclusão, ou de outra forma, qualquer licença ou direito de usar qualquer marca registrada, logotipo ou marca de serviço exibida no site sem a permissão prévia por escrito do proprietário. Você pode, para seu próprio uso pessoal e não comercial, fazer o seguinte: a. recuperar, exibir e visualizar o Conteúdo em uma tela de computador b. baixar e armazenar o Conteúdo em formato eletrônico em um disco (mas não em qualquer servidor ou outro dispositivo de armazenamento conectado a uma rede) c. imprimir uma cópia do Conteúdo 3. Você não deve reproduzir, modificar, copiar, distribuir ou usar para fins comerciais qualquer Conteúdo sem a permissão por escrito de KIPR Blockchain Ltd . 4. Você reconhece que é responsável por qualquer Conteúdo que possa enviar por meio do Site e de seus Aplicativos da Web, incluindo a legalidade, confiabilidade, adequação, originalidade e direitos autorais de qualquer Conteúdo. Você não pode carregar, distribuir ou de outra forma publicar através do site e seus aplicativos da web qualquer conteúdo que (i) seja confidencial, proprietário, falso, fraudulento, calunioso, difamatório, obsceno, ameaçador, invasor de privacidade ou direitos de publicidade, infringindo direitos intelectuais direitos de propriedade, abusivos, ilegais ou censuráveis; (ii) pode constituir ou encorajar uma ofensa criminal, violar os direitos de qualquer parte ou de outra forma dar origem a responsabilidade ou violar qualquer lei; ou (iii) pode conter vírus de software, campanha política, correntes, e-mails em massa ou qualquer forma de &#x27;spam&#x27;. Você não pode usar um endereço de e-mail falso ou outras informações de identificação, fazer-se passar por qualquer pessoa ou entidade ou induzir em erro a origem de qualquer conteúdo. Você não pode fazer upload de conteúdo comercial para o site e seus aplicativos da web. 5. Você representa e garante que possui ou de outra forma controla todos os direitos sobre o Conteúdo que postar; que o conteúdo é preciso; que o uso do Conteúdo que você fornece não viola qualquer disposição destes termos e condições e não causará danos a qualquer pessoa; e que você indenizará KIPR Blockchain Ltd. por todas as reivindicações resultantes do Conteúdo fornecido por você.</p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Uso proibido</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">6. Você não pode usar o Site e seus Aplicativos da Web para nenhum dos seguintes fins: a. De qualquer forma que cause, ou possa causar, danos ao Site e seus Aplicativos da Web ou interfira com os de qualquer outra pessoa uso ou desfrute do site e seus aplicativos da web; b. de qualquer forma que seja prejudicial, ilegal, ilegal, abusiva, assediadora, ameaçadora ou de outra forma questionável ou em violação de qualquer lei aplicável, regulamento, ordem governamental; c. fazer, transmitir ou armazenar cópias eletrônicas de Conteúdo protegido por direitos autorais sem a permissão do proprietário. </p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Registro</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">7. Você deve garantir que os dados fornecidos por você no registro ou a qualquer momento estejam corretos e completos.8. Você deve nos informar imediatamente sobre quaisquer alterações nas informações fornecidas ao se registrar, atualizando seus dados pessoais para garantir que possamos nos comunicar com você de maneira eficaz.9. Podemos suspender ou cancelar seu registro com efeito imediato para quaisquer fins razoáveis ​​ou se você violar estes termos e condições. 10. Você pode cancelar seu registro a qualquer momento, informando-nos por escrito para o endereço no final destes termos e condições. Se você fizer isso, você deve parar imediatamente de usar o site e seus aplicativos da Web. O cancelamento ou suspensão do seu registro não afeta quaisquer direitos legais. </p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Senha e segurança</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">11. Ao se registrar neste site e em seus aplicativos da web, você será solicitado a criar uma senha, que deve ser mantida em sigilo e não deve ser divulgada ou compartilhada com ninguém. 12. Se tivermos motivos para acreditar nisso é ou pode haver qualquer uso indevido do site e seus aplicativos da Web ou violação de segurança, podemos exigir que você altere sua senha ou suspenda sua conta. </p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Links para outro site e seus aplicativos da web</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">13. Este site e seus aplicativos da Web podem conter links para outros sites. A menos que expressamente declarado, esses sites não estão sob o controle da KIPR Blockchain Ltd. ou de nossas afiliadas. 14. Não assumimos qualquer responsabilidade por o conteúdo de tal site e seus aplicativos da Web e se isenta de responsabilidade por toda e qualquer forma de perda ou dano decorrente do uso deles. 15. A inclusão de um link para outro site neste site e seus aplicativos da Web não implica qualquer endosso dos próprios sites ou daqueles que os controlam. </p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Política de Privacidade</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">16. O uso do Site e de seus Aplicativos da Web também é regido por nossa Política de Privacidade, que é incorporada a estes termos e condições por esta referência. Para ver a Política de Privacidade, clique em: https: / /www.immunie.net/privacy-policy. </p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Disponibilidade do site e seus aplicativos da web e isenções de responsabilidade</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">17. Quaisquer facilidades, ferramentas, serviços ou informações online que KIPR Blockchain Ltd. disponibiliza através do Site e seus Aplicativos da Web (o Serviço) são fornecidos &#x27;como estão&#x27; e em uma base &#x27;conforme disponível&#x27;. Não oferecemos garantia de que o Serviço estará livre de defeitos e / ou falhas. Na medida máxima permitida por lei, não oferecemos garantias (expressas ou implícitas) de adequação a um propósito específico, precisão de informações, compatibilidade e qualidade satisfatória . O KIPR Blockchain Ltd. não tem obrigação de atualizar as informações no site e seus aplicativos da Web. 18. Enquanto o KIPR Blockchain Ltd. faz esforços razoáveis ​​para garantir que o site e seus aplicativos da Web sejam seguros e livres de erros, vírus e outro malware, não oferecemos nenhuma garantia ou fiança a esse respeito e todos os usuários assumem a responsabilidade por sua própria segurança, de seus dados pessoais e de seus computadores 19. O Blockc hain Connect Ltd. não se responsabiliza por qualquer interrupção ou indisponibilidade do site e seus aplicativos da web. 20. A KIPR Blockchain Ltd. reserva-se o direito de alterar, suspender ou descontinuar qualquer parte (ou a totalidade) do Site e seus Aplicativos da Web, incluindo, mas não se limitando a, quaisquer produtos e / ou serviços disponíveis. Estes termos e condições continuarão a se aplicar a qualquer versão modificada do Site e seus Aplicativos da Web, a menos que seja expressamente declarado o contrário. </p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Limitação de responsabilidade</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">21. Nada nestes termos e condições irá: (a) limitar ou excluir nossa responsabilidade por morte ou danos pessoais resultantes de nossa negligência, conforme aplicável; (b) limitar ou excluir nossa ou sua responsabilidade por fraude ou deturpação fraudulenta; ou (c) limitar ou excluir qualquer uma de nossas responsabilidades de qualquer forma que não seja permitida pela lei aplicável. 22. Na medida em que o Site e seus Aplicativos da Web e Conteúdo sejam fornecidos gratuitamente, não seremos responsáveis ​​por você por qualquer perda ou dano de qualquer tipo. 23. Não seremos responsáveis ​​por você em relação a quaisquer perdas decorrentes de eventos além do nosso controle razoável. 24. Na extensão máxima permitida por lei, KIPR Blockchain Ltd. não se responsabiliza por qualquer um dos seguintes: a. Quaisquer perdas de negócios, como perda de lucros, receitas, receitas, economias previstas, negócios, contratos, boa vontade ou oportunidades comerciais; b. Perda ou corrupção de quaisquer dados, da tabase ou software; c. qualquer perda ou dano especial, indireto ou consequencial. </p></div></div><div class="MuiGrid-root section-header jss33 jss34 jss26 MuiGrid-container MuiGrid-spacing-xs-2" data-aos=""><div class="MuiGrid-root section-header__title-wrapper MuiGrid-item MuiGrid-grid-xs-12"><h4 class="MuiTypography-root jss27 MuiTypography-h4 MuiTypography-colorTextPrimary MuiTypography-alignLeft">Geral</h4></div><div class="MuiGrid-root section-header__subtitle-wrapper MuiGrid-item MuiGrid-grid-xs-12"><p class="MuiTypography-root section-header__subtitle MuiTypography-body1 MuiTypography-colorTextPrimary MuiTypography-alignLeft">25. Você não pode transferir nenhum dos seus direitos sob estes termos e condições a qualquer outra pessoa. Podemos transferir nossos direitos sob estes termos e condições quando acreditarmos razoavelmente que seus direitos não serão afetados. 26. Estes termos e as condições podem ser alteradas por nós de tempos em tempos. Esses termos revisados ​​serão aplicados ao site e seus aplicativos da Web a partir da data de publicação. Os usuários devem verificar os termos e condições regularmente para garantir a familiaridade com a versão então atual. 27. Estes os termos e condições, juntamente com a Política de Privacidade e Política de Cookies, contêm todo o acordo entre as partes em relação ao assunto em questão e substituem todas as discussões, acordos ou acordos anteriores que possam ter ocorrido em relação aos termos e condições. 28. Os Contratos ( A Lei dos Direitos de Terceiros de 1999 não se aplica a estes termos e condições e nenhum terceiro terá o direito de fazer cumprir ou repor de acordo com qualquer disposição destes termos e condições. 29. Se qualquer tribunal ou autoridade competente considerar que qualquer disposição destes termos e condições (ou parte de qualquer disposição) é inválida, ilegal ou inexequível, essa disposição ou disposição parcial será, na medida necessária, considerada como excluída, e a validade e aplicabilidade das outras disposições destes termos e condições não serão afetadas. 30. Salvo acordo em contrário, nenhum atraso, ato ou omissão por uma das partes no exercício de qualquer direito ou recurso será considerado uma renúncia desse ou de qualquer outro direito ou recurso. 31. Este Acordo será regido e interpretado de acordo com a lei da Inglaterra e País de Gales e todas as disputas decorrentes do Acordo (incluindo disputas ou reivindicações não contratuais) estarão sujeitas à jurisdição exclusiva dos tribunais ingleses e galeses. 32. A KIPR Blockchain Ltd., com sede na dKipr Blockchain Kemp House 152-160 City Road, London, England, EC1V 2NXe 28, opera o site e seus aplicativos da Web https://immunie.net. O número de IVA registrado é 355 0222 32. Você pode entrar em contato com KIPR Blockchain Ltd. por e-mail em support@immunie.net. </p></div></div></div></div></section></div></main><div i18n="[object Object]" class="jss37"><div class="jss38"><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-2"><ul class="MuiList-root jss39"><li class="MuiListItem-root jss40"><p class="MuiTypography-root jss49 MuiTypography-body1">Redes Sociais</p></li><li class="MuiListItem-root"><button class="MuiButtonBase-root MuiIconButton-root jss42" tabindex="0" type="button" aria-label="Facebook"><span class="MuiIconButton-label"><svg class="MuiSvgIcon-root jss43" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2m13 2h-2.5A3.5 3.5 0 0 0 12 8.5V11h-2v3h2v7h3v-7h3v-3h-3V9a1 1 0 0 1 1-1h2V5z"></path></svg></span></button><button class="MuiButtonBase-root MuiIconButton-root jss42" tabindex="0" type="button" aria-label="Instagram"><span class="MuiIconButton-label"><svg class="MuiSvgIcon-root jss43" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M7.8 2h8.4C19.4 2 22 4.6 22 7.8v8.4a5.8 5.8 0 0 1-5.8 5.8H7.8C4.6 22 2 19.4 2 16.2V7.8A5.8 5.8 0 0 1 7.8 2m-.2 2A3.6 3.6 0 0 0 4 7.6v8.8C4 18.39 5.61 20 7.6 20h8.8a3.6 3.6 0 0 0 3.6-3.6V7.6C20 5.61 18.39 4 16.4 4H7.6m9.65 1.5a1.25 1.25 0 0 1 1.25 1.25A1.25 1.25 0 0 1 17.25 8 1.25 1.25 0 0 1 16 6.75a1.25 1.25 0 0 1 1.25-1.25M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3z"></path></svg></span></button><button class="MuiButtonBase-root MuiIconButton-root jss42" tabindex="0" type="button" aria-label="Twitter"><span class="MuiIconButton-label"><svg class="MuiSvgIcon-root jss43" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M22.46 6c-.77.35-1.6.58-2.46.69.88-.53 1.56-1.37 1.88-2.38-.83.5-1.75.85-2.72 1.05C18.37 4.5 17.26 4 16 4c-2.35 0-4.27 1.92-4.27 4.29 0 .34.04.67.11.98C8.28 9.09 5.11 7.38 3 4.79c-.37.63-.58 1.37-.58 2.15 0 1.49.75 2.81 1.91 3.56-.71 0-1.37-.2-1.95-.5v.03c0 2.08 1.48 3.82 3.44 4.21a4.22 4.22 0 0 1-1.93.07 4.28 4.28 0 0 0 4 2.98 8.521 8.521 0 0 1-5.33 1.84c-.34 0-.68-.02-1.02-.06C3.44 20.29 5.7 21 8.12 21 16 21 20.33 14.46 20.33 8.79c0-.19 0-.37-.01-.56.84-.6 1.56-1.36 2.14-2.23z"></path></svg></span></button><button class="MuiButtonBase-root MuiIconButton-root jss42" tabindex="0" type="button" aria-label="Pinterest"><span class="MuiIconButton-label"><svg class="MuiSvgIcon-root jss43" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9.04 21.54c.96.29 1.93.46 2.96.46a10 10 0 0 0 10-10A10 10 0 0 0 12 2 10 10 0 0 0 2 12c0 4.25 2.67 7.9 6.44 9.34-.09-.78-.18-2.07 0-2.96l1.15-4.94s-.29-.58-.29-1.5c0-1.38.86-2.41 1.84-2.41.86 0 1.26.63 1.26 1.44 0 .86-.57 2.09-.86 3.27-.17.98.52 1.84 1.52 1.84 1.78 0 3.16-1.9 3.16-4.58 0-2.4-1.72-4.04-4.19-4.04-2.82 0-4.48 2.1-4.48 4.31 0 .86.28 1.73.74 2.3.09.06.09.14.06.29l-.29 1.09c0 .17-.11.23-.28.11-1.28-.56-2.02-2.38-2.02-3.85 0-3.16 2.24-6.03 6.56-6.03 3.44 0 6.12 2.47 6.12 5.75 0 3.44-2.13 6.2-5.18 6.2-.97 0-1.92-.52-2.26-1.13l-.67 2.37c-.23.86-.86 2.01-1.29 2.7v-.03z"></path></svg></span></button></li></ul></div><div class="MuiGrid-root jss44 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-10"><div class="MuiGrid-root MuiGrid-item"><div class="jss45"><div class="jss46"><ul class="MuiList-root jss46"><li class="MuiListItem-root jss47"><p class="MuiTypography-root jss48 MuiTypography-body2">Nossa empresa</p></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="../company/about">Sobre</a></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="../company/media-assets">Mídias</a></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="../company/contact">Contato</a></li></ul><ul class="MuiList-root jss46"><li class="MuiListItem-root jss47"><p class="MuiTypography-root jss48 MuiTypography-body2">Checkpoint</p></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="https://www.checkpoint.immunie.net/">Autenticação Blockchain </a></li></ul></div><div class="jss46"><ul class="MuiList-root jss46"><li class="MuiListItem-root jss47"><p class="MuiTypography-root jss48 MuiTypography-body2">Termos de Uso</p></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="privacy-policy">Política de Privacidade</a></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="terms-and-conditions">Termos e Condições</a></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="faqs">FAQs</a></li></ul></div><div class="jss46"><ul class="MuiList-root jss46"><li class="MuiListItem-root jss47"><p class="MuiTypography-root jss48 MuiTypography-body2">Produtos</p></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="../products/people">Pessoas</a></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="../products/health-care">Setor de Saúde</a></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="../products/labs">Laboratórios de Exames</a></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="../products/travel">Companhias Aéreas</a></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="../products/schools">Escolas</a></li><li class="MuiListItem-root jss47"><a class="MuiTypography-root jss51 submenu-item MuiTypography-body2" href="../products/managers">Governos e Grandes Eventos</a></li></ul></div></div></div></div></div></div></div></div></div></div></div><script id="__NEXT_DATA__" type="application/json">{"props":{"initialI18nStore":{"pt":{"tocPage":{"FRONT_END_TERMS_AND_CONDITIONS_PAGE_TITLE":"TERMOS E CONDIÇÕES DE USO","FRONT_END_TERMS_AND_CONDITIONS_PAGE_HEADER_1":"Introdução","FRONT_END_TERMS_AND_CONDITIONS_PAGE_TXT_1":"Estes termos e condições se aplicam entre você, o Usuário deste site (immunie.net) e seu Aplicativo da Web (app.immunie.net, secure.immunie.net e checkpoint.immunie.net, incluindo qualquer sub- domínios, a menos que expressamente excluído por seus próprios termos e condições), e KIPR Blockchain Ltd., o proprietário e operador da marca registrada e dos direitos autorais Immunie. Leia estes termos e condições com atenção, pois eles afetam seus direitos legais. Seu acordo em cumprir com e estar vinculado a estes termos e condições é considerada como ocorrendo em seu primeiro uso do Site e seus Aplicativos da Web. Se você não concordar em se comprometer por estes termos e condições, você deve parar de usar o Site e seus Aplicativos da Web imediatamente . Nestes termos e condições, Usuário ou Usuários significa qualquer terceiro que acesse o Site e seus Aplicativos da Web e não seja (i) empregado por KIPR Blockchain Ltd. e agindo no curso de seu emprego ou (ii) contratado como consultor ou de outra forma fornecendo serviços para KIPR Blockchain Ltd. e acessando o Site e seus Aplicativos da Web em conexão com o fornecimento de tais serviços. Você deve ter pelo menos 18 anos de idade para usar este site e seus aplicativos da web. Ao usar o site e seus aplicativos da Web e concordar com estes termos e condições, você declara e garante que tem pelo menos 18 anos de idade. ","FRONT_END_TERMS_AND_CONDITIONS_PAGE_HEADER_2":"Propriedade intelectual e uso aceitável","FRONT_END_TERMS_AND_CONDITIONS_PAGE_TXT_2":"1. Todo o Conteúdo incluído no Site e seus Aplicativos da Web, a menos que carregado pelos Usuários, é propriedade de KIPR Blockchain Ltd., nossas afiliadas ou outros terceiros relevantes. Nestes termos e condições, Conteúdo significa qualquer texto, gráficos, imagens, áudio, vídeo, software, compilações de dados, layout de página, código e software subjacentes e qualquer outra forma de informação capaz de ser armazenada em um computador que apareça ou faça parte deste Site e seus Aplicativos da Web, incluindo qualquer conteúdo carregado pelos usuários. Ao continuar a usar o site e seus aplicativos da web, você reconhece que esse conteúdo é protegido por direitos autorais, marcas registradas, direitos de banco de dados e outros direitos de propriedade intelectual. Nada neste site deve ser interpretado como concessão, por implicação, preclusão, ou de outra forma, qualquer licença ou direito de usar qualquer marca registrada, logotipo ou marca de serviço exibida no site sem a permissão prévia por escrito do proprietário. Você pode, para seu próprio uso pessoal e não comercial, fazer o seguinte: a. recuperar, exibir e visualizar o Conteúdo em uma tela de computador b. baixar e armazenar o Conteúdo em formato eletrônico em um disco (mas não em qualquer servidor ou outro dispositivo de armazenamento conectado a uma rede) c. imprimir uma cópia do Conteúdo 3. Você não deve reproduzir, modificar, copiar, distribuir ou usar para fins comerciais qualquer Conteúdo sem a permissão por escrito de KIPR Blockchain Ltd . 4. Você reconhece que é responsável por qualquer Conteúdo que possa enviar por meio do Site e de seus Aplicativos da Web, incluindo a legalidade, confiabilidade, adequação, originalidade e direitos autorais de qualquer Conteúdo. Você não pode carregar, distribuir ou de outra forma publicar através do site e seus aplicativos da web qualquer conteúdo que (i) seja confidencial, proprietário, falso, fraudulento, calunioso, difamatório, obsceno, ameaçador, invasor de privacidade ou direitos de publicidade, infringindo direitos intelectuais direitos de propriedade, abusivos, ilegais ou censuráveis; (ii) pode constituir ou encorajar uma ofensa criminal, violar os direitos de qualquer parte ou de outra forma dar origem a responsabilidade ou violar qualquer lei; ou (iii) pode conter vírus de software, campanha política, correntes, e-mails em massa ou qualquer forma de 'spam'. Você não pode usar um endereço de e-mail falso ou outras informações de identificação, fazer-se passar por qualquer pessoa ou entidade ou induzir em erro a origem de qualquer conteúdo. Você não pode fazer upload de conteúdo comercial para o site e seus aplicativos da web. 5. Você representa e garante que possui ou de outra forma controla todos os direitos sobre o Conteúdo que postar; que o conteúdo é preciso; que o uso do Conteúdo que você fornece não viola qualquer disposição destes termos e condições e não causará danos a qualquer pessoa; e que você indenizará KIPR Blockchain Ltd. por todas as reivindicações resultantes do Conteúdo fornecido por você.","FRONT_END_TERMS_AND_CONDITIONS_PAGE_HEADER_3":"Uso proibido","FRONT_END_TERMS_AND_CONDITIONS_PAGE_TXT_3":"6. Você não pode usar o Site e seus Aplicativos da Web para nenhum dos seguintes fins: a. De qualquer forma que cause, ou possa causar, danos ao Site e seus Aplicativos da Web ou interfira com os de qualquer outra pessoa uso ou desfrute do site e seus aplicativos da web; b. de qualquer forma que seja prejudicial, ilegal, ilegal, abusiva, assediadora, ameaçadora ou de outra forma questionável ou em violação de qualquer lei aplicável, regulamento, ordem governamental; c. fazer, transmitir ou armazenar cópias eletrônicas de Conteúdo protegido por direitos autorais sem a permissão do proprietário. ","FRONT_END_TERMS_AND_CONDITIONS_PAGE_HEADER_4":"Registro","FRONT_END_TERMS_AND_CONDITIONS_PAGE_TXT_4":"7. Você deve garantir que os dados fornecidos por você no registro ou a qualquer momento estejam corretos e completos.8. Você deve nos informar imediatamente sobre quaisquer alterações nas informações fornecidas ao se registrar, atualizando seus dados pessoais para garantir que possamos nos comunicar com você de maneira eficaz.9. Podemos suspender ou cancelar seu registro com efeito imediato para quaisquer fins razoáveis ​​ou se você violar estes termos e condições. 10. Você pode cancelar seu registro a qualquer momento, informando-nos por escrito para o endereço no final destes termos e condições. Se você fizer isso, você deve parar imediatamente de usar o site e seus aplicativos da Web. O cancelamento ou suspensão do seu registro não afeta quaisquer direitos legais. ","FRONT_END_TERMS_AND_CONDITIONS_PAGE_HEADER_5":"Senha e segurança","FRONT_END_TERMS_AND_CONDITIONS_PAGE_TXT_5":"11. Ao se registrar neste site e em seus aplicativos da web, você será solicitado a criar uma senha, que deve ser mantida em sigilo e não deve ser divulgada ou compartilhada com ninguém. 12. Se tivermos motivos para acreditar nisso é ou pode haver qualquer uso indevido do site e seus aplicativos da Web ou violação de segurança, podemos exigir que você altere sua senha ou suspenda sua conta. ","FRONT_END_TERMS_AND_CONDITIONS_PAGE_HEADER_6":"Links para outro site e seus aplicativos da web","FRONT_END_TERMS_AND_CONDITIONS_PAGE_TXT_6":"13. Este site e seus aplicativos da Web podem conter links para outros sites. A menos que expressamente declarado, esses sites não estão sob o controle da KIPR Blockchain Ltd. ou de nossas afiliadas. 14. Não assumimos qualquer responsabilidade por o conteúdo de tal site e seus aplicativos da Web e se isenta de responsabilidade por toda e qualquer forma de perda ou dano decorrente do uso deles. 15. A inclusão de um link para outro site neste site e seus aplicativos da Web não implica qualquer endosso dos próprios sites ou daqueles que os controlam. ","FRONT_END_TERMS_AND_CONDITIONS_PAGE_HEADER_7":"Política de Privacidade","FRONT_END_TERMS_AND_CONDITIONS_PAGE_TXT_7":"16. O uso do Site e de seus Aplicativos da Web também é regido por nossa Política de Privacidade, que é incorporada a estes termos e condições por esta referência. Para ver a Política de Privacidade, clique em: https: / /www.immunie.net/privacy-policy. ","FRONT_END_TERMS_AND_CONDITIONS_PAGE_HEADER_8":"Disponibilidade do site e seus aplicativos da web e isenções de responsabilidade","FRONT_END_TERMS_AND_CONDITIONS_PAGE_TXT_8":"17. Quaisquer facilidades, ferramentas, serviços ou informações online que KIPR Blockchain Ltd. disponibiliza através do Site e seus Aplicativos da Web (o Serviço) são fornecidos 'como estão' e em uma base 'conforme disponível'. Não oferecemos garantia de que o Serviço estará livre de defeitos e / ou falhas. Na medida máxima permitida por lei, não oferecemos garantias (expressas ou implícitas) de adequação a um propósito específico, precisão de informações, compatibilidade e qualidade satisfatória . O KIPR Blockchain Ltd. não tem obrigação de atualizar as informações no site e seus aplicativos da Web. 18. Enquanto o KIPR Blockchain Ltd. faz esforços razoáveis ​​para garantir que o site e seus aplicativos da Web sejam seguros e livres de erros, vírus e outro malware, não oferecemos nenhuma garantia ou fiança a esse respeito e todos os usuários assumem a responsabilidade por sua própria segurança, de seus dados pessoais e de seus computadores 19. O Blockc hain Connect Ltd. não se responsabiliza por qualquer interrupção ou indisponibilidade do site e seus aplicativos da web. 20. A KIPR Blockchain Ltd. reserva-se o direito de alterar, suspender ou descontinuar qualquer parte (ou a totalidade) do Site e seus Aplicativos da Web, incluindo, mas não se limitando a, quaisquer produtos e / ou serviços disponíveis. Estes termos e condições continuarão a se aplicar a qualquer versão modificada do Site e seus Aplicativos da Web, a menos que seja expressamente declarado o contrário. ","FRONT_END_TERMS_AND_CONDITIONS_PAGE_HEADER_9":"Limitação de responsabilidade","FRONT_END_TERMS_AND_CONDITIONS_PAGE_TXT_9":"21. Nada nestes termos e condições irá: (a) limitar ou excluir nossa responsabilidade por morte ou danos pessoais resultantes de nossa negligência, conforme aplicável; (b) limitar ou excluir nossa ou sua responsabilidade por fraude ou deturpação fraudulenta; ou (c) limitar ou excluir qualquer uma de nossas responsabilidades de qualquer forma que não seja permitida pela lei aplicável. 22. Na medida em que o Site e seus Aplicativos da Web e Conteúdo sejam fornecidos gratuitamente, não seremos responsáveis ​​por você por qualquer perda ou dano de qualquer tipo. 23. Não seremos responsáveis ​​por você em relação a quaisquer perdas decorrentes de eventos além do nosso controle razoável. 24. Na extensão máxima permitida por lei, KIPR Blockchain Ltd. não se responsabiliza por qualquer um dos seguintes: a. Quaisquer perdas de negócios, como perda de lucros, receitas, receitas, economias previstas, negócios, contratos, boa vontade ou oportunidades comerciais; b. Perda ou corrupção de quaisquer dados, da tabase ou software; c. qualquer perda ou dano especial, indireto ou consequencial. ","FRONT_END_TERMS_AND_CONDITIONS_PAGE_HEADER_10":"Geral","FRONT_END_TERMS_AND_CONDITIONS_PAGE_TXT_10":"25. Você não pode transferir nenhum dos seus direitos sob estes termos e condições a qualquer outra pessoa. Podemos transferir nossos direitos sob estes termos e condições quando acreditarmos razoavelmente que seus direitos não serão afetados. 26. Estes termos e as condições podem ser alteradas por nós de tempos em tempos. Esses termos revisados ​​serão aplicados ao site e seus aplicativos da Web a partir da data de publicação. Os usuários devem verificar os termos e condições regularmente para garantir a familiaridade com a versão então atual. 27. Estes os termos e condições, juntamente com a Política de Privacidade e Política de Cookies, contêm todo o acordo entre as partes em relação ao assunto em questão e substituem todas as discussões, acordos ou acordos anteriores que possam ter ocorrido em relação aos termos e condições. 28. Os Contratos ( A Lei dos Direitos de Terceiros de 1999 não se aplica a estes termos e condições e nenhum terceiro terá o direito de fazer cumprir ou repor de acordo com qualquer disposição destes termos e condições. 29. Se qualquer tribunal ou autoridade competente considerar que qualquer disposição destes termos e condições (ou parte de qualquer disposição) é inválida, ilegal ou inexequível, essa disposição ou disposição parcial será, na medida necessária, considerada como excluída, e a validade e aplicabilidade das outras disposições destes termos e condições não serão afetadas. 30. Salvo acordo em contrário, nenhum atraso, ato ou omissão por uma das partes no exercício de qualquer direito ou recurso será considerado uma renúncia desse ou de qualquer outro direito ou recurso. 31. Este Acordo será regido e interpretado de acordo com a lei da Inglaterra e País de Gales e todas as disputas decorrentes do Acordo (incluindo disputas ou reivindicações não contratuais) estarão sujeitas à jurisdição exclusiva dos tribunais ingleses e galeses. 32. A KIPR Blockchain Ltd., com sede na dKipr Blockchain Kemp House 152-160 City Road, London, England, EC1V 2NXe 28, opera o site e seus aplicativos da Web https://immunie.net. O número de IVA registrado é 355 0222 32. Você pode entrar em contato com KIPR Blockchain Ltd. por e-mail em support@immunie.net. "},"common":{"SERVICES":"Serviços","SERVICES_GROUP_COMPANY":"Nossa empresa","SERVICES_SUBGROUP_ABOUT":"Sobre","SERVICES_SUBGROUP_MEDIA_ASSETS":"Mídias","SERVICES_SUBGROUP_CONTACT":"Contato","SERVICES_GROUP_CHECKPOINT":"Checkpoint","SERVICES_SUBGROUP_BLOCKCHAIN":"Autenticação Blockchain ","SERVICES_GROUP_TERMS_OF_USE":"Termos de Uso","SERVICES_SUBGROUP_PRIVACY_POLICY":"Política de Privacidade","SERVICES_SUBGROUP_TERMS_AND_CONDITIONS":"Termos e Condições","SERVICES_SUBGROUP_FAQ":"FAQs","PRODUCTS":"Produtos","PRODUCT_GROUP_SUBPAGES":"Produtos","PRODUCT_SUBGROUP_PEOPLE_PAGE":"Pessoas","PRODUCT_HEALTH_CARE_PAGE":"Setor de Saúde","PRODUCT_EXAM_LABS_PAGE":"Laboratórios de Exames","PRODUCT_TRAVEL_PAGE":"Companhias Aéreas","PRODUCT_SCHOOLS_PAGE":"Escolas","PRODUCT_MANAGERS_PAGE":"Governos e Grandes Eventos","CONTACT_FORM_TITLE":"Fale Conosco","CONTACT_FORM_SUBTITLE":"Seu contato é muito importante para nós. Todas as mensagens recebidas são lidas com atenção","CONTACT_FORM_FIELD_FULL_NAME":"Nome Completo","CONTACT_FORM_FIELD_MESSAGE":"Mensagem","CONTACT_FORM_REQUIRED_FIELDS":"Campos marcados com * são obrigatórios.","CONTACT_FORM_SEND_BTN_TEXT":"ENVIAR"}}},"initialLanguage":"pt","i18nServerInstance":null,"pageProps":{"namespacesRequired":["tocPage","common"]}},"page":"/terms-of-use/terms-and-conditions","query":{},"buildId":"nDZD4foxkD8xipOua1Ujd","runtimeConfig":{"localeSubpaths":{}},"nextExport":true,"isFallback":false,"gip":true,"appGip":true}</script><script nomodule="" src="../_next/static/chunks/polyfills-10a8cf8ec0fcff4a7700.js"></script><script src="../_next/static/chunks/main-005c099ebc6d73bffa35.js" async=""></script><script src="../_next/static/chunks/webpack-245f049e565ebf942e09.js" async=""></script><script src="../_next/static/chunks/framework.64c08973ae123710aa81.js" async=""></script><script src="../_next/static/chunks/commons.ddec478f82113778b077.js" async=""></script><script src="../_next/static/chunks/pages/_app-8f3a4cdfd6b03ceeb0b9.js" async=""></script><script src="../_next/static/chunks/a4c92b5b.014bebfe28d7f652e7fb.js" async=""></script><script src="../_next/static/chunks/11b04806d3909ce7987efbbeab9b411580946ab6.05063bfe093fef78d737.js" async=""></script><script src="../_next/static/chunks/b0787e176b509ab8a5b092dbcd4c2bdafe937fdc.42fe8430b9ca6fad0654.js" async=""></script><script src="../_next/static/chunks/f21c5035378776e5664e82d348c0227acd3df0b3.76b2b439016ecfd9a02a.js" async=""></script><script src="../_next/static/chunks/pages/terms-of-use/terms-and-conditions-bdd60d3e153f045cd681.js" async=""></script><script src="../_next/static/nDZD4foxkD8xipOua1Ujd/_buildManifest.js" async=""></script><script src="../_next/static/nDZD4foxkD8xipOua1Ujd/_ssgManifest.js" async=""></script></body>
+<!-- Mirrored from immunie.net/terms-of-use/terms-and-conditions by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Sep 2021 19:29:51 GMT -->
+</html>
